@@ -1,0 +1,242 @@
+{
+  "id": "why-face-qibla",
+  "subject": "fiqh",
+  "tracks": ["explore", "deepen"],
+  "level": 1,
+  "minutes": 4,
+  "title": {
+    "en": "Why we face the qibla",
+    "ar": "لماذا نستقبل القبلة"
+  },
+  "summary": {
+    "en": "The change of the qibla, what it tested, and what the Quran says the direction is really for.",
+    "ar": "قصة تحويل القبلة، وما كان فيها من اختبار، وما يبيّنه القرآن عن حقيقة التوجّه."
+  },
+  "cover": "/img/lessons/why-face-qibla.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The first qibla",
+        "ar": "القبلة الأولى"
+      },
+      "body": {
+        "en": "After moving to Madinah, the Prophet ﷺ and the Muslims prayed toward Jerusalem for about a year and four or five months (the narration says sixteen or seventeen). The Prophet ﷺ longed to face the Kaaba, and the command came to turn toward the Sacred Mosque in Makkah. The first prayer offered facing the Kaaba was the afternoon prayer, 'Asr.",
+        "ar": "بعد الهجرة إلى المدينة صلّى النبي ﷺ والمسلمون نحو بيت المقدس قرابة سنة وأربعة أشهر أو خمسة، وكان النبي ﷺ يحبّ أن يتوجّه إلى الكعبة، فنزل الأمر بالتوجّه إلى المسجد الحرام. وكانت أول صلاة صلّاها إلى الكعبة صلاة العصر."
+      },
+      "takeaway": {
+        "en": "Jerusalem first, then the Kaaba.",
+        "ar": "بيت المقدس أولًا، ثم الكعبة."
+      },
+      "visual": "compass",
+      "sources": [
+        "hadith:bukhari:40",
+        "quran:2:144"
+      ],
+      "audio": {
+        "en": "/audio/why-face-qibla/c1.en.mp3",
+        "ar": "/audio/why-face-qibla/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "A test of following",
+        "ar": "اختبار الاتّباع"
+      },
+      "takeaway": {
+        "en": "The change showed who would follow the Messenger ﷺ when something new was asked of them.",
+        "ar": "أظهر التحويل من يتّبع الرسول ﷺ حين يُطلب منه أمر جديد."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:2:143"
+      ],
+      "audio": {
+        "en": "/audio/why-face-qibla/c2.en.mp3",
+        "ar": "/audio/why-face-qibla/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "No prayer was lost",
+        "ar": "لم تضِع صلاة"
+      },
+      "body": {
+        "en": "The same verse reassures the believers that God would never let their faith go to waste. Scholars explain this as a reference to the prayers offered toward Jerusalem before the change: they were accepted. What made those prayers right was obedience to God's command at the time.",
+        "ar": "وفي الآية نفسها طمأنة للمؤمنين بأن الله لا يضيع إيمانهم، ويبيّن العلماء أن المقصود صلاتهم إلى بيت المقدس قبل التحويل، فقد كانت مقبولة. فالذي جعلها صحيحة هو طاعة أمر الله في وقتها."
+      },
+      "takeaway": {
+        "en": "The point was always obedience, not the place.",
+        "ar": "المقصود دائمًا الطاعة، لا المكان."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:143"
+      ],
+      "audio": {
+        "en": "/audio/why-face-qibla/c3.en.mp3",
+        "ar": "/audio/why-face-qibla/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "What righteousness really is",
+        "ar": "حقيقة البرّ"
+      },
+      "takeaway": {
+        "en": "Turning east or west is not righteousness in itself. Faith, generosity, prayer and keeping promises are.",
+        "ar": "ليس البرّ في التوجّه شرقًا أو غربًا، بل في الإيمان والإنفاق والصلاة والوفاء."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:2:177"
+      ],
+      "audio": {
+        "en": "/audio/why-face-qibla/c4.en.mp3",
+        "ar": "/audio/why-face-qibla/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "What the direction is for",
+        "ar": "حكمة التوجّه"
+      },
+      "body": {
+        "en": "Facing the qibla is an act of obedience, a sign of unity across the whole community, and a link to Abraham, who raised the House. The Quran also says that every community has a direction, and then tells believers to race to do good. The direction serves the goal: a life of goodness and worship.",
+        "ar": "استقبال القبلة طاعة لله، وعلامة على وحدة الأمة كلها، وصلة بإبراهيم عليه السلام الذي رفع قواعد البيت. ويذكر القرآن أن لكل أمة وجهة، ثم يأمر المؤمنين بالمسابقة إلى الخيرات. فالجهة وسيلة إلى غاية، هي حياة يملؤها الخير والعبادة."
+      },
+      "takeaway": {
+        "en": "One direction, so that hearts compete in goodness.",
+        "ar": "جهة واحدة، لتتسابق القلوب إلى الخير."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:148",
+        "quran:2:127"
+      ],
+      "audio": {
+        "en": "/audio/why-face-qibla/c5.en.mp3",
+        "ar": "/audio/why-face-qibla/c5.ar.mp3"
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "practice",
+      "title": {
+        "en": "Finding the qibla",
+        "ar": "تحديد القبلة"
+      },
+      "body": {
+        "en": "When you're in a new place, use a mosque, a trusted qibla app or a compass. If you truly can't tell, make your best sincere effort and pray. Scholars discuss in detail what to do if you later find you were mistaken, so ask a trusted teacher if it happens.",
+        "ar": "إذا كنت في مكان جديد فاستعن بمسجد قريب أو تطبيق موثوق أو بوصلة. وإن لم تستطع تحديدها فاجتهد بصدق وصلِّ. ويفصّل العلماء حكم من تبيّن له الخطأ بعد ذلك، فاسأل معلّمًا موثوقًا إن حدث لك."
+      },
+      "takeaway": {
+        "en": "Make a sincere effort; God knows what is in your heart.",
+        "ar": "اجتهد بصدق، والله يعلم ما في قلبك."
+      },
+      "visual": "compass",
+      "label": "suggestion",
+      "sources": [
+        "quran:2:115"
+      ],
+      "audio": {
+        "en": "/audio/why-face-qibla/c6.en.mp3",
+        "ar": "/audio/why-face-qibla/c6.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "Explain why the qibla changed, and what facing it means.",
+      "ar": "اشرح لماذا تحوّلت القبلة، وما معنى استقبالها."
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Muslims first prayed toward Jerusalem, then were commanded to face the Kaaba",
+        "ar": "صلّى المسلمون أولًا نحو بيت المقدس، ثم أُمروا بالتوجّه إلى الكعبة",
+        "source": "hadith:bukhari:40"
+      },
+      {
+        "id": "k2",
+        "en": "The change was a test of following the Messenger ﷺ",
+        "ar": "كان التحويل اختبارًا لاتّباع الرسول ﷺ",
+        "source": "quran:2:143"
+      },
+      {
+        "id": "k3",
+        "en": "Righteousness is faith and good deeds, not the direction itself",
+        "ar": "البرّ هو الإيمان والعمل الصالح، لا الجهة ذاتها",
+        "source": "quran:2:177"
+      },
+      {
+        "id": "k4",
+        "en": "The single direction unites believers and links them to Abraham",
+        "ar": "الجهة الواحدة توحّد المؤمنين وتصلهم بإبراهيم عليه السلام",
+        "source": "quran:2:127"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which direction did the Muslims face before the Kaaba?",
+        "ar": "إلى أي جهة كان المسلمون يصلّون قبل الكعبة؟"
+      },
+      "options": [
+        {
+          "en": "Jerusalem",
+          "ar": "بيت المقدس"
+        },
+        {
+          "en": "Madinah",
+          "ar": "المدينة"
+        },
+        {
+          "en": "No fixed direction",
+          "ar": "لا جهة محددة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "They prayed toward Jerusalem for sixteen or seventeen months after the Hijrah.",
+        "ar": "صلّوا نحو بيت المقدس ستة عشر أو سبعة عشر شهرًا بعد الهجرة."
+      },
+      "source": "hadith:bukhari:40"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "According to 2:177, righteousness is…",
+        "ar": "بحسب الآية 177 من البقرة، البرّ هو…"
+      },
+      "options": [
+        {
+          "en": "Facing east or west",
+          "ar": "التوجّه شرقًا أو غربًا"
+        },
+        {
+          "en": "Faith and good deeds",
+          "ar": "الإيمان والعمل الصالح"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse says righteousness is not turning your face east or west, but believing and acting rightly.",
+        "ar": "تبيّن الآية أن البرّ ليس في تولية الوجوه قبل المشرق والمغرب، بل في الإيمان والعمل الصالح."
+      },
+      "source": "quran:2:177"
+    }
+  ]
+}

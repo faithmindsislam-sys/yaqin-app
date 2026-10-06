@@ -1,0 +1,67 @@
+[
+  {
+    "id": "hadith:bukhari:1",
+    "kind": "hadith",
+    "ref_en": "Sahih al-Bukhari 1",
+    "ref_ar": "صحيح البخاري: 1",
+    "text_ar": "حَدَّثَنَا الْحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ ، قَالَ : حَدَّثَنَا سُفْيَانُ ، قَالَ : حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْأَنْصَارِيُّ ، قَالَ : أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَقَّاصٍ اللَّيْثِيَّ ، يَقُولُ : سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ عَلَى الْمِنْبَرِ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ : \" إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ",
+    "text_en": "Narrated 'Umar bin Al-Khattab: I heard Allah's Messenger (ﷺ) saying, \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for",
+    "translation": "fawazahmed0/hadith-api eng-bukhari",
+    "origin": "fawazahmed0/hadith-api ara-bukhari #1 (book 1, hadith 1)",
+    "url": "https://sunnah.com/bukhari:1",
+    "grading": "Sahih (al-Bukhari)",
+    "review_status": "approved"
+  },
+  {
+    "id": "hadith:muslim:65",
+    "kind": "hadith",
+    "ref_en": "Sahih Muslim 65",
+    "ref_ar": "صحيح مسلم: 65",
+    "text_ar": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ جَمِيعًا عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، عَنْ شُعْبَةَ، ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، سَمِعَ أَبَا زُرْعَةَ، يُحَدِّثُ عَنْ جَدِّهِ، جَرِيرٍ قَالَ قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ ‏\"‏ اسْتَنْصِتِ النَّاسَ ‏\"‏ ‏.‏ ثُمَّ قَالَ ‏\"‏ لاَ تَرْجِعُوا بَعْدِي كُفَّارًا يَضْرِبُ بَعْضُكُمْ رِقَابَ بَعْضٍ ‏\"‏ ‏.‏",
+    "text_en": "It is narrated on the authority of Jarir b. 'Abdullah that the Messenger of Allah (may peace and blessings be upon him) asked him on the occasion of the Farewell Pilgrimage to make the people silent and then said:Do not return to unbelief after me by striking the necks of one another",
+    "translation": "fawazahmed0/hadith-api eng-muslim",
+    "origin": "fawazahmed0/hadith-api ara-muslim #223 (book 1, hadith 129)",
+    "url": "https://sunnah.com/muslim:65",
+    "grading": "Sahih (Muslim)",
+    "review_status": "approved"
+  },
+  {
+    "id": "hadith:muslim:223",
+    "kind": "hadith",
+    "ref_en": "Sahih Muslim 223",
+    "ref_ar": "صحيح مسلم: 223",
+    "text_ar": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا حَبَّانُ بْنُ هِلاَلٍ، حَدَّثَنَا أَبَانٌ، حَدَّثَنَا يَحْيَى، أَنَّ زَيْدًا، حَدَّثَهُ أَنَّ أَبَا سَلاَّمٍ حَدَّثَهُ عَنْ أَبِي مَالِكٍ الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ الطُّهُورُ شَطْرُ الإِيمَانِ وَالْحَمْدُ لِلَّهِ تَمْلأُ الْمِيزَانَ ‏.‏ وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ تَمْلآنِ - أَوْ تَمْلأُ - مَا بَيْنَ السَّمَوَاتِ وَالأَرْضِ وَالصَّلاَةُ نُورٌ وَالصَّدَقَةُ بُرْهَانٌ وَالصَّبْرُ ضِيَاءٌ وَالْقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ كُلُّ النَّاسِ يَغْدُو فَبَائِعٌ نَفْسَهُ فَمُعْتِقُهَا أَوْ مُوبِقُهَا ‏\"‏ ‏.‏",
+    "text_en": "Abu Malik at-Ash'ari reported:The Messenger of Allah (ﷺ) said: Cleanliness is half of faith and al-Hamdu Lillah (all praise and gratitude is for Allah alone) fills the scale, and Subhan Allah (Glory be to Allah) and al-Hamdu Lillah fill up what is between the heavens and the earth, and prayer is a light, and charity is proof (of one's faith) and endurance is a brightness and the Holy Qur'an is a proof on your behalf or against you. All men go out early in the morning and sell themselves, thereby setting themselves free or destroying themselves",
+    "translation": "fawazahmed0/hadith-api eng-muslim",
+    "origin": "fawazahmed0/hadith-api ara-muslim #534 (book 2, hadith 1)",
+    "url": "https://sunnah.com/muslim:223",
+    "grading": "Sahih (Muslim)",
+    "review_status": "approved"
+  },
+  {
+    "id": "hadith:nawawi:1",
+    "kind": "hadith",
+    "ref_en": "An-Nawawi's Forty Hadith 1",
+    "ref_ar": "الأربعون النووية: 1",
+    "text_ar": "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللهُ عَنْهُ قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ: \" إنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إلَى اللَّهِ وَرَسُولِهِ، وَمَنْ كَانَتْ هِجْرَتُهُ لِدُنْيَا يُصِيبُهَا أَوْ امْرَأَةٍ يَنْكِحُهَا فَهِجْرَتُهُ إلَى مَا هَاجَرَ إلَيْهِ\". رَوَاهُ إِمَامَا الْمُحَدِّثِينَ أَبُو عَبْدِ اللهِ مُحَمَّدُ بنُ إِسْمَاعِيل بن إِبْرَاهِيم بن الْمُغِيرَة بن بَرْدِزبَه الْبُخَارِيُّ الْجُعْفِيُّ [رقم:1]، وَأَبُو الْحُسَيْنِ مُسْلِمٌ بنُ الْحَجَّاج بن مُسْلِم الْقُشَيْرِيُّ النَّيْسَابُورِيُّ [رقم:1907] رَضِيَ اللهُ عَنْهُمَا فِي \"صَحِيحَيْهِمَا\" اللذَينِ هُمَا أَصَحُّ الْكُتُبِ الْمُصَنَّفَةِ",
+    "text_en": "It is narrated on the authority of Amirul Mu'minin, Abu Hafs 'Umar bin al-Khattab (ra) who said: I heard the Messenger of Allah (ﷺ) say: \"Actions are (judged) by motives (niyyah), so each man will have what he intended. Thus, he whose migration (hijrah) was to Allah and His Messenger, his migration is to Allah and His Messenger; but he whose migration was for some worldly thing he might gain, or for a wife he might marry, his migration is to that for which he migrated.\" [Bukhari & Muslim]",
+    "translation": "fawazahmed0/hadith-api eng-nawawi",
+    "origin": "fawazahmed0/hadith-api ara-nawawi #1 (book 1, hadith 1)",
+    "url": "https://sunnah.com/nawawi:1",
+    "grading": "UNGRADED — verify before use",
+    "review_status": "approved"
+  },
+  {
+    "id": "hadith:tirmidhi:2516",
+    "kind": "hadith",
+    "ref_en": "Jami' at-Tirmidhi 2516",
+    "ref_ar": "جامع الترمذي: 2516",
+    "text_ar": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ مُوسَى، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا لَيْثُ بْنُ سَعْدٍ، وَابْنُ، لَهِيعَةَ عَنْ قَيْسِ بْنِ الْحَجَّاجِ، قَالَ وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ، حَدَّثَنِي قَيْسُ بْنُ الْحَجَّاجِ الْمَعْنَى، وَاحِدٌ، عَنْ حَنَشٍ الصَّنْعَانِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كُنْتُ خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمًا فَقَالَ ‏ \"‏ يَا غُلاَمُ إِنِّي أُعَلِّمُكَ كَلِمَاتٍ احْفَظِ اللَّهَ يَحْفَظْكَ احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ إِذَا سَأَلْتَ فَاسْأَلِ اللَّهَ وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ وَاعْلَمْ أَنَّ الأُمَّةَ لَوِ اجْتَمَعَتْ عَلَى أَنْ يَنْفَعُوكَ بِشَيْءٍ لَمْ يَنْفَعُوكَ إِلاَّ بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ وَلَوِ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ بِشَيْءٍ لَمْ يَضُرُّوكَ إِلاَّ بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ عَلَيْكَ رُفِعَتِ الأَقْلاَمُ وَجَفَّتِ الصُّحُفُ ‏\"‏ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏",
+    "text_en": "Ibn 'Abbas narrated:\"I was behind the Prophet(s.a.w) one day when he said: 'O boy! I will teach you a statement: Be mindful of Allah and He will protect you. Be mindful of Allah and you will find Him before you. When you ask, ask Allah, and when you seek aid, seek Allah's aid. Know that if the entire creation were to gather together to do something to benefit you- you would never get any benefit except that Allah had written for you. And if they were to gather to do something to harm you- you would never be harmed except that Allah had written for you. The pens are lifted and the pages are dried",
+    "translation": "fawazahmed0/hadith-api eng-tirmidhi",
+    "origin": "fawazahmed0/hadith-api ara-tirmidhi #2516 (book 37, hadith 102)",
+    "url": "https://sunnah.com/tirmidhi:2516",
+    "grading": "Hasan Sahih (Bashar Awad Maarouf); Isnaad Hasan (Zubair Ali Zai); Sahih (Ahmad Muhammad Shakir); Sahih (Al-Albani)",
+    "review_status": "approved"
+  }
+]

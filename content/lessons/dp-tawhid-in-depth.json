@@ -1,0 +1,219 @@
+{
+  "id": "dp-tawhid-in-depth",
+  "subject": "aqidah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "Tawhid in depth",
+    "ar": "التوحيد بأقسامه"
+  },
+  "summary": {
+    "en": "The three aspects of Tawhid scholars draw from revelation, and why these categories are a way of teaching, not three gods.",
+    "ar": "الجوانب الثلاثة للتوحيد التي استخرجها العلماء من الوحي، ولماذا هذه الأقسام طريقة في التعليم لا ثلاثة آلهة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "One reality, three angles",
+        "ar": "حقيقة واحدة بثلاثة جوانب"
+      },
+      "body": {
+        "en": "Tawhid, mindful oneness of Allah, is the heart of Islam. To teach it clearly, scholars of the early generations noticed that revelation speaks of Allah's oneness in three connected ways: that He alone creates and governs, that He alone is worshipped, and that His names and attributes belong to Him alone. These are not three separate beliefs or three gods. They are three angles on one truth, drawn by careful study of the Quran and Sunnah, and each one leads into the others.",
+        "ar": "التوحيد هو إفراد الله بما يستحقه، وهو لبّ الإسلام. ولتوضيحه نظر علماء السلف فوجدوا أن الوحي يتحدث عن توحيد الله في ثلاثة جوانب متصلة: أنه وحده الخالق المدبّر، وأنه وحده المعبود، وأن أسماءه وصفاته مختصة به. وليست هذه ثلاثة اعتقادات منفصلة ولا ثلاثة آلهة، بل هي ثلاثة جوانب لحقيقة واحدة، استُخرجت باستقراء القرآن والسنة، ويفضي كل جانب منها إلى الآخر."
+      },
+      "takeaway": {
+        "en": "The three categories describe one oneness from three angles.",
+        "ar": "الأقسام الثلاثة تصف توحيدًا واحدًا من ثلاث زوايا."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:10483", "ref:icadb:26020"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Oneness of lordship",
+        "ar": "توحيد الربوبية"
+      },
+      "body": {
+        "en": "The first angle is Tawhid of lordship, rububiyyah: the firm belief that Allah alone is the Creator, Owner and Manager of all that exists. He alone gives life and death, brings benefit and harm, and answers the one in distress. Most people throughout history have accepted that a Creator exists. But accepting a Creator is only the beginning, because this truth is meant to lead the heart to worship that Creator alone.",
+        "ar": "الجانب الأول توحيد الربوبية: الاعتقاد الجازم بأن الله وحده خالق كل شيء ومالكه ومدبّره. فهو وحده المحيي المميت، النافع الضار، المجيب للمضطر. وقد أقرّ أكثر الناس عبر التاريخ بوجود خالق، لكن الإقرار بالخالق بداية فحسب، لأن هذه الحقيقة إنما سيقت لتقود القلب إلى عبادة ذلك الخالق وحده."
+      },
+      "takeaway": {
+        "en": "Allah alone creates, owns and governs everything.",
+        "ar": "الله وحده الخالق المالك المدبّر لكل شيء."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:10485"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Oneness of worship",
+        "ar": "توحيد الألوهية"
+      },
+      "body": {
+        "en": "The second angle is Tawhid of worship, uluhiyyah: directing every act of worship to Allah alone, in word, deed and belief, and giving none of it to anyone else. Supplication, sacrifice, vows, hope and fear are all His right alone. The Quran teaches that this was the single message of every prophet: worship Allah and turn away from false objects of worship. This is the core of the religion and the reason the messengers were sent.",
+        "ar": "الجانب الثاني توحيد الألوهية: إفراد الله وحده بكل أنواع العبادة قولًا وعملًا واعتقادًا، فلا يُصرف منها شيء لغيره. فالدعاء والذبح والنذر والرجاء والخوف حقٌّ له وحده. ويعلّمنا القرآن أن هذه كانت رسالة كل نبي: أن يُعبد الله ويُجتنب ما يُعبد من دونه. وهذا أصل الدين والغاية التي من أجلها أُرسل الرسل."
+      },
+      "takeaway": {
+        "en": "Every act of worship belongs to Allah alone.",
+        "ar": "كل عبادة إنما تكون لله وحده."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:10483", "quran:21:25", "quran:16:36"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "The message of every prophet",
+        "ar": "رسالة كل نبي"
+      },
+      "takeaway": {
+        "en": "Allah sent a messenger to every nation calling to worship Him alone.",
+        "ar": "بعث الله لكل أمة من يدعوها إلى عبادته وحده."
+      },
+      "visual": "book",
+      "sources": ["quran:16:36"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "His names and attributes",
+        "ar": "أسماؤه وصفاته"
+      },
+      "body": {
+        "en": "The third angle is the oneness of Allah's names and attributes: we affirm for Allah what He affirmed for Himself in the Quran and what the Prophet ﷺ affirmed for Him, without distortion, denial or likening Him to creation. However great our words, nothing in creation resembles Him, and He hears and sees all. We describe Him only as He described Himself, keeping the meaning while never imagining a form.",
+        "ar": "الجانب الثالث توحيد الأسماء والصفات: نثبت لله ما أثبته لنفسه في القرآن وما أثبته له النبي ﷺ، من غير تحريف ولا تعطيل ولا تشبيه له بخلقه. ومهما بلغت عباراتنا فليس في الخلق ما يشبهه، وهو السميع البصير. فنصفه كما وصف نفسه، نُبقي المعنى ولا نتخيل كيفية."
+      },
+      "takeaway": {
+        "en": "Affirm His names as revealed; nothing is like Him.",
+        "ar": "نثبت أسماءه كما وردت، وليس كمثله شيء."
+      },
+      "visual": "none",
+      "sources": ["quran:42:11"]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "A short surah that sums it up",
+        "ar": "سورة قصيرة تجمعه"
+      },
+      "takeaway": {
+        "en": "Surah Al-Ikhlas opens by declaring that Allah is One.",
+        "ar": "تفتتح سورة الإخلاص بإعلان أن الله أحد."
+      },
+      "visual": "book",
+      "sources": ["quran:112:1"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "His right over us",
+        "ar": "حقه علينا"
+      },
+      "body": {
+        "en": "When the Prophet ﷺ was asked about Allah's right over His servants, he taught that it is for them to worship Him and associate nothing with Him. This ties the three angles together: knowing Allah as the one Creator with perfect names and attributes should move us to give our worship to Him alone. In every prayer we say that it is Him alone we worship and Him alone we ask for help.",
+        "ar": "لما سُئل النبي ﷺ عمّا لله من حقٍّ على خلقه بيّن أنه إفراده بالعبادة وترك الإشراك به. وبهذا تجتمع الجوانب الثلاثة: فمعرفة الله خالقًا واحدًا له الأسماء والصفات الكاملة تدفعنا إلى إفراده بالعبادة. وفي كل صلاة نقول إننا إياه وحده نعبد وإياه وحده نستعين."
+      },
+      "takeaway": {
+        "en": "Knowing Allah truly leads to worshipping Him alone.",
+        "ar": "معرفة الله حقًّا تقود إلى عبادته وحده."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65007", "quran:1:5"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "The three categories of Tawhid are best described as…",
+        "ar": "أقسام التوحيد الثلاثة تُوصف بأنها…"
+      },
+      "options": [
+        {
+          "en": "Three gods a Muslim believes in",
+          "ar": "ثلاثة آلهة يؤمن بها المسلم"
+        },
+        {
+          "en": "Three angles on one oneness, drawn from revelation",
+          "ar": "ثلاث زوايا لتوحيد واحد، استُخرجت من الوحي"
+        },
+        {
+          "en": "Three optional opinions",
+          "ar": "ثلاثة آراء اختيارية"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Scholars derived the categories by studying the Quran and Sunnah; they describe one oneness, not three gods.",
+        "ar": "استخرج العلماء الأقسام باستقراء القرآن والسنة، وهي تصف توحيدًا واحدًا لا ثلاثة آلهة."
+      },
+      "source": "ref:terminologyenc:10483"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What was the shared message of every prophet?",
+        "ar": "ما الرسالة المشتركة لكل نبي؟"
+      },
+      "options": [
+        {
+          "en": "To worship Allah alone and shun false objects of worship",
+          "ar": "عبادة الله وحده واجتناب ما يُعبد من دونه"
+        },
+        {
+          "en": "To collect wealth",
+          "ar": "جمع المال"
+        },
+        {
+          "en": "To build great monuments",
+          "ar": "بناء الصروح العظيمة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran states that Allah raised in every nation a messenger calling to worship Him and avoid the taghut.",
+        "ar": "يذكر القرآن أن الله بعث في كل أمة رسولًا يدعو إلى عبادته واجتناب الطاغوت."
+      },
+      "source": "quran:16:36"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How do we deal with Allah's names and attributes?",
+        "ar": "كيف نتعامل مع أسماء الله وصفاته؟"
+      },
+      "options": [
+        {
+          "en": "Imagine a form for them",
+          "ar": "نتخيل لها كيفية"
+        },
+        {
+          "en": "Deny them entirely",
+          "ar": "ننفيها بالكلية"
+        },
+        {
+          "en": "Affirm what He affirmed, knowing nothing is like Him",
+          "ar": "نثبت ما أثبته، مع العلم أنه ليس كمثله شيء"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "We affirm what Allah affirmed for Himself while holding that there is nothing like unto Him.",
+        "ar": "نثبت ما أثبته الله لنفسه مع اعتقاد أنه ليس كمثله شيء."
+      },
+      "source": "quran:42:11"
+    }
+  ]
+}

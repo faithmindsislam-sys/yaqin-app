@@ -1,0 +1,241 @@
+{
+  "id": "dp-why-scholars-differ",
+  "subject": "fiqh",
+  "level": 3,
+  "tracks": ["deepen"],
+  "minutes": 7,
+  "title": {
+    "en": "Why scholars differ",
+    "ar": "لماذا يختلف العلماء؟ المذاهب بأدب"
+  },
+  "summary": {
+    "en": "How honest scholarly difference arises in practical matters, and how to meet it with respect.",
+    "ar": "كيف ينشأ الاختلاف العلمي الصادق في المسائل العملية، وكيف نلقاه بأدب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Where to turn in dispute",
+        "ar": "إلى أين نرجع عند النزاع"
+      },
+      "body": {
+        "en": "Islam does not ask Muslims to pretend they never disagree; it tells them where to turn when they do. Allah commands the believers to obey Him and His Messenger, and when they differ over something, to refer the matter back to Allah and the Messenger, that is, to the Quran and the Sunnah. So difference is expected, but it is resolved by returning to the sources, not by following personal preference. This verse is the frame for everything that follows.",
+        "ar": "لا يطلب الإسلام من المسلمين أن يتظاهروا بأنهم لا يختلفون، بل يدلّهم أين يرجعون إذا اختلفوا. فقد أمر الله المؤمنين بطاعته وطاعة رسوله، وإذا تنازعوا في شيء ردّوه إلى الله والرسول، أي إلى القرآن والسنّة. فالاختلاف متوقَّع، لكنه يُحسم بالرجوع إلى المصادر لا باتّباع الهوى. وهذه الآية إطارٌ لكل ما يأتي."
+      },
+      "takeaway": {
+        "en": "When Muslims differ, they refer the matter back to the Quran and Sunnah.",
+        "ar": "إذا اختلف المسلمون ردّوا الأمر إلى القرآن والسنّة."
+      },
+      "visual": "none",
+      "sources": ["quran:4:59"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Ijtihad and the mujtahid",
+        "ar": "الاجتهاد والمجتهد"
+      },
+      "body": {
+        "en": "In secondary, practical questions, a qualified scholar exerts his full effort to derive a ruling from the evidence; this effort is called ijtihad, and the scholar who does it is a mujtahid. It has strict conditions, including deep knowledge of the Quran, the Sunnah, the Arabic language and the principles of jurisprudence. There is no ijtihad in what is firmly settled, such as prayer being obligatory and five in number. Ijtihad applies only where the texts leave room.",
+        "ar": "في المسائل الفرعية العملية يبذل العالم المؤهَّل وُسعه ليستنبط الحكم من الأدلّة، ويسمّى هذا البذل اجتهادًا، والعالم القائم به مجتهدًا. وله شروط دقيقة، منها المعرفة العميقة بالقرآن والسنّة واللغة العربية وأصول الفقه. ولا اجتهاد فيما عُلم من الدين بالضرورة، كوجوب الصلاة وكونها خمسًا. فالاجتهاد إنما يكون حيث تترك النصوص مجالًا."
+      },
+      "takeaway": {
+        "en": "Ijtihad is a qualified scholar's reasoning, only where the texts leave room.",
+        "ar": "الاجتهاد اجتهاد عالمٍ مؤهَّل، ولا يكون إلا حيث تترك النصوص مجالًا."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:75221", "ref:terminologyenc:10455"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A judge's two rewards",
+        "ar": "أجرا الحاكم المجتهد"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that when a qualified judge makes a ruling after sincere effort and reaches the right answer, he has two rewards; and if he strives and gets it wrong, he still has one reward. This is remarkable: honest effort toward the truth is honoured even when it misses. It tells us that difference born of sincere striving is not sin or failure, but part of how the religion was meant to be understood and applied.",
+        "ar": "علّم النبي ﷺ أن القاضي المؤهَّل إذا حكم بعد اجتهاد صادق فأصاب فله أجران، وإذا اجتهد فأخطأ فله أجر واحد. وهذا لافت: فالسعي الصادق إلى الحق مأجور حتى حين يُخطئه. ويخبرنا أن الاختلاف الناشئ عن اجتهاد صادق ليس إثمًا ولا إخفاقًا، بل هو جزء من الطريقة التي أُريد أن يُفهم بها الدين ويُطبَّق."
+      },
+      "takeaway": {
+        "en": "Sincere scholarly effort is rewarded even when it reaches the wrong answer.",
+        "ar": "الاجتهاد الصادق مأجور حتى حين لا يصيب."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:7352"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Two prophets, one case",
+        "ar": "نبيّان وقضيّة واحدة"
+      },
+      "takeaway": {
+        "en": "Dawud and Sulayman judged one case, and Allah praised both.",
+        "ar": "حكم داود وسليمان في قضيّة واحدة، وأثنى الله عليهما."
+      },
+      "visual": "book",
+      "sources": ["quran:21:78"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Both given wisdom",
+        "ar": "كلٌّ أوتي حكمًا"
+      },
+      "body": {
+        "en": "The Quran recalls Dawud and Sulayman judging the same case of crops damaged by straying sheep. Allah gave Sulayman the deeper understanding of the matter, yet declared that He had granted both of them sound judgement and knowledge. Neither prophet is blamed. This gentle example shows that two people of knowledge can look at one question and arrive differently, while both remain within the circle of guidance and reward.",
+        "ar": "يذكّرنا القرآن بداود وسليمان وهما يحكمان في القضيّة نفسها: زرعٌ أفسدته غنمٌ سائبة. فأفهم الله سليمان وجه المسألة بدقّة، ومع ذلك أخبر أنه آتى كليهما حكمًا وعلمًا. فلم يُلَم واحدٌ منهما. وهذا المثال اللطيف يبيّن أن صاحبَي علمٍ قد ينظران في مسألة واحدة فيصلان إلى غير قولٍ واحد، وكلاهما في دائرة الهدى والأجر."
+      },
+      "takeaway": {
+        "en": "Two people of knowledge can differ and both remain guided.",
+        "ar": "قد يختلف صاحبا علمٍ وكلاهما على هدى."
+      },
+      "visual": "none",
+      "sources": ["quran:21:79"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Why they differ",
+        "ar": "أسباب الاختلاف"
+      },
+      "body": {
+        "en": "Scholars explain that acceptable difference in practical matters has real causes. A hadith may have reached one scholar and not another, or one may have forgotten it. A word in a text can carry more than one sound meaning. Scholars may weigh competing pieces of evidence differently. The learned define disagreement, ikhtilaf, as each side taking a different path in word, deed or view; where it rests on sincere reasoning in secondary matters, it is a recognised and acceptable kind.",
+        "ar": "يبيّن العلماء أن للاختلاف المقبول في المسائل العملية أسبابًا حقيقية. فقد يبلغ الحديثُ عالمًا دون آخر، أو ينساه أحدهم. وقد تحتمل الكلمة في النصّ أكثر من معنى صحيح. وقد يختلف ترجيح العلماء بين الأدلّة المتعارضة. ويعرّف أهل العلم الاختلاف بأنه سلوك كل طرفٍ طريقًا يغاير الآخر في قولٍ أو فعلٍ أو رأي؛ فإذا قام على اجتهاد صادق في الفروع كان نوعًا معتبَرًا مقبولًا."
+      },
+      "takeaway": {
+        "en": "Difference arises from evidence reaching scholars unevenly, wording, and weighing proofs.",
+        "ar": "ينشأ الاختلاف من تفاوت بلوغ الأدلّة، ومن اللفظ، ومن ترجيح البراهين."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:11096"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Consensus and difference",
+        "ar": "الإجماع والاختلاف"
+      },
+      "body": {
+        "en": "Not everything is open. When the qualified scholars of an age agree on a ruling, that agreement is called ijma', consensus, and it settles the matter. Difference, ikhtilaf, lives in the space consensus has not closed, mostly in secondary practical questions. A guide for non-Muslims notes that Muslims following one Book can still hold schools of law because minds and understanding vary and evidence can be hidden from some. So schools reflect honest study, not rival religions.",
+        "ar": "ليس كل شيء محلّ أخذ وردّ. فإذا اتّفق مجتهدو عصرٍ على حكم سُمّي اتفاقهم إجماعًا، وبه تُحسم المسألة. أمّا الاختلاف فيعيش في المساحة التي لم يُغلقها الإجماع، وغالبها في الفروع العملية. ويذكر دليلٌ لغير المسلمين أن أتباع كتابٍ واحد قد تكون لهم مذاهب فقهية، لأن الفهوم تتفاوت وقد يخفى الدليل على بعضهم. فالمذاهب ثمرة دراسة صادقة لا أديانٌ متنافسة."
+      },
+      "takeaway": {
+        "en": "Consensus settles a matter; schools of law reflect honest study where it is open.",
+        "ar": "الإجماع يحسم المسألة، والمذاهب ثمرة دراسة صادقة فيما بقي مفتوحًا."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:570", "ref:icadb:36083"]
+    },
+    {
+      "id": "c8",
+      "kind": "concept",
+      "title": {
+        "en": "The manners of difference",
+        "ar": "أدب الاختلاف"
+      },
+      "body": {
+        "en": "Because this is scholarly ground, the course describes that difference exists without ruling that one school is right and another wrong. The adab, the manners, matter: respect scholars you disagree with, avoid fanaticism for one view, and never turn a question of fiqh into hostility. An ordinary Muslim is not asked to judge between the schools. Allah tells those who do not know to ask the people of knowledge, so bring your practical questions to a trusted, qualified scholar.",
+        "ar": "لمّا كان هذا موضعَ علمٍ، يكتفي هذا الدرس ببيان أن الاختلاف واقعٌ دون أن يحكم بأن مذهبًا صوابٌ وآخر خطأ. والأدب هنا مهمّ: احترم العالِم الذي تخالفه، وتجنّب التعصّب لقولٍ واحد، ولا تحوّل مسألة فقهية إلى عداوة. وليس على المسلم العاديّ أن يحكم بين المذاهب. وقد أمر الله من لا يعلم أن يسأل أهل العلم، فاعرض مسائلك العملية على عالمٍ موثوقٍ مؤهَّل."
+      },
+      "takeaway": {
+        "en": "Respect difference, avoid fanaticism, and ask a qualified scholar.",
+        "ar": "احترم الخلاف، وتجنّب التعصّب، واسأل عالمًا مؤهَّلًا."
+      },
+      "visual": "none",
+      "sources": ["quran:16:43", "quran:9:122"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "According to the Prophet ﷺ, a qualified judge who strives and reaches the wrong ruling…",
+        "ar": "عند النبي ﷺ، القاضي المؤهَّل الذي يجتهد فيُخطئ…"
+      },
+      "options": [
+        {
+          "en": "Has sinned and must repent",
+          "ar": "قد أثم ويلزمه التوبة"
+        },
+        {
+          "en": "Still receives one reward for his effort",
+          "ar": "له أجر واحد على اجتهاده"
+        },
+        {
+          "en": "Is barred from judging again",
+          "ar": "يُمنع من الحكم بعدها"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ said a judge who strives and errs still has one reward, and two if he is right.",
+        "ar": "قال النبي ﷺ إن المجتهد إذا أخطأ فله أجر، وإن أصاب فله أجران."
+      },
+      "source": "hadith:bukhari:7352"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What does the Quran tell those who do not know to do?",
+        "ar": "بماذا يأمر القرآن من لا يعلم؟"
+      },
+      "options": [
+        {
+          "en": "To ask the people of knowledge",
+          "ar": "أن يسأل أهل العلم"
+        },
+        {
+          "en": "To decide for themselves",
+          "ar": "أن يقرّر بنفسه"
+        },
+        {
+          "en": "To stay silent forever",
+          "ar": "أن يسكت دائمًا"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Allah instructs those who do not know to ask the people of knowledge.",
+        "ar": "يأمر الله من لا يعلم أن يسأل أهل الذكر."
+      },
+      "source": "quran:16:43"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "When qualified scholars of an age all agree on a ruling, this is called…",
+        "ar": "إذا اتّفق مجتهدو عصرٍ على حكم، سُمّي ذلك…"
+      },
+      "options": [
+        {
+          "en": "Ikhtilaf (difference)",
+          "ar": "اختلافًا"
+        },
+        {
+          "en": "Hawa (following desire)",
+          "ar": "هوًى"
+        },
+        {
+          "en": "Ijma' (consensus)",
+          "ar": "إجماعًا"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The agreement of the qualified scholars of an age on a ruling is called ijma', consensus.",
+        "ar": "اتّفاق مجتهدي العصر على حكم يسمّى إجماعًا."
+      },
+      "source": "ref:terminologyenc:570"
+    }
+  ]
+}

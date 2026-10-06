@@ -1,0 +1,223 @@
+{
+  "id": "dp-rights-of-others",
+  "subject": "ethics",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "Rights of parents, kin and neighbours",
+    "ar": "حقوق الوالدين والأرحام والجيران"
+  },
+  "summary": {
+    "en": "How Islam ranks kindness to parents, relatives and neighbours, and what each is owed.",
+    "ar": "كيف يرتّب الإسلام الإحسان إلى الوالدين والأرحام والجيران، وما لكلٍّ من حقّ."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Good to those around you",
+        "ar": "الإحسان إلى من حولك"
+      },
+      "body": {
+        "en": "Right after commanding worship of Him alone, Allah lists the people we owe kindness: parents first, then close kin, the orphan, anyone in need, the neighbour whether near or far, the companion at one's side, and the wayfarer. Placing this next to pure worship shows that faith is not only prayer; it is also how you treat those around you. A believer's devotion to Allah is meant to overflow into gentle, generous dealing with people.",
+        "ar": "عقِب الأمر بإفراده بالعبادة يذكر الله من نُحسن إليهم: الوالدان، والأقارب، واليتامى، والمساكين، والجار القريب والجار البعيد، والصاحب إلى جنبك، والمسافر. ووضعُ هذا بجوار العبادة الخالصة يبيّن أن الإيمان ليس صلاةً فحسب، بل هو أيضًا كيف تعامل من حولك. فعبادة المؤمن لله يُراد لها أن تفيض رفقًا وكرمًا في معاملة الناس."
+      },
+      "takeaway": {
+        "en": "Kindness to people stands right beside worship of Allah.",
+        "ar": "الإحسان إلى الناس يأتي بجوار عبادة الله."
+      },
+      "visual": "none",
+      "sources": ["quran:4:36", "quran:4:1"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Parents in old age",
+        "ar": "الوالدان في الكبر"
+      },
+      "body": {
+        "en": "Allah joins doing good to parents with worshipping Him. When they grow old in your care, you must not show them the least impatience, not even a word of irritation, nor scold them, but speak to them with honour. Then Allah teaches a beautiful prayer: show them a humble, merciful tenderness, and ask Allah to be merciful to them as they raised you when you were small. Their care for you as a child is answered by your tenderness to them in age.",
+        "ar": "يقرن الله الإحسان إلى الوالدين بعبادته. فإذا بلغا الكِبَر في كنفك فلا تُظهر لهما أدنى ضجر، ولا حتى كلمة تأفّف، ولا تنهرهما، بل خاطبهما بإكرام. ثم يعلّم الله دعاءً جميلًا: اخفض لهما جناح التواضع رحمةً، واسأل الله أن يرحمهما كما ربّياك صغيرًا. فرعايتهما لك طفلًا يقابلها حنانك بهما في الكبر."
+      },
+      "takeaway": {
+        "en": "Treat aging parents with patience and honour, and pray for their mercy.",
+        "ar": "عامل الوالدين في الكبر بالصبر والإكرام، وادعُ لهما بالرحمة."
+      },
+      "visual": "none",
+      "sources": ["quran:17:23", "quran:17:24"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Your mother, then your father",
+        "ar": "أمّك، ثم أبوك"
+      },
+      "body": {
+        "en": "A man asked the Prophet ﷺ who most deserved his good company. The Prophet ﷺ answered, your mother; the man asked again, and again he said, your mother; a third time, your mother; and only on the fourth did he say, then your father. The threefold mention raises the mother's claim to kindness, in recognition of what she bears in pregnancy, birth and nursing. Both parents are honoured, and the mother is given special gentleness.",
+        "ar": "سأل رجلٌ النبيَّ ﷺ من أحقّ الناس بحُسن صحبته، فأجاب: أمّك؛ ثم سأل، فقال: أمّك؛ ثم الثالثة: أمّك؛ وفي الرابعة قال: ثم أبوك. وتكرار ذكر الأمّ ثلاثًا يرفع حقّها في البرّ، تقديرًا لما تحمله في الحمل والولادة والرضاع. فكلا الوالدين مكرّم، وللأمّ عنايةٌ خاصّة."
+      },
+      "takeaway": {
+        "en": "The mother is given a threefold right to kindness, then the father.",
+        "ar": "للأمّ حقٌّ في البرّ مذكورٌ ثلاثًا، ثم الأب."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:5971"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Keeping kinship ties",
+        "ar": "صلة الرحم"
+      },
+      "takeaway": {
+        "en": "Maintaining kinship brings blessing in provision and life.",
+        "ar": "صلة الرحم تجلب البركة في الرزق والعمر."
+      },
+      "visual": "book",
+      "sources": ["hadith:henc:5372"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Blessing in keeping ties",
+        "ar": "البركة في الصلة"
+      },
+      "body": {
+        "en": "The Prophet ﷺ linked keeping ties of kinship to blessing: whoever wishes for an expanded provision and a longer trace of good left behind should keep his relatives close. Scholars explain this as real barakah, blessing, in one's wealth and days. Keeping ties means more than not quarrelling; it is visiting, helping, and honouring relatives with time and means. The closer the relative, the greater the claim to be kept connected.",
+        "ar": "ربط النبي ﷺ صلة الرحم بالبركة: فمن رغب في سَعة رزقه وطول بركة أثره فليحرص على وصل أقاربه. ويفسّر العلماء هذا ببركةٍ حقيقية في المال والعمر. والصلة أوسع من ترك الخصام؛ فهي الزيارة والعون وإكرام القريب بالوقت والمال. وكلّما قرُبت القرابة عظُم حقّها في الوصل."
+      },
+      "takeaway": {
+        "en": "Keeping ties is active care, and it brings blessing.",
+        "ar": "الصلة عنايةٌ فعليّة، وفيها بركة."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:5372"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "The neighbour's right",
+        "ar": "حقّ الجار"
+      },
+      "body": {
+        "en": "The Prophet ﷺ said that Jibril kept urging him about the neighbour so persistently that he thought a neighbour might even be made an heir. He also tied faith to conduct: one whose faith is in Allah and in the final Day must never injure a neighbour, must treat a guest with honour, and must either speak what is good or else stay quiet. The neighbour's right does not depend on whether they share your faith; it is owed simply because they are near you.",
+        "ar": "أخبر النبي ﷺ أن جبريل ظلّ يوصيه بالجار حتى ظنّ أنه سيجعل له نصيبًا من الميراث. وربط الإيمان بالسلوك: فصاحب الإيمان بالله واليوم الآخر لا يصحّ أن يؤذي جارًا، وعليه أن يكرم ضيفه، وأن ينطق بالخير أو يسكت. وحقّ الجار لا يتوقّف على موافقته لك في الدين؛ بل يثبت لمجرّد أنه قريبٌ منك."
+      },
+      "takeaway": {
+        "en": "Do not harm your neighbour; honour your guest; speak good or keep silent.",
+        "ar": "لا تؤذِ جارك، وأكرم ضيفك، وقل خيرًا أو اصمت."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:6014", "hadith:bukhari:6018"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Do not cut people off",
+        "ar": "لا تهجر الناس"
+      },
+      "body": {
+        "en": "Islam warns strongly against breaking off from one another. The Prophet ﷺ said that someone who shuns his brother for a whole year carries a grave wrong, likening its seriousness to shedding blood. Scholars note an exception for a genuine, religiously grounded reason, but ordinary quarrels are not that. The lesson is to repair rifts quickly: reach out, forgive, and restore the bond rather than letting silence harden into estrangement.",
+        "ar": "يحذّر الإسلام بشدّة من التقاطع بين الناس. فقد ذكر النبي ﷺ أن مَن قاطع أخاه عامًا كاملًا فعليه إثمٌ عظيم، وشبّه خطورته بسفك الدم. ويذكر العلماء استثناءً لمقصدٍ شرعيٍّ حقيقي، أمّا الخصومات العادية فليست من ذلك. والعبرة أن تبادر إلى رأب الصدع: تواصَل، واعفُ، وأعِد الوصل، ولا تدع الصمت يتحوّل إلى قطيعة."
+      },
+      "takeaway": {
+        "en": "Mend quarrels quickly; do not let shunning become estrangement.",
+        "ar": "بادر إلى الصلح، ولا تدع الهجر يصير قطيعة."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:8885"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "In the Quran, kindness to parents is placed right beside…",
+        "ar": "في القرآن، يُجعل الإحسان إلى الوالدين بجوار…"
+      },
+      "options": [
+        {
+          "en": "The worship of Allah alone",
+          "ar": "عبادة الله وحده"
+        },
+        {
+          "en": "Trade and business",
+          "ar": "التجارة والبيع"
+        },
+        {
+          "en": "Travel and journeys",
+          "ar": "السفر والترحال"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Allah joins doing good to parents with worshipping Him and associating nothing with Him.",
+        "ar": "يقرن الله الإحسان إلى الوالدين بعبادته وعدم الإشراك به."
+      },
+      "source": "quran:17:23"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "When asked who most deserves good company, whom did the Prophet ﷺ name first?",
+        "ar": "لمّا سُئل عمّن أحقّ بحسن الصحبة، من ذكر النبي ﷺ أولًا؟"
+      },
+      "options": [
+        {
+          "en": "The father",
+          "ar": "الأب"
+        },
+        {
+          "en": "The mother",
+          "ar": "الأمّ"
+        },
+        {
+          "en": "The neighbour",
+          "ar": "الجار"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He named the mother three times before naming the father.",
+        "ar": "ذكر الأمّ ثلاث مرات قبل أن يذكر الأب."
+      },
+      "source": "hadith:bukhari:5971"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What did the Prophet ﷺ say about one who believes in Allah and the Last Day and his neighbour?",
+        "ar": "ماذا قال النبي ﷺ فيمن يؤمن بالله واليوم الآخر وجاره؟"
+      },
+      "options": [
+        {
+          "en": "He may ignore his neighbour",
+          "ar": "له أن يهمل جاره"
+        },
+        {
+          "en": "He should move away from him",
+          "ar": "عليه أن ينتقل بعيدًا عنه"
+        },
+        {
+          "en": "He should not harm his neighbour",
+          "ar": "ألّا يؤذي جاره"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ said one who believes in Allah and the Last Day should not harm his neighbour.",
+        "ar": "قال النبي ﷺ إن صاحب الإيمان بالله واليوم الآخر لا يؤذي جاره."
+      },
+      "source": "hadith:bukhari:6018"
+    }
+  ]
+}

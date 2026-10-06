@@ -1,0 +1,241 @@
+{
+  "id": "fs-good-character",
+  "subject": "ethics",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 4,
+  "title": {
+    "en": "Good character at home and at work",
+    "ar": "حسن الخلق في البيت والعمل"
+  },
+  "summary": {
+    "en": "Islam makes good character a core act of faith: safe speech, honesty, kindness, and goodness to those around you.",
+    "ar": "يجعل الإسلام حسن الخلق من صميم الإيمان: سلامة اللسان، والصدق، واللين، والإحسان إلى من حولك."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Character is part of faith",
+        "ar": "الخلق من الإيمان"
+      },
+      "body": {
+        "en": "In Islam, how you treat people is not separate from your faith; it is part of it. The Prophet ﷺ is described in the Quran as having a tremendous character, and he taught that the best believers are the best in character. So your worship shows not only in prayer, but also in how you speak to your family, your neighbours and your colleagues. Good manners are worship you practise all day.",
+        "ar": "في الإسلام ليست معاملتك للناس منفصلة عن إيمانك، بل هي جزء منه. وقد وصف القرآن النبي ﷺ بأنه على خلق عظيم، وعلّمنا أن خيار المؤمنين أحسنهم أخلاقًا. فعبادتك لا تظهر في الصلاة وحدها، بل في طريقة كلامك مع أهلك وجيرانك وزملائك. فحسن الخلق عبادة تمارسها طوال يومك."
+      },
+      "takeaway": {
+        "en": "The best believers are the best in character.",
+        "ar": "خيار المؤمنين أحسنهم أخلاقًا."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:6035"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "A great character",
+        "ar": "خلق عظيم"
+      },
+      "takeaway": {
+        "en": "The Quran praises the Prophet ﷺ for a tremendous moral character.",
+        "ar": "يثني القرآن على النبي ﷺ بأنه على خلق عظيم."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:68:4"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Keep people safe from you",
+        "ar": "اجعل الناس في أمان منك"
+      },
+      "body": {
+        "en": "The Prophet ﷺ gave a short, powerful definition: a true Muslim is someone whose words and hands bring no harm to others. That means not insulting, mocking or backbiting people with your speech, and not hurting them or taking what is theirs. Before adding extra acts of worship, make sure the people around you are safe from any harm from you. That is the foundation of good character.",
+        "ar": "أعطانا النبي ﷺ تعريفًا موجزًا بليغًا: المسلم من سلم الناس من لسانه ويده. أي ألا تسبّهم أو تسخر منهم أو تغتابهم بلسانك، وألا تؤذيهم أو تأخذ ما ليس لك بيدك. وقبل أن تزيد من نوافل العبادة، تأكد أن من حولك في أمان من أذاك. فهذا أساس حسن الخلق."
+      },
+      "takeaway": {
+        "en": "A Muslim is someone others are safe from in word and deed.",
+        "ar": "المسلم من سلم الناس من لسانه ويده."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:10101"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Good words, good neighbour",
+        "ar": "الكلمة الطيبة والجار"
+      },
+      "body": {
+        "en": "The Prophet ﷺ linked good character directly to belief in Allah and the Hereafter. He said that a true believer should speak good or stay silent, should honour his neighbour, and should be generous to his guest. These are everyday acts: a kind word, patience with a neighbour, a warm welcome to a visitor. Small courtesies, done for Allah, are real faith in action.",
+        "ar": "ربط النبي ﷺ حسن الخلق مباشرة بالإيمان بالله واليوم الآخر، فأرشد المؤمن إلى أن ينطق بالخير أو يسكت، وأن يكرم جاره، ويحسن إلى ضيفه. وهذه أعمال يومية: كلمة طيبة، وصبر على الجار، وحفاوة بالزائر. فهذه المجاملات الصغيرة إذا فُعلت لله كانت إيمانًا عمليًا حقيقيًا."
+      },
+      "takeaway": {
+        "en": "Speak good or stay silent, and honour your neighbour and guest.",
+        "ar": "قل خيرًا أو اصمت، وأكرم جارك وضيفك."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:6018"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Truthfulness leads to good",
+        "ar": "الصدق يهدي إلى الخير"
+      },
+      "body": {
+        "en": "At home and at work, honesty is a cornerstone of character. The Prophet ﷺ taught that being truthful guides a person to righteousness, and that road leads on to Paradise, while lying guides a person to wickedness, and someone who keeps lying is finally recorded with Allah as a liar. Being honest in small things, like keeping a promise or admitting a mistake at work, trains your heart and builds trust with everyone around you.",
+        "ar": "في البيت والعمل، الصدق ركنٌ من أركان الخلق. وقد علّمنا النبي ﷺ أن صدق المرء يقوده إلى البرّ، والبرّ يبلغ به الجنة، وأن الكذب يقود إلى الفجور، وأن من يداوم على الكذب حتى يُثبَت عند الله في عداد الكذّابين. فالصدق في الصغائر، كالوفاء بوعد أو الاعتراف بخطأ في العمل، يروّض قلبك ويبني الثقة مع من حولك."
+      },
+      "takeaway": {
+        "en": "Honesty guides you to good; keep to it in small things.",
+        "ar": "الصدق يهديك إلى الخير، فالزمه في الصغائر."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:6094"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Answer harshness with better",
+        "ar": "ادفع الإساءة بالأحسن"
+      },
+      "body": {
+        "en": "People will sometimes be rude or unfair, especially as you are finding your way. The Quran gives a higher response: push back against a bad deed with one that is better, and an enemy can turn into a close friend. It also pictures the true devotees of the Most Merciful as people who, when spoken to harshly by the ignorant, reply with words of peace. You do not have to win every argument. A calm, good reply is strength, not weakness.",
+        "ar": "سيُسيء إليك الناس أحيانًا أو يظلمونك، خاصة وأنت تجد طريقك. ويرشدنا القرآن إلى ردٍّ أرقى: أن تدفع الإساءة بالخصلة الأحسن، فيعود العدوّ كأنه صديق حميم. ويصف عباد الرحمن بأنهم إذا خاطبهم الجاهلون بالسوء ردّوا بالسلام. فلست مطالبًا بأن تكسب كل جدال، فالرد الهادئ الحسن قوة لا ضعف."
+      },
+      "takeaway": {
+        "en": "Meet harsh words with a calm, better reply.",
+        "ar": "قابِل الكلام القاسي بردٍّ هادئ أحسن."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:41:34",
+        "quran:25:63"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Allah looks at the heart",
+        "ar": "الله ينظر إلى القلب"
+      },
+      "body": {
+        "en": "The Prophet ﷺ said that any good turn you do is a form of charity, and that Allah does not weigh your outward looks or your wealth, but looks instead to your hearts and your deeds. This frees you: you do not need money or status to have good character. A smile, a helping hand, a sincere intention are all seen and valued by Allah. Build your character from the inside, and let small kindnesses flow from it.",
+        "ar": "أخبر النبي ﷺ أن كل صنيعٍ طيّب يُعدّ صدقة، وأن الله لا يَزِن المرء بمظهره وماله، وإنما بما في قلبه وما يقدّمه من عمل. وفي هذا تحرير لك: فلا تحتاج إلى مال أو جاه لتكون حسن الخلق. فابتسامة، ومساعدة، ونيّة صادقة، كلها يراها الله ويقدّرها. فابنِ خلقك من الداخل، ودع المعروف الصغير ينبع منه."
+      },
+      "takeaway": {
+        "en": "Allah weighs your heart and deeds, not looks or wealth.",
+        "ar": "يزن الله قلبك وعملك، لا مظهرك ومالك."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:5346",
+        "hadith:muslim:2564c"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "According to the Prophet ﷺ, who are the best believers?",
+        "ar": "عند النبي ﷺ، من هم خيار المؤمنين؟"
+      },
+      "options": [
+        {
+          "en": "The best in character",
+          "ar": "أحسنهم أخلاقًا"
+        },
+        {
+          "en": "The wealthiest among them",
+          "ar": "أكثرهم مالًا"
+        },
+        {
+          "en": "The most well-known",
+          "ar": "أشهرهم بين الناس"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said the best among you are the best in character.",
+        "ar": "قال النبي ﷺ إن خياركم أحاسنكم أخلاقًا."
+      },
+      "source": "hadith:bukhari:6035"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How did the Prophet ﷺ describe a Muslim's effect on others?",
+        "ar": "كيف وصف النبي ﷺ أثر المسلم في الناس؟"
+      },
+      "options": [
+        {
+          "en": "People compete with him for status",
+          "ar": "ينافسه الناس على المكانة"
+        },
+        {
+          "en": "People are safe from his tongue and hand",
+          "ar": "يسلم الناس من لسانه ويده"
+        },
+        {
+          "en": "People fear his wealth",
+          "ar": "يخاف الناس من ماله"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A Muslim is the one from whose tongue and hand other Muslims are safe.",
+        "ar": "المسلم من سلم المسلمون من لسانه ويده."
+      },
+      "source": "hadith:henc:10101"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does Allah look at, according to the Prophet ﷺ?",
+        "ar": "إلى ماذا ينظر الله، كما أخبر النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "Your appearance and wealth",
+          "ar": "صورتك ومالك"
+        },
+        {
+          "en": "Your family name",
+          "ar": "اسم عائلتك"
+        },
+        {
+          "en": "Your hearts and your deeds",
+          "ar": "قلوبكم وأعمالكم"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Allah does not look at your forms and wealth, but at your hearts and deeds.",
+        "ar": "لا ينظر الله إلى صوركم وأموالكم ولكن ينظر إلى قلوبكم وأعمالكم."
+      },
+      "source": "hadith:muslim:2564c"
+    }
+  ]
+}

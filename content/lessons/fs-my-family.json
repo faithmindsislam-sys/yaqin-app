@@ -1,0 +1,243 @@
+{
+  "id": "fs-my-family",
+  "subject": "ethics",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 6,
+  "title": {
+    "en": "My family and the people around me",
+    "ar": "أسرتي ومن حولي بعد إسلامي"
+  },
+  "summary": {
+    "en": "How Islam asks you to treat parents and family, including those who are not Muslim.",
+    "ar": "كيف يطلب منك الإسلام أن تعامل والديك وأسرتك، ومنهم غير المسلم."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Right after worship",
+        "ar": "بعد العبادة مباشرة"
+      },
+      "body": {
+        "en": "In the Quran, kindness to parents is placed right after the command to worship Allah alone. Your Lord decreed that you worship none but Him, and that you treat your parents well. This closeness is not an accident: honouring the people who raised you is near the heart of the religion. Becoming a Muslim does not loosen that bond; it deepens it.",
+        "ar": "في القرآن يأتي الإحسان إلى الوالدين عقب الأمر بعبادة الله وحده مباشرة. فقد قضى ربّك ألّا تعبد إلا إياه، وأن تحسن إلى والديك. وهذا القرب ليس مصادفة: فتوقير من ربّياك قريبٌ من قلب الدين. والدخول في الإسلام لا يُرخي هذه الصلة، بل يعمّقها."
+      },
+      "takeaway": {
+        "en": "Kindness to parents comes right after worship of Allah.",
+        "ar": "الإحسان إلى الوالدين يلي عبادة الله مباشرة."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:17:23",
+        "quran:31:14"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The wing of humility",
+        "ar": "جناح الذلّ"
+      },
+      "takeaway": {
+        "en": "Lower to your parents the wing of humility, and pray for mercy for them.",
+        "ar": "اخفض لوالديك جناح الذلّ، وادعُ لهما بالرحمة."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:17:24"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "If your parents are not Muslim",
+        "ar": "إذا كان والداك غير مسلمَين"
+      },
+      "body": {
+        "en": "Many new Muslims have parents who do not share their faith. The Quran speaks to exactly this. Even if parents press you to associate others with Allah, you do not obey them in that; but you still keep their company in this world with kindness. So there is one firm limit, obedience in disbelief, and otherwise warmth, respect and good care remain fully in place.",
+        "ar": "كثيرٌ ممن أسلم حديثًا والداه على غير دينه. والقرآن يخاطب هذا الأمر بعينه. فحتى لو ضغط عليك والداك لتُشرك بالله فلا تطيعهما في ذلك، ومع ذلك تصاحبهما في الدنيا بالمعروف. فثمّة حدٌّ واحد ثابت، وهو الطاعة في الكفر، وما عداه يبقى فيه الدفء والاحترام وحسن الرعاية كاملًا."
+      },
+      "takeaway": {
+        "en": "Do not obey them in disbelief, but keep their company kindly.",
+        "ar": "لا تطعهما في الكفر، وصاحبهما بالمعروف."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:31:15",
+        "quran:29:8"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Asma and her mother",
+        "ar": "أسماء وأمّها"
+      },
+      "body": {
+        "en": "Asma, daughter of Abu Bakr, had a mother who was not a Muslim. When her mother came to her, Asma asked the Prophet ﷺ whether she should keep good relations with her. He answered simply: yes, keep good ties with your mother. This is a living example: faith did not cut the family bond. If anything, it called her to care for her mother well.",
+        "ar": "كانت أسماءُ، وهي ابنةُ أبي بكرٍ رضي الله عنهما، أمُّها على غير الإسلام. فلما قدِمت عليها أمّها سألت أسماءُ النبيَّ ﷺ: أتصل أمَّها؟ فأجابها ببساطة: نعم، صِلي أمَّكِ. وهذا مثالٌ حيّ: فالإيمان لم يقطع صلة الرحم، بل دعاها إلى حسن برّ أمّها."
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ told Asma to keep good ties with her non-Muslim mother.",
+        "ar": "أمر النبي ﷺ أسماءَ أن تصل أمَّها غير المسلمة."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:2620",
+        "ref:icadb:36082"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Kindness and fairness",
+        "ar": "البرّ والعدل"
+      },
+      "body": {
+        "en": "This gentleness is not only for family. The Quran teaches that Allah does not forbid you from treating well, and dealing justly with, people who neither fight you over religion nor drive you from your homes; indeed He loves those who are just. So with neighbours, colleagues and friends of other faiths, kindness and justice are the normal state. Islam asks you to be a source of good to the people around you.",
+        "ar": "وهذا اللطف ليس للأسرة وحدها. فالقرآن يعلّم أن الله لا ينهاك عن البرّ والقسط لمن لم يقاتلك في الدين ولم يُخرجك من ديارك، بل يحب المقسطين. فمع الجيران والزملاء والأصدقاء من أهل الأديان الأخرى يكون البرّ والعدل هو الأصل. ويطلب منك الإسلام أن تكون مصدر خيرٍ لمن حولك."
+      },
+      "takeaway": {
+        "en": "Be good and fair to people who do not fight you over religion.",
+        "ar": "أحسِن واعدِل مع من لم يقاتلك في الدين."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:60:8"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Your mother first",
+        "ar": "أمّك أولًا"
+      },
+      "body": {
+        "en": "A man once asked the Prophet ﷺ who most deserves his good company. The Prophet ﷺ answered: your mother. The man asked again, and again, and three times the answer was: your mother. Only then did he add: then your father. It is a tender reminder of how much a mother is owed. Whatever your family situation, let patience and good treatment lead the way.",
+        "ar": "سأل رجلٌ النبيَّ ﷺ: من أحقّ الناس بحسن صحبته؟ فقال النبي ﷺ: أمّك. ثم سأل، ثم سأل، وثلاثًا كان الجواب: أمّك. ثم قال بعدها: ثم أبوك. وهو تذكيرٌ لطيف بعظيم حقّ الأم. ومهما كان حال أسرتك، فليتصدّر الصبر وحسن المعاملة الطريق."
+      },
+      "takeaway": {
+        "en": "Your mother has the first claim to your good company, then your father.",
+        "ar": "لأمّك أوّل الحقّ في حسن صحبتك، ثم أبيك."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:5971"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Keep the ties warm",
+        "ar": "صِل رحمك برفق"
+      },
+      "body": {
+        "en": "This week, do one small thing to keep a family tie warm: a visit, a call, a kind word, a helping hand. If faith has caused tension at home, meet it with patience and gentle wisdom rather than argument. The Quran teaches us to invite others with wisdom and good speech. Your steady good character may speak more clearly than any debate ever could.",
+        "ar": "هذا الأسبوع، افعل أمرًا صغيرًا تَصِل به رحمك: زيارةً، أو اتصالًا، أو كلمةً طيّبة، أو يدًا تعين. وإن سبّب الإيمان توتّرًا في البيت فقابله بالصبر والحكمة اللطيفة لا بالجدال. فالقرآن يعلّمنا أن ندعو بالحكمة والقول الحسن. وقد يتكلم خُلُقك الحسن الثابت أوضح من أيّ نقاش."
+      },
+      "takeaway": {
+        "en": "Keep ties warm with small kindness, patience and gentle wisdom.",
+        "ar": "صِل رحمك بلطفٍ صغير وصبرٍ وحكمةٍ هادئة."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:5372",
+        "quran:16:125"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "In the Quran, kindness to parents is placed…",
+        "ar": "في القرآن، يُوضَع الإحسان إلى الوالدين…"
+      },
+      "options": [
+        {
+          "en": "Right after the command to worship Allah alone",
+          "ar": "عقب الأمر بعبادة الله وحده مباشرة"
+        },
+        {
+          "en": "As an optional extra",
+          "ar": "أمرًا اختياريًّا زائدًا"
+        },
+        {
+          "en": "Only for Muslim parents",
+          "ar": "للوالدين المسلمَين فقط"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Your Lord decreed worship of Him alone and good treatment of parents together.",
+        "ar": "قضى ربّك بعبادته وحده والإحسان إلى الوالدين معًا."
+      },
+      "source": "quran:17:23"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What did the Prophet ﷺ tell Asma about her non-Muslim mother?",
+        "ar": "ماذا قال النبي ﷺ لأسماء عن أمّها غير المسلمة؟"
+      },
+      "options": [
+        {
+          "en": "To keep away from her",
+          "ar": "أن تبتعد عنها"
+        },
+        {
+          "en": "To keep good ties with her",
+          "ar": "أن تصل رحمها معها"
+        },
+        {
+          "en": "To wait until she became Muslim",
+          "ar": "أن تنتظر حتى تُسلم"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ told her to maintain good relations with her mother.",
+        "ar": "أمرها النبي ﷺ أن تصل أمّها وتحسن إليها."
+      },
+      "source": "hadith:bukhari:2620"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does Islam ask you to treat non-Muslims who do not fight you?",
+        "ar": "كيف يطلب منك الإسلام أن تعامل غير المسلمين الذين لا يقاتلونك؟"
+      },
+      "options": [
+        {
+          "en": "With suspicion",
+          "ar": "بالريبة"
+        },
+        {
+          "en": "By avoiding them",
+          "ar": "بالإعراض عنهم"
+        },
+        {
+          "en": "With kindness and justice",
+          "ar": "بالبرّ والعدل"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Allah does not forbid being good and just to those who do not fight you over religion.",
+        "ar": "لا ينهى الله عن برّ من لم يقاتلك في الدين والقسط إليه."
+      },
+      "source": "quran:60:8"
+    }
+  ]
+}

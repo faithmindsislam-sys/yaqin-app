@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "who-is-god": "aqidah",
+    "kaaba-qibla": "fiqh",
+    "spread-by-sword": "history",
+    "spread": "history",
+    "wudu-order": "fiqh",
+    "what-breaks-wudu": "fiqh",
+    "al-fatiha-meaning": "quran",
+    "why-face-qibla": "fiqh"
+  },
+  "modules": {
+    "purification": "fiqh",
+    "prayer": "fiqh",
+    "fasting": "fiqh",
+    "fiqh-of-worship": "fiqh",
+    "the-quran": "quran",
+    "understand-what-you-recite": "quran",
+    "prophet-muhammad": "seerah",
+    "understanding-hadith": "hadith"
+  }
+}

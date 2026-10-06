@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ref:book:god-existence:origin",
+    "kind": "aqidah",
+    "ref_en": "Abandoning Atheism for Islam — pp. 11 (English publisher text)",
+    "ref_ar": "الإسلام والإلحاد وجهًا لوجه — ص 11 (ترجمة مساعدة من النص الإنجليزي)",
+    "text_en": "3-What is the proof of the existence of the \nCreator? \nAnswer: There are numerous proofs, yet, we will \npresent only two thereof: \n1-The proof of bringing into existence. \n2-The proof of providence and perfection. \n3-What does the proof of bringing into \nexistence mean? \nAnswer: It means that \neverything that came into being after it had been \nnonexistent must have an entity that caused it to \nexist and come into being.",
+    "text_ar": "هناك أدلة عديدة على وجود الخالق، ونذكر هنا دليلين: دليل الإيجاد، ودليل العناية والإتقان. ومعنى دليل الإيجاد أن كل ما جاء إلى الوجود بعد أن كان معدومًا لا بد له من مُوجِد أوجده.",
+    "translation": "English: original published edition. Arabic: AI-assisted translation of this excerpt for access, not a published Arabic edition; scholarly review pending.",
+    "origin": "IslamHouse / Scholarly Committee at the Islamic Content Service Association in Languages",
+    "url": "https://islamhouse.com/en/books/2834110/",
+    "grading": null,
+    "review_status": "pending",
+    "original_language": "en",
+    "original_text": "3-What is the proof of the existence of the \nCreator? \nAnswer: There are numerous proofs, yet, we will \npresent only two thereof: \n1-The proof of bringing into existence. \n2-The proof of providence and perfection. \n3-What does the proof of bringing into \nexistence mean? \nAnswer: It means that \neverything that came into being after it had been \nnonexistent must have an entity that caused it to \nexist and come into being.",
+    "original_text_sha256": "f66869afaf9d28c4173fb8543a6a4139a8594d75a81a9fa27e9c57ee946b9437",
+    "translated_text_status": "ai_assisted_unreviewed",
+    "book_id": "publisher-islamhouse-en-2834110",
+    "book_title_in_pdf": "Abandoning Atheism for Islam",
+    "catalog_title": "Islam and Atheism face to face",
+    "pdf_pages": [
+      13
+    ],
+    "printed_pages": [
+      "11"
+    ],
+    "file_sha256": "ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e",
+    "source_local_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-en-2834110.pdf",
+    "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e.jsonl",
+    "context_pages_read": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      36,
+      37
+    ],
+    "source_scope": "Selected excerpt only; no approval or endorsement of the whole book."
+  },
+  {
+    "id": "ref:book:god-existence:order",
+    "kind": "aqidah",
+    "ref_en": "Abandoning Atheism for Islam — pp. 14, 3–4 (English publisher text)",
+    "ref_ar": "الإسلام والإلحاد وجهًا لوجه — ص ١٤، ٣–٤ (ترجمة مساعدة من النص الإنجليزي)",
+    "text_en": "This means that everything around you carries a \nfunctional complexity, \nwhich is an evidence of creation and bringing \nthings into existence. \nSo, there must be an originator who brought \nthem into existence.\n\n[Additional excerpt, printed pp. 3–4]\nThe creator of this world with all its wonders is\na great creator who is All -Knowing, All -Powerful, \nand All-Wise, may He be Exalted.",
+    "text_ar": "هذا يعني أن كل ما حولك يحمل تعقيدًا وظيفيًا، وهو دليل على الخلق والإيجاد. فلا بد من مُوجِد أوجده.\n\n[مقتطف إضافي، الصفحتان المطبوعتان ٣–٤]\nخالق هذا العالم بكل عجائبه خالق عظيم، عليم، قدير، حكيم، سبحانه.",
+    "translation": "English: original published edition. Arabic: AI-assisted translation of this excerpt for access, not a published Arabic edition; scholarly review pending.",
+    "origin": "IslamHouse / Scholarly Committee at the Islamic Content Service Association in Languages",
+    "url": "https://islamhouse.com/en/books/2834110/",
+    "grading": null,
+    "review_status": "pending",
+    "original_language": "en",
+    "original_text": "This means that everything around you carries a \nfunctional complexity, \nwhich is an evidence of creation and bringing \nthings into existence. \nSo, there must be an originator who brought \nthem into existence.\n\n[Additional excerpt, printed pp. 3–4]\nThe creator of this world with all its wonders is\na great creator who is All -Knowing, All -Powerful, \nand All-Wise, may He be Exalted.",
+    "original_text_sha256": "24322dbe870c9ea712b55bb3a864202e255410ad23668bdb06aab75cc5403e4c",
+    "translated_text_status": "ai_assisted_unreviewed",
+    "book_id": "publisher-islamhouse-en-2834110",
+    "book_title_in_pdf": "Abandoning Atheism for Islam",
+    "catalog_title": "Islam and Atheism face to face",
+    "pdf_pages": [
+      16,
+      5,
+      6
+    ],
+    "printed_pages": [
+      "14",
+      "3",
+      "4"
+    ],
+    "file_sha256": "ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e",
+    "source_local_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-en-2834110.pdf",
+    "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e.jsonl",
+    "context_pages_read": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      36,
+      37
+    ],
+    "source_scope": "Selected excerpt only; no approval or endorsement of the whole book.",
+    "excerpt_parts": [
+      {
+        "pdf_pages": [
+          16
+        ],
+        "text": "This means that everything around you carries a \nfunctional complexity, \nwhich is an evidence of creation and bringing \nthings into existence. \nSo, there must be an originator who brought \nthem into existence."
+      },
+      {
+        "pdf_pages": [
+          5,
+          6
+        ],
+        "text": "The creator of this world with all its wonders is\na great creator who is All -Knowing, All -Powerful, \nand All-Wise, may He be Exalted."
+      }
+    ]
+  },
+  {
+    "id": "ref:book:god-existence:uncreated",
+    "kind": "aqidah",
+    "ref_en": "Abandoning Atheism for Islam — pp. 35 (English publisher text)",
+    "ref_ar": "الإسلام والإلحاد وجهًا لوجه — ص 35 (ترجمة مساعدة من النص الإنجليزي)",
+    "text_en": "Third: The Creator is not created, rather, He is \neternal. So, how can we ask: who created Him? \nThe Creator must be eternal and necessary to \nexist. Otherwise, we would get into the problem of  \n'the sequence of the actors' that necessarily leads to \nthe non -occurrence of actions.” As we just \nexplained in detail. So, the Creator must be \nnecessarily existent and eternal, Glory be to Him.",
+    "text_ar": "ثالثًا: الخالق ليس مخلوقًا، بل هو أزلي. فكيف نسأل: من خلقه؟ لا بد أن يكون الخالق أزليًا وواجب الوجود؛ وإلا وقعنا في تسلسل الفاعلين الذي يفضي إلى عدم حدوث الأفعال، كما سبق شرحه. فلا بد أن يكون الخالق واجب الوجود وأزليًا، سبحانه.",
+    "translation": "English: original published edition. Arabic: AI-assisted translation of this excerpt for access, not a published Arabic edition; scholarly review pending.",
+    "origin": "IslamHouse / Scholarly Committee at the Islamic Content Service Association in Languages",
+    "url": "https://islamhouse.com/en/books/2834110/",
+    "grading": null,
+    "review_status": "pending",
+    "original_language": "en",
+    "original_text": "Third: The Creator is not created, rather, He is \neternal. So, how can we ask: who created Him? \nThe Creator must be eternal and necessary to \nexist. Otherwise, we would get into the problem of  \n'the sequence of the actors' that necessarily leads to \nthe non -occurrence of actions.” As we just \nexplained in detail. So, the Creator must be \nnecessarily existent and eternal, Glory be to Him.",
+    "original_text_sha256": "cb7ecae4895fd3f5e592045728827af5d2ba2d8bd588a488c650c1d5ef5bb9f1",
+    "translated_text_status": "ai_assisted_unreviewed",
+    "book_id": "publisher-islamhouse-en-2834110",
+    "book_title_in_pdf": "Abandoning Atheism for Islam",
+    "catalog_title": "Islam and Atheism face to face",
+    "pdf_pages": [
+      37
+    ],
+    "printed_pages": [
+      "35"
+    ],
+    "file_sha256": "ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e",
+    "source_local_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-en-2834110.pdf",
+    "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e.jsonl",
+    "context_pages_read": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      36,
+      37
+    ],
+    "source_scope": "Selected excerpt only; no approval or endorsement of the whole book."
+  },
+  {
+    "id": "quran:52:35",
+    "kind": "quran",
+    "ref_en": "Aṭ-Ṭūr 52:35",
+    "ref_ar": "الطور 52:35",
+    "text_ar": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ",
+    "text_en": "Or were they created by nothing, or were they the creators [of themselves]?",
+    "translation": "Sahih International (Quranpedia.net)",
+    "origin": "Quranpedia.net / King Fahd Glorious Quran Printing Complex",
+    "url": "https://quranpedia.net/surah/1/52/book/13638",
+    "grading": null,
+    "review_status": "pending",
+    "arabic_edition": "Hafs, Uthmani (King Fahd Glorious Quran Printing Complex)",
+    "original_record_ids": {
+      "ar": "quran:arabic:kfgqpc:hafs-v30:52:35",
+      "en": "quran:translation:en:quranpedia:13638:52:35"
+    },
+    "source_local_paths": {
+      "ar": "/Users/aymen/Desktop/Hackathon/resources/quran/ar/kfgqpc-hafs-v30/verses.jsonl",
+      "en": "/Users/aymen/Desktop/Hackathon/resources/quran/en/sahih-international-13638/verses.jsonl"
+    }
+  },
+  {
+    "id": "quran:2:164",
+    "kind": "quran",
+    "ref_en": "Al-Baqarah 2:164",
+    "ref_ar": "البقرة 2:164",
+    "text_ar": "إِنَّ فِي خَلۡقِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَٱلۡفُلۡكِ ٱلَّتِي تَجۡرِي فِي ٱلۡبَحۡرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءࣲ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةࣲ وَتَصۡرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلۡمُسَخَّرِ بَيۡنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِ لَأٓيَٰتࣲ لِّقَوۡمࣲ يَعۡقِلُونَ",
+    "text_en": "Indeed, in the creation of the heavens and earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allah has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and the earth are signs for a people who use reason.",
+    "translation": "Sahih International (Quranpedia.net)",
+    "origin": "Quranpedia.net / King Fahd Glorious Quran Printing Complex",
+    "url": "https://quranpedia.net/surah/1/2/book/13638",
+    "grading": null,
+    "review_status": "pending",
+    "arabic_edition": "Hafs, Uthmani (King Fahd Glorious Quran Printing Complex)",
+    "original_record_ids": {
+      "ar": "quran:arabic:kfgqpc:hafs-v30:2:164",
+      "en": "quran:translation:en:quranpedia:13638:2:164"
+    },
+    "source_local_paths": {
+      "ar": "/Users/aymen/Desktop/Hackathon/resources/quran/ar/kfgqpc-hafs-v30/verses.jsonl",
+      "en": "/Users/aymen/Desktop/Hackathon/resources/quran/en/sahih-international-13638/verses.jsonl"
+    }
+  },
+  {
+    "id": "quran:57:3",
+    "kind": "quran",
+    "ref_en": "Al-Ḥadīd 57:3",
+    "ref_ar": "الحديد 57:3",
+    "text_ar": "هُوَ ٱلۡأَوَّلُ وَٱلۡأٓخِرُ وَٱلظَّٰهِرُ وَٱلۡبَاطِنُۖ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+    "text_en": "He is the First and the Last, the Ascendant and the Intimate, and He is, of all things, Knowing.",
+    "translation": "Sahih International (Quranpedia.net)",
+    "origin": "Quranpedia.net / King Fahd Glorious Quran Printing Complex",
+    "url": "https://quranpedia.net/surah/1/57/book/13638",
+    "grading": null,
+    "review_status": "pending",
+    "arabic_edition": "Hafs, Uthmani (King Fahd Glorious Quran Printing Complex)",
+    "original_record_ids": {
+      "ar": "quran:arabic:kfgqpc:hafs-v30:57:3",
+      "en": "quran:translation:en:quranpedia:13638:57:3"
+    },
+    "source_local_paths": {
+      "ar": "/Users/aymen/Desktop/Hackathon/resources/quran/ar/kfgqpc-hafs-v30/verses.jsonl",
+      "en": "/Users/aymen/Desktop/Hackathon/resources/quran/en/sahih-international-13638/verses.jsonl"
+    }
+  }
+]

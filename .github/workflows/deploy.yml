@@ -1,0 +1,166 @@
+# Deploy to production on every push to main. Tests run separately (tests.yml) and never block a deploy.
+# Only the parts that changed are rebuilt; API and web run in parallel. Manual run: Actions > Deploy > Run workflow.
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      api:
+        description: Deploy the API
+        type: boolean
+        default: true
+      web:
+        description: Deploy the web site and edge function
+        type: boolean
+        default: true
+
+permissions:
+  id-token: write   # GitHub OIDC -> AWS role, no stored keys
+  contents: read
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false   # never cut a deploy in half; the next one queues
+
+env:
+  AWS_ROLE: arn:aws:iam::744172873146:role/github-deploy-yaqin
+  REGION: eu-west-1
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      api: ${{ steps.diff.outputs.api }}
+      web: ${{ steps.diff.outputs.web }}
+      edge: ${{ steps.diff.outputs.edge }}
+      headers: ${{ steps.diff.outputs.headers }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - id: diff
+        env:
+          BEFORE: ${{ github.event.before }}
+          MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
+          IN_API: ${{ inputs.api }}
+          IN_WEB: ${{ inputs.web }}
+        run: |
+          if [ "$MANUAL" = true ]; then
+            echo "api=$IN_API" >> "$GITHUB_OUTPUT"; echo "web=$IN_WEB" >> "$GITHUB_OUTPUT"; echo "edge=$IN_WEB" >> "$GITHUB_OUTPUT"; echo "headers=$IN_WEB" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then BEFORE=$(git rev-parse HEAD~1); fi
+          files=$(git diff --name-only "$BEFORE" HEAD)
+          has() { echo "$files" | grep -qE "$1" && echo true || echo false; }
+          echo "api=$(has '^(api/|content/|docs/|\.dockerignore$)')" >> "$GITHUB_OUTPUT"
+          echo "web=$(has '^(web/|content/|\.env$)')" >> "$GITHUB_OUTPUT"
+          echo "headers=$(has '^infra/cloudfront/auth-bridge-headers\.json$')" >> "$GITHUB_OUTPUT"
+          echo "edge=$(has '^infra/cloudfront/index-rewrite\.js$')" >> "$GITHUB_OUTPUT"
+
+  api:
+    needs: changes
+    if: needs.changes.outputs.api == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: aws-actions/configure-aws-credentials@v4
+        with: { role-to-assume: '${{ env.AWS_ROLE }}', aws-region: '${{ env.REGION }}' }
+      - name: Build image in CodeBuild (ARM, cached layers)
+        id: build
+        run: |
+          zip -qr /tmp/source.zip api content docs .dockerignore -x 'api/.venv/*' 'api/**/__pycache__/*' 'api/.pytest_cache/*' 'api/.ruff_cache/*' 'api/*.egg-info/*' 'api/.env' 'api/.env.*'
+          aws s3 cp /tmp/source.zip s3://yaqin-build-744172873146/source.zip --only-show-errors
+          id=$(aws codebuild start-build --project-name yaqin-api --query build.id --output text)
+          echo "build $id"
+          while :; do
+            s=$(aws codebuild batch-get-builds --ids "$id" --query 'builds[0].buildStatus' --output text)
+            [ "$s" != IN_PROGRESS ] && break; sleep 10
+          done
+          echo "status $s"; [ "$s" = SUCCEEDED ]
+          digest=$(aws ecr describe-images --repository-name yaqin-api --image-ids imageTag=latest --query 'imageDetails[0].imageDigest' --output text)
+          echo "digest=$digest" >> "$GITHUB_OUTPUT"
+      - name: Roll ECS to the new image (live environment and roles are kept)
+        env: { DIGEST: '${{ steps.build.outputs.digest }}' }
+        run: |
+          live=$(aws ecs describe-services --cluster yaqin --services yaqin-api --query 'services[0].taskDefinition' --output text)
+          echo "live task definition: $live (rollback target)"
+          aws ecs describe-task-definition --task-definition "$live" --include TAGS --output json > /tmp/live.json
+          python3 - <<'PY'
+          import json, os
+          d = json.load(open("/tmp/live.json")); td = d["taskDefinition"]
+          keep = ("family", "taskRoleArn", "executionRoleArn", "networkMode", "containerDefinitions", "volumes",
+                  "placementConstraints", "requiresCompatibilities", "cpu", "memory", "runtimePlatform")
+          out = {k: td[k] for k in keep if k in td}
+          out["containerDefinitions"][0]["image"] = "744172873146.dkr.ecr.eu-west-1.amazonaws.com/yaqin-api@" + os.environ["DIGEST"]
+          if d.get("tags"): out["tags"] = d["tags"]
+          json.dump(out, open("/tmp/next.json", "w"))
+          PY
+          next=$(aws ecs register-task-definition --cli-input-json file:///tmp/next.json --query taskDefinition.taskDefinitionArn --output text)
+          aws ecs update-service --cluster yaqin --service yaqin-api --task-definition "$next" --query service.serviceName --output text
+          aws ecs wait services-stable --cluster yaqin --services yaqin-api
+          echo "deployed $next" >> "$GITHUB_STEP_SUMMARY"
+          echo "rollback: aws ecs update-service --cluster yaqin --service yaqin-api --task-definition $live" >> "$GITHUB_STEP_SUMMARY"
+
+  web:
+    needs: changes
+    if: needs.changes.outputs.web == 'true' || needs.changes.outputs.edge == 'true' || needs.changes.outputs.headers == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults: { run: { working-directory: web } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - uses: actions/cache@v4
+        with:
+          path: web/.next/cache
+          key: next-${{ hashFiles('web/package-lock.json') }}-${{ github.sha }}
+          restore-keys: next-${{ hashFiles('web/package-lock.json') }}-
+      - uses: aws-actions/configure-aws-credentials@v4
+        with: { role-to-assume: '${{ env.AWS_ROLE }}', aws-region: '${{ env.REGION }}' }
+      - run: npm ci --prefer-offline --no-audit --no-fund
+      - run: pip install --quiet boto3
+      - name: Build static export
+        env:
+          NODE_ENV: production
+          NEXT_PUBLIC_API_BASE: ''
+          NEXT_PUBLIC_API_ENABLED: 'true'
+          NEXT_PUBLIC_QURAN_BASE: /data
+          NEXT_PUBLIC_QURAN_AUDIO_BASE: /resources
+          QURAN_PYTHON: python3
+        run: |
+          npm run quran:bundle
+          npm run build -- --webpack
+          grep -rlq okcctzpfpreziuxnyepk.supabase.co out/_next/static || { echo "Supabase config missing from bundle"; exit 1; }
+          if grep -rlq '127.0.0.1:8000' out/_next/static; then echo "local API base in bundle"; exit 1; fi
+      - name: Update session bridge response headers
+        if: needs.changes.outputs.headers == 'true'
+        working-directory: .
+        run: |
+          id=$(aws cloudfront list-response-headers-policies --type custom --query "ResponseHeadersPolicyList.Items[?ResponseHeadersPolicy.ResponseHeadersPolicyConfig.Name=='yaqeen-auth-bridge'].ResponseHeadersPolicy.Id | [0]" --output text)
+          [ -n "$id" ] && [ "$id" != None ] || { echo "The existing auth bridge policy was not found"; exit 1; }
+          aws cloudfront get-response-headers-policy --id "$id" > /tmp/auth-bridge-policy.json
+          etag=$(python3 -c 'import json; print(json.load(open("/tmp/auth-bridge-policy.json"))["ETag"])')
+          aws cloudfront update-response-headers-policy --id "$id" --if-match "$etag" --response-headers-policy-config file://infra/cloudfront/auth-bridge-headers.json --query ResponseHeadersPolicy.Id --output text
+      - name: Upload
+        run: |
+          aws s3 sync out/data/quran/ s3://yaqin-resources-744172873146/data/quran/ --only-show-errors
+          rm -rf out/data/quran
+          aws s3 sync out/_next/static/ s3://yaqin-web-744172873146/_next/static/ --cache-control 'public,max-age=31536000,immutable' --only-show-errors
+          aws s3 sync out/ s3://yaqin-web-744172873146/ --delete --exclude '_next/static/*' --cache-control 'no-cache' --only-show-errors
+      - name: Publish edge routing function (same release as the export)
+        if: needs.changes.outputs.edge == 'true'
+        working-directory: .
+        run: |
+          aws cloudfront describe-function --name yaqin-index-rewrite --stage DEVELOPMENT --query FunctionSummary.FunctionConfig --output json > /tmp/fn.json
+          etag=$(aws cloudfront describe-function --name yaqin-index-rewrite --stage DEVELOPMENT --query ETag --output text)
+          etag=$(aws cloudfront update-function --name yaqin-index-rewrite --if-match "$etag" --function-config file:///tmp/fn.json --function-code fileb://infra/cloudfront/index-rewrite.js --query ETag --output text)
+          err=$(aws cloudfront test-function --name yaqin-index-rewrite --stage DEVELOPMENT --if-match "$etag" --event-object fileb://infra/cloudfront/smoke-event.json --query TestResult.FunctionErrorMessage --output text)
+          [ -z "$err" ] || [ "$err" = None ] || { echo "function error: $err"; exit 1; }
+          aws cloudfront publish-function --name yaqin-index-rewrite --if-match "$etag" --query FunctionSummary.FunctionMetadata.Stage --output text
+      - name: Invalidate CDN (no wait)
+        run: aws cloudfront create-invalidation --distribution-id E2Z664SCKULGHC --paths '/*' --query Invalidation.Id --output text

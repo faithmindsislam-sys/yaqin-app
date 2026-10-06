@@ -1,0 +1,237 @@
+{
+  "id": "dp-understanding-a-verse",
+  "subject": "quran",
+  "level": 3,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "How to understand a verse",
+    "ar": "كيف نفهم آية؟ مدخل إلى التفسير"
+  },
+  "summary": {
+    "en": "The Quran invites reflection, and a sound method keeps that reflection honest and grounded.",
+    "ar": "القرآن يدعو إلى التدبّر، والمنهج السليم يحفظ هذا التدبّر صادقًا منضبطًا."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "A book to reflect on",
+        "ar": "كتابٌ للتدبّر"
+      },
+      "body": {
+        "en": "The Quran was not sent only to be recited quickly; it was sent to be pondered. Allah describes it as a blessed book revealed so that people would reflect on its verses and so that those of understanding would take heed. Elsewhere He asks whether people reflect on it at all, or whether their hearts are locked. Understanding a verse begins with slowing down and turning it over in the heart with sincerity.",
+        "ar": "لم ينزل القرآن ليُقرأ على عجل فحسب، بل أُنزل ليُتدبَّر. وقد وصفه الله بأنه كتاب مبارك أُنزل ليتدبّر الناس آياته وليتذكّر أولو الألباب. وفي موضع آخر يستنكر على من لا يتدبّرونه، فيسأل: هل أُغلقت قلوبهم بأقفال؟ فيبدأ فهم الآية بالتمهّل وتقليبها في القلب بإخلاص."
+      },
+      "takeaway": {
+        "en": "The Quran asks to be reflected upon, not just read fast.",
+        "ar": "القرآن يُطلب فيه التدبّر لا مجرّد سرعة القراءة."
+      },
+      "visual": "none",
+      "sources": ["quran:38:29", "quran:47:24"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "A sign of its truth",
+        "ar": "دليل صدقه"
+      },
+      "takeaway": {
+        "en": "Its freedom from contradiction is itself a sign that it is from Allah.",
+        "ar": "خلوّه من الاختلاف دليل على أنه من عند الله."
+      },
+      "visual": "book",
+      "sources": ["quran:4:82"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Clear and less clear",
+        "ar": "المحكم والمتشابه"
+      },
+      "body": {
+        "en": "Allah tells us the Book contains verses that are precise and firm, which are its foundation, and others whose meaning is less immediately clear. The sound approach is to anchor understanding in the clear verses and return the less clear ones to them, rather than chasing the ambiguous to stir up confusion. Those firm in knowledge affirm that all of it is from their Lord. A verse is never read in isolation from the rest of the Book.",
+        "ar": "أخبرنا الله أن في الكتاب آياتٍ محكماتٍ هنّ أصله، وأُخَرَ متشابهاتٍ لا يظهر معناها مباشرة. والمنهج السليم أن نبني الفهم على المحكم، ونردّ المتشابه إليه، لا أن نتتبّع المتشابه طلبًا للفتنة. والراسخون في العلم يقرّون أن كلّه من عند الله. فلا تُقرأ الآية بمعزل عن سائر الكتاب."
+      },
+      "takeaway": {
+        "en": "Anchor the unclear verses in the clear ones.",
+        "ar": "ردّ المتشابه إلى المحكم في الفهم."
+      },
+      "visual": "none",
+      "sources": ["quran:3:7"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "The Prophet ﷺ explains",
+        "ar": "النبي ﷺ يُبيّن"
+      },
+      "body": {
+        "en": "Allah gave the Prophet ﷺ the task of making the revelation clear to people. So the Sunnah is the first and most authoritative commentary on the Quran: how the Prophet ﷺ explained a verse, and how he lived it, shows us what it means. Before reaching for our own interpretation, we look to how he understood and applied the words. This keeps our reading tied to the one Allah chose to deliver and clarify the message.",
+        "ar": "جعل الله إلى النبي ﷺ بيان الوحي للناس. فالسنّة هي التفسير الأول والأعلى للقرآن: فما بيّنه النبي ﷺ من معنى الآية، وكيف طبّقها في حياته، يكشف لنا مرادها. وقبل أن نلجأ إلى فهمنا الخاص ننظر كيف فهم هو الكلمات وطبّقها، فيبقى فهمنا موصولًا بمن اختاره الله لتبليغ الرسالة وبيانها."
+      },
+      "takeaway": {
+        "en": "The Sunnah is the first commentary on the Quran.",
+        "ar": "السنّة هي أول تفسير للقرآن."
+      },
+      "visual": "none",
+      "sources": ["quran:16:44"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "A sound order",
+        "ar": "ترتيب المنهج"
+      },
+      "body": {
+        "en": "Scholars of tafsir explain in a recognised order. First, the Quran is explained by the Quran, since one place clarifies another. Then by the Sunnah of the Prophet ﷺ. Then by how the Companions, who saw the revelation descend, understood it. Then by the Arabic language in which it came, and by the context of the passage. Following this order keeps interpretation disciplined and protects the reader from reading in meanings the words do not carry.",
+        "ar": "يفسّر علماء التفسير وفق ترتيب معروف: أولًا القرآن بالقرآن، فإن بعضه يبيّن بعضًا؛ ثم بسنّة النبي ﷺ؛ ثم بفهم الصحابة الذين شهدوا نزول الوحي؛ ثم بلغة العرب التي نزل بها، وبسياق الآيات. والالتزام بهذا الترتيب يضبط التفسير ويحفظ القارئ من تحميل الكلمات ما لا تحتمله."
+      },
+      "takeaway": {
+        "en": "Quran, then Sunnah, then the Companions, then the language and context.",
+        "ar": "القرآن، فالسنّة، ففهم الصحابة، فاللغة والسياق."
+      },
+      "visual": "order",
+      "sources": ["quran:16:44"]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "Made easy to remember",
+        "ar": "ميسَّر للذكر"
+      },
+      "takeaway": {
+        "en": "Allah made the Quran easy to take heed from.",
+        "ar": "يسّر الله القرآن ليتذكّر به الناس."
+      },
+      "visual": "book",
+      "sources": ["quran:54:17"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Do not speak without knowledge",
+        "ar": "لا تقل بلا علم"
+      },
+      "body": {
+        "en": "Reflection is open to every believer, but speaking about what Allah meant is a serious responsibility. Allah warns against saying about Him what you do not know; attributing a meaning to a verse without basis is among the gravest kinds of speech. So reflect freely for your own heart, but when you want the settled meaning, lean on trusted tafsir, such as Al-Mukhtasar within this app, rather than guessing. Humility here is part of respect for the Book.",
+        "ar": "التدبّر مفتوح لكل مؤمن، لكن القول في مراد الله مسؤولية ثقيلة. فقد حذّر الله أن يُقال عليه ما لا يُعلم، ونسبةُ معنى إلى آية بلا أصل من أشدّ القول خطرًا. فتدبّر لقلبك بحرية، فإذا أردت المعنى المحرَّر فاعتمد على التفسير الموثوق، كالمختصر في هذا التطبيق، ولا تخمّن. والتواضع هنا من احترام الكتاب."
+      },
+      "takeaway": {
+        "en": "Reflect freely, but take settled meanings from trusted tafsir.",
+        "ar": "تدبّر بحرية، وخذ المعنى المحرَّر من تفسير موثوق."
+      },
+      "visual": "none",
+      "sources": ["quran:2:169", "ref:terminologyenc:10476"]
+    },
+    {
+      "id": "c8",
+      "kind": "concept",
+      "title": {
+        "en": "Where commentators differ",
+        "ar": "حين يختلف المفسّرون"
+      },
+      "body": {
+        "en": "Even with a sound method, trusted commentators sometimes reach different understandings of a single verse. This difference is often valid breadth within the limits the language and the clear verses allow, not confusion in the text itself. When you meet it, note that scholars have read the verse in more than one way, hold the meanings they offer with respect, and do not insist that only your preferred reading is correct. For a settled position, a qualified teacher can explain which view is stronger and why.",
+        "ar": "حتى مع المنهج السليم قد يصل المفسّرون الموثوقون إلى أفهام مختلفة للآية الواحدة. وهذا الاختلاف غالبًا سعةٌ صحيحة في حدود ما تسمح به اللغة والمحكم، لا اضطرابٌ في النصّ نفسه. فإذا لقيتَه فاعلم أن العلماء قرؤوا الآية على أكثر من وجه، واحترم ما ذكروه من المعاني، ولا تجزم بأن فهمك وحده هو الصواب. وللقول المحرَّر يبيّن لك المعلّم المؤهَّل أيّ الأقوال أرجح ولماذا."
+      },
+      "takeaway": {
+        "en": "Commentators can differ on a verse; hold the views with respect and ask a teacher.",
+        "ar": "قد يختلف المفسّرون في الآية؛ فاحترم الأقوال واسأل معلّمًا."
+      },
+      "visual": "none",
+      "sources": ["quran:3:7"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Quran say its freedom from contradiction shows?",
+        "ar": "ماذا يدلّ عليه خلوّ القرآن من الاختلاف كما يذكر؟"
+      },
+      "options": [
+        {
+          "en": "That it was written by many authors",
+          "ar": "أنه كُتب بأقلام كثيرة"
+        },
+        {
+          "en": "That it is from Allah, not from anyone else",
+          "ar": "أنه من عند الله لا من غيره"
+        },
+        {
+          "en": "That it is hard to understand",
+          "ar": "أنه صعب الفهم"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse says that if it were from other than Allah they would have found much contradiction in it.",
+        "ar": "تذكر الآية أنه لو كان من عند غير الله لوُجد فيه اختلاف كثير."
+      },
+      "source": "quran:4:82"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "In the sound method, what explains a verse first?",
+        "ar": "في المنهج السليم، ما الذي يفسّر الآية أولًا؟"
+      },
+      "options": [
+        {
+          "en": "Other verses of the Quran",
+          "ar": "آياتٌ أخرى من القرآن"
+        },
+        {
+          "en": "A reader's personal feeling",
+          "ar": "شعور القارئ الشخصي"
+        },
+        {
+          "en": "Later poetry",
+          "ar": "الشعر المتأخّر"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran is explained first by the Quran, then by the Sunnah, the Companions, and the language.",
+        "ar": "يُفسَّر القرآن أولًا بالقرآن، ثم بالسنّة، ففهم الصحابة، فاللغة."
+      },
+      "source": "quran:16:44"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Quran warn against when speaking about its meaning?",
+        "ar": "مِمَّ يحذّر القرآن عند الكلام في معناه؟"
+      },
+      "options": [
+        {
+          "en": "Reading it slowly",
+          "ar": "قراءته على تمهّل"
+        },
+        {
+          "en": "Asking a teacher",
+          "ar": "سؤال المعلّم"
+        },
+        {
+          "en": "Saying about Allah what you do not know",
+          "ar": "القول على الله بلا علم"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Allah warns against saying about Him what you do not know, so settled meanings come from trusted tafsir.",
+        "ar": "حذّر الله من القول عليه بلا علم، فتؤخذ المعاني المحرَّرة من تفسير موثوق."
+      },
+      "source": "quran:2:169"
+    }
+  ]
+}

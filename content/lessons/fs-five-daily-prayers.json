@@ -1,0 +1,226 @@
+{
+  "id": "fs-five-daily-prayers",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 5,
+  "title": {
+    "en": "The five prayers and their times",
+    "ar": "الصلوات الخمس وأوقاتها"
+  },
+  "summary": {
+    "en": "The five daily prayers, the simple window each one falls in, and the mercy of praying on time.",
+    "ar": "الصلوات الخمس اليومية، والوقت الذي تقع فيه كل صلاة ببساطة، وفضل الصلاة في وقتها."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Appointments with Allah",
+        "ar": "مواعيد مع الله"
+      },
+      "body": {
+        "en": "Prayer, salah, is a set of words and movements that begins with saying Allah is greater and ends with a greeting of peace. For a believer it is not left to mood: it is set at fixed times through the day and night. Think of each prayer as an appointment with Allah you keep, a short pause that returns you to Him again and again.",
+        "ar": "الصلاة قولٌ وفعل تُفتَتح بتكبيرٍ وتُختَتم بتسليم. وهي عند المؤمن ليست رهنًا بالمزاج، بل مؤقّتة في أوقاتٍ ثابتة في اليوم والليلة. فاجعل كل صلاة موعدًا مع الله تحافظ عليه، ووقفةً قصيرة تعيدك إليه مرة بعد مرة."
+      },
+      "takeaway": {
+        "en": "Prayer is set at fixed times, not left to mood.",
+        "ar": "الصلاة في أوقاتٍ ثابتة، لا تُترك للمزاج."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:5720", "quran:4:103"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "A decree of set times",
+        "ar": "كتابٌ موقوت"
+      },
+      "takeaway": {
+        "en": "Prayer is described as a duty fixed to specific times for the believers.",
+        "ar": "تُوصَف الصلاة بأنها فرضٌ مؤقّت بأوقاتٍ محددة على المؤمنين."
+      },
+      "visual": "book",
+      "sources": ["quran:4:103"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The five windows",
+        "ar": "الأوقات الخمسة"
+      },
+      "body": {
+        "en": "There are five prayers, each with a window of time. Fajr is from dawn until sunrise. Dhuhr begins just after midday. 'Asr is in the afternoon. Maghrib begins at sunset. 'Isha is the prayer of the night. The Quran points to these moments: before sunrise and before sunset, parts of the night, and the ends of the day. A prayer timetable or an app will give you the exact minutes for your city.",
+        "ar": "الصلوات خمس، لكل منها وقتٌ تقع فيه. الفجر من طلوع الفجر إلى شروق الشمس. والظهر يبدأ بعد زوال الشمس عن وسط السماء. والعصر في وقت ما بعد الظهيرة. والمغرب يبدأ بغروب الشمس. والعشاء صلاة الليل. وقد أشار القرآن إلى هذه الأوقات: قبل الشروق وقبل الغروب، وآناء الليل، وأطراف النهار. وجدول المواقيت أو تطبيقٌ في هاتفك يعطيك الدقائق الدقيقة لبلدك."
+      },
+      "takeaway": {
+        "en": "Fajr, Dhuhr, 'Asr, Maghrib, 'Isha, across the day and night.",
+        "ar": "الفجر والظهر والعصر والمغرب والعشاء، على مدار اليوم والليلة."
+      },
+      "visual": "steps",
+      "sources": ["quran:17:78", "quran:20:130", "ref:icadb:36239"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Guard them with care",
+        "ar": "حافظ عليها"
+      },
+      "body": {
+        "en": "The Quran tells the believers to maintain the prayers with care, and names the middle prayer in particular, which scholars most often understand as 'Asr. The Prophet ﷺ also gave glad tidings that whoever keeps the two cooler prayers, Fajr and 'Asr, will enter Paradise. These two fall when people are asleep or busy with work, so guarding them is a sign you will guard the rest.",
+        "ar": "يأمر القرآن المؤمنين بالمحافظة على الصلوات، ويخصّ الصلاة الوسطى بالذكر، وهي عند أكثر العلماء صلاة العصر. وبشّر النبي ﷺ بأن من حافظ على البردين، الفجر والعصر، دخل الجنة. وهاتان الصلاتان تقعان حين ينام الناس أو ينشغلون بأعمالهم، فالمحافظة عليهما علامةٌ على المحافظة على سائرها."
+      },
+      "takeaway": {
+        "en": "Keep all five, and watch 'Asr and Fajr especially.",
+        "ar": "حافظ على الخمس، واعتنِ بالعصر والفجر خاصة."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": ["quran:2:238", "hadith:henc:4198"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "On time is best",
+        "ar": "في وقتها أفضل"
+      },
+      "body": {
+        "en": "A Companion once asked the Prophet ﷺ which action Allah loves most. His answer was praying at its proper time, placed even before kindness to parents and striving in Allah's cause. So the goal is not only to pray, but to pray while the window is open. When you hear the call, try to answer it soon rather than leaving the prayer to the edge of its time.",
+        "ar": "سأل صحابيٌّ النبيَّ ﷺ عن أحبّ العمل إلى الله، فكان جوابه: الصلاة في وقتها، وجعلها قبل برّ الوالدين والجهاد في سبيله. فالمقصود ليس أن تصلي فحسب، بل أن تصلي والوقت باقٍ. فإذا سمعت النداء فاحرص على المبادرة، ولا تؤخّر الصلاة إلى آخر وقتها."
+      },
+      "takeaway": {
+        "en": "Praying on time is among the deeds dearest to Allah.",
+        "ar": "الصلاة في وقتها من أحبّ الأعمال إلى الله."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["hadith:henc:3365"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "If you sleep or forget",
+        "ar": "إذا نمتَ أو نسيتَ"
+      },
+      "body": {
+        "en": "You are human, and sometimes a prayer slips past because you slept or genuinely forgot. The Prophet ﷺ taught that whoever forgets a prayer should pray it as soon as they remember; that is the way to make it right. This is reassurance, not a license to delay on purpose. Pray it the moment you can, then carry on.",
+        "ar": "أنت بشر، وقد تفوتك صلاةٌ لنومٍ أو نسيانٍ حقيقي. وقد علّم النبي ﷺ أن من نسي صلاةً فليصلّها إذا ذكرها، فهذا هو سبيل تداركها. وهذا طمأنينة لا رخصة في التأخير عمدًا. فصلِّها حالما تستطيع، ثم امضِ في يومك."
+      },
+      "takeaway": {
+        "en": "Missed by sleep or forgetting? Pray it as soon as you remember.",
+        "ar": "فاتتك بنومٍ أو نسيان؟ صلِّها حين تذكرها."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": ["hadith:henc:65088"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Why five, and their fruit",
+        "ar": "لماذا خمس، وثمرتها"
+      },
+      "body": {
+        "en": "Five prayers spread across the day keep your heart connected to Allah through its changing hours. The Prophet ﷺ said the five prayers, one Friday to the next, and one Ramadan to the next, wipe away the smaller wrongs between them, as long as the major sins are avoided. So each prayer is not a burden placed on you; it is a fresh chance to return and be cleansed.",
+        "ar": "خمس صلواتٍ موزّعة على اليوم تُبقي قلبك موصولًا بالله خلال ساعاته المتغيّرة. وقال النبي ﷺ إن الصلوات الخمس، وما بين جمعةٍ وجمعة، وما بين رمضان ورمضان، يُكفّرن ما بينهنّ ما دامت الكبائر مجتنَبة. فليست كل صلاة ثقلًا يُوضع عليك، بل فرصة جديدة للرجوع والتطهّر."
+      },
+      "takeaway": {
+        "en": "The five prayers wipe away the smaller wrongs between them.",
+        "ar": "الصلوات الخمس تُكفّر ما بينها من صغائر."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3591", "ref:icadb:36239"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which prayer comes at the very start of the day, before sunrise?",
+        "ar": "أيّ صلاةٍ تقع في أول اليوم قبل شروق الشمس؟"
+      },
+      "options": [
+        {
+          "en": "Fajr",
+          "ar": "الفجر"
+        },
+        {
+          "en": "Maghrib",
+          "ar": "المغرب"
+        },
+        {
+          "en": "'Isha",
+          "ar": "العشاء"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Fajr is prayed from dawn until sunrise; Maghrib is at sunset and 'Isha at night.",
+        "ar": "الفجر يُصلّى من طلوع الفجر إلى الشروق، والمغرب عند الغروب والعشاء في الليل."
+      },
+      "source": "ref:icadb:36239"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "The Prophet ﷺ said the deed dearest to Allah is…",
+        "ar": "قال النبي ﷺ إن أحبّ العمل إلى الله…"
+      },
+      "options": [
+        {
+          "en": "Giving large amounts of charity",
+          "ar": "كثرة الصدقة"
+        },
+        {
+          "en": "Praying at its proper time",
+          "ar": "الصلاة في وقتها"
+        },
+        {
+          "en": "Fasting every day",
+          "ar": "صيام كل يوم"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "When asked, he named praying at its appointed time first of all.",
+        "ar": "حين سُئل ذكر الصلاة في وقتها أولًا."
+      },
+      "source": "hadith:henc:3365"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "You wake up and realise you slept through a prayer. You should…",
+        "ar": "استيقظتَ فأدركتَ أنك نمتَ عن صلاة. فعليك أن…"
+      },
+      "options": [
+        {
+          "en": "Skip it; the time is gone",
+          "ar": "تتركها، فقد فات وقتها"
+        },
+        {
+          "en": "Wait for the next day",
+          "ar": "تنتظر اليوم التالي"
+        },
+        {
+          "en": "Pray it as soon as you remember",
+          "ar": "تصلّيها حين تذكرها"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ said whoever forgets a prayer should pray it as soon as they remember.",
+        "ar": "قال النبي ﷺ من نسي صلاةً فليصلّها إذا ذكرها."
+      },
+      "source": "hadith:henc:65088"
+    }
+  ]
+}

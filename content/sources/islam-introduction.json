@@ -1,0 +1,75 @@
+[
+  {
+    "id": "ref:book:islam-overview:opening",
+    "kind": "aqidah",
+    "ref_en": "Islam: A Brief Overview — opening statements 1–4 · PDF p. 4 (English printed p. 2; Arabic printed p. 1)",
+    "ref_ar": "الإسلام: نبذة موجزة — العبارات الافتتاحية ١–٤ · صفحة الملف ٤ (المطبوعة: العربية ١، الإنجليزية ٢)",
+    "text_ar": "اﻹﺳـــﻼم ﻫـــﻮ رﺳـــﺎﻟﺔ ﷲ إﻟـــﻰ اﻟﻨـــﺎس ﺟﻤﻴﻌـــﺎً، ﻓﻬﻮ اﻟﺮﺳـــﺎﻟﺔ\nاﻹﻟﻬﻴﺔ اﻟﺨﺎﻟﺪة.\nواﻹﺳـــﻼم ﻟﻴـــﺲ دﻳﻨـــﺎً ﺧﺎﺻـــﺎً ﺑﺠﻨـــﺲ أو ﻗﻮم ﺑﻞ ﻫـــﻮ دﻳﻦ ﷲ \nﻟﻠﻨﺎس ﻛﻠﻬﻢ. \nاﻹﺳـــﻼم ﻫـــﻮ اﻟﺮﺳـــﺎﻟﺔ اﻹﻟﻬﻴـــﺔ اﻟﺘﻲ ﺟـــﺎءت ﻣﻜﻤﻠﺔ ﻟﺮﺳـــﺎﻻت \nاﻷﻧﺒﻴـــﺎء واﻟﻤﺮﺳـــﻠﻴﻦ اﻟﺴـــﺎﺑﻘﻴﻦ ﻋﻠﻴﻬﻢ اﻟﺼﻼة واﻟﺴـــﻼم إﻟﻰ \nأﻣﻤﻬﻢ.\nاﻷﻧﺒﻴﺎء ﻋﻠﻴﻬﻢ اﻟﺴﻼم دﻳﻨﻬﻢ واﺣﺪ وﺷﺮاﺋﻌﻬﻢ ﻣﺨﺘﻠﻔﺔ.",
+    "text_en": "1. Islam is the message of Allah to all people, as it \nis the eternal divine message. \n2. Islam, as a religion, is not exclusively sent to a \nspecific ethnic group, rather it is the religion of \nAllah to all humans. \n3. Islam is the divine message sent to \ncomplement all messages of the previous prophets \nand messengers (peace be upon them) who were \nsent to their respective nations. \n4. The prophets (peace be upon them) share a \nsingle religion though expressed in different laws.",
+    "translation": "Published English and Arabic editions; excerpts retained verbatim from the local acquisitions. No AI translation of source text.",
+    "origin": "Scholarly Committee at the Islamic Content Service Association in Languages · IslamHouse",
+    "url": "https://islamhouse.com/en/books/2830466/",
+    "grading": null,
+    "review_status": "pending",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "provider": "islamhouse",
+    "url_ar": "https://islamhouse.com/ar/books/2830073/",
+    "provenance": {
+      "ar": {
+        "book_id": "publisher-islamhouse-ar-2830073",
+        "title": "الإسلام - نبذة موجزة عن الإسلام كما جاء في القرآن الكريم والسنة النبوية",
+        "author": "الفريق العلمي بجمعية خدمة المحتوى الإسلامي باللغات",
+        "url": "https://islamhouse.com/ar/books/2830073/",
+        "pdf_url": null,
+        "pdf_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-ar-2830073.pdf",
+        "metadata_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/metadata/publisher-islamhouse-ar-2830073/metadata.json",
+        "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/9220ca4ec23142fc7990ce6adde9d815373a0220c0c2fc210e77138c665c862c.jsonl",
+        "sha256": "9220ca4ec23142fc7990ce6adde9d815373a0220c0c2fc210e77138c665c862c",
+        "pdf_page": 4,
+        "printed_page": "1",
+        "passage": "Opening statements on universality and the shared religion of the prophets (items 1–4)",
+        "original_extraction_status": "ocr_required",
+        "visual_check": "Cited page checked against the local PDF; text copied from the stored extraction without normalization."
+      },
+      "en": {
+        "book_id": "publisher-islamhouse-en-2830466",
+        "title": "Islam - A Brief Treatise on Islam according to the Quran and the Prophetic Sunnah",
+        "author": null,
+        "url": "https://islamhouse.com/en/books/2830466/",
+        "pdf_url": null,
+        "pdf_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-en-2830466.pdf",
+        "metadata_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/metadata/publisher-islamhouse-en-2830466/metadata.json",
+        "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/97acfa693365b32fb37645cb1a8adb19e7eebfbda331b9bf574542a0fa80fdc9.jsonl",
+        "sha256": "97acfa693365b32fb37645cb1a8adb19e7eebfbda331b9bf574542a0fa80fdc9",
+        "pdf_page": 4,
+        "printed_page": "2",
+        "passage": "Opening statements on universality and the shared religion of the prophets (items 1–4)",
+        "original_extraction_status": "ocr_required",
+        "visual_check": "Cited page checked against the local PDF; text copied from the stored extraction without normalization."
+      }
+    },
+    "source_note_ar": "مقتطف من نسختين منشورتين بالعربية والإنجليزية؛ النص من الاستخراج المحلي، وترقيم صفحة الملف يختلف عن الترقيم المطبوع.",
+    "source_note_en": "Published Arabic and English editions of the introductory booklet. Physical PDF page numbers differ from printed pagination."
+  },
+  {
+    "id": "quran:7:158",
+    "kind": "quran",
+    "ref_en": "Al-A‘rāf 7:158",
+    "ref_ar": "الأعراف: ١٥٨",
+    "text_ar": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ",
+    "text_en": "Say, [O Muhammad], \"O mankind, indeed I am the Messenger of Allah to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allah and His Messenger, the unlettered prophet, who believes in Allah and His words, and follow him that you may be guided.",
+    "translation": "Sahih International - English translation (Quranpedia.net)",
+    "origin": "Quranpedia.net",
+    "url": "https://quranpedia.net/surah/1/7/book/13638",
+    "grading": null,
+    "review_status": "pending",
+    "arabic_edition": "Hafs, Uthmani (King Fahd Glorious Quran Printing Complex)",
+    "provenance": {
+      "catalog_path": "/Users/aymen/Desktop/Hackathon/YAQIN/content/quran/ayat.json",
+      "acquisition": "Existing local bundled Quran catalog; no network fetch for this course."
+    }
+  }
+]

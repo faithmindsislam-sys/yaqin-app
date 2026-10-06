@@ -1,0 +1,205 @@
+{
+  "id": "fs-a-fresh-start",
+  "subject": "aqidah",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 5,
+  "title": {
+    "en": "A fresh start",
+    "ar": "بداية جديدة: الإسلام يَجُبّ ما قبله"
+  },
+  "summary": {
+    "en": "Entering Islam wipes away what came before, so you can look forward with hope, not guilt.",
+    "ar": "الدخول في الإسلام يمحو ما قبله، فتنظر إلى الأمام برجاءٍ لا بذنب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "A clean page",
+        "ar": "صفحة بيضاء"
+      },
+      "body": {
+        "en": "When you entered Islam, something quiet and enormous happened: your past was wiped clean. A Companion named 'Amr ibn al-'As was once an enemy of the Prophet ﷺ. When he came to accept Islam he asked to be forgiven, and the Prophet ﷺ told him that Islam erases whatever came before it. The same mercy is yours. You begin now with a clean page.",
+        "ar": "حين دخلت في الإسلام حدث أمرٌ عظيم في هدوء: مُحي ما مضى من ذنبك. كان الصحابي عمرو بن العاص رضي الله عنه عدوًّا للنبي ﷺ، فلما جاء ليُسلم طلب أن يُغفر له، فأخبره النبي ﷺ أن الإسلام يَمحو ما كان قبله. وهذه الرحمة نفسها لك. تبدأ الآن من صفحةٍ بيضاء."
+      },
+      "takeaway": {
+        "en": "Entering Islam wiped away what came before it.",
+        "ar": "الدخول في الإسلام محا ما كان قبله."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:121"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Never despair",
+        "ar": "لا تيأس"
+      },
+      "body": {
+        "en": "Some new Muslims carry a heavy memory and wonder if they are too far gone. Allah answers that worry directly. He invites those who went too far against themselves not to lose hope in His mercy, and tells them He forgives all sins. However long the list, His forgiveness is longer. The door is open, and He is the one calling you to walk through it.",
+        "ar": "بعض من دخل الإسلام حديثًا يحمل ذكرى ثقيلة ويظن أنه بعُد كثيرًا. والله يجيب هذا القلق مباشرة، فيدعو من أسرفوا على أنفسهم ألّا يقنطوا من رحمته، ويخبرهم أنه يغفر الذنوب جميعًا. ومهما طالت القائمة فمغفرته أوسع. الباب مفتوح، وهو سبحانه من يدعوك إلى الدخول."
+      },
+      "takeaway": {
+        "en": "Allah invites you not to lose hope in His mercy.",
+        "ar": "يدعوك الله ألّا تقنط من رحمته."
+      },
+      "visual": "none",
+      "sources": ["quran:39:53"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Do not despair",
+        "ar": "لا تقنطوا"
+      },
+      "takeaway": {
+        "en": "He forgives all sins, and He is the Forgiving, the Merciful.",
+        "ar": "يغفر الذنوب جميعًا، وهو الغفور الرحيم."
+      },
+      "visual": "book",
+      "sources": ["quran:39:53"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Good is counted",
+        "ar": "الحسنات تُحتسب"
+      },
+      "body": {
+        "en": "The Prophet ﷺ explained the rule of this fresh start. Whoever does well in Islam is not taken to account for what he did before it. The one who stops hostile ways and comes to faith is told that what has passed is forgiven. So the good you do now truly counts for you, and the past you left behind is not held over your head.",
+        "ar": "بيّن النبي ﷺ قاعدة هذه البداية الجديدة: فمن حسُن إسلامه لا يُحاسَب على ما كان منه قبل ذلك. ومن ترك طريق العداوة وأقبل على الإيمان قيل له إن ما سلف قد غُفر. فالخير الذي تعمله الآن يُحتسب لك حقًّا، والماضي الذي تركته لا يُرفع في وجهك."
+      },
+      "takeaway": {
+        "en": "Do well now; your past is not held against you.",
+        "ar": "أحسِن الآن، ولا يُؤاخَذ عليك ماضيك."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65002", "quran:8:38"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Turned into good",
+        "ar": "تُبدَّل حسنات"
+      },
+      "body": {
+        "en": "Allah offers something even more generous than erasing the past. For a person who repents, comes to faith and then acts well, He replaces the bad deeds with good ones. A life that once leaned one way can be turned around, and even old mistakes can become reasons for reward when they lead you to sincere change. Mercy here is not only a pardon; it is a transformation.",
+        "ar": "يَعرض الله ما هو أكرم من مجرد محو الماضي، فلمن تاب وآمن وعمل صالحًا يُبدّل سيئاتهم حسنات. فالحياة التي مالت يومًا إلى جهة يمكن أن تنقلب، بل قد تصير الأخطاء القديمة أسبابًا للأجر حين تقودك إلى تغيّرٍ صادق. الرحمة هنا ليست عفوًا فحسب، بل تحويلٌ وتبديل."
+      },
+      "takeaway": {
+        "en": "With sincere repentance, bad deeds can be turned into good.",
+        "ar": "بالتوبة الصادقة قد تُبدَّل السيئات حسنات."
+      },
+      "visual": "none",
+      "sources": ["quran:25:70"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Hope, not guilt",
+        "ar": "رجاءٌ لا ذنب"
+      },
+      "body": {
+        "en": "Islam asks you to fear Allah and to hope in Him together. Among the gravest sins is to give up hope in His mercy, because that is to think badly of the Most Merciful. So carrying crushing guilt about the past is not piety. Let the past teach you gently, keep returning to Allah, and face forward. He loves that you come back to Him.",
+        "ar": "يطلب منك الإسلام أن تخاف الله وترجوه معًا. ومن أعظم الذنوب أن تيأس من رحمته، لأن ذلك إساءة ظنٍّ بأرحم الراحمين. فحملُ الذنب الساحق على الماضي ليس تقوى. دَع الماضي يعلّمك برفق، وداوم على الرجوع إلى الله، واستقبل ما هو آتٍ. فإنه يحب أن تعود إليه."
+      },
+      "takeaway": {
+        "en": "Despairing of mercy is a sin; keep returning with hope.",
+        "ar": "اليأس من الرحمة ذنب، فداوم على الرجوع برجاء."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:6049"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What did the Prophet ﷺ tell 'Amr ibn al-'As about entering Islam?",
+        "ar": "ماذا قال النبي ﷺ لعمرو بن العاص عن الدخول في الإسلام؟"
+      },
+      "options": [
+        {
+          "en": "It erases what came before it",
+          "ar": "إنه يمحو ما كان قبله"
+        },
+        {
+          "en": "It changes nothing about the past",
+          "ar": "إنه لا يغيّر شيئًا من الماضي"
+        },
+        {
+          "en": "It only helps on Fridays",
+          "ar": "إنه ينفع يوم الجمعة فقط"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ told him that Islam wipes out what preceded it.",
+        "ar": "أخبره النبي ﷺ أن الإسلام يهدم ما كان قبله."
+      },
+      "source": "hadith:muslim:121"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Someone who did good after entering Islam is…",
+        "ar": "من أحسن بعد دخوله في الإسلام…"
+      },
+      "options": [
+        {
+          "en": "Punished for everything from before",
+          "ar": "يُعاقَب على كل ما سبق"
+        },
+        {
+          "en": "Not taken to account for what he did before Islam",
+          "ar": "لا يُؤاخَذ بما عمل قبل الإسلام"
+        },
+        {
+          "en": "Required to list past sins publicly",
+          "ar": "مطالَب بذكر ذنوبه علنًا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ said whoever does well in Islam is not held to account for his earlier deeds.",
+        "ar": "قال النبي ﷺ إن من أحسن في الإسلام لم يُؤاخَذ بما عمل من قبل."
+      },
+      "source": "hadith:henc:65002"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Quran call losing hope in Allah's mercy?",
+        "ar": "بماذا يصف الموقف تجاه اليأس من رحمة الله؟"
+      },
+      "options": [
+        {
+          "en": "A small, harmless matter",
+          "ar": "أمرًا صغيرًا لا يضرّ"
+        },
+        {
+          "en": "Something Allah invites us away from",
+          "ar": "أمرًا يدعونا الله إلى تركه"
+        },
+        {
+          "en": "A requirement of faith",
+          "ar": "شرطًا من شروط الإيمان"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Allah invites those who transgressed not to despair of His mercy, for He forgives all sins.",
+        "ar": "يدعو الله من أسرفوا ألّا يقنطوا من رحمته، فهو يغفر الذنوب جميعًا."
+      },
+      "source": "quran:39:53"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.rich-editor { border: 1px solid var(--color-line); border-radius: 14px; background: white; transition: border-color 150ms, box-shadow 150ms; }
+.rich-editor:focus-within { border-color: var(--color-brand-400); box-shadow: 0 0 0 3px rgb(74 143 214 / 0.15); }
+.rich-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; padding: 6px 8px; border-bottom: 1px solid var(--color-line); border-radius: 14px 14px 0 0; background: #f8fafc; }
+.rich-tool { display: grid; place-items: center; width: 32px; height: 32px; border-radius: 8px; color: var(--color-ink-soft); cursor: pointer; }
+.rich-tool:hover { background: var(--color-brand-50); color: var(--color-brand-700); }
+.rich-tool:disabled { opacity: 0.35; pointer-events: none; }
+.rich-divider { width: 1px; height: 20px; margin-inline: 4px; background: var(--color-line); }
+.rich-swatch { width: 18px; height: 18px; border: 2px solid white; border-radius: 50%; box-shadow: 0 0 0 1px var(--color-line); cursor: pointer; transition: transform 120ms; }
+.rich-swatch:hover { transform: scale(1.15); }
+.rich-input { min-height: 150px; padding: 14px 16px; font-size: 15px; color: var(--color-ink); }
+.rich-input:focus { outline: none; }
+.rich-input:empty::before { content: attr(data-placeholder); color: #a3adbf; pointer-events: none; }
+

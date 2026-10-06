@@ -1,0 +1,238 @@
+{
+  "id": "dp-words-of-prayer",
+  "subject": "hadith",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 5,
+  "title": {
+    "en": "The meaning of what I say in prayer",
+    "ar": "معاني ما أقوله في صلاتي"
+  },
+  "summary": {
+    "en": "The meanings behind the takbir, Al-Fatiha, the sitting supplications and the tashahhud, so the words reach the heart.",
+    "ar": "معاني التكبير والفاتحة وأدعية الجلوس والتشهد، لتصل الكلمات إلى القلب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Allah is greater",
+        "ar": "الله أكبر"
+      },
+      "body": {
+        "en": "Prayer opens with the takbir: Allahu akbar, Allah is greater. Greater than every task you left behind, every worry, and everything that might pull your attention away. The Prophet ﷺ raised his hands with this takbir, in line with his shoulders, and again when bowing and rising from bowing. Saying these words with awareness is like closing a door on the world for a few minutes and turning fully to the One who is greater than it all.",
+        "ar": "تُفتتح الصلاة بالتكبير: الله أكبر، أي أعظم من كل شغلٍ تركته، ومن كل همّ، ومن كل ما قد يجذب انتباهك. وكان النبي ﷺ يرفع يديه مع هذا التكبير حَذْوَ منكبيه، ويرفعهما كذلك عند الركوع وعند الرفع منه. وقول هذه الكلمة بوعيٍ كأنك تغلق على الدنيا بابًا دقائق، وتُقبل كليًّا على من هو أكبر منها كلها."
+      },
+      "takeaway": {
+        "en": "The opening takbir declares Allah greater than all that distracts you.",
+        "ar": "تكبيرة الإحرام إعلانٌ بأن الله أكبر من كل ما يشغلك."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3095"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Al-Fatiha, a conversation",
+        "ar": "الفاتحة محادثة"
+      },
+      "body": {
+        "en": "Al-Fatiha, recited in every unit of prayer, is a dialogue with Allah. In its middle you say that it is Him alone you worship and Him alone you ask for help, placing both your devotion and your need before Him. Then you ask Him to guide you to the straight path. The Al-Fatiha course explains the full surah; here the point is simply to feel that you are speaking to Allah, not reciting into the air.",
+        "ar": "الفاتحة التي تُقرأ في كل ركعة محادثةٌ مع الله. ففي وسطها تقول إنك إياه وحده تعبد وإياه وحده تستعين، فتضع عبادتك وحاجتك بين يديه. ثم تسأله أن يهديك الصراط المستقيم. ودرس الفاتحة يشرح السورة كاملة، والمقصود هنا أن تستشعر أنك تخاطب الله، لا أنك تتلو في فراغ."
+      },
+      "takeaway": {
+        "en": "In Al-Fatiha you speak to Allah: devotion, need, then a plea for guidance.",
+        "ar": "في الفاتحة تخاطب الله: عبادةٌ وحاجةٌ ثم سؤال الهداية."
+      },
+      "visual": "none",
+      "sources": ["quran:1:5", "quran:1:6"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "You alone we worship",
+        "ar": "إياك نعبد"
+      },
+      "takeaway": {
+        "en": "The verse joins worship and reliance, both directed to Allah alone.",
+        "ar": "تجمع الآية بين العبادة والاستعانة، وكلاهما لله وحده."
+      },
+      "visual": "book",
+      "sources": ["quran:1:5"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Saying amin together",
+        "ar": "التأمين مع الإمام"
+      },
+      "body": {
+        "en": "After the imam finishes Al-Fatiha, the congregation says amin. The Prophet ﷺ taught that when the imam says amin, you say it too, and that whoever's amin coincides with the amin of the angels has his past sins forgiven. It is a small word, yet the hadith shows how a moment of unity in prayer, joined with the angels, carries great mercy. Say it clearly and with hope, not absent-mindedly.",
+        "ar": "بعد أن يفرغ الإمام من الفاتحة يؤمّن المأمومون. وقد علّم النبي ﷺ أن المأموم يؤمّن عقب تأمين إمامه، وأن من جاء تأمينه موافقًا لتأمين الملائكة كُفّرت عنه ذنوبه السالفة. وهي كلمة يسيرة، لكن الحديث يبيّن كيف أن لحظة اتفاقٍ في الصلاة، مع الملائكة، تحمل رحمةً عظيمة. فقلها بوضوحٍ ورجاء، لا غافلًا."
+      },
+      "takeaway": {
+        "en": "Saying amin with the imam, in time with the angels, brings forgiveness.",
+        "ar": "التأمين مع الإمام موافقةً للملائكة سببٌ للمغفرة."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:5844"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Between the two prostrations",
+        "ar": "بين السجدتين"
+      },
+      "body": {
+        "en": "When you sit between the two prostrations, the Prophet ﷺ used to make a short supplication asking Allah for five things: forgiveness, mercy, well-being, guidance and provision. Scholars note that these words gather the good of this life and the next. Learn their meaning so that in that brief sitting you are not silent or distracted, but consciously asking your Lord for everything you truly need.",
+        "ar": "حين تجلس بين السجدتين كان النبي ﷺ يدعو دعاءً قصيرًا يسأل الله فيه خمسًا: المغفرة والرحمة والعافية والهداية والرزق. ويذكر العلماء أن هذه الكلمات تجمع خير الدنيا والآخرة. فتعلّم معناها حتى لا تكون في تلك الجلسة اليسيرة صامتًا أو شاردًا، بل سائلًا ربك بوعيٍ كل ما تحتاجه حقًّا."
+      },
+      "takeaway": {
+        "en": "The sitting du'a asks for forgiveness, mercy, well-being, guidance and provision.",
+        "ar": "دعاء الجلوس يسأل المغفرة والرحمة والعافية والهداية والرزق."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:10930"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "The tashahhud",
+        "ar": "التشهد"
+      },
+      "body": {
+        "en": "Near the end of the prayer you sit for the tashahhud, which the Prophet ﷺ taught his Companions as carefully as he taught a surah. In it you offer to Allah every word and deed of honour, send greetings of peace upon the Prophet ﷺ and upon the righteous servants of Allah, and then repeat the two testimonies of faith. So the prayer closes with the very declaration that began your Islam: the oneness of Allah and the messengership of Muhammad ﷺ, His servant and Messenger.",
+        "ar": "قُبيل نهاية الصلاة تجلس للتشهد الذي علّمه النبي ﷺ أصحابه كما يعلّمهم السورة. تقدّم فيه لله كل قولٍ وفعلٍ من التعظيم، وتسلّم على النبي ﷺ وعلى الصالحين من عباد ربك، ثم تنطق بالشهادتين. فتُختم الصلاة بالإقرار نفسه الذي بدأ به إسلامك: توحيدِ الله ورسالةِ محمدٍ ﷺ عبدِه ورسولِه."
+      },
+      "takeaway": {
+        "en": "The tashahhud honours Allah, greets the Prophet ﷺ and the righteous, and repeats the shahada.",
+        "ar": "التشهد تعظيمٌ لله وسلامٌ على النبي ﷺ والصالحين وإعادةٌ للشهادتين."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3096"]
+    },
+    {
+      "id": "c7",
+      "kind": "quote",
+      "title": {
+        "en": "Blessings on the Prophet ﷺ",
+        "ar": "الصلاة على النبي ﷺ"
+      },
+      "takeaway": {
+        "en": "Allah commands the believers to send blessings and peace upon the Prophet ﷺ.",
+        "ar": "يأمر الله المؤمنين أن يصلّوا على النبي ﷺ ويسلّموا عليه."
+      },
+      "visual": "book",
+      "sources": ["quran:33:56"]
+    },
+    {
+      "id": "c8",
+      "kind": "practice",
+      "title": {
+        "en": "Pray one prayer slowly",
+        "ar": "صلِّ صلاةً متمهّلًا"
+      },
+      "body": {
+        "en": "Choose one prayer today and move through it slowly, holding the meaning of each phrase in mind. As you say the takbir, let the world fall behind you. In Al-Fatiha, feel that you are speaking to Allah. Say amin with the imam if you pray in congregation. In the sitting, ask for the five things in your own heart. End by greeting the Prophet ﷺ and sending blessings on him. Even one such prayer can change how the next ones feel.",
+        "ar": "اختر صلاةً واحدة اليوم وأدِّها متمهّلًا، مستحضرًا معنى كل عبارة. فعند التكبير دع الدنيا خلفك. وفي الفاتحة استشعر أنك تخاطب الله. وأمّن مع الإمام إن صليت جماعة. وفي الجلوس اسأل الخمس بقلبك. واختم بالسلام على النبي ﷺ والصلاة عليه. وصلاةٌ واحدة كهذه قد تغيّر إحساسك بما بعدها."
+      },
+      "takeaway": {
+        "en": "Praying one prayer with its meanings in mind lifts the ones that follow.",
+        "ar": "أداء صلاةٍ واحدة بوعي المعاني يرفع ما بعدها."
+      },
+      "visual": "steps",
+      "label": "suggestion",
+      "sources": ["quran:1:5", "quran:33:56"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the meaning of the opening takbir, Allahu akbar?",
+        "ar": "ما معنى تكبيرة الإحرام: الله أكبر؟"
+      },
+      "options": [
+        {
+          "en": "A request to start quickly",
+          "ar": "طلب البدء بسرعة"
+        },
+        {
+          "en": "Allah is greater than all that distracts you",
+          "ar": "الله أكبر من كل ما يشغلك"
+        },
+        {
+          "en": "A greeting to the people beside you",
+          "ar": "تحية لمن بجوارك"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ opened the prayer raising his hands with the takbir, which declares Allah's greatness over everything.",
+        "ar": "كان النبي ﷺ يفتتح الصلاة رافعًا يديه بالتكبير الذي يعلن عظمة الله على كل شيء."
+      },
+      "source": "hadith:henc:3095"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "In Al-Fatiha, what do you declare to Allah in the middle verse?",
+        "ar": "في الفاتحة، بماذا تقرّ لله في الآية الوسطى؟"
+      },
+      "options": [
+        {
+          "en": "That you worship Him alone and seek help from Him alone",
+          "ar": "أنك تعبده وحده وتستعين به وحده"
+        },
+        {
+          "en": "That you will fast tomorrow",
+          "ar": "أنك ستصوم غدًا"
+        },
+        {
+          "en": "That you have given charity",
+          "ar": "أنك تصدّقت"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The verse places both worship and reliance before Allah alone.",
+        "ar": "تضع الآية العبادة والاستعانة بين يدي الله وحده."
+      },
+      "source": "quran:1:5"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Prophet ﷺ say happens when your amin matches the angels' amin?",
+        "ar": "ماذا يحصل إذا وافق تأمينك تأمين الملائكة كما قال النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "Nothing in particular",
+          "ar": "لا شيء بخصوص ذلك"
+        },
+        {
+          "en": "The prayer must be repeated",
+          "ar": "تجب إعادة الصلاة"
+        },
+        {
+          "en": "Past sins are forgiven",
+          "ar": "يُغفر ما تقدم من الذنب"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ said whoever's amin coincides with the angels' amin has his past sins forgiven.",
+        "ar": "قال النبي ﷺ من وافق تأمينه تأمين الملائكة غُفر له ما تقدم من ذنبه."
+      },
+      "source": "hadith:henc:5844"
+    }
+  ]
+}

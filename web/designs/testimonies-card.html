@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The two testimonies of faith</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap" rel="stylesheet">
+  <style>
+    body { margin: 0; padding: clamp(1rem, 4vw, 3rem); background: #f3f1eb; font-family: 'Segoe UI', sans-serif; }
+/* A quiet, warm frame for the two testimonies. */
+.shahada-card {
+  box-sizing: border-box;
+  max-width: 56rem;
+  margin: 1rem auto 0;
+  padding: clamp(1.25rem, 3vw, 1.75rem);
+  border: 1px solid #e8dfce;
+  border-radius: 1.25rem;
+  background: radial-gradient(ellipse at 50% 0%, #f6f0e3 0%, #fffcf7 75%);
+  color: #183e35;
+  text-align: start;
+  box-shadow: 0 8px 28px -12px rgb(48 62 48 / 14%);
+}
+.shahada-title {
+  margin: 0;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.shahada-intro {
+  margin: 0.375rem 0 0;
+  color: #53635d;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  text-wrap: pretty;
+}
+.shahada-testimonies {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.75rem;
+  margin-top: 1.5rem;
+}
+.shahada-testimony {
+  min-width: 0;
+  text-align: center;
+  padding-inline: 0.25rem;
+}
+.shahada-ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.875rem;
+  color: #b38a3e;
+  margin-bottom: 1rem;
+}
+.shahada-ornament::before, .shahada-ornament::after {
+  content: "";
+  height: 1px;
+  width: clamp(3rem, 10vw, 6rem);
+  background: #dfcfae;
+}
+.shahada-ornament span { font-size: 1.125rem; line-height: 1; }
+.shahada-label {
+  margin: 0;
+  color: #89672e;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+.shahada-arabic {
+  margin: 0.375rem 0 0;
+  font-family: var(--font-amiri-quran, "Amiri Quran"), "Amiri", "Scheherazade New", serif;
+  font-size: clamp(1.75rem, 3.25vw, 2.375rem);
+  font-weight: 400;
+  line-height: 1.5;
+  color: #183e35;
+  text-wrap: balance;
+}
+.shahada-translation {
+  max-width: 28rem;
+  margin: 0.25rem auto 0;
+  color: #52646a;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.55;
+  text-wrap: pretty;
+}
+@media (min-width: 768px) {
+  .shahada-testimonies { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; }
+}
+  </style>
+</head>
+<body>
+  <aside class="shahada-card" aria-labelledby="shahada-title">
+    <h2 id="shahada-title" class="shahada-title">The two testimonies of faith</h2>
+    <p class="shahada-intro">To become Muslim, a person declares the two testimonies of faith, sincerely believing in their meaning:</p>
+    <div class="shahada-testimonies">
+      <div class="shahada-testimony">
+        <div class="shahada-ornament" aria-hidden="true"><span>✦</span></div>
+        <p class="shahada-label">First</p>
+        <p class="shahada-arabic" lang="ar" dir="rtl">أشهد أن لا إله إلا الله،</p>
+        <p class="shahada-translation" lang="en" dir="ltr">I bear witness that there is no deity worthy of worship except Allah,</p>
+      </div>
+      <div class="shahada-testimony">
+        <div class="shahada-ornament" aria-hidden="true"><span>✦</span></div>
+        <p class="shahada-label">Second</p>
+        <p class="shahada-arabic" lang="ar" dir="rtl"> وأشهد أن محمدًا رسول الله</p>
+        <p class="shahada-translation" lang="en" dir="ltr"> and I bear witness that Muhammad is the Messenger of Allah.</p>
+      </div>
+    </div>
+  </aside>
+</body>
+</html>

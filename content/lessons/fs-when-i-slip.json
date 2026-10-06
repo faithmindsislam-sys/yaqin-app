@@ -1,0 +1,235 @@
+{
+  "id": "fs-when-i-slip",
+  "subject": "aqidah",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 4,
+  "title": {
+    "en": "When I slip: repentance",
+    "ar": "إذا قصّرتُ: التوبة والرجوع إلى الله"
+  },
+  "summary": {
+    "en": "Everyone sins; the door to Allah's mercy stays open, and turning back to Him is itself a beloved act.",
+    "ar": "كل الناس يخطئون، وباب رحمة الله مفتوح، والرجوع إليه بذاته عملٌ يحبه الله."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Everyone slips",
+        "ar": "الكل يخطئ"
+      },
+      "body": {
+        "en": "No one is free of mistakes, and faith does not mean never falling. What matters is what you do after you fall. The Prophet ﷺ taught that if people never sinned, Allah would replace them with others who would sin and then seek His forgiveness, so that He could forgive them. So a slip is not the end of your journey. It is a chance to turn back.",
+        "ar": "لا أحد يخلو من الخطأ، وليس الإيمان أن لا تقع أبدًا، بل العبرة بما تصنعه بعد الوقوع. وقد علّمنا النبي ﷺ أن الناس لو لم يقعوا في الذنب لأذهبهم الله وأتى بغيرهم ممن يُخطئون ثم يطلبون المغفرة فيعفو عنهم. فالزلّة ليست نهاية طريقك، بل فرصة للرجوع."
+      },
+      "takeaway": {
+        "en": "Falling is human; returning to Allah is the goal.",
+        "ar": "الوقوع من طبع البشر، والرجوع إلى الله هو المقصود."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:muslim:2749"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Do not despair",
+        "ar": "لا تقنط"
+      },
+      "takeaway": {
+        "en": "Allah invites those who have wronged themselves not to lose hope: He forgives all sins.",
+        "ar": "يدعو الله من أسرف على نفسه ألا ييأس، فهو يغفر الذنوب جميعًا."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:39:53"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Allah loves those who return",
+        "ar": "الله يحب التوّابين"
+      },
+      "body": {
+        "en": "Turning back to Allah is not just allowed; it is loved by Him. The Quran says Allah loves those who constantly repent and keep themselves pure. So when you come back after a mistake, you are not crawling to a door that might stay shut. You are coming to One who is pleased that you came. The more sincerely you return, the closer you draw to Him.",
+        "ar": "الرجوع إلى الله ليس مجرد مباح، بل هو محبوب عنده. يقول القرآن إن الله يحب التوّابين ويحب المتطهّرين. فإذا رجعت بعد الزلة فأنت لا تطرق بابًا قد يبقى مغلقًا، بل تقصد من يفرح برجوعك. وكلما كان رجوعك أصدق ازددت قربًا منه."
+      },
+      "takeaway": {
+        "en": "Repentance is a deed Allah loves, not a last resort.",
+        "ar": "التوبة عملٌ يحبه الله، لا مجرد حلٍّ أخير."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:222"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "They remember and ask",
+        "ar": "يذكرون فيستغفرون"
+      },
+      "takeaway": {
+        "en": "The righteous, when they do wrong, remember Allah, seek forgiveness, and do not keep on doing it.",
+        "ar": "الصالحون إذا أذنبوا ذكروا الله واستغفروا ولم يصرّوا على الذنب."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:3:135"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "The Prophet ﷺ asked too",
+        "ar": "والنبي ﷺ كان يستغفر"
+      },
+      "body": {
+        "en": "The Prophet ﷺ was the best of people, yet he would ask Allah for forgiveness and turn to Him many times every day, more than seventy times. If the one Allah had already forgiven kept returning to Him, then seeking forgiveness is clearly not a sign of being bad. It is the habit of those closest to Allah. Make asking forgiveness a normal, daily part of your life.",
+        "ar": "كان النبي ﷺ خير الناس، ومع ذلك كان يستغفر الله ويتوب إليه في اليوم مرات كثيرة تزيد على السبعين. فإذا كان من غفر الله له يداوم على الرجوع إليه، فمعلوم أن الاستغفار ليس علامة سوء، بل هو دأب أقرب الناس إلى الله. فاجعل الاستغفار جزءًا يوميًا طبيعيًا من حياتك."
+      },
+      "takeaway": {
+        "en": "Seeking forgiveness often is the way of the best people.",
+        "ar": "كثرة الاستغفار من هدي خير الناس."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:6307"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "What sincere repentance is",
+        "ar": "ما هي التوبة الصادقة"
+      },
+      "body": {
+        "en": "The Quran calls believers to turn to Allah with sincere repentance. In simple terms, that means: stop the wrong action now, feel genuine regret for it, firmly resolve not to go back to it, and put right what you can, such as returning a right you took. It is a turn of the heart followed by a change in action. You do not need special words; you need honesty before Allah.",
+        "ar": "يدعو القرآن المؤمنين إلى توبةٍ صادقة خالصة يرجعون بها إلى ربهم. ومعنى ذلك ببساطة: أن تُقلع عن الخطأ الآن، وتندم عليه ندمًا صادقًا، وتعزم ألا تعود إليه، وتُصلح ما تقدر على إصلاحه كردّ حقٍّ أخذته. فهي التفاتة قلب يتبعها تغيّر في العمل. ولا تحتاج إلى ألفاظ خاصة، بل تحتاج إلى صدقٍ مع الله."
+      },
+      "takeaway": {
+        "en": "Stop, regret, resolve, and put right what you can.",
+        "ar": "أقلِع، واندم، واعزم، وأصلح ما تقدر عليه."
+      },
+      "visual": "steps",
+      "sources": [
+        "quran:66:8"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Never lose hope",
+        "ar": "لا تيأس أبدًا"
+      },
+      "body": {
+        "en": "Shaytan may whisper that you have gone too far, that there is no use returning. Do not believe it. The Prophet ﷺ listed despairing of Allah's mercy among the gravest sins. Giving up hope is itself a mistake, because it thinks too little of how merciful Allah is. However far you feel you have gone, the way back is open. Turn to Him, and keep your hope alive.",
+        "ar": "قد يوسوس الشيطان أنك جاوزت الحد وأنه لا فائدة من الرجوع، فلا تصدّقه. وقد عدّ النبي ﷺ القنوط من رحمة الله من أكبر الكبائر. فاليأس نفسه خطأ، لأنه استقلالٌ لرحمة الله الواسعة. ومهما شعرت أنك ابتعدت فالطريق إليه مفتوح. فارجع إليه، وأبقِ رجاءك حيًّا."
+      },
+      "takeaway": {
+        "en": "Despairing of Allah's mercy is a mistake; the way back is always open.",
+        "ar": "القنوط من رحمة الله خطأ، والطريق إليه مفتوح دائمًا."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:6049"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Quran tell those who have wronged themselves by sinning?",
+        "ar": "بماذا يخاطب القرآن من أسرفوا على أنفسهم بالذنوب؟"
+      },
+      "options": [
+        {
+          "en": "Not to despair of Allah's mercy",
+          "ar": "ألا يقنطوا من رحمة الله"
+        },
+        {
+          "en": "That there is no forgiveness for them",
+          "ar": "أنه لا مغفرة لهم"
+        },
+        {
+          "en": "To hide their sins forever",
+          "ar": "أن يُخفوا ذنوبهم دائمًا"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Allah tells His servants who transgressed not to despair, for He forgives all sins.",
+        "ar": "يقول الله لعباده الذين أسرفوا ألا يقنطوا، فهو يغفر الذنوب جميعًا."
+      },
+      "source": "quran:39:53"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How often did the Prophet ﷺ seek Allah's forgiveness?",
+        "ar": "كم كان النبي ﷺ يستغفر الله؟"
+      },
+      "options": [
+        {
+          "en": "Only once in his life",
+          "ar": "مرة واحدة في حياته"
+        },
+        {
+          "en": "More than seventy times a day",
+          "ar": "أكثر من سبعين مرة في اليوم"
+        },
+        {
+          "en": "Only during Ramadan",
+          "ar": "في رمضان فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He said that he sought Allah's forgiveness and turned to Him more than seventy times a day.",
+        "ar": "قال إنه يستغفر الله ويتوب إليه في اليوم أكثر من سبعين مرة."
+      },
+      "source": "hadith:bukhari:6307"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "According to the Prophet ﷺ, giving up hope in Allah's mercy is…",
+        "ar": "عند النبي ﷺ، القنوط من رحمة الله هو…"
+      },
+      "options": [
+        {
+          "en": "A small matter with no weight",
+          "ar": "أمر يسير لا وزن له"
+        },
+        {
+          "en": "Required of a sinner",
+          "ar": "مطلوب من المذنب"
+        },
+        {
+          "en": "Among the gravest of sins",
+          "ar": "من أكبر الكبائر"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ counted despairing of Allah's mercy among the gravest major sins.",
+        "ar": "عدّ النبي ﷺ القنوط من رحمة الله من أكبر الكبائر."
+      },
+      "source": "hadith:henc:6049"
+    }
+  ]
+}

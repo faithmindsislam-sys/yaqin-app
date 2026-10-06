@@ -1,0 +1,45 @@
+{
+  "schema_version": "yaqin-source-registry/1.0",
+  "providers": [
+    {
+      "provider": "hadeethenc",
+      "canonical_for": "hadith",
+      "source_of_truth": true,
+      "priority": "primary",
+      "scope": ["hadith_text", "published_english_translation", "associated_explanation"],
+      "website": "https://hadeethenc.com/en/home",
+      "api_documentation": "https://documenter.getpostman.com/view/5211979/TVev3j7q",
+      "corpus_manifest": "resources/hadeethenc/manifest.json",
+      "datasets": {"ar": "resources/hadeethenc/ar.jsonl", "en": "resources/hadeethenc/en.jsonl"},
+      "stable_id_pattern": "hadith:henc:<provider_id>",
+      "authenticity_policy": "Retain the provider's attributed grade verbatim. No inferred, upgraded or independently assigned grade.",
+      "commentary_policy": "Hadith text and published translation are distinct from explanation, benefits, vocabulary, notes and scholarly references.",
+      "missing_translation_policy": "Keep Arabic records and explicit missing-English status. Never generate translations.",
+      "review_status": "pending"
+    },
+    {
+      "provider": "dorar",
+      "source_of_truth": false,
+      "priority": "secondary",
+      "corpus_catalog": "resources/dorar/catalog.json",
+      "scope": ["secondary_hadith_reference", "scholarly_reference"],
+      "quotation_policy": "Dorar wording stays attributed to Dorar; it never replaces canonical HadeethEnc wording."
+    },
+    {
+      "provider": "fawazahmed0/hadith-api",
+      "source_of_truth": false,
+      "priority": "secondary",
+      "scope": ["collection_reference"],
+      "quotation_policy": "Existing collection IDs remain attributed references; use linked HadeethEnc IDs for canonical quotations where mapped."
+    },
+    {
+      "provider": "dawa-books",
+      "source_of_truth": false,
+      "priority": "secondary",
+      "corpus_path": "resources/dawa-corpus",
+      "quotation_policy": "Hadith quotations inside books are book content and cannot silently replace canonical HadeethEnc quotations."
+    }
+  ],
+  "quran_policy": "Quran editions, translations, tafsir and recitations retain their own independent provenance and designation. This registry sets precedence for hadith only.",
+  "citation_policy": "Retain HadeethEnc provider ID, language, official page URL, original collection references, acquisition provenance and provider revision when supplied."
+}

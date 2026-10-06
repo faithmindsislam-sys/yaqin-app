@@ -1,0 +1,225 @@
+{
+  "id": "fs-tayammum",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 4,
+  "title": {
+    "en": "Tayammum: when there is no water",
+    "ar": "التيمم: حين لا أجد الماء"
+  },
+  "summary": {
+    "en": "When water is out of reach or would harm you, clean earth can take its place to prepare you for prayer.",
+    "ar": "حين يتعذّر الماء أو يضرّك استعماله، يقوم التراب الطاهر مقامه ليهيّئك للصلاة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Purity is still possible",
+        "ar": "الطهارة ما زالت ممكنة"
+      },
+      "body": {
+        "en": "Normally you use water for wudu or ghusl before prayer. But sometimes there is no water, or using it would harm you, for example when you are ill. Islam gives you a simple way out: tayammum, a dry purification using clean earth. It lets you pray on time instead of missing the prayer, and it keeps your heart connected to Allah even in difficulty.",
+        "ar": "في العادة تستعمل الماء للوضوء أو الغُسل قبل الصلاة. لكن قد لا تجد ماءً، أو يكون استعماله ضارًّا بك، كما في حال المرض. وقد جعل الإسلام مخرجًا يسيرًا: التيمم، وهو طهارة بالتراب الطاهر، تتيح لك أن تصلي في وقتها بدل أن تفوتك الصلاة، ويبقى قلبك موصولًا بالله حتى في الشدة."
+      },
+      "takeaway": {
+        "en": "When water is out of reach, you can still purify and pray.",
+        "ar": "حين يتعذّر الماء، تبقى الطهارة والصلاة ممكنتين."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:5423"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The verse that allows it",
+        "ar": "الآية التي أباحته"
+      },
+      "takeaway": {
+        "en": "If you are ill, travelling, or cannot find water, the verse tells you to turn to clean earth.",
+        "ar": "إن كنت مريضًا أو مسافرًا أو لم تجد ماءً، أرشدتك الآية إلى اللجوء للتراب الطاهر."
+      },
+      "visual": "book",
+      "sources": ["quran:5:6"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "When it applies",
+        "ar": "متى يُشرع"
+      },
+      "body": {
+        "en": "The Quran names the cases plainly: being ill, being on a journey, or simply not finding water after you look for it. In any of these, you may turn to clean earth instead. The Prophet ﷺ also taught that the earth was made a means of purification for this community when water is not found, so this is a mercy, not a loophole.",
+        "ar": "ذكر القرآن الحالات بوضوح: المرض، أو السفر، أو عدم وجود الماء بعد طلبه. في أيٍّ من ذلك يجوز لك اللجوء إلى التراب الطاهر. وقد علّم النبي ﷺ أن الأرض جُعلت طَهورًا لهذه الأمة عند فقد الماء، فهذا رحمة لا تحايل."
+      },
+      "takeaway": {
+        "en": "Illness, travel, or no water: these are when tayammum is for you.",
+        "ar": "المرض، أو السفر، أو فقد الماء: هذه مواضع التيمم."
+      },
+      "visual": "none",
+      "sources": ["quran:5:6", "quran:4:43", "hadith:henc:10026"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "How to do it",
+        "ar": "كيف تتيمم"
+      },
+      "body": {
+        "en": "The Prophet ﷺ showed the Companion 'Ammar a simple way. Strike the clean earth once with your palms, then wipe your face, then wipe your hands. That is all. There is no washing and no repetition. 'Ammar had thought he must roll his whole body in the dirt, and the Prophet ﷺ gently corrected him and showed him this short way.",
+        "ar": "علّم النبي ﷺ الصحابيَّ عمّارًا طريقة يسيرة: اضرب التراب الطاهر بكفّيك ضربة واحدة، ثم امسح وجهك، ثم امسح يديك. هذا كل شيء، بلا غسلٍ ولا تكرار. وكان عمّار قد ظنّ أن عليه أن يتمرّغ بجسده كله في التراب، فصحّح له النبي ﷺ برفق وبيّن له هذه الطريقة القصيرة."
+      },
+      "takeaway": {
+        "en": "Strike the earth once, wipe your face, then your hands.",
+        "ar": "اضرب التراب مرة، وامسح وجهك ثم يديك."
+      },
+      "visual": "steps",
+      "label": "obligatory",
+      "sources": ["hadith:henc:3461"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "It stands in for water",
+        "ar": "يقوم مقام الماء"
+      },
+      "body": {
+        "en": "Tayammum takes the place of both wudu and the full washing of ghusl in that situation, so you can pray. 'Ammar had been in a state needing ghusl, and the Prophet ﷺ still taught him this dry purification. The moment clean water is available again, you go back to using water. Tayammum is for the time of need, not a permanent replacement.",
+        "ar": "يقوم التيمم في هذه الحال مقام الوضوء ومقام الغُسل الكامل، فتستطيع أن تصلي. وقد كان عمّار محتاجًا إلى الغُسل، ومع ذلك علّمه النبي ﷺ هذه الطهارة بالتراب. فإذا توفّر الماء الطاهر عدتَ إلى استعماله. فالتيمم لوقت الحاجة لا بديلٌ دائم."
+      },
+      "takeaway": {
+        "en": "It replaces water for now; when water returns, use it.",
+        "ar": "يقوم مقام الماء مؤقتًا، فإذا وُجد الماء رجعتَ إليه."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3461", "hadith:henc:10026"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "A sign of ease",
+        "ar": "علامة على اليسر"
+      },
+      "body": {
+        "en": "The verse of tayammum ends by making clear that Allah does not wish to burden you; rather He wishes to cleanse you and perfect His favour upon you. This is the spirit of the whole religion: Allah wants ease for you, not hardship. Tayammum is one clear example of how worship bends to your real circumstances so that you are never cut off from your prayer.",
+        "ar": "تُختم آية التيمم ببيان أن الله لا يريد أن يُثقل عليك، بل يريد أن يطهّرك ويُتمّ نعمته عليك. وهذا روح الدين كله: يريد الله بك اليسر لا العسر. والتيمم مثال واضح على أن العبادة تراعي ظروفك الحقيقية حتى لا تنقطع عن صلاتك أبدًا."
+      },
+      "takeaway": {
+        "en": "Allah wants ease for you, not hardship.",
+        "ar": "يريد الله بك اليسر لا العسر."
+      },
+      "visual": "none",
+      "sources": ["quran:5:6", "quran:2:185"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Remember it for the moment",
+        "ar": "تذكّره عند الحاجة"
+      },
+      "body": {
+        "en": "Keep the steps ready in your mind for a day when you have no water. First, look for water; tayammum is for when there is truly none, or when water would harm you. Then intend to purify yourself for prayer, strike the clean earth once, wipe your face, and wipe your hands. Then pray. Knowing this now means a missing tap will never stop you from praying.",
+        "ar": "احتفظ بالخطوات في ذهنك ليومٍ لا تجد فيه ماءً. أولًا اطلب الماء، فالتيمم عند فقده حقًّا أو عند ضرره بك. ثم انوِ التطهّر للصلاة، واضرب التراب الطاهر مرة، وامسح وجهك، ثم يديك، ثم صلِّ. ومعرفتك بذلك الآن تعني أن انقطاع الماء لن يمنعك من الصلاة."
+      },
+      "takeaway": {
+        "en": "Look for water first; if there is none, earth will do.",
+        "ar": "اطلب الماء أولًا، فإن لم تجده كفاك التراب."
+      },
+      "visual": "steps",
+      "label": "suggestion",
+      "sources": ["quran:4:43"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "When is tayammum allowed?",
+        "ar": "متى يُباح التيمم؟"
+      },
+      "options": [
+        {
+          "en": "Whenever wudu feels like too much effort",
+          "ar": "كلما شقّ عليك الوضوء"
+        },
+        {
+          "en": "When you are ill, travelling, or cannot find water",
+          "ar": "عند المرض أو السفر أو عدم وجود الماء"
+        },
+        {
+          "en": "Only on the day of Eid",
+          "ar": "في يوم العيد فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse names illness, travel, and not finding water as the cases for turning to clean earth.",
+        "ar": "ذكرت الآية المرض والسفر وعدم وجود الماء مواضعَ للجوء إلى التراب الطاهر."
+      },
+      "source": "quran:5:6"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How did the Prophet ﷺ show 'Ammar to perform it?",
+        "ar": "كيف أرى النبيُّ ﷺ عمّارًا أداءه؟"
+      },
+      "options": [
+        {
+          "en": "Strike the earth once, then wipe the face and the hands",
+          "ar": "ضربُ التراب مرة، ثم مسحُ الوجه واليدين"
+        },
+        {
+          "en": "Roll the whole body in the dirt",
+          "ar": "التمرّغ بالجسد كله في التراب"
+        },
+        {
+          "en": "Wash each limb three times with earth",
+          "ar": "غسل كل عضو ثلاثًا بالتراب"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ struck the ground once and wiped the hands and the face, correcting 'Ammar's rolling in the dirt.",
+        "ar": "ضرب النبي ﷺ الأرض مرة ومسح اليدين والوجه، مصحّحًا تمرّغ عمّار في التراب."
+      },
+      "source": "hadith:henc:3461"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the verse of tayammum say about Allah's intention?",
+        "ar": "ماذا تقول آية التيمم عن إرادة الله؟"
+      },
+      "options": [
+        {
+          "en": "He wants to test your patience with hardship",
+          "ar": "يريد اختبار صبرك بالمشقة"
+        },
+        {
+          "en": "He wants only the strong to pray",
+          "ar": "يريد أن يصلي الأقوياء فقط"
+        },
+        {
+          "en": "He does not want to burden you, but to purify you",
+          "ar": "لا يريد أن يُثقل عليك بل أن يطهّرك"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The verse closes by saying Allah intends ease and purity for you, not difficulty.",
+        "ar": "تُختم الآية بأن الله يريد بك اليسر والطهارة لا العسر."
+      },
+      "source": "quran:5:6"
+    }
+  ]
+}

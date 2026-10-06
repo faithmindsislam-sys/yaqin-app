@@ -1,0 +1,33 @@
+# Keep configured environment files local; only templates are tracked.
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.idea/
+
+# node / next
+node_modules/
+.next/
+.next-course-check/
+out/
+*.tsbuildinfo
+web/src/generated/
+
+# misc
+.DS_Store
+*.log
+
+# Generated from content/subjects.json and content/course-migration.json
+web/src/lib/course-catalog.json
+
+# Quran reader output is generated from the canonical S3 resources.
+web/public/data/quran/

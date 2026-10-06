@@ -1,0 +1,301 @@
+{
+  "id": "what-is-islam",
+  "subject": "islam",
+  "tracks": [
+    "explore"
+  ],
+  "level": 1,
+  "minutes": 8,
+  "title": {
+    "en": "What is Islam, and who is its message for?",
+    "ar": "ما الإسلام؟ ولمن جاءت رسالته؟"
+  },
+  "summary": {
+    "en": "Get to know Islam: its meaning, the prophets’ shared message, and its invitation to all humanity. Read a source, reflect, and check your understanding.",
+    "ar": "تعرّف إلى معنى الإسلام، ورسالة الأنبياء المشتركة، ودعوته إلى البشرية كلّها. اقرأ مصدرًا، وتأمّل، وراجع فهمك."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "What does Islam mean?",
+        "ar": "ما معنى الإسلام؟"
+      },
+      "takeaway": {
+        "en": "Islam begins with devotion to God and following His guidance.",
+        "ar": "يبدأ الإسلام بإخلاص العبادة لله واتّباع هدايته."
+      },
+      "sources": [
+        "ref:terminologyenc:43613"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c1.en.mp3",
+        "ar": "/audio/what-is-islam/c1.ar.mp3"
+      },
+      "body": {
+        "en": "Islam means turning to God in devotion: worshipping Him alone and following His guidance. In Islamic teaching, belief belongs with obedience and action. In this short course, you will learn what Islam means and who its message addresses.",
+        "ar": "الإسلام هو التوجّه إلى الله بالعبادة وحده، والاستجابة له باتّباع هدايته. وفي تعاليم الإسلام يرتبط الاعتقاد بالطاعة والعمل. في هذا الدرس القصير ستتعرّف إلى معنى الإسلام وإلى من تتوجّه رسالته."
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Who is a Muslim?",
+        "ar": "من هو المسلم؟"
+      },
+      "takeaway": {
+        "en": "Being Muslim is a matter of faith and commitment.",
+        "ar": "الإسلام إيمان والتزام بتعاليمه."
+      },
+      "sources": [
+        "ref:terminologyenc:43613",
+        "ref:book:islam-overview:opening"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c2.en.mp3",
+        "ar": "/audio/what-is-islam/c2.ar.mp3"
+      },
+      "body": {
+        "en": "A Muslim is someone who embraces Islam: believing in God and seeking to live by the guidance He revealed to Muhammad ﷺ. The name describes a religious commitment. Islam’s invitation is addressed to people of every background.",
+        "ar": "المسلم هو من يؤمن بالإسلام ويحرص على أن يعيش وفق الهداية التي أوحاها الله إلى محمد ﷺ. فكلمة «مسلم» تصف انتماءً دينيًا والتزامًا بتعاليمه. ودعوة الإسلام تتوجّه إلى الناس مهما اختلفت خلفياتهم."
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A shared message across the prophets",
+        "ar": "رسالة مشتركة بين الأنبياء"
+      },
+      "takeaway": {
+        "en": "The prophets share the call to worship God.",
+        "ar": "يشترك الأنبياء في الدعوة إلى عبادة الله."
+      },
+      "sources": [
+        "ref:terminologyenc:43613",
+        "ref:book:islam-overview:opening"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c3.en.mp3",
+        "ar": "/audio/what-is-islam/c3.ar.mp3"
+      },
+      "body": {
+        "en": "Muslims understand Islam, in its broad sense, as the devotion to God taught by the prophets. The prophets called people to worship their Creator; the laws given to their communities could differ. In its specific sense, Islam is the message revealed to Muhammad ﷺ.",
+        "ar": "يفهم المسلمون الإسلام بمعناه العام على أنه عبادة الله التي دعا إليها الأنبياء. فقد وجّه الأنبياء الناس إلى عبادة خالقهم، مع اختلاف بعض الشرائع التي أُعطيت لأممهم. وبمعناه الخاص، الإسلام هو الرسالة التي أوحاها الله إلى محمد ﷺ."
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Who is the message for?",
+        "ar": "لمن جاءت الرسالة؟"
+      },
+      "takeaway": {
+        "en": "Islam’s message addresses all people.",
+        "ar": "رسالة الإسلام موجّهة إلى جميع البشر."
+      },
+      "sources": [
+        "ref:book:islam-overview:opening",
+        "quran:7:158"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c4.en.mp3",
+        "ar": "/audio/what-is-islam/c4.ar.mp3"
+      },
+      "body": {
+        "en": "Islam presents its message as guidance for all humanity. It is addressed to women and men, across peoples, languages and countries. Its invitation is not limited to an ethnic group. You can begin learning about it whatever your background.",
+        "ar": "يقدّم الإسلام رسالته هدايةً للبشرية كلّها. فهي موجّهة إلى النساء والرجال، على اختلاف شعوبهم ولغاتهم وبلدانهم. ولا تقتصر دعوته على جماعة عِرقية معيّنة. ويمكنك البدء بالتعرّف إليه مهما كانت خلفيتك."
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "quote",
+      "title": {
+        "en": "Read the source: a message for humanity",
+        "ar": "اقرأ المصدر: رسالة إلى البشرية"
+      },
+      "takeaway": {
+        "en": "This verse describes Muhammad’s ﷺ mission as addressed to humanity.",
+        "ar": "تبيّن هذه الآية أن رسالة محمد ﷺ تتوجّه إلى البشر جميعًا."
+      },
+      "sources": [
+        "quran:7:158"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c5.en.mp3",
+        "ar": "/audio/what-is-islam/c5.ar.mp3"
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Faith takes shape in life",
+        "ar": "الإيمان يظهر في الحياة"
+      },
+      "takeaway": {
+        "en": "Islam connects belief with worship and action.",
+        "ar": "يربط الإسلام بين الاعتقاد والعبادة والعمل."
+      },
+      "sources": [
+        "ref:terminologyenc:43613",
+        "hadith:henc:65000"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c6.en.mp3",
+        "ar": "/audio/what-is-islam/c6.ar.mp3"
+      },
+      "body": {
+        "en": "Islam includes beliefs and acts of worship. Its five pillars give a first picture of that practice: affirming faith, daily prayer, zakat for those entitled to it, fasting in Ramadan, and pilgrimage. Here we are only meeting these foundations; later courses explain their meanings and conditions.",
+        "ar": "يشمل الإسلام معتقدات وعبادات. وتُعطي أركانه الخمسة صورة أولى عن ممارسته: الإقرار بالإيمان، وأداء الصلاة، وبذل الزكاة لمستحقّيها، والصيام خلال رمضان، والحج. نكتفي هنا بالتعرّف إلى هذه الأسس، وتشرح الدروس اللاحقة معانيها وشروطها."
+      }
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Pause, reflect and choose your next step",
+        "ar": "توقّف وتأمّل واختر خطوتك التالية"
+      },
+      "takeaway": {
+        "en": "You can explore and ask questions at your own pace.",
+        "ar": "يمكنك الاستكشاف وطرح الأسئلة بالوتيرة التي تناسبك."
+      },
+      "sources": [
+        "quran:2:256",
+        "quran:16:125",
+        "ref:terminologyenc:43613",
+        "ref:book:islam-overview:opening"
+      ],
+      "visual": "none",
+      "audio": {
+        "en": "/audio/what-is-islam/c7.en.mp3",
+        "ar": "/audio/what-is-islam/c7.ar.mp3"
+      },
+      "body": {
+        "en": "Islam teaches that people should be invited with wisdom and respectful discussion, and rejects compulsion in accepting religion. Try explaining two ideas in your own words: what Islam means, and who its message is for. Then choose what suits you: explore a source, ask a question, return later, or stop here for now.",
+        "ar": "تدعو تعاليم الإسلام إلى عرض رسالته بحكمة وحوار حسن، وترفض الإكراه على قبول الدين. جرّب أن تشرح بفهمك فكرتين: ما معنى الإسلام، ولمن تتوجّه رسالته؟ ثم اختر ما يناسبك: التعمّق في مصدر، أو طرح سؤال، أو العودة لاحقًا، أو الاكتفاء الآن بما تعلّمته."
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "In two or three sentences, explain what Islam means and who its message is for to someone learning about it for the first time.",
+      "ar": "اشرح في جملتين أو ثلاث لشخص يتعرّف إلى الإسلام لأول مرة: ما معناه، ولمن جاءت رسالته؟"
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Islam involves worshipping God alone and following His guidance.",
+        "ar": "يتضمّن الإسلام إخلاص العبادة لله واتّباع هدايته.",
+        "source": "ref:terminologyenc:43613"
+      },
+      {
+        "id": "k2",
+        "en": "The prophets share the call to worship God, while their laws could differ.",
+        "ar": "يشترك الأنبياء في الدعوة إلى عبادة الله، مع إمكان اختلاف شرائعهم.",
+        "source": "ref:book:islam-overview:opening"
+      },
+      {
+        "id": "k3",
+        "en": "The message addresses all humanity, across peoples and languages.",
+        "ar": "تتوجّه الرسالة إلى البشرية كلّها على اختلاف الشعوب واللغات.",
+        "source": "ref:book:islam-overview:opening"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which answer best describes Islam?",
+        "ar": "أيّ إجابة تصف الإسلام بصورة أدق؟"
+      },
+      "options": [
+        {
+          "en": "A nationality",
+          "ar": "جنسية معيّنة"
+        },
+        {
+          "en": "Devotion to God alone and following His guidance",
+          "ar": "إخلاص العبادة لله واتّباع هدايته"
+        },
+        {
+          "en": "Only a set of inherited customs",
+          "ar": "عادات موروثة فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Islam is a religious commitment to God that includes belief and obedience.",
+        "ar": "الإسلام التزام ديني تجاه الله يشمل الاعتقاد والطاعة."
+      },
+      "source": "ref:terminologyenc:43613"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Who does Islam’s message address?",
+        "ar": "إلى من تتوجّه رسالة الإسلام؟"
+      },
+      "options": [
+        {
+          "en": "All humanity",
+          "ar": "البشرية كلّها"
+        },
+        {
+          "en": "Arabic speakers only",
+          "ar": "الناطقين بالعربية فقط"
+        },
+        {
+          "en": "People from one country",
+          "ar": "أهل بلد واحد"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The booklet’s opening statements describe Islam as a message for all people.",
+        "ar": "تصف العبارات الافتتاحية في الكتيّب الإسلام بأنه رسالة إلى الناس جميعًا."
+      },
+      "source": "ref:book:islam-overview:opening"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does Islam describe the prophets’ shared message?",
+        "ar": "كيف يصف الإسلام الرسالة المشتركة للأنبياء؟"
+      },
+      "options": [
+        {
+          "en": "Each called people to a different creator",
+          "ar": "دعا كلّ نبي إلى خالق مختلف"
+        },
+        {
+          "en": "They all gave their communities identical laws in every detail",
+          "ar": "كانت شرائع أممهم متطابقة في كلّ التفاصيل"
+        },
+        {
+          "en": "They called people to worship God, while their laws could differ",
+          "ar": "دعوا الناس إلى عبادة الله مع إمكان اختلاف شرائعهم"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The source distinguishes the shared religion of the prophets from differences in their laws.",
+        "ar": "يميّز المصدر بين وحدة دين الأنبياء واختلاف شرائعهم."
+      },
+      "source": "ref:book:islam-overview:opening"
+    }
+  ],
+  "cover": "/img/lessons/islam-introduction.png"
+}

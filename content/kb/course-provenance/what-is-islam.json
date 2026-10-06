@@ -1,0 +1,86 @@
+{
+  "course_id": "what-is-islam",
+  "status": "draft",
+  "content_policy": "AI-assisted explanatory prose; religious claims grounded only in existing local acquisitions. Quran and hadith shown from stored records, never retyped.",
+  "external_research_used": false,
+  "book_passages": {
+    "ar": {
+      "book_id": "publisher-islamhouse-ar-2830073",
+      "title": "الإسلام - نبذة موجزة عن الإسلام كما جاء في القرآن الكريم والسنة النبوية",
+      "author": "الفريق العلمي بجمعية خدمة المحتوى الإسلامي باللغات",
+      "url": "https://islamhouse.com/ar/books/2830073/",
+      "pdf_url": null,
+      "pdf_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-ar-2830073.pdf",
+      "metadata_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/metadata/publisher-islamhouse-ar-2830073/metadata.json",
+      "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/9220ca4ec23142fc7990ce6adde9d815373a0220c0c2fc210e77138c665c862c.jsonl",
+      "sha256": "9220ca4ec23142fc7990ce6adde9d815373a0220c0c2fc210e77138c665c862c",
+      "pdf_page": 4,
+      "printed_page": "1",
+      "passage": "Opening statements on universality and the shared religion of the prophets (items 1–4)",
+      "original_extraction_status": "ocr_required",
+      "visual_check": "Cited page checked against the local PDF; text copied from the stored extraction without normalization."
+    },
+    "en": {
+      "book_id": "publisher-islamhouse-en-2830466",
+      "title": "Islam - A Brief Treatise on Islam according to the Quran and the Prophetic Sunnah",
+      "author": null,
+      "url": "https://islamhouse.com/en/books/2830466/",
+      "pdf_url": null,
+      "pdf_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-en-2830466.pdf",
+      "metadata_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/metadata/publisher-islamhouse-en-2830466/metadata.json",
+      "extraction_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/extracted/97acfa693365b32fb37645cb1a8adb19e7eebfbda331b9bf574542a0fa80fdc9.jsonl",
+      "sha256": "97acfa693365b32fb37645cb1a8adb19e7eebfbda331b9bf574542a0fa80fdc9",
+      "pdf_page": 4,
+      "printed_page": "2",
+      "passage": "Opening statements on universality and the shared religion of the prophets (items 1–4)",
+      "original_extraction_status": "ocr_required",
+      "visual_check": "Cited page checked against the local PDF; text copied from the stored extraction without normalization."
+    }
+  },
+  "source_ids": [
+    "hadith:henc:65000",
+    "quran:16:125",
+    "quran:2:256",
+    "quran:7:158",
+    "ref:book:islam-overview:opening",
+    "ref:terminologyenc:43613"
+  ],
+  "card_grounding": {
+    "c1": [
+      "ref:terminologyenc:43613"
+    ],
+    "c2": [
+      "ref:terminologyenc:43613",
+      "ref:book:islam-overview:opening"
+    ],
+    "c3": [
+      "ref:terminologyenc:43613",
+      "ref:book:islam-overview:opening"
+    ],
+    "c4": [
+      "ref:book:islam-overview:opening",
+      "quran:7:158"
+    ],
+    "c5": [
+      "quran:7:158"
+    ],
+    "c6": [
+      "ref:terminologyenc:43613",
+      "hadith:henc:65000"
+    ],
+    "c7": [
+      "quran:2:256",
+      "quran:16:125",
+      "ref:terminologyenc:43613",
+      "ref:book:islam-overview:opening"
+    ]
+  },
+  "notes": [
+    "The Arabic and English book excerpts are separate published editions, not an AI-generated translation.",
+    "Both acquisitions were flagged ocr_required at document level; the cited page was legible in native extraction and checked visually.",
+    "The two editions differ in pagination. The original font ligatures and line breaks remain in source excerpts.",
+    "Narration audio has not been generated.",
+    "Scholarly approval remains pending; the course is not published.",
+    "The Coming soon curriculum entry remains until publication."
+  ]
+}

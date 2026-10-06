@@ -1,0 +1,223 @@
+{
+  "id": "dp-seerah-makkah",
+  "subject": "seerah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "The Prophet ﷺ in Makkah",
+    "ar": "النبي ﷺ في مكة: من الوحي إلى الهجرة"
+  },
+  "summary": {
+    "en": "From the first revelation at forty to the hijrah: the call, the hardship, and Allah's care.",
+    "ar": "من أول الوحي عند الأربعين إلى الهجرة: الدعوة، والابتلاء، ورعاية الله."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Revelation at forty",
+        "ar": "الوحي عند الأربعين"
+      },
+      "body": {
+        "en": "Revelation came to the Prophet ﷺ when he was about forty years old. It began with true dreams, then with the angel in the cave of Hira commanding him to read. He returned home shaken, and his wife Khadija believed in him at once and reassured him. Ibn 'Abbas tells us he then stayed in Makkah thirteen years before being commanded to migrate. These Makkan years are the first chapter of his mission.",
+        "ar": "جاء الوحي النبيَّ ﷺ وهو في نحو الأربعين من عمره. بدأ بالرؤيا الصادقة، ثم بمجيء الملَك في غار حراء يأمره بالقراءة. فرجع إلى بيته فزِعًا، فآمنت به زوجه خديجة من فورها وطمأنته. ويخبرنا ابن عباس أنه مكث بعد ذلك في مكة ثلاث عشرة سنة قبل أن يُؤمر بالهجرة. وهذه السنون المكّية هي الفصل الأول من رسالته."
+      },
+      "takeaway": {
+        "en": "The mission began at about forty, with thirteen years in Makkah.",
+        "ar": "بدأت الرسالة عند نحو الأربعين، وثلاث عشرة سنة بمكة."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65050", "hadith:bukhari:3"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Allah's early care",
+        "ar": "رعاية الله المبكّرة"
+      },
+      "takeaway": {
+        "en": "Allah reminds the Prophet ﷺ how He sheltered and guided him.",
+        "ar": "يذكّر الله النبيَّ ﷺ كيف آواه وهداه."
+      },
+      "visual": "book",
+      "sources": ["quran:93:6"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "An orphan Allah guided",
+        "ar": "يتيمٌ هداه الله"
+      },
+      "body": {
+        "en": "In Surah Ad-Duha, Allah gently recounts His kindness to the Prophet ﷺ: He found him an orphan and gave him shelter, found him unaware of the revelation and guided him, found him in need and enriched him. This came when the Prophet ﷺ most needed comfort. It shows that Allah had cared for him since childhood, long before the message, and would not abandon him now that the hardship had begun.",
+        "ar": "في سورة الضحى يذكّر الله النبيَّ ﷺ بلطفه به في رفق: وجده يتيمًا فآواه، ووجده غير عالم بالوحي فهداه، ووجده محتاجًا فأغناه. وجاء هذا حين كان النبي ﷺ في أشدّ الحاجة إلى التسلية. وفيه أن الله رعاه منذ صغره، قبل الرسالة بزمن، ولن يتخلّى عنه وقد بدأ البلاء."
+      },
+      "takeaway": {
+        "en": "Allah cared for the Prophet ﷺ from childhood and did not abandon him.",
+        "ar": "رعى الله النبيَّ ﷺ منذ صغره ولم يتخلَّ عنه."
+      },
+      "visual": "none",
+      "sources": ["quran:93:7", "quran:93:8"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "The heart of the call",
+        "ar": "جوهر الدعوة"
+      },
+      "body": {
+        "en": "Allah commanded the Prophet ﷺ to begin by warning his nearest relatives. The core of his message was simple and the same message all prophets brought: worship Allah alone and associate nothing with Him. When the Roman ruler Heraclius questioned Abu Sufyan, still an opponent then, about what the Prophet ﷺ taught, the answer was that he called them to worship Allah alone, to pray, to be truthful, chaste, and to keep family ties. Even an enemy's report confirmed the message.",
+        "ar": "أمر الله النبيَّ ﷺ أن يبدأ بإنذار أقرب الناس إليه. وكان جوهر رسالته بسيطًا، وهو ما جاء به كل الأنبياء: إفراد الله بالعبادة وألّا يُشرَك به شيء. ولمّا سأل هِرَقل ملكُ الروم أبا سفيان، وكان حينها لا يزال من المعارضين، عمّا يدعو إليه النبي ﷺ، كان الجواب أنه يدعوهم إلى عبادة الله وحده، وإلى الصلاة والصدق والعفاف وصلة الرحم. فحتى شهادة خصمٍ أكّدت الرسالة."
+      },
+      "takeaway": {
+        "en": "The call was to worship Allah alone, confirmed even by an opponent.",
+        "ar": "كانت الدعوة إلى عبادة الله وحده، وأكّدها حتى خصمٌ."
+      },
+      "visual": "none",
+      "sources": ["quran:26:214", "hadith:henc:3154"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Hardship and patience",
+        "ar": "البلاء والصبر"
+      },
+      "body": {
+        "en": "The call met strong opposition in Makkah, and the Prophet ﷺ bore it with patience. His uncle Abu Talib protected him from his tribe, though he did not accept the faith. As Abu Talib was dying, the Prophet ﷺ lovingly urged him to testify to the oneness of Allah with the word of tawhid, yet he did not. From this the Quran teaches that the Prophet ﷺ could convey and care, but guidance of the heart belongs to Allah alone, who guides whom He wills.",
+        "ar": "لقيت الدعوة في مكة معارضة شديدة، فتحمّلها النبي ﷺ بالصبر. وكان عمّه أبو طالب يحميه من قومه، وإن لم يدخل في الإيمان. ولمّا حضرته الوفاة ألحّ عليه النبي ﷺ محبًّا أن ينطق بكلمة التوحيد ويشهد بوحدانية الله، فلم يفعل. ومن هذا علّم القرآن أن النبي ﷺ يبلّغ ويرعى، أمّا هداية القلب فإلى الله وحده، يهدي من يشاء."
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ conveyed and cared, but guidance of hearts is Allah's alone.",
+        "ar": "النبي ﷺ يبلّغ ويرعى، وهداية القلوب إلى الله وحده."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3410"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Two whose third is Allah",
+        "ar": "اثنان الله ثالثهما"
+      },
+      "body": {
+        "en": "After years of hardship, Allah permitted the hijrah, the migration to Madinah. The Prophet ﷺ set out with his closest companion Abu Bakr, and they hid in a cave while the Makkans searched nearby. Abu Bakr worried that they would be seen, but the Prophet ﷺ reassured him, asking what he thought of two people whose third is Allah. The Quran records the same scene: do not grieve, for Allah is with us. Trust in Allah steadied them at the most dangerous moment.",
+        "ar": "بعد سنوات من البلاء أذن الله بالهجرة إلى المدينة. فخرج النبي ﷺ مع صاحبه أبي بكر، فاختبآ في غار بينما يبحث عنهما أهل مكة قريبًا. فخشي أبو بكر أن يُرَيا، فطمأنه النبي ﷺ وسأله: ما ظنّك باثنين الله ثالثهما؟ وقد سجّل القرآن المشهد نفسه: لا تحزن، فإن الله معنا. فثبّتهما التوكّل على الله في أخطر اللحظات."
+      },
+      "takeaway": {
+        "en": "On the hijrah, trust in Allah steadied the Prophet ﷺ and Abu Bakr in the cave.",
+        "ar": "في الهجرة ثبّت التوكّل على الله النبيَّ ﷺ وأبا بكر في الغار."
+      },
+      "visual": "none",
+      "sources": ["quran:9:40", "hadith:bukhari:3653"]
+    },
+    {
+      "id": "c7",
+      "kind": "check",
+      "title": {
+        "en": "What steadies you",
+        "ar": "ما الذي يثبّتك"
+      },
+      "body": {
+        "en": "The Makkan years were mostly patience under pressure, not victory. Allah comforted His Prophet ﷺ with the memory of past care and the certainty of His presence. Think of a time you felt alone or under strain. How might it change things to recall that the same Allah who sheltered the Prophet ﷺ as an orphan is with you, and that your task is to do what is right and leave the outcome to Him?",
+        "ar": "كانت السنون المكّية في معظمها صبرًا تحت الضغط لا نصرًا. وقد سلّى الله نبيَّه ﷺ بتذكيره برعايته السابقة وبيقين معيّته. تذكّر وقتًا شعرت فيه بالوحدة أو الضيق. كيف يتغيّر الأمر إذا استحضرت أن الله الذي آوى النبيَّ ﷺ يتيمًا هو معك، وأن مهمّتك أن تفعل الصواب وتترك النتيجة إليه؟"
+      },
+      "takeaway": {
+        "en": "Do what is right, and trust the outcome to Allah.",
+        "ar": "افعل الصواب، وكِل النتيجة إلى الله."
+      },
+      "visual": "none",
+      "sources": ["quran:93:6"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "About how old was the Prophet ﷺ when revelation began?",
+        "ar": "كم كان عمر النبي ﷺ تقريبًا حين بدأ الوحي؟"
+      },
+      "options": [
+        {
+          "en": "About thirty",
+          "ar": "نحو الثلاثين"
+        },
+        {
+          "en": "About forty",
+          "ar": "نحو الأربعين"
+        },
+        {
+          "en": "About sixty",
+          "ar": "نحو الستين"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ibn 'Abbas reported that revelation came to him at the age of forty.",
+        "ar": "روى ابن عباس أن الوحي نزل عليه وعمره أربعون سنة."
+      },
+      "source": "hadith:henc:65050"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What was the core of the Prophet's ﷺ call in Makkah?",
+        "ar": "ما جوهر دعوة النبي ﷺ في مكة؟"
+      },
+      "options": [
+        {
+          "en": "To worship Allah alone",
+          "ar": "عبادة الله وحده"
+        },
+        {
+          "en": "To gather wealth",
+          "ar": "جمع المال"
+        },
+        {
+          "en": "To seek a kingdom",
+          "ar": "طلب المُلك"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Even Abu Sufyan, then an opponent, told Heraclius the Prophet ﷺ called to worship Allah alone.",
+        "ar": "حتى أبو سفيان، وكان خصمًا حينها، أخبر هرقل أن النبي ﷺ يدعو إلى عبادة الله وحده."
+      },
+      "source": "hadith:henc:3154"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "In the cave on the hijrah, what did the Prophet ﷺ tell Abu Bakr?",
+        "ar": "في الغار أثناء الهجرة، بماذا طمأن النبي ﷺ أبا بكر؟"
+      },
+      "options": [
+        {
+          "en": "To run quickly before dawn",
+          "ar": "أن يسرعا قبل الفجر"
+        },
+        {
+          "en": "To fight whoever came near",
+          "ar": "أن يقاتلا من يقترب"
+        },
+        {
+          "en": "That Allah is with the two of them",
+          "ar": "أن الله ثالثهما ومعهما"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "He asked Abu Bakr what he thought of two people whose third is Allah; the Quran records 'Allah is with us'.",
+        "ar": "سأله ما ظنّه باثنين الله ثالثهما، وسجّل القرآن قوله: إن الله معنا."
+      },
+      "source": "quran:9:40"
+    }
+  ]
+}

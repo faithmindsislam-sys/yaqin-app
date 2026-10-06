@@ -1,0 +1,206 @@
+{
+  "id": "dp-faith-rises-and-falls",
+  "subject": "aqidah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "Faith rises and falls",
+    "ar": "الإيمان يزيد وينقص"
+  },
+  "summary": {
+    "en": "Why faith grows and weakens, what the Quran links to its increase, and how to tend it gently.",
+    "ar": "لماذا يزيد الإيمان وينقص، وما الذي يربطه القرآن بزيادته، وكيف نتعاهده برفق."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Faith is more than words",
+        "ar": "الإيمان أكثر من قول"
+      },
+      "body": {
+        "en": "Scholars describe faith, iman, as belief held in the heart, affirmed by the tongue, and shown in action. Because it has these parts, it is not a fixed quantity: it grows stronger with obedience and remembrance, and it weakens with heedlessness and sin. Noticing this is freeing. When your faith feels low, it is not a verdict on you; it is a signal to tend it, the way you would feed a small flame rather than give up on it.",
+        "ar": "يصف العلماء الإيمان بأنه اعتقاد بالقلب وقول باللسان وعمل بالجوارح. ولأنه ذو هذه الأجزاء فليس مقدارًا ثابتًا: يقوى بالطاعة والذكر، ويضعف بالغفلة والمعصية. وإدراك هذا يريح النفس، فإذا ضعف إيمانك فليس ذلك حكمًا عليك، بل إشارة إلى أن تتعاهده، كما تغذّي شعلة صغيرة بدل أن تيأس منها."
+      },
+      "takeaway": {
+        "en": "Faith is belief, word and deed, so it can rise and fall.",
+        "ar": "الإيمان اعتقاد وقول وعمل، فهو يزيد وينقص."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:46045"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "The Quran links faith to increase",
+        "ar": "القرآن يربط الإيمان بالزيادة"
+      },
+      "body": {
+        "en": "The Quran speaks plainly of faith increasing. It describes the believers as those whose hearts stir when Allah is mentioned, and whose faith grows when His verses are read aloud to them. Elsewhere it says that when a surah is sent down, it adds faith to those who already believe, and they rejoice. So the words of Allah are not only information; meeting them with an open heart is one of the clearest ways faith is renewed.",
+        "ar": "يتحدث القرآن صراحةً عن زيادة الإيمان. فيصف المؤمنين بأن قلوبهم تتحرك إذا ذُكر الله، ويزداد إيمانهم إذا تُليت عليهم آياته. ويذكر في موضع آخر أن السورة إذا نزلت زادت المؤمنين إيمانًا وهم يستبشرون. فكلام الله ليس مجرد خبر، بل لقاؤه بقلب منفتح من أوضح أسباب تجدّد الإيمان."
+      },
+      "takeaway": {
+        "en": "Meeting Allah's words with an open heart increases faith.",
+        "ar": "لقاء كلام الله بقلب منفتح يزيد الإيمان."
+      },
+      "visual": "none",
+      "sources": ["quran:8:2", "quran:9:124"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Hearts that stir",
+        "ar": "قلوب تتحرك"
+      },
+      "takeaway": {
+        "en": "The believers' faith grows when Allah's verses are recited to them.",
+        "ar": "يزداد إيمان المؤمنين إذا تُليت عليهم آيات الله."
+      },
+      "visual": "book",
+      "sources": ["quran:8:2"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Many branches",
+        "ar": "شُعَبٌ كثيرة"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that faith has over seventy branches. The highest is the testimony of Allah's oneness, and the lowest is removing something harmful from the path; and modesty, he said, is a branch of faith. This picture is encouraging: faith is not one single act you either have or lack. It is a wide field of words, beliefs and deeds, and even a small kindness done for Allah is part of it and strengthens it.",
+        "ar": "علّم النبي ﷺ أن الإيمان بضعٌ وسبعون شعبة؛ أعلاها كلمة التوحيد، وأدناها تنحية ما يؤذي الناس عن طريقهم، والحياء شعبة منه. وهذه الصورة تبعث على الأمل: فالإيمان ليس عملًا واحدًا تملكه أو تفقده، بل ميدان واسع من الأقوال والاعتقادات والأعمال، حتى المعروف اليسير يُفعل لله جزءٌ منه ويقوّيه."
+      },
+      "takeaway": {
+        "en": "Faith has many branches, from the shahada to small good deeds.",
+        "ar": "للإيمان شعب كثيرة، من الشهادة إلى صغار المعروف."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:6468"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "What lifts it up",
+        "ar": "ما يرفعه"
+      },
+      "body": {
+        "en": "What raises faith? The Quran says Allah sends tranquillity down upon the believing hearts so that their faith increases, and that hearts find rest in His remembrance. In a sacred report the Prophet ﷺ taught that the dearest way a servant draws near to Allah is by what He has made obligatory, and then by voluntary acts until Allah loves him. So the path upward is steady: guard the obligations, add what you can of the voluntary, and keep the tongue and heart busy with remembrance.",
+        "ar": "ما الذي يرفع الإيمان؟ يذكر القرآن أن الله ينزّل الطمأنينة على قلوب أهل الإيمان ليزدادوا إيمانًا، وأن القلوب تطمئن بذكره. وفي الحديث القدسي علّم النبي ﷺ أن أحبّ ما يتقرب به العبد إلى الله ما افترضه عليه، ثم النوافل حتى يحبه الله. فطريق الصعود ثابت: حافظ على الفرائض، وزِد ما تستطيع من النوافل، واشغل اللسان والقلب بالذكر."
+      },
+      "takeaway": {
+        "en": "Obligations first, then voluntary acts and remembrance.",
+        "ar": "الفرائض أولًا، ثم النوافل والذكر."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["quran:48:4", "hadith:bukhari:6502", "quran:13:28"]
+    },
+    {
+      "id": "c6",
+      "kind": "check",
+      "title": {
+        "en": "When faith feels low",
+        "ar": "حين يضعف الإيمان"
+      },
+      "body": {
+        "en": "Everyone passes through times when faith feels thin. The believers at Uhud were told that an army had gathered against them, and it only increased their faith as they placed their trust in Allah. You do not need a dramatic moment to begin again; return gently. Read a few verses slowly, do one obligatory prayer with full attention, remove one harm from someone's path. Which small branch of faith can you tend before the day ends?",
+        "ar": "يمرّ كل أحد بأوقات يشعر فيها بضعف الإيمان. فالمؤمنون يوم أُحد قيل لهم إن جمعًا تجمّع لهم، فما زادهم ذلك إلا إيمانًا وتوكلًا على الله. ولا تحتاج إلى لحظة عظيمة لتبدأ من جديد؛ ارجع برفق: اقرأ آيات على مهل، وصلِّ فريضة بحضور قلب، وأزِل أذًى عن طريق أحد. فأي شعبة صغيرة من الإيمان تتعاهدها قبل انتهاء اليوم؟"
+      },
+      "takeaway": {
+        "en": "Return gently with one small act of faith.",
+        "ar": "ارجع برفق بعمل صغير من أعمال الإيمان."
+      },
+      "visual": "none",
+      "sources": ["quran:3:173"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Why can faith rise and fall?",
+        "ar": "لماذا يزيد الإيمان وينقص؟"
+      },
+      "options": [
+        {
+          "en": "Because it is only a word said once",
+          "ar": "لأنه مجرد قول يُقال مرة"
+        },
+        {
+          "en": "Because it is belief, word and deed together",
+          "ar": "لأنه اعتقاد وقول وعمل معًا"
+        },
+        {
+          "en": "Because it never changes",
+          "ar": "لأنه لا يتغير أبدًا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Scholars define faith as belief, word and deed, so obedience strengthens it and sin weakens it.",
+        "ar": "يعرّف العلماء الإيمان بأنه اعتقاد وقول وعمل، فتقويه الطاعة وتضعفه المعصية."
+      },
+      "source": "ref:terminologyenc:46045"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What is the highest branch of faith?",
+        "ar": "ما أعلى شعب الإيمان؟"
+      },
+      "options": [
+        {
+          "en": "Removing harm from the path",
+          "ar": "إماطة الأذى عن الطريق"
+        },
+        {
+          "en": "The testimony that there is no god but Allah",
+          "ar": "شهادة أن لا إله إلا الله"
+        },
+        {
+          "en": "Giving charity",
+          "ar": "إخراج الصدقة"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ said the most excellent branch is the testimony that there is no god but Allah, and the lowest is removing harm from the way.",
+        "ar": "قال النبي ﷺ إن أعلى شعب الإيمان شهادة أن لا إله إلا الله، وأدناها إماطة الأذى عن الطريق."
+      },
+      "source": "hadith:henc:6468"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "According to the Quran, where do hearts find rest?",
+        "ar": "بحسب القرآن، بم تطمئن القلوب؟"
+      },
+      "options": [
+        {
+          "en": "In the remembrance of Allah",
+          "ar": "بذكر الله"
+        },
+        {
+          "en": "In gathering wealth",
+          "ar": "بجمع المال"
+        },
+        {
+          "en": "In praise from people",
+          "ar": "بمدح الناس"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran teaches that it is by the remembrance of Allah that hearts are assured.",
+        "ar": "يعلّمنا القرآن أن بذكر الله تطمئن القلوب."
+      },
+      "source": "quran:13:28"
+    }
+  ]
+}

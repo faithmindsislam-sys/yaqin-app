@@ -1,0 +1,255 @@
+{
+  "id": "fs-small-and-steady",
+  "subject": "ethics",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 4,
+  "title": {
+    "en": "Small and steady",
+    "ar": "قليلٌ دائم: أحب الأعمال إلى الله"
+  },
+  "summary": {
+    "en": "Allah loves the deeds you keep up, even small ones, so build a worship life you can carry for years.",
+    "ar": "يحب الله الأعمال التي تداوم عليها وإن قلّت، فابنِ عبادةً تستطيع الاستمرار عليها سنين."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Steady beats sudden",
+        "ar": "الدوام خير من الاندفاع"
+      },
+      "body": {
+        "en": "As a new Muslim, you may feel full of energy and want to do everything at once. The Prophet ﷺ guided us the other way: the deed Allah loves most is the one you keep up, even if it is small. A short prayer or a little remembrance done every day is worth more than a huge effort you cannot repeat. Think of worship as a road you will walk for life, not a sprint.",
+        "ar": "قد تشعر وأنت مسلم جديد بحماسٍ كبير وترغب في فعل كل شيء دفعة واحدة. وقد وجّهنا النبي ﷺ إلى غير ذلك: فأحبّ العمل إلى الله ما داوم صاحبه عليه وإن كان قليلًا. فصلاةٌ قصيرة أو ذكرٌ يسير تحافظ عليه كل يوم خيرٌ من مجهود ضخم لا تقدر على تكراره. فاجعل العبادة طريقًا تمشي فيه طوال العمر، لا سباقًا قصيرًا."
+      },
+      "takeaway": {
+        "en": "A little kept up is dearer to Allah than a lot that stops.",
+        "ar": "القليل الدائم أحب إلى الله من الكثير المنقطع."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:6464"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The religion is easy",
+        "ar": "الدين يسر"
+      },
+      "takeaway": {
+        "en": "Be moderate, stay close to the goal, and take rest in good times of the day.",
+        "ar": "اعتدل، واقترب من الهدف، واستعن بأوقات النشاط من اليوم."
+      },
+      "visual": "book",
+      "sources": [
+        "hadith:henc:5795"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Don't overburden yourself",
+        "ar": "لا تُثقل على نفسك"
+      },
+      "body": {
+        "en": "The Prophet ﷺ warned that whoever pushes too hard in the religion will be worn out by it. The point is not to do less than Allah asks, but not to pile on more than you can carry and then collapse. Aim for the middle: do your duties well, and add good habits at a pace that lasts. Use the fresh parts of your day, like the morning, and let yourself rest too.",
+        "ar": "حذّر النبي ﷺ من أن من يشدّد على نفسه في الدين يغلبه الدين ويعجز. وليس المقصود أن تنقص عمّا أمر الله به، بل ألّا تُحمّل نفسك فوق طاقتها فتنهار. فاقصد الوسط: أدِّ الواجبات على وجهها، وأضِف العادات الصالحة بوتيرة تدوم. واستعن بأوقات نشاطك كالصباح، وأعطِ نفسك حقها من الراحة."
+      },
+      "takeaway": {
+        "en": "Keep to the middle path so your worship can last.",
+        "ar": "الزم الوسط حتى تدوم عبادتك."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:5795"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Even the Prophet ﷺ paced it",
+        "ar": "حتى النبي ﷺ راعى التدرّج"
+      },
+      "body": {
+        "en": "Sometimes the Prophet ﷺ would leave a good deed that he loved to do, so that people would not think it was required of everyone and find the religion heavy. This shows that gentleness and balance are part of faith, not a sign of weakness. You do not have to prove anything by exhausting yourself. Build slowly, and let your worship grow with you.",
+        "ar": "كان النبي ﷺ أحيانًا يترك العمل الصالح وهو يحب أن يفعله، لئلا يظنّ الناس أنه مفروض على الجميع فيثقل عليهم الدين. وهذا يدل على أن الرفق والتوازن من الإيمان، لا علامة ضعف. فلست مطالبًا بأن تُثبت شيئًا بإرهاق نفسك. ابنِ على مهل، ودع عبادتك تنمو معك."
+      },
+      "takeaway": {
+        "en": "Gentleness with yourself is part of following the Prophet ﷺ.",
+        "ar": "الرفق بنفسك من اتباع هدي النبي ﷺ."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:4228"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "quote",
+      "title": {
+        "en": "Keep striving",
+        "ar": "استمر في المجاهدة"
+      },
+      "takeaway": {
+        "en": "When you keep striving for Allah, He opens His paths to you.",
+        "ar": "إذا جاهدت في سبيل الله هداك إلى سبله."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:29:69"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Worship for a lifetime",
+        "ar": "عبادةٌ تدوم مدى العمر"
+      },
+      "body": {
+        "en": "The Quran tells the Prophet ﷺ to worship his Lord until death comes to him. Worship is not a phase you finish; it is a steady companion for the rest of your life. There will be strong days and weak days. On the weak days, do not quit. A small act done faithfully keeps the door open and keeps you moving toward Allah.",
+        "ar": "يأمر القرآن النبي ﷺ أن يعبد ربه حتى يأتيه الموت. فالعبادة ليست مرحلة تنتهي، بل رفيقٌ دائم لبقية حياتك. وستمرّ بك أيام قوة وأيام ضعف، فلا تترك العمل في أيام الضعف. فالعمل اليسير مع الإخلاص يُبقي الباب مفتوحًا ويبقيك سائرًا إلى الله."
+      },
+      "takeaway": {
+        "en": "Worship is a lifelong path, not a short burst.",
+        "ar": "العبادة طريق العمر كله، لا اندفاعة قصيرة."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:15:99"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Sick or travelling? Still rewarded",
+        "ar": "المرض والسفر: الأجر باقٍ"
+      },
+      "body": {
+        "en": "What if illness or travel stops your usual good habit? The Prophet ﷺ gave beautiful news: when a believer falls ill or travels, Allah still writes for him the reward of the good he used to do when well and settled. This is a gift for anyone who builds steady habits. Your regular small deeds keep earning for you even on the days you cannot perform them.",
+        "ar": "ماذا لو منعك المرض أو السفر من عادتك الصالحة؟ بشّر النبي ﷺ ببشرى جميلة: إذا مرض المؤمن أو سافر كتب الله له أجر ما كان يعمله وهو صحيح مقيم. وهذه هدية لكل من يبني عادات ثابتة. فأعمالك الصغيرة المنتظمة تظل تُكتب لك حتى في الأيام التي لا تقدر فيها عليها."
+      },
+      "takeaway": {
+        "en": "Steady habits still earn reward when you cannot do them.",
+        "ar": "العادات الثابتة يبقى أجرها حين تعجز عنها."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:3553"
+      ]
+    },
+    {
+      "id": "c8",
+      "kind": "practice",
+      "title": {
+        "en": "Pick one small habit",
+        "ar": "اختر عادة صغيرة واحدة"
+      },
+      "body": {
+        "en": "Choose just one small deed you can do every day without strain: a few verses of remembrance after a prayer, or praying your Sunnah before Fajr. Promise yourself the small amount, not a big one. Do it at the same time each day so it becomes part of your routine. Once it feels easy and natural, add one more. Slow and steady is the way the Prophet ﷺ taught.",
+        "ar": "اختر عملًا صغيرًا واحدًا تقدر عليه كل يوم بلا مشقة: ذكرًا يسيرًا بعد الصلاة، أو ركعتي سنّة قبل الفجر. والتزم بالقدر القليل لا الكثير. وافعله في الوقت نفسه كل يوم حتى يصير جزءًا من روتينك. فإذا صار سهلًا ومألوفًا فأضف عملًا آخر. فالقليل الدائم هو ما علّمنا إياه النبي ﷺ."
+      },
+      "takeaway": {
+        "en": "Start with one daily deed and keep it.",
+        "ar": "ابدأ بعملٍ يومي واحد وداوم عليه."
+      },
+      "visual": "steps",
+      "sources": [
+        "hadith:bukhari:6464"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which deed does the Prophet ﷺ say Allah loves most?",
+        "ar": "أي عمل أخبر النبي ﷺ أنه أحب إلى الله؟"
+      },
+      "options": [
+        {
+          "en": "The largest one you can manage once",
+          "ar": "أكبر عمل تقدر عليه مرة واحدة"
+        },
+        {
+          "en": "The one you keep up, even if small",
+          "ar": "ما تداوم عليه وإن كان قليلًا"
+        },
+        {
+          "en": "Only deeds done in public",
+          "ar": "الأعمال التي تُفعل علنًا فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ taught that the most beloved deed to Allah is the most constant, even if it is little.",
+        "ar": "علّم النبي ﷺ أن أحب العمل إلى الله أدومه وإن قلّ."
+      },
+      "source": "hadith:bukhari:6464"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What happens to someone who overburdens himself in the religion?",
+        "ar": "ماذا يحدث لمن يشدّد على نفسه في الدين؟"
+      },
+      "options": [
+        {
+          "en": "He will be worn out and overwhelmed by it",
+          "ar": "يُغلَب ويُرهَق به"
+        },
+        {
+          "en": "He is guaranteed an easier life",
+          "ar": "تُضمن له حياة أيسر"
+        },
+        {
+          "en": "His duties are cancelled",
+          "ar": "تسقط عنه الواجبات"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said the religion is easy, and no one pushes too hard without being overwhelmed by it.",
+        "ar": "قال النبي ﷺ إن الدين يسر، ولن يشادّ الدين أحد إلا غلبه."
+      },
+      "source": "hadith:henc:5795"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "If illness stops your usual good habit, what does the Prophet ﷺ say?",
+        "ar": "إذا منعك المرض من عادتك الصالحة، فماذا قال النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "The reward stops until you are well",
+          "ar": "ينقطع الأجر حتى تتعافى"
+        },
+        {
+          "en": "You must make up every missed deed",
+          "ar": "يجب أن تقضي كل عمل فاتك"
+        },
+        {
+          "en": "Allah still writes for you the reward you used to earn",
+          "ar": "يكتب الله لك الأجر الذي كنت تعمله"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "When a believer is ill or travelling, Allah credits him with the good he used to do while well and at home.",
+        "ar": "إذا مرض المؤمن أو سافر كُتب له مثل ما كان يعمل مقيمًا صحيحًا."
+      },
+      "source": "hadith:henc:3553"
+    }
+  ]
+}

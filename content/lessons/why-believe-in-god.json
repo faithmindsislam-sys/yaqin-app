@@ -1,0 +1,220 @@
+{
+  "id": "why-believe-in-god",
+  "subject": "aqidah",
+  "tracks": [
+    "explore"
+  ],
+  "level": 2,
+  "minutes": 6,
+  "title": {
+    "en": "Why do we believe in God?",
+    "ar": "لماذا نؤمن بوجود الله؟"
+  },
+  "summary": {
+    "en": "Explore two arguments for a Creator, follow their reasoning, and consider the question “Who created God?” Take time to examine each step.",
+    "ar": "تعرّف إلى استدلالين على وجود خالق، وافهم خطواتهما، ثم ناقش سؤال «من خلق الله؟». خذ وقتك في فحص كل خطوة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Start with two questions",
+        "ar": "كيف نبحث هذا السؤال؟"
+      },
+      "takeaway": {
+        "en": "Understand the reasoning before deciding what you think.",
+        "ar": "افهم خطوات الاستدلال قبل أن تحكم عليه."
+      },
+      "sources": [
+        "ref:book:god-existence:origin",
+        "ref:book:god-existence:order",
+        "ref:terminologyenc:16760"
+      ],
+      "body": {
+        "en": "What explains our existence, and the order around us? This lesson examines two arguments Muslims use for belief in God, whom they call Allah: creation and order. You can consider what each step assumes, question it, and skip this topic if you already feel settled about it.",
+        "ar": "لماذا وُجدنا؟ وماذا يدل عليه النظام الذي نراه حولنا؟ نتعرّف هنا إلى استدلالين يستخدمهما المسلمون للإيمان بالله: الخلق والنظام. المقصود أن تفهم خطواتهما وتسأل عمّا تقوم عليه من أفكار. ولك أن تتجاوز هذا السؤال إن كنت مطمئنًا إلى جوابه."
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Could something create itself?",
+        "ar": "هل يمكن لشيء أن يخلق نفسه؟"
+      },
+      "takeaway": {
+        "en": "The argument looks for a cause beyond the created thing.",
+        "ar": "يبحث الاستدلال عن سبب خارج الشيء المخلوق."
+      },
+      "sources": [
+        "ref:book:god-existence:origin",
+        "quran:52:35"
+      ],
+      "body": {
+        "en": "This argument starts with a simple premise: whatever begins to exist needs a cause. Something cannot create itself; it would have to exist before it existed. The Quran, Islam’s scripture, asks whether we came into being without a creator or created ourselves.",
+        "ar": "ينطلق استدلال الخلق من فكرة بسيطة: ما بدأ وجوده يحتاج إلى سبب يوجده. ولا يمكن لشيء أن يخلق نفسه؛ إذ يلزم أن يكون موجودًا قبل وجوده. ويطرح القرآن، كتاب المسلمين، السؤال نفسه: هل وُجدنا بلا خالق، أم خلقنا أنفسنا؟"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Read the Quran’s question about our existence",
+        "ar": "اقرأ سؤال القرآن عن أصل وجودنا"
+      },
+      "takeaway": {
+        "en": "Consider the possibilities this question asks you to examine.",
+        "ar": "تأمّل الاحتمالات التي يدعوك السؤال إلى فحصها."
+      },
+      "sources": [
+        "quran:52:35"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "What might order tell us?",
+        "ar": "ماذا يدل عليه النظام؟"
+      },
+      "takeaway": {
+        "en": "Order is understood as a sign of a wise Creator.",
+        "ar": "يرى المسلمون في النظام دلالة على حكمة خالق."
+      },
+      "sources": [
+        "ref:book:god-existence:order",
+        "quran:2:164"
+      ],
+      "body": {
+        "en": "Why does the world support life in ordered ways? The Quran invites reflection on night and day, rain, and living things. Muslims understand this order as pointing to a wise Creator. This argument considers how things work together, alongside the earlier question of why they exist.",
+        "ar": "لماذا نرى في العالم نظامًا تقوم به الحياة؟ يدعو القرآن إلى التأمل في تعاقب الليل والنهار، والمطر، والكائنات الحية. ويرى المسلمون في هذا النظام دلالة على حكمة خالق. فهذا الاستدلال ينظر إلى كيفية انتظام الأشياء، إلى جانب السؤال السابق عن أصل وجودها."
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Then who created God?",
+        "ar": "إذن، من خلق الله؟"
+      },
+      "takeaway": {
+        "en": "The premise concerns what begins, not everything that exists.",
+        "ar": "تتعلق المقدمة بما بدأ وجوده، لا بكل موجود."
+      },
+      "sources": [
+        "ref:book:god-existence:origin",
+        "ref:book:god-existence:uncreated",
+        "quran:57:3"
+      ],
+      "body": {
+        "en": "If things need a cause, who caused God? Notice the premise: it concerns what begins to exist. In Islamic belief, God has no beginning. The proposed explanation is therefore a Creator who was never created, rather than one more created link needing an earlier cause.",
+        "ar": "إذا كانت الأشياء تحتاج إلى سبب، فمن أوجد الله؟ انتبه إلى مقدمة الحجة: إنها تتعلق بما بدأ وجوده. وفي الاعتقاد الإسلامي، الله لا بداية لوجوده. فالحجة تقترح خالقًا غير مخلوق، لا حلقةً أخرى في سلسلة مخلوقات تحتاج بدورها إلى من يوجِدها."
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "check",
+      "title": {
+        "en": "Which step would you examine further?",
+        "ar": "أيّ خطوة تريد مناقشتها؟"
+      },
+      "takeaway": {
+        "en": "You can examine one idea at a time.",
+        "ar": "يمكنك فحص فكرة واحدة في كل مرة."
+      },
+      "sources": [
+        "ref:book:god-existence:origin",
+        "ref:book:god-existence:order"
+      ],
+      "body": {
+        "en": "Which step seems strongest to you: the need for a cause, or the inference from order to purpose? Choose one idea and ask what supports it, or what you would question. You may pause here or skip this topic if you already feel settled about it.",
+        "ar": "أيّ خطوة تجدها أقوى: حاجة ما بدأ وجوده إلى سبب، أم الاستدلال من النظام على القصد؟ اختر فكرة واحدة، وتأمل ما يؤيدها أو ما تريد مناقشته فيها. يمكنك التوقف هنا، أو تجاوز هذا الموضوع إن كنت مطمئنًا إلى جوابه."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Why does the creation argument reject something creating itself?",
+        "ar": "لماذا يرفض استدلال الخلق أن يخلق الشيء نفسه؟"
+      },
+      "options": [
+        {
+          "en": "We have not yet traced every stage of its formation.",
+          "ar": "لأننا لم نتتبّع بعد جميع المراحل التي تكوّن منها."
+        },
+        {
+          "en": "A thing cannot be there before it exists.",
+          "ar": "لأن الشيء لا يمكن أن يكون موجودًا قبل وجوده."
+        },
+        {
+          "en": "It must arrange all its parts before it changes.",
+          "ar": "لأن الشيء يجب أن يرتّب جميع أجزائه قبل أن يتغيّر."
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Creating itself would require it to exist in order to act, before its own existence. The Quran’s question challenges self-creation.",
+        "ar": "لكي يخلق الشيء نفسه، يلزم أن يكون موجودًا وقادرًا على الفعل قبل وجوده. وسؤال القرآن يلفت إلى الإشكال في هذا الاحتمال."
+      },
+      "source": "quran:52:35"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Which statement matches the argument from order in this lesson?",
+        "ar": "أيّ عبارة تعبّر عن استدلال النظام كما عُرض هنا؟"
+      },
+      "options": [
+        {
+          "en": "The way things work together points to a wise Creator.",
+          "ar": "انتظام عمل الأشياء يدل، في هذا الاستدلال، على حكمة خالق."
+        },
+        {
+          "en": "The argument is about existence, without considering how things work.",
+          "ar": "يتناول هذا الاستدلال أصل وجود الأشياء، دون النظر إلى كيفية عملها."
+        },
+        {
+          "en": "The argument rests on beauty, without considering order or function.",
+          "ar": "يقوم هذا الاستدلال على جمال الأشياء، دون النظر إلى نظامها ووظائفها."
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "This argument considers order and function, not existence alone. The lesson connects that reasoning with the Quran’s invitation to reflect on the natural world.",
+        "ar": "ينظر هذا الاستدلال إلى النظام والوظيفة، لا إلى أصل الوجود وحده. ويربط الدرس ذلك بدعوة القرآن إلى التأمل في العالم من حولنا."
+      },
+      "source": "ref:book:god-existence:order"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does this argument answer “Who created God?”",
+        "ar": "كيف تجيب هذه الحجة عن سؤال «من خلق الله؟»؟"
+      },
+      "options": [
+        {
+          "en": "God began to exist, but much earlier than the universe.",
+          "ar": "بدأ وجود الله، لكن في وقت أسبق بكثير من الكون."
+        },
+        {
+          "en": "God has a beginning, although its cause is not yet known.",
+          "ar": "لوجود الله بداية، لكن سبب هذه البداية لم يُعرف بعد."
+        },
+        {
+          "en": "God never began to exist, so this premise does not include Him.",
+          "ar": "لا بداية لوجود الله، ولذلك لا تشملُه هذه المقدمة."
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The premise concerns what begins to exist. Islamic belief understands God as an uncreated, beginningless Creator; the source explains that distinction.",
+        "ar": "تتعلق المقدمة بما بدأ وجوده. وفي الاعتقاد الإسلامي، الله خالق غير مخلوق ولا بداية لوجوده؛ ويوضح المصدر هذا الفرق."
+      },
+      "source": "ref:book:god-existence:uncreated"
+    }
+  ]
+}

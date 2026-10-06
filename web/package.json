@@ -1,0 +1,53 @@
+{
+  "name": "yaqin-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "content": "node scripts/bundle-content.mjs",
+    "quran:bundle": "node scripts/bundle-quran.mjs",
+    "predev": "node scripts/bundle-content.mjs",
+    "dev": "next dev",
+    "prebuild": "node scripts/bundle-content.mjs",
+    "build": "next build --webpack",
+    "lint": "eslint",
+    "pretypecheck": "node scripts/bundle-content.mjs",
+    "check:source-quotes": "node scripts/check-source-quotes.mjs",
+    "check:courses": "node scripts/check-courses.mjs",
+    "typecheck": "tsc --noEmit",
+    "check:progress": "node scripts/check-progress.mjs",
+    "check:onboarding": "node scripts/check-onboarding.mjs",
+    "check:auth": "node scripts/check-auth.mjs",
+    "check:settings": "node scripts/check-settings.mjs",
+    "auth:check": "node scripts/google-auth.mjs",
+    "auth:configure": "node scripts/google-auth.mjs --plan",
+    "check:env": "node scripts/check-env.mjs",
+    "check:knowledge-base": "node scripts/check-knowledge-base.mjs",
+    "check:tracks": "node scripts/check-tracks.mjs",
+    "check:faith": "node scripts/check-faith.mjs",
+    "check:first-steps": "node scripts/check-first-steps.mjs",
+    "check:worship": "node scripts/check-worship.mjs",
+    "verify:frontend": "node scripts/verify-frontend.mjs",
+    "check:quran": "node scripts/check-quran.mjs",
+    "check:routing": "node scripts/check-routing.mjs && node ../infra/cloudfront/check-index-rewrite.mjs",
+    "check:site": "node scripts/check-site.mjs",
+    "check:routing:browser": "node scripts/check-routing-browser.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.2",
+    "lucide-react": "^1.50.0",
+    "next": "16.3.8",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.8",
+    "playwright": "1.62.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

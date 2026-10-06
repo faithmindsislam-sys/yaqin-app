@@ -1,0 +1,23 @@
+{
+  "Name": "yaqeen-auth-bridge",
+  "Comment": "Allow only the Yaqeen public site and Studio to embed the app session bridge",
+  "SecurityHeadersConfig": {
+    "StrictTransportSecurity": {
+      "Override": true,
+      "AccessControlMaxAgeSec": 31536000
+    },
+    "ContentTypeOptions": { "Override": true },
+    "ReferrerPolicy": {
+      "Override": true,
+      "ReferrerPolicy": "strict-origin-when-cross-origin"
+    },
+    "ContentSecurityPolicy": {
+      "Override": true,
+      "ContentSecurityPolicy": "frame-ancestors https://studio.yaqeenguide.com https://www.yaqeenguide.com https://yaqeenguide.com"
+    }
+  },
+  "RemoveHeadersConfig": {
+    "Quantity": 1,
+    "Items": [{ "Header": "X-Frame-Options" }]
+  }
+}

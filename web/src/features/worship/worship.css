@@ -1,0 +1,146 @@
+.worship { margin-top: 8px; }
+.worship-hero { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 24px; overflow: hidden; padding: 22px 26px; border-radius: 20px; background: linear-gradient(115deg, #102c49, #075aab); color: white; }
+.worship-eyebrow { display: flex; align-items: center; gap: 8px; color: var(--color-salmon-300); font-size: 10px; font-weight: 500; letter-spacing: 0.1em; }
+.worship-hero-moon { position: absolute; inset-inline-end: -28px; top: -38px; width: 180px; height: 180px; color: white; opacity: 0.04; }
+.worship-days { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 5px; }
+.worship-day { display: flex; flex-direction: column; align-items: center; min-width: 44px; min-height: 64px; padding: 7px 5px; border: 1px solid transparent; border-radius: 12px; color: #d8ebff; font-size: 10px; cursor: pointer; transition: background 150ms; }
+.worship-day:hover { background: rgb(255 255 255 / 10%); }
+.worship-day[aria-pressed="true"] { background: white; color: var(--color-brand-700); }
+.worship-day strong { margin-top: 3px; font-size: 16px; font-weight: 500; }
+.worship-day-dot { width: 4px; height: 4px; margin-top: 5px; border-radius: 50%; background: rgb(255 255 255 / 25%); }
+.worship-day[aria-pressed="true"] .worship-day-dot { background: var(--color-line); }
+.worship-day .worship-day-dot.is-saved { background: #7bd7be; }
+.worship-day .worship-day-dot.is-draft { background: var(--color-salmon-300); }
+.worship-checkin { overflow: hidden; scroll-margin-top: 130px; }
+.worship-step-nav { padding: 12px; border-bottom: 1px solid var(--color-line); background: var(--color-sky-50); }
+.worship-step-nav ol { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
+.worship-step-nav button { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 54px; padding: 10px 12px; border: 1px solid transparent; border-radius: 12px; text-align: start; color: var(--color-ink-soft); font-size: 12px; cursor: pointer; }
+.worship-step-nav button:hover { background: white; }
+.worship-step-nav button[aria-current="step"] { background: white; border-color: var(--color-brand-200); color: var(--color-brand-700); font-weight: 500; box-shadow: var(--shadow-card); }
+.worship-step-number { display: grid; place-items: center; flex-shrink: 0; width: 28px; height: 28px; border: 1px solid var(--color-line); border-radius: 50%; background: white; font-size: 12px; }
+[aria-current="step"] .worship-step-number { border-color: var(--color-brand-700); background: var(--color-brand-700); color: white; }
+.worship-step-body { padding: 26px; }
+.worship-step-icon, .worship-habit-icon { display: grid; place-items: center; flex-shrink: 0; width: 42px; height: 42px; border-radius: 12px; background: var(--color-brand-50); color: var(--color-brand-700); }
+.worship-step-icon.is-gratitude { background: var(--color-salmon-50); color: var(--color-salmon-600); }
+.worship-status { display: inline-flex; align-items: center; gap: 5px; padding: 5px 10px; border-radius: 99px; font-size: 10px; font-weight: 500; }
+.worship-status.is-draft { background: var(--color-sky-50); color: var(--color-muted); }
+.worship-status.is-saved { background: #edf8f3; color: #247155; }
+.worship-prayer { padding: 12px 16px; border: 1px solid var(--color-line); border-radius: 14px; }
+.worship-prayer-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.worship-choices { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 6px; }
+.worship-choice { position: relative; display: flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 14px; border: 1px solid var(--color-line); border-radius: 10px; background: white; text-align: center; color: var(--color-ink-soft); font-size: 12px; cursor: pointer; transition: background 150ms, border-color 150ms; }
+.worship-radio { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+.worship-choice > span { pointer-events: none; }
+.worship-choice:hover { border-color: var(--color-brand-300); }
+.worship-choice:has(input:checked) { border-color: var(--color-brand-500); background: var(--color-brand-50); color: var(--color-brand-700); font-weight: 500; }
+.worship-choice.state-missed:has(input:checked) { border-color: var(--color-salmon-300); background: var(--color-salmon-50); color: var(--color-salmon-700); }
+.worship-choice:has(input:focus-visible) { outline: 2px solid var(--color-brand-500); outline-offset: 2px; }
+.worship-habits { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.worship-habit { display: flex; align-items: center; gap: 12px; min-height: 78px; padding: 14px; border: 1px solid var(--color-line); border-radius: 14px; cursor: pointer; transition: background 150ms, border-color 150ms; }
+.worship-habit:hover { background: var(--color-sky-50); }
+.worship-habit.is-checked { background: var(--color-brand-50); border-color: var(--color-brand-200); }
+.worship :is(.worship-habit, .worship-counter) input[type="checkbox"] { flex-shrink: 0; width: 20px; height: 20px; accent-color: var(--color-brand-600); cursor: pointer; }
+.worship-counters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.worship-counter { min-width: 0; padding: 18px; border: 1px solid var(--color-brand-100); border-radius: 16px; background: linear-gradient(160deg, var(--color-brand-50), white); }
+.worship-count { display: block; width: 100%; margin-block: 12px; padding: 2px; border-radius: 10px; color: var(--color-ink); font-size: 32px; font-weight: 500; line-height: 1.3; appearance: textfield; }
+.worship-count::-webkit-inner-spin-button, .worship-count::-webkit-outer-spin-button { appearance: none; margin: 0; }
+.worship-counter-buttons { display: grid; grid-template-columns: 36px repeat(3, minmax(0, 1fr)); gap: 5px; }
+.worship-counter .btn { min-height: 40px; padding: 8px 3px; border-radius: 10px; font-size: 11px; }
+.worship-counter .btn svg { flex-shrink: 0; }
+.worship-sadaqah { padding: 14px 18px 18px; border: 1px solid var(--color-line); border-radius: 14px; background: var(--color-sky-50); }
+.worship-reflections { padding: 20px; border: 1px solid var(--color-salmon-100); border-radius: 18px; background: var(--color-salmon-50); }
+.worship-reflection-card { min-width: 0; padding: 18px; border: 1px solid var(--color-salmon-100); border-radius: 14px; background: white; }
+.worship-reflection-card textarea { border-color: var(--color-salmon-100); }
+.worship-review-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.worship-review-card { min-width: 0; padding: 22px; border: 1px solid var(--color-line); border-radius: 18px; background: white; }
+.worship-edit { display: inline-flex; align-items: center; gap: 5px; min-height: 36px; padding: 6px 8px; border-radius: 8px; color: var(--color-brand-700); font-size: 12px; cursor: pointer; }
+.worship-edit:hover { background: var(--color-brand-50); }
+.worship-review-chip { display: inline-flex; align-items: center; gap: 6px; padding: 8px 10px; border: 1px solid var(--color-brand-100); border-radius: 10px; background: var(--color-brand-50); color: var(--color-brand-700); font-size: 11px; line-height: 1.5; }
+.worship-review-chip svg { flex-shrink: 0; }
+.worship-review-chip.is-empty { border-color: #edf0f4; background: #fafbfd; color: var(--color-muted); }
+.worship-checkin-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.worship-heading-actions { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+.worship-heading-actions .btn { min-height: 40px; padding: 9px 12px; font-size: 12px; }
+.worship-journal-label { color: var(--color-muted); font-size: 10px; font-weight: 500; letter-spacing: 0.1em; }
+.worship-saved-time { margin-top: 7px; color: var(--color-muted); font-size: 11px; line-height: 1.6; }
+.worship-checkin.is-saved-view { background: #f8fafd; }
+.is-saved-view .worship-step-body { padding: 28px; }
+.is-saved-view .worship-checkin-heading { margin-bottom: 26px; }
+.worship-review-heading { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.worship-review-heading > div { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.worship-review-heading h3 { font-family: var(--font-serif); font-size: 20px; line-height: 1.3; }
+.worship-review-icon { display: grid; place-items: center; width: 32px; height: 32px; flex-shrink: 0; border-radius: 10px; background: var(--color-brand-50); color: var(--color-brand-700); }
+.worship-card-caption { margin: 12px 0 6px; color: var(--color-muted); font-size: 11px; }
+.worship-prayer-results > div { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 10px; }
+.worship-prayer-results > div + div { border-top: 1px solid #f0f3f7; }
+.worship-prayer-results dt, .worship-summary-extra dt { display: flex; align-items: center; gap: 10px; color: var(--color-ink-soft); font-size: 12px; }
+.worship-prayer-results dt svg, .worship-summary-extra dt svg { color: var(--color-muted); flex-shrink: 0; }
+.worship-prayer-badge { display: inline-flex; align-items: center; gap: 5px; padding: 5px 9px; border-radius: 8px; background: #f3f5f8; color: var(--color-ink-soft); font-size: 10px; line-height: 1.5; }
+.worship-prayer-badge.state-prayed { background: #edf8f3; color: #247155; }
+.worship-prayer-badge.state-missed { background: var(--color-salmon-50); color: var(--color-salmon-700); }
+.worship-prayer-badge.state-empty { background: transparent; color: var(--color-muted); }
+.worship-summary-extra { margin-top: 12px; padding-top: 14px; border-top: 1px solid var(--color-line); }
+.worship-summary-extra > div { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.worship-summary-extra dd { display: inline-flex; align-items: center; gap: 5px; min-width: 32px; padding: 6px 10px; border-radius: 8px; background: var(--color-sky-50); color: var(--color-ink-soft); text-align: center; font-size: 12px; }
+.worship-summary-extra dd.worship-charity-yes { background: #edf8f3; color: #247155; }
+.worship-saved-intention { margin-top: 18px; padding: 12px 14px; border-inline-start: 2px solid var(--color-brand-200); border-radius: 0 10px 10px 0; background: var(--color-sky-50); }
+.worship-saved-intention p:first-child { margin-bottom: 5px; color: var(--color-muted); font-size: 10px; }
+.worship-saved-intention p:last-child { white-space: pre-wrap; overflow-wrap: anywhere; color: var(--color-ink-soft); font-size: 12px; line-height: 1.7; }
+.worship-saved-habits { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+.worship-dhikr-results { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; margin-top: 22px; }
+.worship-dhikr-results > div { display: flex; flex-direction: column; justify-content: space-between; gap: 12px; min-width: 0; padding: 14px 12px; border: 1px solid var(--color-brand-100); border-radius: 12px; background: linear-gradient(150deg, var(--color-brand-50), white); }
+.worship-dhikr-results dt { color: var(--color-ink-soft); font-size: 11px; line-height: 1.6; }
+.worship-dhikr-results strong { display: block; font-size: 28px; line-height: 1.3; font-weight: 500; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.worship-dhikr-done { display: flex; align-items: center; gap: 3px; margin-top: 6px; color: #247155; font-size: 10px; }
+.worship-gratitude-summary { margin-top: 16px; border-color: var(--color-salmon-100); background: #fffaf7; }
+.worship-gratitude-summary .worship-review-icon { background: var(--color-salmon-50); color: var(--color-salmon-700); }
+.worship-reflection-results { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 20px; }
+.worship-reflection-results > div { min-width: 0; padding: 18px; border: 1px solid #f1e9e3; border-radius: 12px; background: white; }
+.worship-reflection-label { display: block; margin-bottom: 12px; color: var(--color-salmon-700); font-size: 9px; font-weight: 500; letter-spacing: 0.06em; }
+.worship-reflection-results dt { color: var(--color-ink-soft); font-size: 12px; line-height: 1.7; }
+.worship-reflection-results dd { margin-top: 12px; color: var(--color-ink); font-size: 15px; line-height: 1.8; white-space: pre-wrap; overflow-wrap: anywhere; }
+.worship-reflection-results dd.is-empty { color: var(--color-muted); font-size: 12px; }
+.worship-saved-note { margin-top: 20px; padding: 18px 22px; border: 1px solid var(--color-line); border-radius: 14px; background: white; }
+.worship-saved-note p { margin-top: 12px; color: var(--color-ink-soft); font-size: 13px; line-height: 1.8; white-space: pre-wrap; overflow-wrap: anywhere; }
+.is-saved-view .worship-step-footer { padding-block: 14px; background: white; }
+.is-saved-view .worship-step-footer > p { max-width: none; }
+.is-saved-view .worship-step-footer > div { display: none; }
+.worship-step-footer { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 18px 26px; border-top: 1px solid var(--color-line); }
+.worship-step-footer > p { max-width: 440px; }
+.worship-step-footer > div { flex-shrink: 0; }
+@media (min-width: 768px) {
+  .worship-counter > label:first-child { min-height: 40px; align-items: flex-start; }
+  .worship-counter > label:nth-of-type(2) { min-height: 36px; }
+}
+@media (max-width: 767px) {
+  .worship { margin-top: 20px; }
+  .worship-checkin { scroll-margin-top: 80px; }
+  .worship-hero { grid-template-columns: 1fr; gap: 16px; padding: 20px; }
+  .worship-day { min-width: 0; padding: 7px 2px; }
+  .worship-step-nav { padding: 8px; }
+  .worship-step-nav ol { gap: 4px; }
+  .worship-step-nav button { flex-direction: column; gap: 6px; padding: 8px 3px; text-align: center; font-size: 10px; }
+  .worship-step-body { padding: 20px; }
+  .is-saved-view .worship-step-body { padding: 18px; }
+  .is-saved-view .worship-checkin-heading { flex-direction: column; gap: 18px; }
+  .is-saved-view .worship-heading-actions { width: 100%; justify-content: space-between; }
+  .worship-review-card { padding: 18px; }
+  .worship-review-heading h3 { font-size: 19px; }
+  .worship-reflection-results { grid-template-columns: 1fr; }
+  .worship-dhikr-results > div { padding: 12px 9px; }
+  .worship-dhikr-results strong { font-size: 24px; }
+  .worship-saved-note { padding: 16px 18px; }
+  .worship-prayer-row { flex-direction: column; align-items: stretch; gap: 10px; }
+  .worship-choice { padding: 10px 5px; font-size: 11px; }
+  .worship-habits, .worship-counters, .worship-review-grid { grid-template-columns: 1fr; }
+  .worship-counter { padding: 16px; }
+  .worship-count { font-size: 28px; }
+  .worship-counter .btn { min-height: 44px; font-size: 12px; }
+  .worship-reflections { padding: 14px; }
+  .worship-step-footer { flex-direction: column; align-items: stretch; gap: 14px; padding: 18px 20px; }
+  .worship-step-footer > div { justify-content: flex-end; }
+}
+@media (prefers-reduced-motion: reduce) { .worship :is(button, a, label) { transition: none; } }
+.worship-nawafil-controls { display: grid; grid-template-columns: 44px 76px 44px; flex-shrink: 0; gap: 6px; }
+.worship-nawafil-controls .btn { padding-inline: 8px; }
+.worship-nawafil-controls .btn svg { flex-shrink: 0; }

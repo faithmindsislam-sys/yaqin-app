@@ -1,0 +1,14 @@
+**/.venv
+**/__pycache__
+**/.pytest_cache
+**/.env
+**/.env.*
+**/.idea
+**/.ruff_cache
+**/*.egg-info
+api/tests
+api/.run
+web
+tts
+**/node_modules
+.git

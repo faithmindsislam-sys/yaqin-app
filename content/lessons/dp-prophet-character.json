@@ -1,0 +1,224 @@
+{
+  "id": "dp-prophet-character",
+  "subject": "seerah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "The character of the Prophet ﷺ",
+    "ar": "شمائل النبي ﷺ وأخلاقه"
+  },
+  "summary": {
+    "en": "His great character, mercy, simple living, gentleness and patience, as an example to follow.",
+    "ar": "خُلقه العظيم، ورحمته، وبساطة عيشه، ورفقه وصبره، أسوةً تُتَّبع."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "His character was the Quran",
+        "ar": "كان خُلقه القرآن"
+      },
+      "body": {
+        "en": "Allah praised the Prophet ﷺ as being upon a great moral character. When Aisha was asked to describe his character, she answered with a question: do you not read the Quran? His character, she said, was the Quran. In other words, he lived what the Quran commands and avoided what it forbids. To know his manners, then, is to see the Quran walking among people, which is why his life is a living explanation of the Book.",
+        "ar": "أثنى الله على النبي ﷺ بأنه على خُلق عظيم. ولمّا سُئلت عائشة أن تصف خُلقه أجابت بسؤال: ألستَ تقرأ القرآن؟ فقد كان خُلقه القرآن. أي أنه عاش ما يأمر به القرآن واجتنب ما ينهى عنه. فمعرفة أخلاقه رؤيةٌ للقرآن ماشيًا بين الناس، ولهذا كانت حياته بيانًا حيًّا للكتاب."
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ lived the Quran; his character was its embodiment.",
+        "ar": "عاش النبي ﷺ القرآن، فكان خُلقه تجسيدًا له."
+      },
+      "visual": "none",
+      "sources": ["quran:68:4", "hadith:muslim:746a"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "A mercy to the worlds",
+        "ar": "رحمةٌ للعالمين"
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ was sent as a mercy to all the worlds.",
+        "ar": "أُرسل النبي ﷺ رحمةً للعالمين."
+      },
+      "visual": "book",
+      "sources": ["quran:21:107"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Concerned for people",
+        "ar": "حريصٌ على الناس"
+      },
+      "body": {
+        "en": "The Prophet's ﷺ mercy was not an idea but a felt care for people. The Quran describes him as a messenger from among the people themselves, to whom their suffering was heavy, who longed for their guidance, and who was kind and merciful to the believers. He carried their burdens on his heart. This is why Allah also set him as an excellent example: not a distant figure, but one whose compassion the believer is invited to imitate.",
+        "ar": "لم تكن رحمة النبي ﷺ فكرةً بل عنايةً محسوسة بالناس. يصفه القرآن بأنه رسول من بين الناس أنفسهم، يشقّ عليه ما يصيبهم، ويحرص على هدايتهم، وهو بالمؤمنين رؤوف رحيم. فكان يحمل همومهم في قلبه. ولهذا جعله الله أيضًا أسوة حسنة: لا شخصًا بعيدًا، بل من يُدعى المؤمن إلى الاقتداء برحمته."
+      },
+      "takeaway": {
+        "en": "He felt people's suffering and longed for their good; an example to imitate.",
+        "ar": "كان يتألّم لمعاناة الناس ويحرص على خيرهم، وهو أسوة تُقتدى."
+      },
+      "visual": "none",
+      "sources": ["quran:9:128", "quran:33:21"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "A simple life",
+        "ar": "عيشٌ بسيط"
+      },
+      "body": {
+        "en": "Though he led a community, the Prophet ﷺ lived with great simplicity. Aisha said that when he died there was nothing in her house to eat but a small amount of barley on a shelf. He told Abu Dharr that if he owned gold the size of Mount Uhud, it would not please him to keep a single coin of it beyond three days, except what he set aside for a debt; the rest he would give away. His freedom from attachment to wealth was part of his greatness.",
+        "ar": "مع أنه كان يقود مجتمعًا، عاش النبي ﷺ في بساطة بالغة. قالت عائشة إنه حين تُوفّي لم يكن في بيتها ما يُؤكل إلا شيء يسير من الشعير على رفّ. وأخبر أبا ذرّ أنه لو ملك ذهبًا بقدر جبل أُحُد لما سرّه أن يُبقي منه دينارًا بعد ثلاث، إلا ما يرصده لدَيْن، وما سوى ذلك ينفقه. فكان تحرّره من التعلّق بالمال من عظمته."
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ lived simply and gave wealth away freely.",
+        "ar": "عاش النبي ﷺ ببساطة وأنفق المال بسخاء."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:4239", "hadith:henc:3916"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Gentle and tender",
+        "ar": "رفيقٌ حنون"
+      },
+      "body": {
+        "en": "When some people greeted the Prophet ﷺ rudely and Aisha answered them back sharply, he calmed her and reminded her that Allah loves gentleness in every matter. His tenderness reached even the smallest: he would carry his little granddaughter Umamah during prayer, setting her down when he bowed and lifting her when he stood. Strength and softness lived together in him, and gentleness was never weakness.",
+        "ar": "لمّا حيّا بعضُ الناس النبيَّ ﷺ بسوء وردّت عليهم عائشة بحدّة، هدّأها وذكّرها أن الرفق في كل شأن ممّا يحبّه الله. وبلغ حنانه أصغر الناس: فكان يحمل حفيدته الصغيرة أُمامة في الصلاة، يضعها إذا سجد ويحملها إذا قام. فاجتمعت فيه القوة واللين، ولم يكن الرفق ضعفًا قطّ."
+      },
+      "takeaway": {
+        "en": "Allah loves gentleness; the Prophet ﷺ was tender even in prayer.",
+        "ar": "الله يحبّ الرفق، وكان النبي ﷺ حنونًا حتى في صلاته."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:6024", "hadith:henc:3226"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Forgiving and patient",
+        "ar": "عفوٌّ صبور"
+      },
+      "body": {
+        "en": "The Prophet ﷺ met harm with patience. Recalling an earlier prophet who was struck by his people until he bled, the Prophet ﷺ pictured him wiping the blood away and praying that Allah forgive them, for they did not know. When someone once accused him of being unfair in sharing out wealth, he kept his composure and said that Mūsa was hurt worse than this and stayed patient. He answered injury with forgiveness, not revenge.",
+        "ar": "قابل النبي ﷺ الأذى بالصبر. فحين ذكر نبيًّا سابقًا ضربه قومه حتى أدموه، صوّره وهو يمسح الدم ويدعو أن يغفر الله لقومه، فإنهم لا يعلمون. ولمّا اتّهمه رجلٌ يومًا بعدم العدل في قسمة المال، ضبط نفسه وقال إن موسى عليه السلام ناله أذًى أعظم من ذلك فصبر. فردّ الأذى بالعفو لا بالانتقام."
+      },
+      "takeaway": {
+        "en": "He answered harm with patience and forgiveness.",
+        "ar": "ردّ الأذى بالصبر والعفو."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3594", "hadith:henc:3743"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "The best in character",
+        "ar": "أحاسنكم أخلاقًا"
+      },
+      "body": {
+        "en": "The Prophet ﷺ was never coarse in speech nor did he force himself to be so. 'Abdullah ibn 'Amr reported that he taught the best among people are those who are best in character. So following him is not only in rituals but in manners: gentleness, honesty, generosity, patience, and care for others. The believer who hopes in Allah and the Last Day finds in him an example to shape a whole life, at home and among people.",
+        "ar": "لم يُعرف عن النبي ﷺ بذاءةٌ في القول ولا تكلّفٌ لها. وروى الصحابيّ عبد الله، ابنُ عمرِو بن العاص، أنه علّم أن خير الناس أحسنهم خُلقًا. فالاقتداء به ليس في العبادات وحدها بل في الأخلاق: الرفق، والصدق، والسخاء، والصبر، والعناية بالآخرين. والمؤمن الذي يرجو الله واليوم الآخر يجد فيه أسوةً تصوغ حياته كلها، في البيت وبين الناس."
+      },
+      "takeaway": {
+        "en": "The best people are the best in character; follow him in manners.",
+        "ar": "خير الناس أحسنهم خُلقًا، فاقتدِ به في الأخلاق."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["hadith:bukhari:6035"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "How did Aisha describe the Prophet's ﷺ character?",
+        "ar": "بماذا وصفت عائشة خُلق النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "That his character was the Quran",
+          "ar": "أن خُلقه كان القرآن"
+        },
+        {
+          "en": "That he kept to himself",
+          "ar": "أنه كان منعزلًا"
+        },
+        {
+          "en": "That he was stern with everyone",
+          "ar": "أنه كان شديدًا مع الجميع"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Asked about his character, she replied that it was the Quran, meaning he lived by it.",
+        "ar": "لمّا سُئلت عن خُلقه أجابت أنه كان القرآن، أي أنه عاش به."
+      },
+      "source": "hadith:muslim:746a"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What did the Prophet ﷺ say Allah loves in every matter?",
+        "ar": "ماذا قال النبي ﷺ إن الله يحبّه في كل أمر؟"
+      },
+      "options": [
+        {
+          "en": "Haste",
+          "ar": "العجلة"
+        },
+        {
+          "en": "Gentleness",
+          "ar": "الرفق"
+        },
+        {
+          "en": "Severity",
+          "ar": "الشدّة"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He calmed Aisha and reminded her that Allah loves gentleness in all matters.",
+        "ar": "هدّأ عائشة وذكّرها أن الله يحبّ الرفق في الأمر كلّه."
+      },
+      "source": "hadith:bukhari:6024"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "According to the Prophet ﷺ, who are the best people?",
+        "ar": "من خير الناس عند النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "The wealthiest",
+          "ar": "أكثرهم مالًا"
+        },
+        {
+          "en": "The most powerful",
+          "ar": "أقواهم سلطانًا"
+        },
+        {
+          "en": "The best in character",
+          "ar": "أحسنهم خُلقًا"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "He taught that the best among people are those with the finest character.",
+        "ar": "علّم أن خير الناس أحسنهم خُلقًا."
+      },
+      "source": "hadith:bukhari:6035"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "id": "what-breaks-wudu",
+  "subject": "fiqh",
+  "tracks": ["explore", "first-steps", "deepen"],
+  "level": 1,
+  "minutes": 3,
+  "title": {
+    "en": "What breaks wudu",
+    "ar": "نواقض الوضوء"
+  },
+  "summary": {
+    "en": "What clearly breaks wudu, where scholars differ, and what to do when you're not sure.",
+    "ar": "ما ينقض الوضوء باتفاق، وما اختلف فيه العلماء، وماذا تفعل عند الشك."
+  },
+  "cover": "/img/lessons/what-breaks-wudu.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Wudu lasts",
+        "ar": "الوضوء يبقى"
+      },
+      "body": {
+        "en": "Once you have made wudu, it stays valid until something breaks it. You do not have to repeat it before every prayer if nothing has broken it.",
+        "ar": "إذا توضأت بقي وضوؤك صحيحًا حتى يطرأ عليه ما ينقضه، فلا يلزمك أن تعيد الوضوء لكل صلاة ما دام لم ينتقض."
+      },
+      "takeaway": {
+        "en": "One wudu can carry you through several prayers.",
+        "ar": "قد يكفيك وضوء واحد لأكثر من صلاة."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:135"
+      ],
+      "audio": {
+        "en": "/audio/what-breaks-wudu/c1.en.mp3",
+        "ar": "/audio/what-breaks-wudu/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "What the Prophet ﷺ said",
+        "ar": "ما قاله النبي ﷺ"
+      },
+      "takeaway": {
+        "en": "Prayer needs wudu again after hadath, such as passing wind.",
+        "ar": "الصلاة تحتاج إلى وضوء جديد بعد الحدث، كخروج الريح."
+      },
+      "visual": "book",
+      "sources": [
+        "hadith:bukhari:135"
+      ],
+      "audio": {
+        "en": "/audio/what-breaks-wudu/c2.en.mp3",
+        "ar": "/audio/what-breaks-wudu/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "What clearly breaks it",
+        "ar": "ما ينقضه باتفاق"
+      },
+      "body": {
+        "en": "Scholars agree that what leaves the body from the private parts in the normal way breaks wudu: urine, stool and passing wind. The verse of wudu also mentions coming back from relieving oneself.",
+        "ar": "اتفق العلماء على أن ما يخرج من السبيلين على الوجه المعتاد ينقض الوضوء: البول والغائط والريح. وقد ذكرت آية الوضوء المجيء من الغائط."
+      },
+      "takeaway": {
+        "en": "Urine, stool and wind break wudu.",
+        "ar": "البول والغائط والريح تنقض الوضوء."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": [
+        "hadith:bukhari:135",
+        "quran:5:6"
+      ],
+      "audio": {
+        "en": "/audio/what-breaks-wudu/c3.en.mp3",
+        "ar": "/audio/what-breaks-wudu/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Sleep: scholars differ",
+        "ar": "النوم: اختلف العلماء"
+      },
+      "body": {
+        "en": "Most scholars hold that deep sleep, in which you lose awareness, breaks wudu. Many hold that light dozing, especially while sitting firmly, does not. The Companions sometimes slept while waiting for prayer and then prayed without renewing their wudu. The schools explain the details differently. Other matters, such as touching the private parts or bleeding, are also treated differently by the schools. A trusted teacher can tell you the view followed in your community.",
+        "ar": "يرى أكثر العلماء أن النوم المستغرق الذي يذهب معه الإدراك ينقض الوضوء، ويرى كثير منهم أن النعاس الخفيف، خاصة مع الجلوس المتمكّن، لا ينقضه. وقد كان الصحابة ينامون أحيانًا وهم ينتظرون الصلاة ثم يصلّون ولا يتوضؤون. وتختلف المذاهب في تفصيل ذلك، كما تختلف في مسائل أخرى كمسّ الفرج وخروج الدم. ويمكنك أن تسأل معلّمًا موثوقًا عن القول المعتمد في بلدك."
+      },
+      "takeaway": {
+        "en": "Deep sleep breaks wudu for most scholars; light dozing is debated.",
+        "ar": "النوم المستغرق ينقض الوضوء عند أكثر العلماء، والنعاس الخفيف محلّ خلاف."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:muslim:376c"
+      ],
+      "audio": {
+        "en": "/audio/what-breaks-wudu/c4.en.mp3",
+        "ar": "/audio/what-breaks-wudu/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "practice",
+      "title": {
+        "en": "When you're not sure",
+        "ar": "عند الشك"
+      },
+      "body": {
+        "en": "If you know you had wudu and only doubt whether you broke it, you stay in wudu. The Prophet ﷺ told someone who thought he had passed wind during prayer not to leave his prayer unless he heard a sound or noticed a smell. Certainty is not removed by doubt.",
+        "ar": "إذا كنت متيقّنًا من وضوئك وشككت هل انتقض، فأنت على وضوئك. فقد أرشد النبي ﷺ من ظنّ أنه أحدث في صلاته ألّا يقطعها إلا إذا تيقّن بسماعٍ أو شمّ. فاليقين لا يزول بالشك."
+      },
+      "takeaway": {
+        "en": "Doubt does not cancel what you are sure of.",
+        "ar": "الشك لا يرفع اليقين."
+      },
+      "visual": "none",
+      "label": "suggestion",
+      "sources": [
+        "hadith:bukhari:137"
+      ],
+      "audio": {
+        "en": "/audio/what-breaks-wudu/c5.en.mp3",
+        "ar": "/audio/what-breaks-wudu/c5.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "Explain what breaks wudu, and what to do if you're unsure.",
+      "ar": "اشرح ما ينقض الوضوء، وماذا تفعل إذا شككت."
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Urine, stool and passing wind break wudu",
+        "ar": "البول والغائط والريح تنقض الوضوء",
+        "source": "hadith:bukhari:135"
+      },
+      {
+        "id": "k2",
+        "en": "Deep sleep breaks wudu according to most scholars, and light dozing is debated",
+        "ar": "النوم المستغرق ينقض الوضوء عند أكثر العلماء، والنعاس الخفيف محلّ خلاف",
+        "source": "hadith:muslim:376c"
+      },
+      {
+        "id": "k3",
+        "en": "A doubt does not break wudu you were sure of",
+        "ar": "الشك لا ينقض وضوءًا متيقّنًا",
+        "source": "hadith:bukhari:137"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which of these breaks wudu by agreement of scholars?",
+        "ar": "أيّ هذه ينقض الوضوء باتفاق العلماء؟"
+      },
+      "options": [
+        {
+          "en": "Passing wind",
+          "ar": "خروج الريح"
+        },
+        {
+          "en": "Eating food",
+          "ar": "تناول الطعام"
+        },
+        {
+          "en": "Walking outside",
+          "ar": "المشي خارج البيت"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said prayer is not accepted after hadath until wudu is renewed, and passing wind is hadath.",
+        "ar": "قال النبي ﷺ إن الصلاة لا تُقبل ممن أحدث حتى يتوضأ، وخروج الريح حدث."
+      },
+      "source": "hadith:bukhari:135"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "You are sure you made wudu, then you doubt whether you broke it. You…",
+        "ar": "تيقّنت أنك توضأت ثم شككت هل انتقض وضوؤك. فأنت…"
+      },
+      "options": [
+        {
+          "en": "Must repeat wudu",
+          "ar": "يجب أن تعيد الوضوء"
+        },
+        {
+          "en": "Remain in wudu",
+          "ar": "باقٍ على وضوئك"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Certainty is not removed by doubt.",
+        "ar": "اليقين لا يزول بالشك."
+      },
+      "source": "hadith:bukhari:137"
+    }
+  ]
+}

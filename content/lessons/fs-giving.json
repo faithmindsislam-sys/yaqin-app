@@ -1,0 +1,222 @@
+{
+  "id": "fs-giving",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 5,
+  "title": {
+    "en": "Giving: charity and zakat",
+    "ar": "العطاء: الصدقة والزكاة"
+  },
+  "summary": {
+    "en": "Charity is broad and open to everyone, while zakat is a set duty on wealth; both grow goodness in your life.",
+    "ar": "الصدقة واسعة ومتاحة للجميع، والزكاة فريضة محدّدة في المال، وكلاهما يُنمّي الخير في حياتك."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Charity is wider than money",
+        "ar": "الصدقة أوسع من المال"
+      },
+      "body": {
+        "en": "In Islam, giving is not limited to handing over cash. The Prophet ﷺ taught that each day the sun rises, every person owes a kind of charity, and he listed simple acts: being fair between two people, helping someone with their load, a good word, every step toward prayer, and removing something harmful from the road. So even with an empty wallet you can give charity all day long through small, kind deeds.",
+        "ar": "في الإسلام ليس العطاء محصورًا في بذل المال. علّمنا النبي ﷺ أن على كل إنسان صدقةً مع إشراقة كل يومٍ جديد، وذكر أعمالًا يسيرة: أن تعدل بين اثنين، وتعين أحدًا على متاعه، والكلمة الطيبة، وكل خطوة إلى الصلاة، وإماطة الأذى عن الطريق. فحتى بجيبٍ خالٍ تستطيع أن تتصدّق طوال اليوم بأعمالٍ صغيرة طيبة."
+      },
+      "takeaway": {
+        "en": "Small good deeds count as charity, even without money.",
+        "ar": "الأعمال الطيبة الصغيرة صدقة، ولو بلا مال."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:4568"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Every kindness is charity",
+        "ar": "كل معروف صدقة"
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ summed it up: any good you do counts as a charity.",
+        "ar": "لخّصها النبي ﷺ: كل معروف صدقة."
+      },
+      "visual": "book",
+      "sources": ["hadith:henc:5346"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "A seed that multiplies",
+        "ar": "حبّةٌ تتضاعف"
+      },
+      "takeaway": {
+        "en": "The Quran likens spending for Allah to a seed that grows into seven ears, each with a hundred grains.",
+        "ar": "يشبّه القرآن الإنفاق في سبيل الله ببذرةٍ تُخرج سبع سنبلات، تحمل كل واحدة منها مئة حبّة."
+      },
+      "visual": "book",
+      "sources": ["quran:2:261"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Start with your family",
+        "ar": "ابدأ بأهلك"
+      },
+      "body": {
+        "en": "Giving does not always mean looking for a stranger in need. The Prophet ﷺ taught that among the best things a person spends is what he spends on his own dependents, such as his wife and children. Providing for your household, with a good intention, is a rewarded act of worship, not something separate from charity. So the meals you buy and the needs you cover at home can all be a form of giving for Allah's sake.",
+        "ar": "ليس العطاء دائمًا أن تبحث عن غريبٍ محتاج. علّمنا النبي ﷺ أن من أفضل ما يُنفقه المرء ما يُنفقه على من تلزمه نفقته، كزوجته وولده. فالإنفاق على أهل بيتك بنيّة صالحة عبادة مأجورة، لا شيء منفصل عن الصدقة. فالطعام الذي تشتريه والحاجات التي تسدّها في بيتك قد تكون كلها عطاءً لوجه الله."
+      },
+      "takeaway": {
+        "en": "Spending on your own family is among the best giving.",
+        "ar": "الإنفاق على أهلك من أفضل العطاء."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["hadith:henc:3267"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Zakat: a set duty",
+        "ar": "الزكاة: فريضة محدّدة"
+      },
+      "body": {
+        "en": "Alongside voluntary charity, Islam has one obligatory giving called zakat. The Prophet ﷺ taught that Allah made it a duty on wealth: it is taken from those who have enough and given to those in need. Unlike general charity, zakat has fixed rules about who owes it and how much. For a new Muslim, the key idea is simply this: once your wealth reaches a certain level and is held for a year, a small share of it is owed to the poor.",
+        "ar": "إلى جانب صدقة التطوّع، في الإسلام عطاء واجب واحد يُسمّى الزكاة. وقد علّمنا النبي ﷺ أن الله فرضها في المال: تؤخذ من الأغنياء وتُردّ على الفقراء. وبخلاف الصدقة العامة، للزكاة أحكام ثابتة في من تجب عليه وكم مقدارها. والفكرة الأساسية للمسلم الجديد ببساطة: إذا بلغ مالك قدرًا معيّنًا ومرّ عليه عام، فإن حصّة يسيرة منه حقٌّ للفقراء."
+      },
+      "takeaway": {
+        "en": "Zakat is an obligatory share of wealth given to those in need.",
+        "ar": "الزكاة حصّة واجبة من المال تُعطى للمحتاجين."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": ["hadith:bukhari:1395"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Where zakat goes",
+        "ar": "أين تذهب الزكاة"
+      },
+      "body": {
+        "en": "Zakat is not given at random; the Quran names the people who may receive it. They include the poor and the needy, those employed to collect it, people whose hearts are being drawn to Islam, freeing captives, those weighed down by debt, the cause of Allah, and the stranded traveller. Knowing these categories helps you see that zakat is an organised system of care, making sure wealth reaches those who need it most.",
+        "ar": "لا تُعطى الزكاة عشوائيًا، بل سمّى القرآن من يستحقّها. وهم الفقراء والمساكين، والعاملون عليها، والمؤلَّفة قلوبهم، ومن يُعتَقون من الرقّ، والمَدينون المثقلون بالدَّين، والمجاهدون في طاعة الله، والمسافر المنقطع عن بلده. ومعرفة هذه الأصناف تُريك أن الزكاة نظام رعاية منظّم يضمن وصول المال إلى أحوج الناس إليه."
+      },
+      "takeaway": {
+        "en": "The Quran names set categories who may receive zakat.",
+        "ar": "سمّى القرآن أصنافًا محدّدين يستحقّون الزكاة."
+      },
+      "visual": "none",
+      "sources": ["quran:9:60"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Give from the good",
+        "ar": "أعطِ من الطيّب"
+      },
+      "body": {
+        "en": "Whatever you give, give from what is good. The Quran tells believers to spend from the good things they have earned, and not to pick out the poor-quality items to give away. It also praises those who spend by night and day, secretly and openly. Giving quietly protects the dignity of the one who receives, and keeps your own intention sincere. Choose something you yourself would be happy to receive, and offer it for Allah.",
+        "ar": "مهما أعطيت فأعطِ من الطيّب. يأمر القرآن المؤمنين أن ينفقوا من طيّبات ما كسبوا، وألا يتخيّروا الرديء ليعطوه. ويثني على الذين ينفقون بالليل والنهار سرًّا وعلانية. والعطاء في الخفاء يصون كرامة الآخذ، ويحفظ نيّتك صادقة. فاختر ما تحب أنت أن تأخذه، وقدّمه لوجه الله."
+      },
+      "takeaway": {
+        "en": "Give from what is good, and giving quietly is beautiful.",
+        "ar": "أعطِ من الطيّب، والعطاء في السر جميل."
+      },
+      "visual": "none",
+      "label": "suggestion",
+      "sources": ["quran:2:267", "quran:2:274"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "According to the Prophet ﷺ, what counts as charity?",
+        "ar": "عند النبي ﷺ، ما الذي يُعدّ صدقة؟"
+      },
+      "options": [
+        {
+          "en": "Only large sums of money",
+          "ar": "المبالغ الكبيرة من المال فقط"
+        },
+        {
+          "en": "Every act of goodness",
+          "ar": "كل معروف"
+        },
+        {
+          "en": "Only giving to strangers",
+          "ar": "العطاء للغرباء فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ said that every act of goodness is charity.",
+        "ar": "قال النبي ﷺ إن كل معروف صدقة."
+      },
+      "source": "hadith:henc:5346"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How does the Quran describe spending in the way of Allah?",
+        "ar": "كيف يصف القرآن الإنفاق في سبيل الله؟"
+      },
+      "options": [
+        {
+          "en": "As a seed that grows into many grains",
+          "ar": "كحبّةٍ تنبت حبوبًا كثيرة"
+        },
+        {
+          "en": "As a loss with no return",
+          "ar": "كخسارة لا عوض لها"
+        },
+        {
+          "en": "As something only the rich can do",
+          "ar": "كشيء لا يقدر عليه إلا الأغنياء"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran likens it to a seed that grows seven ears, each with a hundred grains.",
+        "ar": "يشبّهه القرآن بحبّةٍ تنبت سبع سنابل في كل سنبلة مئة حبّة."
+      },
+      "source": "quran:2:261"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "Who may receive zakat, according to the Quran?",
+        "ar": "من يستحقّ الزكاة بحسب القرآن؟"
+      },
+      "options": [
+        {
+          "en": "Anyone the giver likes, with no limits",
+          "ar": "أي شخص يحبه المعطي بلا حدود"
+        },
+        {
+          "en": "Only members of one family",
+          "ar": "أفراد عائلة واحدة فقط"
+        },
+        {
+          "en": "Set categories such as the poor and the needy",
+          "ar": "أصناف محدّدة كالفقراء والمساكين"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Quran names set categories, including the poor, the needy, and others.",
+        "ar": "سمّى القرآن أصنافًا محدّدين منهم الفقراء والمساكين وغيرهم."
+      },
+      "source": "quran:9:60"
+    }
+  ]
+}

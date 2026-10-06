@@ -1,0 +1,228 @@
+[
+  {
+    "id": "explore",
+    "title": {
+      "en": "Explore Islam",
+      "ar": "اكتشف الإسلام"
+    },
+    "tagline": {
+      "en": "Clear, sourced answers to the questions people actually ask.",
+      "ar": "أجوبة واضحة وموثّقة عن الأسئلة التي يطرحها الناس فعلًا."
+    },
+    "audience": {
+      "en": "For anyone curious about Islam, or holding a real objection. No pressure, and nothing about your beliefs is recorded.",
+      "ar": "لكل من يتساءل عن الإسلام أو لديه إشكال حقيقي. بلا ضغط، ولا نسجّل شيئًا عن قناعاتك."
+    },
+    "modules": [
+      {
+        "id": "getting-to-know-islam",
+        "title": {
+          "en": "Getting to Know Islam",
+          "ar": "أتعرف على الإسلام"
+        },
+        "goal": {
+          "en": "Build a clear understanding of Islam and its basic beliefs.",
+          "ar": "تكوين صورة واضحة عن الإسلام ومعتقداته الأساسية."
+        },
+        "lessons": [
+          "what-is-islam",
+          "who-is-god"
+        ]
+      },
+      {
+        "id": "exploring-my-questions",
+        "title": {
+          "en": "Exploring My Questions",
+          "ar": "أتعمق وأجد أجوبة لأسئلتي"
+        },
+        "goal": {
+          "en": "Explore evidence and major questions. Skip questions you already feel comfortable with.",
+          "ar": "التعرف على الأدلة ومناقشة الأسئلة الكبرى. تجاوز الأسئلة التي تشعر فيها بالطمأنينة."
+        },
+        "lessons": [
+          "why-believe-in-god",
+          "spread-by-sword"
+        ]
+      },
+      {
+        "id": "islam-in-everyday-life",
+        "title": {
+          "en": "Understanding Islam in Everyday Life",
+          "ar": "أفهم الإسلام في الحياة"
+        },
+        "goal": {
+          "en": "Understand the relationship between faith, worship and character.",
+          "ar": "فهم العلاقة بين الإيمان والعبادة والأخلاق."
+        },
+        "lessons": [
+          "kaaba-qibla",
+          "wudu-order",
+          "what-breaks-wudu",
+          "al-fatiha-meaning",
+          "why-face-qibla"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "first-steps",
+    "title": {
+      "en": "First Steps as a Muslim",
+      "ar": "خطواتي الأولى كمسلم"
+    },
+    "tagline": {
+      "en": "A gentle daily path for your first weeks as a Muslim.",
+      "ar": "مسار يومي هادئ لأسابيعك الأولى في الإسلام."
+    },
+    "audience": {
+      "en": "For someone who has just become Muslim. Every item is labelled obligatory, recommended or a learning suggestion.",
+      "ar": "لمن دخل الإسلام حديثًا. كل بند موسوم: واجب، أو مستحب، أو اقتراح للتعلّم."
+    },
+    "modules": [
+      {
+        "id": "begin-with-the-essentials",
+        "title": {
+          "en": "Begin with the Essentials",
+          "ar": "أبدأ بالأساسيات"
+        },
+        "goal": {
+          "en": "Learn the essentials and begin at your own pace.",
+          "ar": "تعلّم الأساسيات وابدأ بالوتيرة التي تناسبك."
+        },
+        "lessons": [
+          "fs-meaning-of-shahada",
+          "fs-a-fresh-start",
+          "fs-step-by-step",
+          "fs-six-pillars-of-faith",
+          "fs-five-pillars-of-islam",
+          "fs-ghusl",
+          "fs-halal-food",
+          "fs-my-family"
+        ]
+      },
+      {
+        "id": "build-my-daily-worship",
+        "title": {
+          "en": "Build My Daily Worship",
+          "ar": "أبني عبادتي اليومية"
+        },
+        "goal": {
+          "en": "Build confidence in purification, prayer and daily worship.",
+          "ar": "تعلّم الطهارة والصلاة والعبادة اليومية بثقة."
+        },
+        "lessons": [
+          "wudu-order",
+          "what-breaks-wudu",
+          "fs-tayammum",
+          "fs-five-daily-prayers",
+          "fs-how-to-pray",
+          "fs-what-i-recite",
+          "fs-friday-and-congregation",
+          "fs-daily-remembrance",
+          "fs-my-first-ramadan"
+        ]
+      },
+      {
+        "id": "continue-with-confidence",
+        "title": {
+          "en": "Continue with Confidence",
+          "ar": "أواصل بثبات"
+        },
+        "goal": {
+          "en": "Develop steady habits, good character and a connection with your community.",
+          "ar": "ابنِ عادات ثابتة وأخلاقًا حسنة وصلة بمجتمعك."
+        },
+        "lessons": [
+          "fs-small-and-steady",
+          "fs-when-i-slip",
+          "fs-good-character",
+          "fs-mosque-and-community",
+          "fs-learning-well",
+          "fs-doubts-and-questions",
+          "fs-giving"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deepen",
+    "title": {
+      "en": "Deepen My Knowledge",
+      "ar": "أعمّق معرفتي"
+    },
+    "tagline": {
+      "en": "Understand what you already practise, from approved sources.",
+      "ar": "افهم ما تمارسه كل يوم، من مصادر معتمدة."
+    },
+    "audience": {
+      "en": "For a Muslim who wants to strengthen their foundations and deepen their understanding through a guided journey or subject browsing.",
+      "ar": "للمسلم الراغب في ترسيخ أساسياته وتعميق فهمه، عبر رحلة موجّهة أو تصفّح المجالات."
+    },
+    "modules": [
+      {
+        "id": "strengthen-my-foundations",
+        "title": {
+          "en": "Strengthen My Foundations",
+          "ar": "أرسّخ أساسياتي"
+        },
+        "goal": {
+          "en": "Revisit essential beliefs and everyday practice.",
+          "ar": "راجع أساسيات الإيمان والممارسة اليومية."
+        },
+        "lessons": [
+          "who-is-god",
+          "dp-tawhid-in-depth",
+          "dp-what-undermines-tawhid",
+          "dp-names-of-allah",
+          "dp-faith-rises-and-falls",
+          "dp-qadar-and-choice",
+          "wudu-order",
+          "what-breaks-wudu",
+          "dp-pillars-of-prayer"
+        ]
+      },
+      {
+        "id": "understand-my-worship",
+        "title": {
+          "en": "Understand My Worship",
+          "ar": "أفهم عبادتي"
+        },
+        "goal": {
+          "en": "Understand the meanings and teachings behind everyday worship.",
+          "ar": "افهم معاني العبادة اليومية وتعاليمها."
+        },
+        "lessons": [
+          "al-fatiha-meaning",
+          "why-face-qibla",
+          "dp-khushu",
+          "dp-words-of-prayer",
+          "dp-purpose-of-fasting",
+          "dp-zakat",
+          "dp-hajj-and-umrah",
+          "dp-dua"
+        ]
+      },
+      {
+        "id": "broaden-my-understanding",
+        "title": {
+          "en": "Broaden My Understanding",
+          "ar": "أوسّع فهمي"
+        },
+        "goal": {
+          "en": "Connect the Quran, hadith, the Prophet’s life and character.",
+          "ar": "اربط بين القرآن والحديث والسيرة والأخلاق."
+        },
+        "lessons": [
+          "dp-quran-revelation-preservation",
+          "dp-understanding-a-verse",
+          "dp-intro-to-hadith",
+          "dp-seerah-makkah",
+          "dp-seerah-madinah",
+          "dp-prophet-character",
+          "dp-why-scholars-differ",
+          "dp-rights-of-others"
+        ]
+      }
+    ]
+  }
+]

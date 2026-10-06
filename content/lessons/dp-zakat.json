@@ -1,0 +1,223 @@
+{
+  "id": "dp-zakat",
+  "subject": "fiqh",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 5,
+  "title": {
+    "en": "Zakat: its wisdom and basics",
+    "ar": "الزكاة: حكمتها وأحكامها الأساسية"
+  },
+  "summary": {
+    "en": "Why zakat purifies wealth, where it goes, its basic conditions, and where to turn for the details.",
+    "ar": "لماذا تطهّر الزكاة المال، وأين تُصرف، وشروطها الأساسية، وأين تُطلب التفاصيل."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Wealth made pure",
+        "ar": "مالٌ يُطهَّر"
+      },
+      "body": {
+        "en": "Zakat is one of the five pillars of Islam, a yearly due on wealth. Allah tells the Prophet ﷺ to take a charity from people's wealth that purifies them and causes them to grow. So zakat is not a tax that merely leaves your hand; it cleanses the heart from greed and attachment, and Allah blesses what remains. It purifies both the wealth and the giver. Giving it is a sign of sincere faith, not a loss.",
+        "ar": "الزكاة ركنٌ من أركان الإسلام الخمسة، وحقٌّ سنويٌّ في المال. يأمر الله النبي ﷺ أن يأخذ من أموال الناس صدقةً تطهّرهم وتزكّيهم. فالزكاة ليست ضريبةً تخرج من يدك فحسب، بل تطهّر القلب من الشحّ والتعلّق، ويبارك الله فيما بقي. فهي تطهّر المال والمزكّي معًا. وإخراجها علامةُ صدق الإيمان لا خسارة."
+      },
+      "takeaway": {
+        "en": "Zakat purifies both the wealth and the one who gives it.",
+        "ar": "الزكاة تطهّر المال وصاحبه معًا."
+      },
+      "visual": "none",
+      "sources": ["quran:9:103", "hadith:henc:65000"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "From the rich to the poor",
+        "ar": "من الأغنياء إلى الفقراء"
+      },
+      "body": {
+        "en": "When the Prophet ﷺ sent Mu'adh ibn Jabal to Yemen, he told him to call the people to faith, then to prayer, and after that to inform them of an obligatory charity on their wealth: collected from those of means and handed back to those in need among them. This shows the social heart of zakat: it moves wealth from those who have surplus to those in need, binding the community together in care rather than letting riches pile up in a few hands.",
+        "ar": "لما بعث النبي ﷺ معاذ بن جبل رضي الله عنه إلى اليمن أمره أن يدعو الناس إلى الإيمان، ثم إلى الصلاة، ثم أن يعلّمهم أن الله فرض عليهم زكاةً في أموالهم، تُجبى من موسِريهم وتُعاد إلى محتاجيهم. وهذا يبيّن القلب الاجتماعي للزكاة: فهي تنقل المال من ذوي الفضل إلى المحتاجين، فتربط المجتمع برباط الرحمة بدل أن يتكدّس المال في أيدٍ قليلة."
+      },
+      "takeaway": {
+        "en": "Zakat is taken from those with means and given to those in need.",
+        "ar": "تؤخذ الزكاة من ذوي السعة وتُعطى للمحتاجين."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:1395"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The eight recipients",
+        "ar": "المصارف الثمانية"
+      },
+      "body": {
+        "en": "Allah Himself named who may receive zakat, so it is not given at random. The verse lists eight categories: the poor, the needy, those who collect it, those whose hearts are being drawn to Islam, freeing captives, those weighed down by debt, the cause of Allah, and the stranded traveller. The verse calls this an obligation from Allah. Knowing these categories helps a giver place zakat where it truly belongs.",
+        "ar": "سمّى الله بنفسه من يستحق الزكاة، فلا تُعطى عشوائيًّا. وتذكر الآية ثمانية أصناف: الفقراء، والمساكين، والعاملين عليها، والمؤلفة قلوبهم، والرقاب، والغارمين، ثم المجاهدين في سبيله، وأخيرًا المسافر المنقطع. وتسمّي الآية ذلك فريضةً من الله. ومعرفة هذه الأصناف تعين المزكّي على وضع زكاته في موضعها الحق."
+      },
+      "takeaway": {
+        "en": "Allah named eight categories who may receive zakat.",
+        "ar": "سمّى الله ثمانية أصناف يستحقّون الزكاة."
+      },
+      "visual": "none",
+      "sources": ["quran:9:60"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "The basic conditions",
+        "ar": "الشروط الأساسية"
+      },
+      "body": {
+        "en": "In general, zakat becomes due when a Muslim owns wealth above a set minimum, called the nisab, and has held it for a full lunar year. On money and trade goods the rate commonly mentioned is a fortieth, that is two and a half percent. These basics help you see the shape of the obligation. The exact minimums and rates for different kinds of wealth are matters the scholars detail, so treat these numbers as a general guide, not a personal ruling.",
+        "ar": "في الجملة تجب الزكاة إذا ملك المسلم مالًا بلغ حدًّا أدنى يسمّى النصاب، وحال عليه حولٌ قمري كامل. وفي النقود وعروض التجارة يُذكر عادةً ربع العشر، أي اثنان ونصف في المئة. وهذه الأصول تعينك على تصوّر شكل الفريضة. أما المقادير والأنصبة الدقيقة لأنواع المال المختلفة فمما يفصّله العلماء، فاعتبر هذه الأرقام دليلًا عامًّا لا فتوى في حالتك."
+      },
+      "takeaway": {
+        "en": "Zakat is due on wealth above the nisab held for a lunar year; commonly 2.5% on money.",
+        "ar": "تجب الزكاة في مالٍ بلغ النصاب وحال عليه الحول؛ وفي النقود عادةً اثنان ونصف في المئة."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65000", "ref:terminologyenc:6533"]
+    },
+    {
+      "id": "c5",
+      "kind": "quote",
+      "title": {
+        "en": "Prayer and zakat together",
+        "ar": "الصلاة والزكاة معًا"
+      },
+      "takeaway": {
+        "en": "The verse promises reward and security to those who pray and give zakat.",
+        "ar": "تَعِد الآية بالأجر والأمان لمن أقام الصلاة وآتى الزكاة."
+      },
+      "visual": "book",
+      "sources": ["quran:2:277"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Give from the good",
+        "ar": "أعطِ من الطيّب"
+      },
+      "body": {
+        "en": "Allah instructs the believers to spend from the good things they have earned, and not to pick out the poor and defective to give away, the kind they would only accept themselves with closed eyes. Zakat and charity are offered to Allah, so they should be from what is wholesome, not the leftovers. Give what you would be content to receive. This keeps the act honest and keeps the heart generous rather than grudging.",
+        "ar": "يأمر الله المؤمنين أن ينفقوا من طيّبات ما كسبوا، وألّا يتعمّدوا الرديء الخبيث يعطونه، وهو ما لا يأخذونه هم إلا بإغماض العين. والزكاة والصدقة تُقدَّم لله، فينبغي أن تكون من الطيّب لا من الفضلات. فأعطِ ما ترضى أن تأخذه، فذلك يبقي العمل صادقًا والقلب كريمًا لا شحيحًا."
+      },
+      "takeaway": {
+        "en": "Give zakat from good wealth, not the worst of what you have.",
+        "ar": "أخرِج الزكاة من طيّب المال لا من رديئه."
+      },
+      "visual": "none",
+      "sources": ["quran:2:267"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "For the details, ask a scholar",
+        "ar": "التفاصيل تُسأل عنها أهل العلم"
+      },
+      "body": {
+        "en": "The core of zakat is agreed upon, but many details are not. Scholars hold different views on matters such as zakat on jewellery, how debts affect what is due, modern kinds of assets, and the rates on crops and livestock. These differences come from how each scholar reads the evidence. This course keeps to the shared basics and does not take a side. For your own wealth and situation, ask a qualified scholar or a trusted zakat body who can apply the rules to your case.",
+        "ar": "أصل الزكاة متفقٌ عليه، لكن كثيرًا من التفاصيل ليس كذلك. فللعلماء آراء مختلفة في مسائل مثل زكاة الحليّ، وأثر الديون فيما يجب، وأنواع الأموال المعاصرة، وأنصبة الزروع والأنعام. وهذا الاختلاف ناشئ عن تفاوت فهمهم للأدلة. ويقتصر هذا الدرس على الأصول المشتركة ولا يرجّح. أما مالك وحالتك فاسأل عنهما عالمًا مؤهّلًا أو جهة زكاة موثوقة تنزّل الأحكام على واقعك."
+      },
+      "takeaway": {
+        "en": "Scholars differ on zakat's details; ask a qualified scholar for your own case.",
+        "ar": "يختلف العلماء في تفاصيل الزكاة؛ فاسأل عالمًا مؤهّلًا عن حالتك."
+      },
+      "visual": "none",
+      "sources": ["quran:9:60", "quran:2:267"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Quran say zakat does for the giver?",
+        "ar": "ماذا تفعل الزكاة بصاحبها كما يذكر القرآن؟"
+      },
+      "options": [
+        {
+          "en": "It purifies them and causes increase",
+          "ar": "تطهّرهم وتزكّيهم"
+        },
+        {
+          "en": "It makes them famous",
+          "ar": "تجعلهم مشهورين"
+        },
+        {
+          "en": "It replaces prayer",
+          "ar": "تغني عن الصلاة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Allah tells the Prophet ﷺ to take a charity that purifies people and causes them to grow.",
+        "ar": "يأمر الله النبي ﷺ أن يأخذ صدقةً تطهّر الناس وتزكّيهم."
+      },
+      "source": "quran:9:103"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "In the hadith of Mu'adh, from whom is zakat taken and to whom given?",
+        "ar": "في حديث معاذ، ممن تؤخذ الزكاة ولمن تُعطى؟"
+      },
+      "options": [
+        {
+          "en": "From travellers, to rulers",
+          "ar": "من المسافرين، للحكّام"
+        },
+        {
+          "en": "From the rich, to the poor",
+          "ar": "من الأغنياء، للفقراء"
+        },
+        {
+          "en": "From the poor, to the rich",
+          "ar": "من الفقراء، للأغنياء"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ told Mu'adh that zakat is taken from the wealthy and returned to the poor among them.",
+        "ar": "قال النبي ﷺ لمعاذ إن الزكاة تؤخذ من أغنيائهم وتُردّ على فقرائهم."
+      },
+      "source": "hadith:bukhari:1395"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How many categories of zakat recipients does the Quran name?",
+        "ar": "كم صنفًا من مستحقي الزكاة سمّى القرآن؟"
+      },
+      "options": [
+        {
+          "en": "Three",
+          "ar": "ثلاثة"
+        },
+        {
+          "en": "Five",
+          "ar": "خمسة"
+        },
+        {
+          "en": "Eight",
+          "ar": "ثمانية"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The verse lists eight categories and calls it an obligation from Allah.",
+        "ar": "تذكر الآية ثمانية أصناف وتسمّيها فريضةً من الله."
+      },
+      "source": "quran:9:60"
+    }
+  ]
+}

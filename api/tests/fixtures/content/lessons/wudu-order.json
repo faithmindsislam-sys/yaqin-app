@@ -1,0 +1,24 @@
+{
+  "id": "wudu-order", "track": "first-steps", "module": "purification", "level": "foundation", "minutes": 4,
+  "title": {"en": "The order of wudu", "ar": "ترتيب أعضاء الوضوء"},
+  "summary": {"en": "Four parts, in one order.", "ar": "أربعة أعضاء بترتيب واحد."},
+  "status": "published",
+  "cards": [
+    {"id": "c1", "kind": "concept", "title": {"en": "Four parts", "ar": "أربعة أعضاء"},
+     "body": {"en": "Wash the face, the arms to the elbows, wipe the head, wash the feet.", "ar": "غسل الوجه واليدين ومسح الرأس وغسل الرجلين."},
+     "takeaway": {"en": "One order.", "ar": "ترتيب واحد."}, "sources": ["quran:5:6"], "label": "obligatory"},
+    {"id": "c2", "kind": "quote", "title": {"en": "The verse", "ar": "الآية"}, "sources": ["quran:5:6"]}
+  ],
+  "explain_back": {
+    "prompt": {"en": "Explain the order of wudu", "ar": "اشرح ترتيب الوضوء"},
+    "key_ideas": [
+      {"id": "k1", "en": "Wash the face", "ar": "غسل الوجه", "source": "quran:5:6"},
+      {"id": "k2", "en": "Wash the arms to the elbows", "ar": "غسل اليدين إلى المرفقين", "source": "quran:5:6"},
+      {"id": "k3", "en": "Wipe the head", "ar": "مسح الرأس", "source": "quran:5:6"},
+      {"id": "k4", "en": "Wash the feet to the ankles", "ar": "غسل الرجلين إلى الكعبين", "source": "quran:5:6"}
+    ]
+  },
+  "quiz": [{"id": "q1", "question": {"en": "What comes after the arms?", "ar": "ماذا بعد اليدين؟"},
+            "options": [{"en": "Wipe the head", "ar": "مسح الرأس"}, {"en": "Feet", "ar": "الرجلان"}], "answer": 0,
+            "explanation": {"en": "The verse lists the head next.", "ar": "الآية تذكر الرأس بعد اليدين."}, "source": "quran:5:6"}]
+}

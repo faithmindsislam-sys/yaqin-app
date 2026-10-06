@@ -1,0 +1,166 @@
+{
+  "/": {
+    "surface": "site",
+    "path": "/"
+  },
+  "/privacy/": {
+    "surface": "site",
+    "path": "/privacy/"
+  },
+  "/teachers/": {
+    "surface": "site",
+    "path": "/teachers/"
+  },
+  "/articles/": {
+    "surface": "site",
+    "path": "/articles/"
+  },
+  "/articles/how-to-perform-wudu/": {
+    "surface": "site",
+    "path": "/articles/how-to-perform-wudu/"
+  },
+  "/articles/what-is-zakat/": {
+    "surface": "site",
+    "path": "/articles/what-is-zakat/"
+  },
+  "/journey/": {
+    "surface": "app",
+    "path": "/journey/"
+  },
+  "/learn/": {
+    "surface": "app",
+    "path": "/learn/"
+  },
+  "/settings/": {
+    "surface": "app",
+    "path": "/settings/"
+  },
+  "/signin/": {
+    "surface": "app",
+    "path": "/signin/"
+  },
+  "/reset-password/": {
+    "surface": "app",
+    "path": "/reset-password/"
+  },
+  "/auth/callback/": {
+    "surface": "app",
+    "path": "/auth/callback/"
+  },
+  "/auth/bridge/": {
+    "surface": "app",
+    "path": "/auth/bridge/"
+  },
+  "/start/": {
+    "surface": "app",
+    "path": "/start/"
+  },
+  "/start/explore/": {
+    "surface": "app",
+    "path": "/start/explore/"
+  },
+  "/library/": {
+    "surface": "app",
+    "path": "/library/"
+  },
+  "/course/": {
+    "surface": "app",
+    "path": "/course/"
+  },
+  "/lesson/": {
+    "surface": "app",
+    "path": "/lesson/"
+  },
+  "/quran/": {
+    "surface": "app",
+    "path": "/quran/"
+  },
+  "/compare/": {
+    "surface": "app",
+    "path": "/compare/"
+  },
+  "/ask/": {
+    "surface": "app",
+    "path": "/ask/"
+  },
+  "/shahada/": {
+    "surface": "app",
+    "path": "/shahada/"
+  },
+  "/first-steps/": {
+    "surface": "app",
+    "path": "/first-steps/"
+  },
+  "/worship/": {
+    "surface": "app",
+    "path": "/worship/"
+  },
+  "/app/": {
+    "surface": "app",
+    "path": "/journey/"
+  },
+  "/app/learn/": {
+    "surface": "app",
+    "path": "/learn/"
+  },
+  "/app/settings/": {
+    "surface": "app",
+    "path": "/settings/"
+  },
+  "/studio/": {
+    "surface": "studio",
+    "path": "/courses/"
+  },
+  "/courses/": {
+    "surface": "studio",
+    "path": "/courses/"
+  },
+  "/studio/course/": {
+    "surface": "studio",
+    "path": "/editor/"
+  },
+  "/editor/": {
+    "surface": "studio",
+    "path": "/editor/"
+  },
+  "/studio/lesson/": {
+    "surface": "studio",
+    "path": "/editor/"
+  },
+  "/studio/curriculum/": {
+    "surface": "studio",
+    "path": "/curriculum/"
+  },
+  "/curriculum/": {
+    "surface": "studio",
+    "path": "/curriculum/"
+  },
+  "/studio/users/": {
+    "surface": "studio",
+    "path": "/users/"
+  },
+  "/users/": {
+    "surface": "studio",
+    "path": "/users/"
+  },
+  "/studio/knowledge-base/": {
+    "surface": "studio",
+    "path": "/knowledge-base/"
+  },
+  "/knowledge-base/": {
+    "surface": "studio",
+    "path": "/knowledge-base/"
+  },
+  "/studio/sources/": {
+    "surface": "studio",
+    "path": "/sources/"
+  },
+  "/sources/": {
+    "surface": "studio",
+    "path": "/sources/"
+  },
+  "/instructor/": {
+    "surface": "studio",
+    "path": "/courses/"
+  }
+}

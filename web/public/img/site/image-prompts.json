@@ -1,0 +1,13 @@
+{
+  "tool": "Built-in ImageGen",
+  "assets": [
+    {
+      "name": "wudu",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide editorial article cover for a premium Islamic learning website. Primary request: a quiet close-up of fresh clear water pouring from a simple brass tap into a pale cream stone ablution basin in a beautiful mosque courtyard. No people. Composition: landscape 3:2, sculptural brass faucet on the upper right, water centered, soft ripples and negative space on the left. Natural late afternoon sunlight, tactile travertine, subtle cobalt blue tile detail, restrained warm ivory and muted blue palette. High-end architectural editorial photography, authentic materials, crisp detail, calm and thoughtful mood. No words, no Arabic calligraphy, no logos, no watermark."
+    },
+    {
+      "name": "zakat",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide editorial article cover for a premium Islamic learning website. Primary request: a minimal still life symbolizing charitable giving, a small handmade blue ceramic bowl holding a few simple gold-colored coins on warm ivory linen beside a subtle olive branch. Composition: landscape 3:2, objects loosely grouped near the center-right, generous negative space, nothing cluttered. Soft afternoon window light and architectural shadows, tactile linen and matte ceramic, warm limestone backdrop. High-end editorial still-life photography, restrained ivory, muted blue and honey gold palette, dignified and contemplative. No people, no legible markings on the coins, no words, no logos, no watermark."
+    }
+  ]
+}

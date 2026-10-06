@@ -1,0 +1,182 @@
+{
+  "course_id": "why-believe-in-god",
+  "status": "draft",
+  "scholarly_approval": "not_granted",
+  "approach": "Document-first manual authoring; existing RAG architecture was not modified. Extract reasoning in the original English, then compose learner prose independently in English and Arabic.",
+  "primary_book": {
+    "book_id": "publisher-islamhouse-en-2834110",
+    "catalog_title": "Islam and Atheism face to face",
+    "title_in_pdf": "Abandoning Atheism for Islam",
+    "author_verified_from_pdf": "Scholarly Committee at the Islamic Content Service Association in Languages",
+    "url": "https://islamhouse.com/en/books/2834110/",
+    "file_sha256": "ad3ed628331f64bec4d491d583d5542389970325df665d9f34b26d16c6450d5e",
+    "pdf_path": "/Users/aymen/Desktop/Hackathon/resources/dawa-corpus/books/files/publisher-islamhouse-en-2834110.pdf",
+    "context_pages_read": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      36,
+      37
+    ],
+    "visual_checks_pdf_pages": [
+      13,
+      15,
+      37
+    ]
+  },
+  "card_purposes": {
+    "c1": "Orient the learner to two arguments and free inquiry.",
+    "c2": "Explain the causal premise and the self-creation objection.",
+    "c3": "Examine one short canonical source instead of generating scripture.",
+    "c4": "Explain order/function as a distinct argument.",
+    "c5": "Clarify the scope of the premise and the beginningless-Creator reply.",
+    "c6": "Invite optional examination without judging faith."
+  },
+  "claim_evidence": {
+    "two_arguments": [
+      "Book PDF 13, printed 11"
+    ],
+    "begins_to_exist_requires_cause": [
+      "Book PDF 13, printed 11"
+    ],
+    "self_creation_objection": [
+      "Book PDF 4–5, printed 2–3; Quran 52:35"
+    ],
+    "order_and_function_point_to_creator": [
+      "Book PDF 15–19, printed 13–17; Quran 2:164"
+    ],
+    "uncreated_beginningless_creator": [
+      "Book PDF 36–37, printed 34–35; Quran 57:3"
+    ],
+    "Allah_name": [
+      "ref:terminologyenc:16760"
+    ]
+  },
+  "translation_policy": {
+    "lesson_prose": "Independently composed bilingual explanations; no source-first automatic translation before reasoning.",
+    "book_evidence": "Original published English is authoritative and retained unchanged. Arabic excerpt text is a secondary AI-assisted translation, explicitly labelled in ref_ar and translation metadata, pending scholarly review. It is not claimed to be a published Arabic edition.",
+    "scripture": "Existing acquired KFGQPC Arabic and Sahih International English records, with only the Arabic terminal verse-number marker omitted to match the source gateway convention."
+  },
+  "omitted": [
+    "Scientific assertions about cosmology, entropy, genetics and evolution were not imported.",
+    "Polemic and generalized claims about atheists were not imported.",
+    "Fitrah, suffering, religious truth claims and full cosmological/design debates are beyond this short course."
+  ],
+  "limits": [
+    "The course presents two arguments and their premises; it does not establish that these arguments alone prove every Islamic belief.",
+    "The beginningless-Creator card explains the response and its scope; it is not an exhaustive defence against objections to causality or regress.",
+    "All new excerpts and secondary translations remain pending review.",
+    "The current player hides source buttons on concept cards. Source references remain in the course and quiz; quote and quiz-source views can display records."
+  ],
+  "curriculum_placement": {
+    "track": "explore",
+    "module": "exploring-my-questions",
+    "position": "first"
+  },
+  "external_sources_used_for_religious_content": false,
+  "ocr_used": false,
+  "self_review": {
+    "bilingual_meaning": "Checked for equivalent claims, scope and qualifications; phrasing adapted to each language.",
+    "quiz": "Three questions, parallel options, correct positions 1/0/2; tests understanding of presented arguments, not personal belief.",
+    "schema": "Current CourseDraft only; no unsupported intro/actions/tags/needs_review fields.",
+    "source_support": "All doctrinal and argument claims mapped above; pedagogical invitations are editorial."
+  },
+  "database_verification": {
+    "course_id": "why-believe-in-god",
+    "status": "draft",
+    "cards": 6,
+    "quiz_questions": 3,
+    "track": "explore",
+    "module": "exploring-my-questions",
+    "position": 1,
+    "stored_content_matches": true,
+    "schema_valid": true,
+    "source_statuses": {
+      "quran:2:164": "pending",
+      "quran:52:35": "pending",
+      "quran:57:3": "pending",
+      "ref:book:god-existence:order": "pending",
+      "ref:book:god-existence:origin": "pending",
+      "ref:book:god-existence:uncreated": "pending",
+      "ref:terminologyenc:16760": "approved"
+    },
+    "deterministic_review": {
+      "lesson_id": "why-believe-in-god",
+      "ready_for_reviewer": true,
+      "checks": {
+        "sources_found": "7/7",
+        "sources_approved": 1,
+        "ai_review": false,
+        "ai_review_reused": false
+      },
+      "issues": [
+        {
+          "card": "c1",
+          "severity": "medium",
+          "issue": "Source 'ref:book:god-existence:origin' has not been approved by a reviewer yet.",
+          "suggestion": "Ask the scholarly reviewer to verify the text and translation.",
+          "origin": "rule"
+        },
+        {
+          "card": "c1",
+          "severity": "medium",
+          "issue": "Source 'ref:book:god-existence:order' has not been approved by a reviewer yet.",
+          "suggestion": "Ask the scholarly reviewer to verify the text and translation.",
+          "origin": "rule"
+        },
+        {
+          "card": "c2",
+          "severity": "medium",
+          "issue": "Source 'quran:52:35' has not been approved by a reviewer yet.",
+          "suggestion": "Ask the scholarly reviewer to verify the text and translation.",
+          "origin": "rule"
+        },
+        {
+          "card": "c4",
+          "severity": "medium",
+          "issue": "Source 'quran:2:164' has not been approved by a reviewer yet.",
+          "suggestion": "Ask the scholarly reviewer to verify the text and translation.",
+          "origin": "rule"
+        },
+        {
+          "card": "c5",
+          "severity": "medium",
+          "issue": "Source 'ref:book:god-existence:uncreated' has not been approved by a reviewer yet.",
+          "suggestion": "Ask the scholarly reviewer to verify the text and translation.",
+          "origin": "rule"
+        },
+        {
+          "card": "c5",
+          "severity": "medium",
+          "issue": "Source 'quran:57:3' has not been approved by a reviewer yet.",
+          "suggestion": "Ask the scholarly reviewer to verify the text and translation.",
+          "origin": "rule"
+        }
+      ],
+      "ai_generated": false
+    },
+    "human_review": "pending",
+    "scholarly_approval": false
+  },
+  "ui_verification": {
+    "studio_url": "http://127.0.0.1:3100/studio/course/?id=why-believe-in-god&part=course",
+    "english_preview": "Opening and stored Quran quotation checked",
+    "arabic_preview": "Opening, stored Quran quotation and objection card checked; RTL screenshot visually inspected",
+    "quiz_editor": "Arabic question 1 checked with correct second option, explanation and three-question count",
+    "status": "Draft and all changes saved visibly confirmed",
+    "human_or_scholarly_review_performed": false
+  }
+}

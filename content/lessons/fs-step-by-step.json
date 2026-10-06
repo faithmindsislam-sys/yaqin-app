@@ -1,0 +1,239 @@
+{
+  "id": "fs-step-by-step",
+  "subject": "islam",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 5,
+  "title": {
+    "en": "Step by step: the religion is easy",
+    "ar": "خطوة خطوة: الدين يسر"
+  },
+  "summary": {
+    "en": "Allah wants ease for you, so learn and practise gradually, starting with the essentials.",
+    "ar": "الله يريد بك اليسر، فتعلّم واعمل بالتدرّج، بدءًا من الأساسيات."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Ease, not hardship",
+        "ar": "يُسرٌ لا عُسر"
+      },
+      "body": {
+        "en": "A new Muslim can feel there is a mountain to climb all at once. The Quran calms that feeling. When Allah speaks about fasting, He says plainly that He wants ease for you and does not want hardship. This is a thread that runs through the whole religion. You are not expected to do everything today. You are expected to begin, and to keep going gently.",
+        "ar": "قد يشعر المسلم الجديد أن أمامه جبلًا يصعده دفعةً واحدة. والقرآن يُطمئن هذا الشعور. فحين يتحدث الله عن الصيام يقول بوضوح إنه يريد بكم التيسير، وأنه لا يريد أن يُثقل عليكم. وهذا خيطٌ يسري في الدين كله. لست مطالَبًا بأن تفعل كل شيء اليوم، بل أن تبدأ وتستمرّ برفق."
+      },
+      "takeaway": {
+        "en": "Allah wants ease for you, not hardship.",
+        "ar": "الله يريد بك اليسر لا العسر."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:185"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Within your capacity",
+        "ar": "في حدود طاقتك"
+      },
+      "body": {
+        "en": "Allah has made clear that He does not burden any soul beyond what it can bear. Whatever good you manage is counted for you. This means your pace matters less than your direction. If something feels beyond you right now, Allah knows your situation. Do what you can, trust that it is accepted, and let your ability grow with time.",
+        "ar": "بيّن الله أنه لا يكلّف نفسًا إلا ما تطيقه. وكل خيرٍ تستطيعه يُحتسب لك. ومعنى هذا أن اتجاهك أهمّ من سرعتك. فإن شعرت أن أمرًا فوق طاقتك الآن، فالله يعلم حالك. افعل ما تقدر عليه، وثِق أنه مقبول، ودَع قدرتك تنمو مع الوقت."
+      },
+      "takeaway": {
+        "en": "No soul is asked for more than it can bear.",
+        "ar": "لا تُكلَّف نفسٌ فوق ما تطيق."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:286"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Aim for the middle",
+        "ar": "اقصد الوسط"
+      },
+      "body": {
+        "en": "The Prophet ﷺ said the religion is easy, and that whoever tries to overpower it will only be overwhelmed. So he told us to be moderate, to come close to the ideal when we cannot reach it perfectly, and to take rest in the fresh parts of the day. Steady and balanced beats fast and exhausted. A religion built on ease is one you can keep.",
+        "ar": "أخبر النبي ﷺ أن هذا الدين دينُ يُسرٍ، وأن من يُشادَّه يغلبه. فأرشدنا إلى الاعتدال، وإلى أن نقارب الكمال إن لم نبلغه تمامًا، وأن نستعين بأوقات النشاط من اليوم. فالثبات المتوازن خيرٌ من السرعة المرهِقة. والدين المبنيّ على اليسر دينٌ تستطيع الاستمرار عليه."
+      },
+      "takeaway": {
+        "en": "Be moderate and steady; do not overburden yourself.",
+        "ar": "اعتدل وداوِم، ولا تُحمّل نفسك فوق طاقتها."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:5795"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Leave and do",
+        "ar": "اترك وافعل"
+      },
+      "body": {
+        "en": "The Prophet ﷺ gave a simple rule for a whole life of practice. What he forbade, keep away from. What he commanded, do as much of it as you can. Avoiding a harm is within everyone's reach straight away; doing good grows with ability and habit. Hold on to this rule and the religion stops feeling like a long checklist and becomes two gentle movements.",
+        "ar": "أعطى النبي ﷺ قاعدة بسيطة لحياةٍ كاملة من العمل: ما نهى عنه فاجتنبه، وما أمر به فافعل منه ما استطعت. فاجتناب الضرر في متناول الجميع فورًا، وفعل الخير ينمو مع القدرة والعادة. تمسّك بهذه القاعدة يَكفّ الدين عن أن يبدو قائمةً طويلة، ويصير حركتين لطيفتين."
+      },
+      "takeaway": {
+        "en": "Avoid what is forbidden; do what you can of what is commanded.",
+        "ar": "اجتنب المنهيّ، وافعل من المأمور ما استطعت."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:66517"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Start with prayer",
+        "ar": "ابدأ بالصلاة"
+      },
+      "body": {
+        "en": "If you are wondering where to begin, begin with prayer. Scholars answering new Muslims explain that once a person enters Islam the five daily prayers become due, each at its time, because prayer is the second pillar and the heart of daily worship. Learn it gradually, one piece at a time. The other obligations will come, but prayer is the first daily habit to build.",
+        "ar": "إن كنت تتساءل من أين تبدأ، فابدأ بالصلاة. يبيّن العلماء في إجاباتهم للمسلمين الجدد أن المسلم إذا دخل الإسلام وجبت عليه الصلوات الخمس، كلٌّ في وقتها، لأن الصلاة هي الركن الثاني وقلب العبادة اليومية. تعلّمها بالتدرّج، جزءًا بعد جزء. وستأتي بقية الواجبات، لكن الصلاة أول عادةٍ يوميةٍ تبنيها."
+      },
+      "takeaway": {
+        "en": "Begin with the five daily prayers, learning gradually.",
+        "ar": "ابدأ بالصلوات الخمس، وتعلّمها بالتدرّج."
+      },
+      "visual": "none",
+      "sources": [
+        "ref:icadb:36102"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "As much as you are able",
+        "ar": "ما استطعتم"
+      },
+      "takeaway": {
+        "en": "Be mindful of Allah to the full extent of your ability.",
+        "ar": "اتقِ الله ما استطعت."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:64:16"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Pick one next step",
+        "ar": "اختر خطوةً واحدة"
+      },
+      "body": {
+        "en": "Choose just one thing to grow this week, and keep it small enough to actually do. It might be learning the movements of one prayer, memorising a short phrase of remembrance, or praying one prayer on time each day. When it becomes easy, add the next step. Learning at the right pace, as the Companions advised teaching people according to their understanding, is how this faith is built to last.",
+        "ar": "اختر أمرًا واحدًا فقط تنمّيه هذا الأسبوع، واجعله صغيرًا بحيث تستطيع فعله حقًّا: قد يكون تعلّم حركات صلاةٍ واحدة، أو حفظ ذكرٍ قصير، أو أداء صلاةٍ واحدة في وقتها كل يوم. فإذا سهُل عليك أضِف الخطوة التالية. والتعلّم بالتدرّج المناسب، كما أرشد السلف أن يُحدَّث الناس بما يعرفون، هو ما يجعل هذا الدين باقيًا."
+      },
+      "takeaway": {
+        "en": "Grow one small step at a time, then add the next.",
+        "ar": "انمُ خطوةً صغيرة واحدة، ثم أضِف التي بعدها."
+      },
+      "visual": "steps",
+      "sources": [
+        "hadith:henc:3344"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does Allah say He wants for you in the verse about fasting?",
+        "ar": "ماذا يقول الله إنه يريده لك في آية الصيام؟"
+      },
+      "options": [
+        {
+          "en": "Hardship, to test you",
+          "ar": "العسر ليختبرك"
+        },
+        {
+          "en": "Ease, not hardship",
+          "ar": "اليسر لا العسر"
+        },
+        {
+          "en": "That you do everything at once",
+          "ar": "أن تفعل كل شيء دفعة واحدة"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Allah says He intends ease for you and does not intend hardship.",
+        "ar": "يقول الله إنه يريد بكم اليسر ولا يريد بكم العسر."
+      },
+      "source": "quran:2:185"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "The Prophet ﷺ said about commands and prohibitions that we should…",
+        "ar": "قال النبي ﷺ في الأوامر والنواهي أن علينا أن…"
+      },
+      "options": [
+        {
+          "en": "Do all commands fully or nothing at all",
+          "ar": "نفعل كل الأوامر كاملةً أو لا نفعل شيئًا"
+        },
+        {
+          "en": "Avoid what is forbidden and do what we can of what is commanded",
+          "ar": "نجتنب المنهيّ ونفعل من المأمور ما نستطيع"
+        },
+        {
+          "en": "Ask many questions before acting",
+          "ar": "نكثر الأسئلة قبل العمل"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He taught us to keep away from what is forbidden and to do as much as we can of what is commanded.",
+        "ar": "علّمنا أن نجتنب ما نُهينا عنه ونفعل من المأمور ما نطيق."
+      },
+      "source": "hadith:henc:66517"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "For a new Muslim, which obligation is the first daily habit to build?",
+        "ar": "بالنسبة للمسلم الجديد، أي واجب هو أول عادةٍ يومية يبنيها؟"
+      },
+      "options": [
+        {
+          "en": "The five daily prayers",
+          "ar": "الصلوات الخمس"
+        },
+        {
+          "en": "Hajj immediately",
+          "ar": "الحجّ فورًا"
+        },
+        {
+          "en": "Nothing until he knows everything",
+          "ar": "لا شيء حتى يعرف كل شيء"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Scholars note that prayer becomes due on entering Islam, learned step by step.",
+        "ar": "يبيّن العلماء أن الصلاة تجب بالدخول في الإسلام، وتُتعلّم بالتدرّج."
+      },
+      "source": "ref:icadb:36102"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "dp-purpose-of-fasting",
+  "subject": "fiqh",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 5,
+  "title": {
+    "en": "The purpose of fasting",
+    "ar": "مقاصد الصيام"
+  },
+  "summary": {
+    "en": "Why we fast: taqwa, a reward Allah keeps for Himself, a shield, gratitude, and nearness in Ramadan.",
+    "ar": "لماذا نصوم: التقوى، وأجرٌ يختصّ الله به، وجُنّة، وشكرٌ، وقربٌ في رمضان."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The aim is taqwa",
+        "ar": "الغاية التقوى"
+      },
+      "body": {
+        "en": "When Allah prescribed fasting, He named its purpose: that you may attain taqwa, mindfulness of Allah. Fasting trains a person to leave even lawful food and drink for Allah's sake, so that leaving what is unlawful at other times becomes easier. The same verse tells us that fasting was prescribed for the communities before us too, so it is an ancient path to a watchful, God-conscious heart, not a burden invented for us alone.",
+        "ar": "حين فرض الله الصيام ذكر غايته: أن تنالوا التقوى، أي مراقبة الله. فالصيام يدرّب المرء على ترك الطعام والشراب المباح لأجل الله، حتى يسهل عليه ترك الحرام في غير الصيام. وتخبرنا الآية نفسها أن الصيام فُرض على الأمم قبلنا أيضًا، فهو طريقٌ قديم إلى قلبٍ يقظ خاشٍ لله، لا عبءٌ ابتُدع لنا وحدنا."
+      },
+      "takeaway": {
+        "en": "Fasting is prescribed to build taqwa, mindfulness of Allah.",
+        "ar": "فُرض الصيام ليبني التقوى، أي مراقبة الله."
+      },
+      "visual": "none",
+      "sources": ["quran:2:183"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "That you may attain taqwa",
+        "ar": "لعلكم تتقون"
+      },
+      "takeaway": {
+        "en": "The verse states the goal of fasting plainly: taqwa.",
+        "ar": "تذكر الآية غاية الصيام صراحةً: التقوى."
+      },
+      "visual": "book",
+      "sources": ["quran:2:183"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A deed Allah keeps for Himself",
+        "ar": "عملٌ يختصّ الله به"
+      },
+      "body": {
+        "en": "In a sacred narration the Prophet ﷺ reported that Allah said every deed of a person is for himself except fasting, for it is His and He Himself rewards it. The Prophet ﷺ called fasting a shield, and taught the faster to answer insult or quarrel by simply saying he is fasting. He also mentioned two joys for the one who fasts: when he breaks his fast, and when he meets his Lord. Fasting is thus private worship between a servant and Allah.",
+        "ar": "في حديثٍ قدسي أخبر النبي ﷺ أن الله قال إن سائر أعمال الإنسان تعود إليه إلا الصيام فإنه له سبحانه وهو يجزي به. وسمّى النبي ﷺ الصيام جُنّة، وعلّم الصائم أن يردّ على من شاتمه أو خاصمه بأن يقول إني صائم. وذكر للصائم فرحتين: حين يفطر، وحين يلقى ربه. فالصيام عبادةٌ خفية بين العبد وربه."
+      },
+      "takeaway": {
+        "en": "Fasting is special worship Allah rewards Himself, and a shield for the one who fasts.",
+        "ar": "الصيام عبادةٌ يجزي الله بها بنفسه، وجُنّةٌ لصاحبها."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:1904"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "More than hunger",
+        "ar": "أكثر من الجوع"
+      },
+      "body": {
+        "en": "The Prophet ﷺ warned that whoever does not give up false speech and acting on it, Allah has no need of his leaving food and drink. This shows that fasting is not merely avoiding food; it is a fast of the tongue, the eyes and the actions as well. If the body abstains while the character does not improve, the point of the fast has been missed. So guard your speech and conduct during the day as carefully as you guard your mouth from food.",
+        "ar": "حذّر النبي ﷺ من أن من لم يترك الكذب والعمل بمقتضاه فلا حاجة لله في تركه طعامه وشرابه. وهذا يبيّن أن الصيام ليس مجرد ترك الطعام، بل هو صيام اللسان والبصر والجوارح كذلك. فإذا امتنع الجسد ولم يتحسّن الخلق فقد فات مقصود الصيام. فاحفظ لسانك وسلوكك في نهارك كما تحفظ فمك عن الطعام."
+      },
+      "takeaway": {
+        "en": "True fasting restrains the tongue and conduct, not only food and drink.",
+        "ar": "الصيام الحق يكفّ اللسان والسلوك، لا الطعام والشراب فقط."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:1903"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Ease, not hardship",
+        "ar": "يُسرٌ لا عُسر"
+      },
+      "body": {
+        "en": "The verse about the month of Ramadan says that Allah intends ease for you and not hardship. It allows the one who is ill or travelling to make up the same count of days at another time instead. The purpose of fasting is spiritual benefit, not exhaustion, so these allowances are part of the mercy of the command. The verse ends by linking the fast to glorifying Allah and being grateful for the guidance He gave.",
+        "ar": "تقول آية شهر رمضان إن الله يريد لعباده التيسير دون المشقّة. وتبيح لمن كان مريضًا أو مسافرًا أن يصوم بعدد تلك الأيام في وقتٍ آخر بدلًا من ذلك. فمقصود الصيام منفعة الروح لا الإرهاق، ولذا كانت هذه الرخص من رحمة الأمر. وتختم الآية بربط الصيام بتعظيم الله وشكره على ما هداكم إليه."
+      },
+      "takeaway": {
+        "en": "Allah wants ease; the ill and traveller make up the days later.",
+        "ar": "يريد الله اليسر؛ والمريض والمسافر يقضيان الأيام لاحقًا."
+      },
+      "visual": "none",
+      "sources": ["quran:2:185"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Nearness in Ramadan",
+        "ar": "القرب في رمضان"
+      },
+      "body": {
+        "en": "Right after the fasting verses, Allah says that He is near and answers the one who calls on Him. Ramadan is a season for this closeness. It is also the month in which the Quran was revealed, and the Prophet ﷺ, already the most generous of people, was at his most generous in Ramadan, when the angel Jibril would meet him each night to study the Quran with him. So the month joins fasting, the Quran, generosity and heartfelt du'a in one.",
+        "ar": "بعد آيات الصيام مباشرة يقول الله إنه قريبٌ يجيب من دعاه. ورمضان موسمٌ لهذا القرب. وهو أيضًا الشهر الذي أُنزل فيه القرآن، وكان النبي ﷺ وهو أجود الناس يبلغ ذروة جوده في هذا الشهر، إذ كان جبريل يأتيه كل ليلةٍ منه ليتدارسا القرآن معًا. فيجمع الشهر بين الصيام والقرآن والجود وصدق الدعاء."
+      },
+      "takeaway": {
+        "en": "Ramadan joins fasting with the Quran, generosity and answered du'a.",
+        "ar": "يجمع رمضان بين الصيام والقرآن والجود والدعاء المستجاب."
+      },
+      "visual": "none",
+      "sources": ["quran:2:186", "hadith:bukhari:6"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Fast with faith and hope",
+        "ar": "صُم إيمانًا واحتسابًا"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that whoever fasts Ramadan with faith and hope of reward has his past sins forgiven. Bring that intention to your fast: do it believing in Allah and seeking only His reward. Beyond the hunger, aim at the real purpose. Keep your tongue clean, give in charity as the Prophet ﷺ did, read some Quran each day, and call on Allah, trusting that He is near. Let the fast make you a better person, not only a hungry one.",
+        "ar": "علّم النبي ﷺ أن من صام رمضان وهو مؤمنٌ محتسبٌ للأجر كُفّرت عنه ذنوبه الماضية. فاجعل هذه النية في صيامك: أن تصوم مؤمنًا بالله مريدًا أجره وحده. وتجاوز الجوع إلى المقصود الحقيقي. احفظ لسانك، وتصدّق كما كان النبي ﷺ يتصدق، واقرأ شيئًا من القرآن كل يوم، وادعُ الله واثقًا بأنه قريب. ودع الصيام يجعلك أحسن حالًا لا جائعًا فحسب."
+      },
+      "takeaway": {
+        "en": "Fast believing and seeking Allah's reward, and aim at taqwa, not just hunger.",
+        "ar": "صُم مؤمنًا محتسبًا، واقصد التقوى لا مجرد الجوع."
+      },
+      "visual": "steps",
+      "label": "recommended",
+      "sources": ["hadith:bukhari:38"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Quran give as the purpose of fasting?",
+        "ar": "ما الغاية التي يذكرها القرآن للصيام؟"
+      },
+      "options": [
+        {
+          "en": "To lose weight",
+          "ar": "إنقاص الوزن"
+        },
+        {
+          "en": "To attain taqwa, mindfulness of Allah",
+          "ar": "نيل التقوى، أي مراقبة الله"
+        },
+        {
+          "en": "To save money",
+          "ar": "توفير المال"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse of fasting ends by saying it was prescribed so that you may attain taqwa.",
+        "ar": "تختم آية الصيام بأنه فُرض لعلكم تتقون."
+      },
+      "source": "quran:2:183"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "According to the Prophet ﷺ, whose fast does Allah have no need of?",
+        "ar": "بحسب قول النبي ﷺ، صيامُ من لا حاجة لله فيه؟"
+      },
+      "options": [
+        {
+          "en": "The one who does not give up false speech and evil action",
+          "ar": "من لم يدع قول الزور والعمل به"
+        },
+        {
+          "en": "The one who feels hungry",
+          "ar": "من يشعر بالجوع"
+        },
+        {
+          "en": "The one who fasts in summer",
+          "ar": "من يصوم في الصيف"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said if someone does not leave false speech and acting on it, Allah has no need of his leaving food and drink.",
+        "ar": "قال النبي ﷺ إن من لم يدع قول الزور والعمل به فليس لله حاجة في أن يدع طعامه وشرابه."
+      },
+      "source": "hadith:bukhari:1903"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Quran say about Allah for the one who fasts and calls on Him?",
+        "ar": "ماذا يقول القرآن عن الله لمن يصوم ويدعوه؟"
+      },
+      "options": [
+        {
+          "en": "That He is far",
+          "ar": "أنه بعيد"
+        },
+        {
+          "en": "That He is near and answers the one who calls",
+          "ar": "أنه قريبٌ يجيب من دعاه"
+        },
+        {
+          "en": "That He answers only on Fridays",
+          "ar": "أنه يجيب يوم الجمعة فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse right after the fasting verses says Allah is near and responds to the one who calls on Him.",
+        "ar": "تقول الآية التي تلي آيات الصيام إن الله قريبٌ يجيب دعوة الداعي إذا دعاه."
+      },
+      "source": "quran:2:186"
+    }
+  ]
+}

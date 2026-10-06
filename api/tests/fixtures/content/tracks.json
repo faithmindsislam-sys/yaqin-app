@@ -1,0 +1,49 @@
+[
+  {
+    "id": "first-steps",
+    "title": {
+      "en": "First Steps as a Muslim",
+      "ar": "خطواتي الأولى كمسلم"
+    },
+    "tagline": {
+      "en": "For new Muslims",
+      "ar": "للمسلم الجديد"
+    },
+    "modules": [
+      {
+        "id": "purification",
+        "title": {
+          "en": "Purification",
+          "ar": "الطهارة"
+        },
+        "lessons": [
+          "wudu-order",
+          "draft-lesson"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "explore",
+    "title": {
+      "en": "Explore Islam",
+      "ar": "اكتشف الإسلام"
+    },
+    "tagline": {
+      "en": "x",
+      "ar": "س"
+    },
+    "modules": [
+      {
+        "id": "questions",
+        "title": {
+          "en": "Questions",
+          "ar": "أسئلة"
+        },
+        "lessons": [
+          "spread"
+        ]
+      }
+    ]
+  }
+]

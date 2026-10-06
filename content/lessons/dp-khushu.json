@@ -1,0 +1,224 @@
+{
+  "id": "dp-khushu",
+  "subject": "hadith",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 5,
+  "title": {
+    "en": "Presence of heart in prayer",
+    "ar": "الخشوع: حضور القلب في الصلاة"
+  },
+  "summary": {
+    "en": "What khushu means, why it is the heart of prayer, and practical ways to pray with a present heart.",
+    "ar": "ما معنى الخشوع، ولماذا هو روح الصلاة، وطرق عملية لتصلي بقلب حاضر."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The heart of prayer",
+        "ar": "روح الصلاة"
+      },
+      "body": {
+        "en": "Khushu means a calm, attentive heart: standing before Allah aware of who you are addressing. The opening of Surah Al-Mu'minun ties the success of the believers directly to this quality in their prayer. Prayer is not only correct movements and words; its spirit is a heart that is present. When the body prays but the mind wanders far away, much of the meaning is lost. So from the start, treat khushu as the real goal of the prayer, not an extra.",
+        "ar": "الخشوع حضورُ القلب وسكونُه: أن تقف بين يدي الله واعيًا بمن تخاطب. وقد ربطت أوائلُ سورة المؤمنون فلاح المؤمنين بهذا الوصف في صلاتهم. فالصلاة ليست حركاتٍ وألفاظًا صحيحة فحسب، بل روحها قلبٌ حاضر. وإذا صلّى الجسد وشرد العقل بعيدًا ضاع كثيرٌ من معناها. فاجعل الخشوع منذ البداية هو المقصد الحقيقي للصلاة لا أمرًا زائدًا."
+      },
+      "takeaway": {
+        "en": "Khushu, a present and humble heart, is the spirit of prayer.",
+        "ar": "الخشوع، أي حضور القلب وخضوعه، هو روح الصلاة."
+      },
+      "visual": "none",
+      "sources": ["quran:23:1", "quran:23:2"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The successful believers",
+        "ar": "المؤمنون المفلحون"
+      },
+      "takeaway": {
+        "en": "Allah links the believers' success to being humbly focused in prayer.",
+        "ar": "يربط الله فلاح المؤمنين بخشوعهم في صلاتهم."
+      },
+      "visual": "book",
+      "sources": ["quran:23:2"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A help, not a burden",
+        "ar": "عونٌ لا عبء"
+      },
+      "body": {
+        "en": "Allah tells us to find strength in both patient endurance and the prayer, and adds that this is heavy except upon the humble. In other words, the one who has khushu finds prayer light and a source of strength, while the heart that is far from Allah finds it a weight. The verse that follows describes these humble ones as people sure of their coming meeting with their Lord. Remembering that meeting is one of the surest ways to soften the heart in prayer.",
+        "ar": "يأمرنا الله أن نستعين بالصبر والصلاة، ويبيّن أن ذلك ثقيلٌ إلا على الخاشعين. أي أن صاحب الخشوع يجد الصلاة خفيفةً ومصدرَ قوة، بينما يجدها القلب البعيد عن الله عبئًا. وتصف الآيةُ التي بعدها هؤلاء الخاشعين بأنهم موقنون بلقاء ربهم. وتذكّرُ هذا اللقاء من أقوى ما يليّن القلب في الصلاة."
+      },
+      "takeaway": {
+        "en": "Prayer feels light for the humble heart that remembers meeting Allah.",
+        "ar": "تخفّ الصلاة على القلب الخاشع الذي يتذكر لقاء الله."
+      },
+      "visual": "none",
+      "sources": ["quran:2:45", "quran:2:46"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Two rak'ahs, a clean slate",
+        "ar": "ركعتان ومغفرة"
+      },
+      "body": {
+        "en": "'Uthman ibn 'Affan taught the Prophet's ﷺ way of wudu, then reported that the Prophet ﷺ promised that whoever makes wudu like this and prays two rak'ahs without letting his mind drift to other matters will have his past sins forgiven. 'Uqbah ibn 'Amir narrated something similar: performing wudu well and then praying two units with heart and face turned fully to the prayer earns Paradise. The reward here is tied not to length but to presence of heart.",
+        "ar": "علّم عثمان بن عفان رضي الله عنه صفة وضوء النبي ﷺ، ثم أخبر أن النبي ﷺ وعد بأن من توضأ هكذا وصلى ركعتين لا يشغل نفسه فيهما بغير الصلاة فإن الله يغفر له ذنوبه السالفة. وروى عقبة بن عامر رضي الله عنه نحوه: أن إحسان الوضوء ثم صلاة ركعتين بإقبال القلب والوجه على الصلاة سببٌ لدخول الجنة. فالأجر هنا معلّق بحضور القلب لا بطول الصلاة."
+      },
+      "takeaway": {
+        "en": "The great reward of two rak'ahs comes from a mind that does not wander.",
+        "ar": "عظيم أجر الركعتين يأتي من قلبٍ لا يشرد."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3313", "hadith:henc:8388"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Closest in prostration",
+        "ar": "أقرب ما تكون ساجدًا"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that a servant is nearest to his Lord while prostrating, and urged us to make much of supplication there. He also told a Companion who asked for a deed that leads to Paradise to prostrate often, because every prostration raises a person a degree and removes a sin. Prostration is therefore a special moment of closeness. Slow down in it, feel small before Allah, and pour out your need to Him.",
+        "ar": "علّم النبي ﷺ أن العبد في سجوده يكون في أعظم حالات قربه من ربه، وحثّ على كثرة الدعاء في السجود. كما أرشد صحابيًّا سأله عن عمل يدخله الجنة إلى كثرة السجود، لأن كل سجدة ترفع صاحبها درجةً وتحطّ عنه خطيئة. فالسجود لحظةُ قربٍ خاصة؛ فتمهّل فيه، واستشعر صغرك بين يدي الله، واسكب حاجتك إليه."
+      },
+      "takeaway": {
+        "en": "Prostration is your closest moment to Allah; slow down and ask Him.",
+        "ar": "السجود أقرب لحظاتك إلى الله؛ فتمهّل وادعُه."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:482", "hadith:henc:3732"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "What prayer does to a life",
+        "ar": "أثر الصلاة في الحياة"
+      },
+      "body": {
+        "en": "Allah says that prayer restrains from indecency and wrongdoing, and that the remembrance of Allah is greater still. A prayer performed with a present heart does not stay inside the mosque; it reshapes how a person speaks and acts through the day. If someone prays yet sees no change in their conduct, that is often a sign that the heart was absent. So khushu is not only for the moments of prayer; it is meant to flow into the whole of life.",
+        "ar": "يقول الله إن الصلاة تمنع صاحبها من الفواحش وما ينكره الشرع، وإن ذكر الله أكبر من ذلك كله. فالصلاة بقلبٍ حاضر لا تبقى داخل المسجد، بل تعيد تشكيل كلام المرء وأفعاله طوال يومه. ومن صلّى ولم ير أثرًا في سلوكه فذلك غالبًا علامةُ غياب القلب. فالخشوع ليس للحظات الصلاة فقط، بل ليمتدّ إلى الحياة كلها."
+      },
+      "takeaway": {
+        "en": "A heartfelt prayer should show in better conduct all day.",
+        "ar": "الصلاة الخاشعة ينبغي أن تظهر في حسن السلوك طوال اليوم."
+      },
+      "visual": "none",
+      "sources": ["quran:29:45"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Grow your khushu",
+        "ar": "ازرع خشوعك"
+      },
+      "body": {
+        "en": "Try a few simple steps. Perform wudu calmly and well, as the hadith of 'Uqbah links good wudu to a focused prayer. Before the opening takbir, pause and remember before whom you stand. Learn the meaning of what you recite so the words reach your heart. Pray without rushing, giving each position its time, and linger in prostration to ask Allah for what you need. When your mind drifts, gently bring it back without despairing.",
+        "ar": "جرّب خطواتٍ يسيرة. توضأ على مهلٍ وأحسِن وضوءك، فحديث عقبة رضي الله عنه يربط إحسان الوضوء بصلاةٍ حاضرة. وقبل تكبيرة الإحرام قف لحظةً وتذكّر بين يدي من تقف. وتعلّم معاني ما تقرأ ليصل الكلام إلى قلبك. وصلِّ من غير عجلة، معطيًا كل ركنٍ حقه، وأطِل السجود تدعو الله بحاجتك. وإذا شرد ذهنك فأرجِعه برفقٍ دون يأس."
+      },
+      "takeaway": {
+        "en": "Calm wudu, understood words, and an unhurried prayer build khushu.",
+        "ar": "الوضوء المتمهّل، وفهم الكلمات، والصلاة بلا عجلة تبني الخشوع."
+      },
+      "visual": "steps",
+      "label": "suggestion",
+      "sources": ["hadith:henc:8388", "quran:2:45"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does khushu in prayer mean?",
+        "ar": "ما معنى الخشوع في الصلاة؟"
+      },
+      "options": [
+        {
+          "en": "Praying as quickly as possible",
+          "ar": "أداء الصلاة بأسرع ما يمكن"
+        },
+        {
+          "en": "A calm, attentive heart present before Allah",
+          "ar": "قلبٌ ساكنٌ حاضرٌ بين يدي الله"
+        },
+        {
+          "en": "Praying only in a mosque",
+          "ar": "الصلاة في المسجد فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Surah Al-Mu'minun ties the believers' success to being humbly attentive in prayer.",
+        "ar": "تربط سورة المؤمنون فلاح المؤمنين بخشوعهم وحضور قلوبهم في الصلاة."
+      },
+      "source": "quran:23:2"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "According to the Prophet ﷺ, when is a servant nearest to his Lord?",
+        "ar": "متى يكون العبد أقرب إلى ربه بحسب قول النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "While prostrating",
+          "ar": "وهو ساجد"
+        },
+        {
+          "en": "While standing",
+          "ar": "وهو قائم"
+        },
+        {
+          "en": "While sitting",
+          "ar": "وهو جالس"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said the servant is closest to his Lord in prostration, and urged much supplication there.",
+        "ar": "قال النبي ﷺ إن العبد أقرب ما يكون من ربه وهو ساجد، وحثّ على كثرة الدعاء فيه."
+      },
+      "source": "hadith:muslim:482"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Quran say prayer does for a believer?",
+        "ar": "ماذا تفعل الصلاة للمؤمن كما يذكر القرآن؟"
+      },
+      "options": [
+        {
+          "en": "It guarantees wealth",
+          "ar": "تضمن له الغنى"
+        },
+        {
+          "en": "It ends all tiredness",
+          "ar": "تذهب كل تعب"
+        },
+        {
+          "en": "It restrains from indecency and wrongdoing",
+          "ar": "تنهى عن الفحشاء والمنكر"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Allah says prayer restrains from immorality and wrongdoing, and His remembrance is greater.",
+        "ar": "يقول الله إن الصلاة تنهى عن الفحشاء والمنكر، وذكر الله أكبر."
+      },
+      "source": "quran:29:45"
+    }
+  ]
+}

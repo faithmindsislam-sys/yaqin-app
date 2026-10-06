@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "context": { "eventType": "viewer-request" },
+  "viewer": { "ip": "198.51.100.1" },
+  "request": {
+    "method": "GET",
+    "uri": "/app/learn/",
+    "querystring": { "track": { "value": "explore" } },
+    "headers": {
+      "host": { "value": "app.yaqeenguide.com" },
+      "sec-fetch-mode": { "value": "navigate" },
+      "accept": { "value": "text/html" }
+    },
+    "cookies": {}
+  }
+}

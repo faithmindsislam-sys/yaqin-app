@@ -1,0 +1,261 @@
+{
+  "id": "spread-by-sword",
+  "subject": "history",
+  "tracks": ["explore"],
+  "level": 1,
+  "minutes": 5,
+  "title": {
+    "en": "Did Islam spread by the sword?",
+    "ar": "هل انتشر الإسلام بالسيف؟"
+  },
+  "summary": {
+    "en": "A historical question with a two-part answer: what states did, and what Islam teaches about belief.",
+    "ar": "سؤال تاريخي جوابه من شقّين: ما فعلته الدول، وما يعلّمه الإسلام عن الإيمان."
+  },
+  "cover": "/img/lessons/spread-by-sword.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Two different questions",
+        "ar": "سؤالان مختلفان"
+      },
+      "body": {
+        "en": "This question mixes two things. One is political expansion: armies, states and empires. The other is personal belief: what a person accepts in their heart. Early Muslim states did expand through military campaigns, like most powers of their time. Islam itself, though, teaches that belief cannot be forced.",
+        "ar": "يجمع هذا السؤال بين أمرين مختلفين: التوسّع السياسي بالجيوش والدول، والإيمان الشخصي الذي يقبله الإنسان بقلبه. فقد توسّعت الدول الإسلامية الأولى بالفتوحات العسكرية كما فعلت أكثر القوى في عصرها، لكن الإسلام نفسه يقرّر أن الإيمان لا يكون بالإكراه."
+      },
+      "takeaway": {
+        "en": "Conquering land and changing belief are not the same thing.",
+        "ar": "فتح الأرض شيء، وتغيير القناعة شيء آخر."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:256"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c1.en.mp3",
+        "ar": "/audio/spread-by-sword/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "No compulsion",
+        "ar": "لا إكراه"
+      },
+      "takeaway": {
+        "en": "The Quran states plainly that there is no compulsion in religion.",
+        "ar": "ينصّ القرآن صراحةً على أن الدين لا يُفرض على أحد بالإكراه."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:2:256"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c2.en.mp3",
+        "ar": "/audio/spread-by-sword/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Not even the Prophet ﷺ",
+        "ar": "ولا النبي ﷺ"
+      },
+      "takeaway": {
+        "en": "The Quran asks the Prophet ﷺ himself whether he would compel people to believe. Faith is left to each person's choice.",
+        "ar": "يسأل القرآنُ النبيَّ ﷺ نفسه: هل يُجبر الناس على الإيمان؟ فالإيمان متروك لاختيار كل إنسان."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:10:99",
+        "quran:18:29"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c3.en.mp3",
+        "ar": "/audio/spread-by-sword/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "What history shows",
+        "ar": "ماذا يقول التاريخ"
+      },
+      "body": {
+        "en": "In many regions under early Muslim rule, such as Egypt, Syria and Iraq, historians describe conversion as gradual, taking place over generations and centuries. Christian and Jewish communities kept their churches and synagogues and lived as protected communities. They paid a tax called the jizya and were exempt from military service.",
+        "ar": "في كثير من البلاد التي دخلت تحت الحكم الإسلامي المبكر، كمصر والشام والعراق، يصف المؤرخون دخول الناس في الإسلام بأنه كان تدريجيًا امتدّ أجيالًا وقرونًا. وبقيت الجماعات النصرانية واليهودية بكنائسها ومعابدها جماعاتٍ محميّة، تدفع ضريبة تُسمّى الجزية وتُعفى من الخدمة العسكرية."
+      },
+      "takeaway": {
+        "en": "In most lands, conversion came slowly, long after the armies.",
+        "ar": "في أكثر البلاد جاء الإسلام ببطء، بعد الجيوش بزمن طويل."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:60:8"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c4.en.mp3",
+        "ar": "/audio/spread-by-sword/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Where no army went",
+        "ar": "حيث لم يصل جيش"
+      },
+      "body": {
+        "en": "Indonesia, today the country with the largest Muslim population, came to Islam mainly through traders, scholars and teachers, not armies. So did Malaysia and much of East and West Africa. People met Muslims through commerce and everyday life, and many chose to join them.",
+        "ar": "إندونيسيا، وهي اليوم أكبر بلد مسلم من حيث عدد السكان، دخلها الإسلام في الأساس عن طريق التجّار والعلماء والدعاة، لا الجيوش. وكذلك ماليزيا ومناطق واسعة من شرق أفريقيا وغربها، حيث عرف الناس المسلمين في التجارة والحياة اليومية، فاختار كثيرون منهم الإسلام."
+      },
+      "takeaway": {
+        "en": "The largest Muslim country today was never conquered by a Muslim army.",
+        "ar": "أكبر بلد مسلم اليوم لم يفتحه جيش مسلم."
+      },
+      "visual": "compass",
+      "sources": [
+        "quran:16:125"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c5.en.mp3",
+        "ar": "/audio/spread-by-sword/c5.ar.mp3"
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "The way of inviting",
+        "ar": "منهج الدعوة"
+      },
+      "takeaway": {
+        "en": "The Quran's method for inviting people is wisdom, good teaching, and courteous discussion.",
+        "ar": "منهج القرآن في الدعوة: الحكمة، والموعظة الحسنة، والجدال بالتي هي أحسن."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:16:125"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c6.en.mp3",
+        "ar": "/audio/spread-by-sword/c6.ar.mp3"
+      }
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "A balanced answer",
+        "ar": "جواب متوازن"
+      },
+      "body": {
+        "en": "Did Muslim states fight wars? Yes, as states of every era did. Did Islam teach forcing belief? No. Its scripture forbids compulsion and commands justice and kindness toward peaceful non-Muslims. Rulers or individuals who coerced anyone acted against that teaching. And across much of the Muslim world, conversion was gradual and came by choice.",
+        "ar": "هل خاضت الدول الإسلامية حروبًا؟ نعم، كما فعلت الدول في كل العصور. وهل يعلّم الإسلام فرض الإيمان بالقوة؟ لا، فنصوصه تمنع الإكراه، وتأمر بالبرّ والعدل مع غير المسلمين المسالمين. ومن أكره أحدًا من الحكّام أو الأفراد فقد خالف هذا التعليم. أما دخول الناس في الإسلام فكان في معظم العالم الإسلامي تدريجيًا وعن اختيار."
+      },
+      "takeaway": {
+        "en": "Wars happened; forced belief contradicts Islam's own teaching.",
+        "ar": "وقعت الحروب، لكن الإيمان بالإكراه يخالف تعاليم الإسلام نفسه."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:256",
+        "quran:60:8"
+      ],
+      "audio": {
+        "en": "/audio/spread-by-sword/c7.en.mp3",
+        "ar": "/audio/spread-by-sword/c7.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "In your own words: did Islam spread by the sword?",
+      "ar": "بكلماتك: هل انتشر الإسلام بالسيف؟"
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Political conquest and personal belief are different things",
+        "ar": "الفتح السياسي والإيمان الشخصي أمران مختلفان",
+        "source": "quran:2:256"
+      },
+      {
+        "id": "k2",
+        "en": "The Quran says there is no compulsion in religion",
+        "ar": "يقرّر القرآن أنه لا إكراه في الدين",
+        "source": "quran:2:256"
+      },
+      {
+        "id": "k3",
+        "en": "Conversion in conquered lands was gradual, over generations",
+        "ar": "كان دخول الناس في الإسلام في البلاد المفتوحة تدريجيًا عبر أجيال",
+        "source": null
+      },
+      {
+        "id": "k4",
+        "en": "Places like Indonesia and much of Africa embraced Islam through traders and teachers, not armies",
+        "ar": "دخل الإسلام بلادًا كإندونيسيا ومعظم أفريقيا عن طريق التجّار والدعاة لا الجيوش",
+        "source": null
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Quran say about forcing belief?",
+        "ar": "ماذا يقول القرآن عن فرض الإيمان بالقوة؟"
+      },
+      "options": [
+        {
+          "en": "There is no compulsion in religion",
+          "ar": "لا إكراه في الدين"
+        },
+        {
+          "en": "It is allowed in war",
+          "ar": "يجوز في الحرب"
+        },
+        {
+          "en": "It says nothing about it",
+          "ar": "لا يذكر شيئًا عن ذلك"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Al-Baqarah 2:256 states there is no compulsion in religion.",
+        "ar": "تنصّ الآية 256 من سورة البقرة على أنه لا إكراه في الدين."
+      },
+      "source": "quran:2:256"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How did Islam mainly reach Indonesia?",
+        "ar": "كيف وصل الإسلام إلى إندونيسيا في الأساس؟"
+      },
+      "options": [
+        {
+          "en": "Through a military conquest",
+          "ar": "بفتح عسكري"
+        },
+        {
+          "en": "Through traders, scholars and teachers",
+          "ar": "عن طريق التجّار والعلماء والدعاة"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "No Muslim army conquered Indonesia; Islam spread there through trade and teaching.",
+        "ar": "لم يفتح جيش مسلم إندونيسيا، بل انتشر الإسلام فيها بالتجارة والدعوة."
+      },
+      "source": null
+    }
+  ]
+}

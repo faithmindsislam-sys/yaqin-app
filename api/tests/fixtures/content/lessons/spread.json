@@ -1,0 +1,18 @@
+{
+  "id": "spread", "track": "explore", "module": "questions", "level": "foundation", "minutes": 3,
+  "title": {"en": "Did Islam spread by the sword?", "ar": "هل انتشر الإسلام بالسيف؟"},
+  "summary": {"en": "Conquest and belief are different things.", "ar": "الفتح والإيمان أمران مختلفان."},
+  "status": "published",
+  "cards": [
+    {"id": "c1", "kind": "concept", "title": {"en": "Conquest is not conversion", "ar": "الفتح ليس إكراهًا على الدين"},
+     "body": {"en": "Armies and empires are one question; whether people were forced to believe by the sword is another.",
+              "ar": "الجيوش والدول مسألة، وإكراه الناس على الإيمان بالسيف مسألة أخرى."},
+     "takeaway": {"en": "Belief cannot be forced.", "ar": "الإيمان لا يُفرض."}, "sources": ["quran:2:256"]},
+    {"id": "c2", "kind": "concept", "title": {"en": "Where Muslims live today", "ar": "أين يعيش المسلمون اليوم"},
+     "body": {"en": "Most Muslims today live in lands no army reached.", "ar": "أكثر المسلمين اليوم في بلاد لم يصلها جيش."},
+     "takeaway": {"en": "History, not slogans.", "ar": "التاريخ لا الشعارات."}, "sources": []}
+  ],
+  "explain_back": {"prompt": {"en": "", "ar": ""}, "key_ideas": [{"id": "k1", "en": "Belief cannot be forced", "ar": "الإيمان لا يُفرض", "source": null}]},
+  "quiz": [{"id": "q1", "question": {"en": "?", "ar": "؟"}, "options": [{"en": "a", "ar": "أ"}], "answer": 0,
+            "explanation": {"en": "x", "ar": "س"}, "source": null}]
+}

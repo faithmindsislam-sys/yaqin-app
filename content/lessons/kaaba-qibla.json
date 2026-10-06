@@ -1,0 +1,216 @@
+{
+  "id": "kaaba-qibla",
+  "subject": "fiqh",
+  "tracks": ["explore"],
+  "level": 1,
+  "minutes": 3,
+  "title": {
+    "en": "Do Muslims worship the Kaaba?",
+    "ar": "هل يعبد المسلمون الكعبة؟"
+  },
+  "summary": {
+    "en": "Why millions of Muslims face one building when they pray, and what that does and does not mean.",
+    "ar": "لماذا يتّجه ملايين المسلمين إلى بناء واحد في صلاتهم، وما معنى ذلك وما ليس معناه."
+  },
+  "cover": "/img/lessons/kaaba-qibla.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "An understandable question",
+        "ar": "سؤال مفهوم"
+      },
+      "body": {
+        "en": "When you see millions of people turn toward one building to pray, it's natural to wonder whether they worship it. In Islam, worship belongs to God alone. The Kaaba in Makkah is a direction, called the qibla, that every Muslim faces in prayer.",
+        "ar": "حين ترى ملايين الناس يتّجهون في صلاتهم إلى بناء واحد، فمن الطبيعي أن تتساءل: هل يعبدونه؟ والعبادة في الإسلام لله وحده، أما الكعبة في مكة فهي قبلة، أي جهة يتّجه إليها كل مسلم في صلاته."
+      },
+      "takeaway": {
+        "en": "The Kaaba is a direction, not an object of worship.",
+        "ar": "الكعبة قبلة، لا معبود."
+      },
+      "visual": "compass",
+      "sources": [
+        "quran:106:3"
+      ],
+      "audio": {
+        "en": "/audio/kaaba-qibla/c1.en.mp3",
+        "ar": "/audio/kaaba-qibla/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The Lord of the House",
+        "ar": "ربّ هذا البيت"
+      },
+      "takeaway": {
+        "en": "The Quran calls people to worship the House's Lord, not the building itself.",
+        "ar": "يدعو القرآن إلى عبادة ربّ البيت، لا البيت نفسه."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:106:3"
+      ],
+      "audio": {
+        "en": "/audio/kaaba-qibla/c2.en.mp3",
+        "ar": "/audio/kaaba-qibla/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "A command about direction",
+        "ar": "أمر بالاتجاه"
+      },
+      "takeaway": {
+        "en": "Facing the Sacred Mosque is a command about which way to turn in prayer.",
+        "ar": "التوجّه إلى المسجد الحرام أمرٌ بالجهة التي يُستقبل بها في الصلاة."
+      },
+      "visual": "compass",
+      "sources": [
+        "quran:2:144"
+      ],
+      "audio": {
+        "en": "/audio/kaaba-qibla/c3.en.mp3",
+        "ar": "/audio/kaaba-qibla/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "God is not in one place",
+        "ar": "الله لا يحويه مكان"
+      },
+      "body": {
+        "en": "Facing the Kaaba does not mean God is inside it. The Quran reminds believers that the east and the west both belong to God. Muslims turn toward the Kaaba because God commanded it, not because the stone or the building has divine power.",
+        "ar": "التوجّه إلى الكعبة لا يعني أن الله فيها. فالقرآن يذكّر المؤمنين بأن المشرق والمغرب لله. ويتّجه المسلمون إلى الكعبة لأن الله أمرهم بذلك، لا لأن في الحجارة أو البناء قوة إلهية."
+      },
+      "takeaway": {
+        "en": "East and west belong to God; the direction is an act of obedience.",
+        "ar": "لله المشرق والمغرب، والتوجّه طاعة لأمره."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:115"
+      ],
+      "audio": {
+        "en": "/audio/kaaba-qibla/c4.en.mp3",
+        "ar": "/audio/kaaba-qibla/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Why one direction?",
+        "ar": "لماذا جهة واحدة؟"
+      },
+      "body": {
+        "en": "A single direction unites Muslims everywhere: people in Jakarta, Lagos and London face the same point at the same moments of prayer. The Kaaba also connects Muslims to Abraham. The Quran describes him and his son Ishmael raising its foundations and praying for it to be accepted.",
+        "ar": "الجهة الواحدة توحّد المسلمين في كل مكان؛ فمن في جاكرتا ولاغوس ولندن يتّجهون إلى النقطة نفسها في أوقات الصلاة. وتربط الكعبة المسلمين بإبراهيم عليه السلام، إذ يذكر القرآن أنه رفع قواعدها مع ابنه إسماعيل وهما يدعوان الله أن يتقبّل منهما."
+      },
+      "takeaway": {
+        "en": "One direction, one community, one God.",
+        "ar": "جهة واحدة، وأمة واحدة، وربّ واحد."
+      },
+      "visual": "compass",
+      "sources": [
+        "quran:2:127",
+        "quran:2:150"
+      ],
+      "audio": {
+        "en": "/audio/kaaba-qibla/c5.en.mp3",
+        "ar": "/audio/kaaba-qibla/c5.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "Explain to a friend why Muslims face the Kaaba when they pray.",
+      "ar": "اشرح لصديق لماذا يتّجه المسلمون إلى الكعبة في صلاتهم."
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Muslims worship God alone, not the Kaaba",
+        "ar": "المسلمون يعبدون الله وحده لا الكعبة",
+        "source": "quran:106:3"
+      },
+      {
+        "id": "k2",
+        "en": "The Kaaba is the qibla: the direction of prayer",
+        "ar": "الكعبة هي القبلة، أي جهة الصلاة",
+        "source": "quran:2:144"
+      },
+      {
+        "id": "k3",
+        "en": "They face it because God commanded it; east and west belong to God",
+        "ar": "يتّجهون إليها لأن الله أمر بذلك، ولله المشرق والمغرب",
+        "source": "quran:2:115"
+      },
+      {
+        "id": "k4",
+        "en": "One direction unites Muslims everywhere",
+        "ar": "الجهة الواحدة توحّد المسلمين في كل مكان",
+        "source": "quran:2:150"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the qibla?",
+        "ar": "ما القبلة؟"
+      },
+      "options": [
+        {
+          "en": "The direction Muslims face in prayer",
+          "ar": "الجهة التي يتّجه إليها المسلمون في الصلاة"
+        },
+        {
+          "en": "An object Muslims worship",
+          "ar": "شيء يعبده المسلمون"
+        },
+        {
+          "en": "A type of prayer",
+          "ar": "نوع من الصلاة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The qibla is a direction. Worship is for God alone.",
+        "ar": "القبلة جهة، والعبادة لله وحده."
+      },
+      "source": "quran:2:144"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "According to the Quran, who raised the foundations of the Kaaba?",
+        "ar": "بحسب القرآن، من رفع قواعد الكعبة؟"
+      },
+      "options": [
+        {
+          "en": "Abraham and his son Ishmael",
+          "ar": "إبراهيم وابنه إسماعيل"
+        },
+        {
+          "en": "Moses",
+          "ar": "موسى"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Al-Baqarah 2:127 describes Abraham and Ishmael raising the foundations of the House.",
+        "ar": "تذكر الآية 127 من سورة البقرة إبراهيم وإسماعيل يرفعان القواعد من البيت."
+      },
+      "source": "quran:2:127"
+    }
+  ]
+}

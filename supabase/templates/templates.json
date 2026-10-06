@@ -1,0 +1,267 @@
+{
+  "status": "draft",
+  "supabaseProjectUrl": "https://okcctzpfpreziuxnyepk.supabase.co",
+  "language": "English and Arabic in every email",
+  "templates": [
+    {
+      "name": "Yaqeen · Welcome to Yaqeen / مرحبًا بك في يقين",
+      "subject": "Confirm your Yaqeen email | أكّد بريدك في يقين",
+      "file": "confirm-signup.html",
+      "supabaseTemplate": "confirmation",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-confirm-signup",
+      "resendId": "7b4db5a1-de61-43f6-a1f9-15bc20f645a8",
+      "resendPreview": "https://resend.com/templates/7b4db5a1-de61-43f6-a1f9-15bc20f645a8",
+      "variables": [
+        {
+          "key": "CONFIRMATION_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Continue your learning / واصل رحلة تعلّمك",
+      "subject": "Your Yaqeen sign-in link | رابط دخولك إلى يقين",
+      "file": "sign-in.html",
+      "supabaseTemplate": "magic_link",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-sign-in",
+      "resendId": "b1a6615a-2697-49ab-92ee-0bc261babbae",
+      "resendPreview": "https://resend.com/templates/b1a6615a-2697-49ab-92ee-0bc261babbae",
+      "variables": [
+        {
+          "key": "CONFIRMATION_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Your sign-in code / رمز تسجيل الدخول",
+      "subject": "Your Yaqeen sign-in code | رمز دخولك إلى يقين",
+      "file": "sign-in-otp.html",
+      "supabaseTemplate": null,
+      "alternativeFor": "magic_link",
+      "resendAlias": "yaqin-auth-sign-in-otp",
+      "resendId": "6f824cd2-d4e1-4002-9f30-53302d779029",
+      "resendPreview": "https://resend.com/templates/6f824cd2-d4e1-4002-9f30-53302d779029",
+      "variables": [
+        {
+          "key": "TOKEN",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Set a new password / عيّن كلمة مرور جديدة",
+      "subject": "Reset your Yaqeen password | إعادة تعيين كلمة مرور يقين",
+      "file": "reset-password.html",
+      "supabaseTemplate": "recovery",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-reset-password",
+      "resendId": "76c438c7-db5c-405a-b38d-a4858f4d3fd0",
+      "resendPreview": "https://resend.com/templates/76c438c7-db5c-405a-b38d-a4858f4d3fd0",
+      "variables": [
+        {
+          "key": "CONFIRMATION_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Invitation",
+      "subject": "You’re invited to Yaqeen | دعوة للانضمام إلى يقين",
+      "file": "invitation.html",
+      "supabaseTemplate": "invite",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-invitation",
+      "resendId": "297c317f-6d69-4d18-b5db-9a97f0356d24",
+      "resendPreview": "https://resend.com/templates/297c317f-6d69-4d18-b5db-9a97f0356d24",
+      "variables": [
+        {
+          "key": "CONFIRMATION_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Change Email",
+      "subject": "Confirm your Yaqeen email change | تأكيد تغيير بريد يقين",
+      "file": "change-email.html",
+      "supabaseTemplate": "email_change",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-change-email",
+      "resendId": "0db0d92a-7377-4c27-bfc3-cd2fb55f2eb8",
+      "resendPreview": "https://resend.com/templates/0db0d92a-7377-4c27-bfc3-cd2fb55f2eb8",
+      "variables": [
+        {
+          "key": "NEW_EMAIL",
+          "type": "string"
+        },
+        {
+          "key": "CONFIRMATION_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Reauthentication",
+      "subject": "Your Yaqeen verification code | رمز التحقّق في يقين",
+      "file": "reauthentication.html",
+      "supabaseTemplate": "reauthentication",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-reauthentication",
+      "resendId": "fa1dca75-89c1-44ac-999e-c4e5a031c93b",
+      "resendPreview": "https://resend.com/templates/fa1dca75-89c1-44ac-999e-c4e5a031c93b",
+      "variables": [
+        {
+          "key": "TOKEN",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Password Changed",
+      "subject": "Your Yaqeen password was changed | تم تغيير كلمة مرور يقين",
+      "file": "password-changed.html",
+      "supabaseTemplate": "password_changed_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-password-changed",
+      "resendId": "609e08b0-2d8d-4e18-a097-dcf91860d939",
+      "resendPreview": "https://resend.com/templates/609e08b0-2d8d-4e18-a097-dcf91860d939",
+      "variables": [
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Email Changed",
+      "subject": "Your Yaqeen email was changed | تم تغيير بريد يقين",
+      "file": "email-changed.html",
+      "supabaseTemplate": "email_changed_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-email-changed",
+      "resendId": "5063b2ee-2ae0-4f71-bd8c-c59d88be658e",
+      "resendPreview": "https://resend.com/templates/5063b2ee-2ae0-4f71-bd8c-c59d88be658e",
+      "variables": [
+        {
+          "key": "OLD_EMAIL",
+          "type": "string"
+        },
+        {
+          "key": "ACCOUNT_EMAIL",
+          "type": "string"
+        },
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Phone Changed",
+      "subject": "Your Yaqeen phone number was changed | تم تغيير رقم هاتف يقين",
+      "file": "phone-changed.html",
+      "supabaseTemplate": "phone_changed_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-phone-changed",
+      "resendId": "e601c291-4e8b-4d44-9080-0a9a211b3b2b",
+      "resendPreview": "https://resend.com/templates/e601c291-4e8b-4d44-9080-0a9a211b3b2b",
+      "variables": [
+        {
+          "key": "OLD_PHONE",
+          "type": "string"
+        },
+        {
+          "key": "PHONE",
+          "type": "string"
+        },
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Sign In Method Linked",
+      "subject": "A sign-in method was linked to Yaqeen | ربط طريقة دخول بحساب يقين",
+      "file": "sign-in-method-linked.html",
+      "supabaseTemplate": "identity_linked_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-sign-in-method-linked",
+      "resendId": "72e5d7b0-dddc-4408-86f9-61553c0cdfd3",
+      "resendPreview": "https://resend.com/templates/72e5d7b0-dddc-4408-86f9-61553c0cdfd3",
+      "variables": [
+        {
+          "key": "PROVIDER",
+          "type": "string"
+        },
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Sign In Method Removed",
+      "subject": "A sign-in method was removed from Yaqeen | إزالة طريقة دخول من يقين",
+      "file": "sign-in-method-removed.html",
+      "supabaseTemplate": "identity_unlinked_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-sign-in-method-removed",
+      "resendId": "c3d1afd1-3d69-4303-ab8d-38d89c078d10",
+      "resendPreview": "https://resend.com/templates/c3d1afd1-3d69-4303-ab8d-38d89c078d10",
+      "variables": [
+        {
+          "key": "PROVIDER",
+          "type": "string"
+        },
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Verification Method Added",
+      "subject": "A verification method was added to Yaqeen | إضافة وسيلة تحقق إلى يقين",
+      "file": "verification-method-added.html",
+      "supabaseTemplate": "mfa_factor_enrolled_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-verification-method-added",
+      "resendId": "b2ea477c-d4ea-4102-b15b-709c80349370",
+      "resendPreview": "https://resend.com/templates/b2ea477c-d4ea-4102-b15b-709c80349370",
+      "variables": [
+        {
+          "key": "FACTOR_TYPE",
+          "type": "string"
+        },
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "Yaqeen · Verification Method Removed",
+      "subject": "A verification method was removed from Yaqeen | إزالة وسيلة تحقق من يقين",
+      "file": "verification-method-removed.html",
+      "supabaseTemplate": "mfa_factor_unenrolled_notification",
+      "alternativeFor": null,
+      "resendAlias": "yaqin-auth-verification-method-removed",
+      "resendId": "73db0a72-b64d-4395-b655-20c46fd08095",
+      "resendPreview": "https://resend.com/templates/73db0a72-b64d-4395-b655-20c46fd08095",
+      "variables": [
+        {
+          "key": "FACTOR_TYPE",
+          "type": "string"
+        },
+        {
+          "key": "SITE_URL",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "fs-my-first-ramadan",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 6,
+  "title": {
+    "en": "My first Ramadan",
+    "ar": "رمضاني الأول"
+  },
+  "summary": {
+    "en": "What Ramadan is, how the daily fast works, who is excused, and how to meet your first one with ease.",
+    "ar": "ما رمضان، وكيف يكون الصيام اليومي، ومن يُعذر، وكيف تستقبل أول رمضان لك بيسر."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Fasting, for a reason",
+        "ar": "صيامٌ لغاية"
+      },
+      "body": {
+        "en": "Fasting in Ramadan is one of the pillars of Islam. The Quran says it was prescribed for this community just as it was for believers before us, and it names the goal: taqwa, a living mindfulness of Allah. So the fast is not just going without food. It is a yearly training that softens the heart, builds self-control, and keeps you aware of your Lord through the day.",
+        "ar": "صيام رمضان ركنٌ من أركان الإسلام. يقول القرآن إنه فُرض على هذه الأمة كما فُرض على المؤمنين قبلنا، ويذكر الغاية: التقوى، أي مراقبة الله الحيّة. فالصوم ليس مجرّد تركٍ للطعام، بل تدريبٌ سنويّ يُرقّق القلب، ويبني ضبط النفس، ويُبقيك واعيًا بربّك طوال النهار."
+      },
+      "takeaway": {
+        "en": "Ramadan's fast is a yearly training in mindfulness of Allah.",
+        "ar": "صوم رمضان تدريبٌ سنويّ على تقوى الله."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": [
+        "quran:2:183"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Why this month",
+        "ar": "لماذا هذا الشهر"
+      },
+      "takeaway": {
+        "en": "Ramadan is the month in which the Quran was first sent down as guidance for people.",
+        "ar": "رمضان هو الشهر الذي أُنزل فيه القرآن هدًى للناس."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:2:185"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A month lit by the Quran",
+        "ar": "شهرٌ أناره القرآن"
+      },
+      "body": {
+        "en": "Ramadan is special because it is the month in which the Quran began to be revealed. Within it lies the Night of Decree, which the Quran calls better than a thousand months. That is why Muslims read more Quran in these days and spend extra time in worship. For your first Ramadan, even a few verses a day, with their meaning, connects you to the heart of the month.",
+        "ar": "تميّز رمضان بأنه الشهر الذي ابتدأ فيه نزول القرآن. وفيه ليلة القدر التي وصفها القرآن بأنها تفوق ألفَ شهرٍ خيرًا. ولذلك يُكثر المسلمون من قراءة القرآن في هذه الأيام، ويزيدون من العبادة. وفي رمضانك الأول، حتى بضع آياتٍ في اليوم مع معناها تصلك بقلب هذا الشهر."
+      },
+      "takeaway": {
+        "en": "Ramadan holds the Night of Decree, better than a thousand months.",
+        "ar": "في رمضان ليلة القدر، وهي تفوق ألفَ شهرٍ خيرًا."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:97:1",
+        "quran:97:3"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "From dawn to sunset",
+        "ar": "من الفجر إلى الغروب"
+      },
+      "body": {
+        "en": "The daily fast runs from the first light of dawn until sunset. During those hours you leave food, drink, and marital relations, for the sake of Allah. Before dawn you may eat and drink; the Quran marks the start of the fast at the moment dawn becomes clear. When the sun sets, your fast is complete and you break it. Outside those hours, normal life continues.",
+        "ar": "يمتدّ الصوم اليومي من أول ضوء الفجر إلى غروب الشمس. في هذه الساعات تترك الطعام والشراب والجماع، ابتغاء وجه الله. وقبل الفجر يجوز لك الأكل والشرب؛ ويجعل القرآن بداية الصوم عند تبيّن الفجر. فإذا غربت الشمس تمّ صومك وأفطرت. وفيما سوى تلك الساعات تمضي الحياة طبيعية."
+      },
+      "takeaway": {
+        "en": "No food, drink or relations from dawn until sunset.",
+        "ar": "لا طعام ولا شراب ولا جماع من الفجر إلى الغروب."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": [
+        "quran:2:187"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "If fasting is hard on you",
+        "ar": "إن شقّ عليك الصيام"
+      },
+      "body": {
+        "en": "The religion is built on ease. The Quran excuses the one who is ill or travelling from fasting on those days, and asks them to make up the same number of days later, when they are able. Allah says plainly that He wants ease for you, not hardship. So if a genuine illness or a journey makes fasting too hard, this is a mercy given to you, not a failing.",
+        "ar": "الدين مبنيّ على اليسر. يعذر القرآن المريض والمسافر من الصيام في تلك الأيام، ويطلب منهما قضاء عددٍ مماثل من الأيام لاحقًا حين يقدران. ويقول الله صراحةً إنه يريد بك اليسر لا العسر. فإن جعل مرضٌ حقيقيّ أو سفرٌ الصيامَ شاقًّا عليك، فهذه رحمةٌ أُعطيتها، لا تقصير."
+      },
+      "takeaway": {
+        "en": "The ill and the traveller may fast the same days later.",
+        "ar": "للمريض والمسافر أن يصوما عدّةً من أيامٍ أُخر."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:184",
+        "quran:2:185"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Suhur and breaking the fast",
+        "ar": "السحور والفطر"
+      },
+      "body": {
+        "en": "Two small habits make the day easier and carry reward. The Prophet ﷺ said to take suhur, the pre-dawn meal, because there is blessing in it; even a date and some water count. And he taught that goodness stays with people whenever they are quick to break the fast at sunset, so do not delay your iftar once the sun is down. These are gifts to help you, not extra burdens.",
+        "ar": "عادتان صغيرتان تيسّران اليوم وتحملان أجرًا. أمر النبي ﷺ بالسحور، وهو وجبة ما قبل الفجر، لأن فيه بركة؛ وتكفي تمرةٌ وشيءٌ من الماء. وأخبر أن الخير يصحب الناس متى سارعوا إلى الإفطار عند الغروب، فلا تؤخّر فطرك بعد غياب الشمس. وهاتان هديّتان لإعانتك، لا عبئًا زائدًا."
+      },
+      "takeaway": {
+        "en": "Take suhur before dawn, and break your fast promptly at sunset.",
+        "ar": "تسحّر قبل الفجر، وعجّل الفطر عند الغروب."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": [
+        "hadith:bukhari:1923",
+        "hadith:bukhari:1957"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "The spirit of the month",
+        "ar": "روح الشهر"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that whoever fasts Ramadan with faith and hoping for Allah's reward has their past shortcomings forgiven. It is a season of mercy: the gates of goodness are opened wide. The Prophet ﷺ was the most generous of people, and most generous of all in Ramadan, when he would review the Quran with the angel Jibril each night. Let giving, kindness and reading grow in you this month.",
+        "ar": "علّم النبي ﷺ أن من قام بصيام رمضان مؤمنًا محتسبًا الأجرَ، غُفر له ما سبق من تقصيره. وهو موسم رحمة، تُفتح فيه أبواب الخير. وكان النبي ﷺ أجود الناس، وكان جودُه يبلغ ذروته في رمضان حين يدارسه جبريل القرآن كل ليلة. فدَع العطاء والإحسان والقراءة تنمو فيك هذا الشهر."
+      },
+      "takeaway": {
+        "en": "Fast with faith and hope; grow in giving and reading.",
+        "ar": "صُم إيمانًا واحتسابًا، وازدَد عطاءً وقراءةً."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:38",
+        "hadith:bukhari:6",
+        "hadith:bukhari:1899"
+      ]
+    },
+    {
+      "id": "c8",
+      "kind": "practice",
+      "title": {
+        "en": "Ease into it",
+        "ar": "ادخله برفق"
+      },
+      "body": {
+        "en": "Prepare gently. Learn your local dawn and sunset times, plan a light suhur, and keep water ready for iftar. Expect the first days to feel different, and be patient with yourself. Some situations, such as pregnancy, breastfeeding or a lasting illness, have their own rulings that scholars discuss in detail, so if any apply to you, ask a trusted teacher rather than deciding alone. Approach your first Ramadan with hope, not fear.",
+        "ar": "استعدّ برفق. اعرف وقتَي الفجر والغروب في بلدك، وخطّط لسحورٍ خفيف، وأعدّ الماء للفطر. وتوقّع أن تكون الأيام الأولى مختلفة، واصبر على نفسك. وبعض الأحوال، كالحمل والرضاعة والمرض المزمن، لها أحكامٌ يفصّلها العلماء، فإن كان شيءٌ منها يخصّك فاسأل معلّمًا موثوقًا ولا تقرّر وحدك. واستقبل رمضانك الأول بالأمل لا بالخوف."
+      },
+      "takeaway": {
+        "en": "Prepare gently; for special cases, ask a trusted teacher.",
+        "ar": "استعدّ برفق، وفي الأحوال الخاصة اسأل معلّمًا موثوقًا."
+      },
+      "visual": "none",
+      "label": "suggestion",
+      "sources": [
+        "quran:2:185"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What goal does the Quran give for fasting?",
+        "ar": "ما الغاية التي يذكرها القرآن للصيام؟"
+      },
+      "options": [
+        {
+          "en": "To lose weight",
+          "ar": "إنقاص الوزن"
+        },
+        {
+          "en": "Taqwa, mindfulness of Allah",
+          "ar": "التقوى، مراقبة الله"
+        },
+        {
+          "en": "To save money on food",
+          "ar": "توفير نفقات الطعام"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse says fasting was prescribed so that you may become mindful of Allah.",
+        "ar": "تقول الآية إن الصيام فُرض لعلّكم تتّقون."
+      },
+      "source": "quran:2:183"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Who does the Quran excuse from fasting on those days?",
+        "ar": "من يعذره القرآن من الصيام في تلك الأيام؟"
+      },
+      "options": [
+        {
+          "en": "The one who is ill or travelling",
+          "ar": "المريض والمسافر"
+        },
+        {
+          "en": "Anyone who feels tired",
+          "ar": "كل من شعر بالتعب"
+        },
+        {
+          "en": "No one at all",
+          "ar": "لا أحد البتّة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The ill and the traveller fast an equal number of other days instead.",
+        "ar": "المريض والمسافر يصومان عدّةً من أيامٍ أُخر."
+      },
+      "source": "quran:2:185"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What did the Prophet ﷺ say about suhur, the pre-dawn meal?",
+        "ar": "ماذا قال النبي ﷺ عن السحور، وجبة ما قبل الفجر؟"
+      },
+      "options": [
+        {
+          "en": "It should be skipped",
+          "ar": "ينبغي تركه"
+        },
+        {
+          "en": "It is only for the sick",
+          "ar": "هو للمرضى فقط"
+        },
+        {
+          "en": "There is blessing in it",
+          "ar": "فيه بركة"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "He said take suhur, for there is a blessing in it.",
+        "ar": "قال تسحّروا فإن في السحور بركة."
+      },
+      "source": "hadith:bukhari:1923"
+    }
+  ]
+}

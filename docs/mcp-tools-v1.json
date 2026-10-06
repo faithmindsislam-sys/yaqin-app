@@ -1,0 +1,1386 @@
+{
+  "tools": [
+    {
+      "annotations": {
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false,
+        "readOnlyHint": true
+      },
+      "description": "List published courses, once each. Use pagination (limit 1–100) and an optional journey filter.",
+      "inputSchema": {
+        "properties": {
+          "limit": {
+            "default": 25,
+            "title": "Limit",
+            "type": "integer"
+          },
+          "offset": {
+            "default": 0,
+            "title": "Offset",
+            "type": "integer"
+          },
+          "track": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Track"
+          }
+        },
+        "title": "list_coursesArguments",
+        "type": "object"
+      },
+      "name": "list_courses",
+      "outputSchema": {
+        "$defs": {
+          "Bi": {
+            "description": "Text in English, Arabic, or both. Learner pages fall back to the language that exists.",
+            "properties": {
+              "ar": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "Ar",
+                "type": "string"
+              },
+              "en": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "En",
+                "type": "string"
+              }
+            },
+            "title": "Bi",
+            "type": "object"
+          },
+          "CourseSummary": {
+            "properties": {
+              "cover": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Cover"
+              },
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "level": {
+                "title": "Level",
+                "type": "integer"
+              },
+              "minutes": {
+                "title": "Minutes",
+                "type": "integer"
+              },
+              "status": {
+                "const": "published",
+                "title": "Status",
+                "type": "string"
+              },
+              "subject": {
+                "title": "Subject",
+                "type": "string"
+              },
+              "summary": {
+                "$ref": "#/$defs/Bi"
+              },
+              "title": {
+                "$ref": "#/$defs/Bi"
+              },
+              "tracks": {
+                "items": {
+                  "type": "string"
+                },
+                "title": "Tracks",
+                "type": "array"
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "summary",
+              "subject",
+              "tracks",
+              "level",
+              "minutes",
+              "status"
+            ],
+            "title": "CourseSummary",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/$defs/CourseSummary"
+            },
+            "title": "Items",
+            "type": "array"
+          },
+          "limit": {
+            "title": "Limit",
+            "type": "integer"
+          },
+          "offset": {
+            "title": "Offset",
+            "type": "integer"
+          },
+          "total": {
+            "title": "Total",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "items",
+          "total",
+          "offset",
+          "limit"
+        ],
+        "title": "CoursePage",
+        "type": "object"
+      }
+    },
+    {
+      "annotations": {
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false,
+        "readOnlyHint": true
+      },
+      "description": "Read a published course and its approved citations. Drafts and Coming soon courses are unavailable.",
+      "inputSchema": {
+        "properties": {
+          "course_id": {
+            "title": "Course Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "course_id"
+        ],
+        "title": "get_courseArguments",
+        "type": "object"
+      },
+      "name": "get_course",
+      "outputSchema": {
+        "$defs": {
+          "Bi": {
+            "description": "Text in English, Arabic, or both. Learner pages fall back to the language that exists.",
+            "properties": {
+              "ar": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "Ar",
+                "type": "string"
+              },
+              "en": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "En",
+                "type": "string"
+              }
+            },
+            "title": "Bi",
+            "type": "object"
+          },
+          "Card": {
+            "additionalProperties": false,
+            "properties": {
+              "audio": {
+                "anyOf": [
+                  {
+                    "additionalProperties": {
+                      "type": "string"
+                    },
+                    "propertyNames": {
+                      "enum": [
+                        "en",
+                        "ar"
+                      ]
+                    },
+                    "type": "object"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Audio"
+              },
+              "body": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Bi"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "html": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Bi"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "id": {
+                "maxLength": 100,
+                "minLength": 1,
+                "title": "Id",
+                "type": "string"
+              },
+              "image": {
+                "anyOf": [
+                  {
+                    "maxLength": 700000,
+                    "pattern": "^(/[\\w./-]+|https://\\S+|data:image/(png|jpeg|webp);base64,[A-Za-z0-9+/=]+)$",
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Image"
+              },
+              "kind": {
+                "enum": [
+                  "concept",
+                  "quote",
+                  "practice",
+                  "check"
+                ],
+                "title": "Kind",
+                "type": "string"
+              },
+              "label": {
+                "anyOf": [
+                  {
+                    "enum": [
+                      "obligatory",
+                      "recommended",
+                      "suggestion"
+                    ],
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Label"
+              },
+              "references": {
+                "anyOf": [
+                  {
+                    "items": {
+                      "maxLength": 600,
+                      "minLength": 1,
+                      "type": "string"
+                    },
+                    "maxItems": 30,
+                    "type": "array"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "References"
+              },
+              "sources": {
+                "items": {
+                  "type": "string"
+                },
+                "maxItems": 30,
+                "title": "Sources",
+                "type": "array"
+              },
+              "takeaway": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Bi"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "title": {
+                "$ref": "#/$defs/Bi"
+              },
+              "visual": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Visual"
+              }
+            },
+            "required": [
+              "id",
+              "kind",
+              "title"
+            ],
+            "title": "Card",
+            "type": "object"
+          },
+          "Explain": {
+            "properties": {
+              "key_ideas": {
+                "items": {
+                  "$ref": "#/$defs/Idea"
+                },
+                "maxItems": 50,
+                "minItems": 1,
+                "title": "Key Ideas",
+                "type": "array"
+              },
+              "prompt": {
+                "$ref": "#/$defs/Bi"
+              }
+            },
+            "required": [
+              "prompt",
+              "key_ideas"
+            ],
+            "title": "Explain",
+            "type": "object"
+          },
+          "Idea": {
+            "properties": {
+              "ar": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "Ar",
+                "type": "string"
+              },
+              "en": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "En",
+                "type": "string"
+              },
+              "id": {
+                "maxLength": 100,
+                "minLength": 1,
+                "title": "Id",
+                "type": "string"
+              },
+              "source": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Source"
+              }
+            },
+            "required": [
+              "id"
+            ],
+            "title": "Idea",
+            "type": "object"
+          },
+          "PublicSource": {
+            "properties": {
+              "eligibility": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Eligibility"
+              },
+              "grading": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Grading"
+              },
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "kind": {
+                "title": "Kind",
+                "type": "string"
+              },
+              "origin": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Origin"
+              },
+              "ref_ar": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Ref Ar"
+              },
+              "ref_en": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Ref En"
+              },
+              "review_status": {
+                "enum": [
+                  "approved",
+                  "unreviewed"
+                ],
+                "title": "Review Status",
+                "type": "string"
+              },
+              "text_ar": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text Ar"
+              },
+              "text_en": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text En"
+              },
+              "translation": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Translation"
+              },
+              "translation_status_en": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Translation Status En"
+              },
+              "url": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Url"
+              }
+            },
+            "required": [
+              "id",
+              "kind",
+              "review_status"
+            ],
+            "title": "PublicSource",
+            "type": "object"
+          },
+          "Quiz": {
+            "properties": {
+              "answer": {
+                "minimum": 0,
+                "title": "Answer",
+                "type": "integer"
+              },
+              "explanation": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Bi"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "id": {
+                "maxLength": 100,
+                "minLength": 1,
+                "title": "Id",
+                "type": "string"
+              },
+              "options": {
+                "items": {
+                  "$ref": "#/$defs/Bi"
+                },
+                "maxItems": 10,
+                "minItems": 2,
+                "title": "Options",
+                "type": "array"
+              },
+              "question": {
+                "$ref": "#/$defs/Bi"
+              },
+              "source": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Source"
+              }
+            },
+            "required": [
+              "id",
+              "question",
+              "options",
+              "answer"
+            ],
+            "title": "Quiz",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "cards": {
+            "items": {
+              "$ref": "#/$defs/Card"
+            },
+            "title": "Cards",
+            "type": "array"
+          },
+          "cover": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Cover"
+          },
+          "explain_back": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Explain"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "level": {
+            "title": "Level",
+            "type": "integer"
+          },
+          "minutes": {
+            "title": "Minutes",
+            "type": "integer"
+          },
+          "quiz": {
+            "anyOf": [
+              {
+                "items": {
+                  "$ref": "#/$defs/Quiz"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Quiz"
+          },
+          "sources_by_id": {
+            "additionalProperties": {
+              "$ref": "#/$defs/PublicSource"
+            },
+            "title": "Sources By Id",
+            "type": "object"
+          },
+          "status": {
+            "const": "published",
+            "title": "Status",
+            "type": "string"
+          },
+          "subject": {
+            "title": "Subject",
+            "type": "string"
+          },
+          "summary": {
+            "$ref": "#/$defs/Bi"
+          },
+          "title": {
+            "$ref": "#/$defs/Bi"
+          },
+          "tracks": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Tracks",
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "summary",
+          "subject",
+          "tracks",
+          "level",
+          "minutes",
+          "status",
+          "cards",
+          "sources_by_id"
+        ],
+        "title": "PublicCourse",
+        "type": "object"
+      }
+    },
+    {
+      "annotations": {
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false,
+        "readOnlyHint": true
+      },
+      "description": "Read an approved canonical citation by ID. Preserve wording, attribution, grading and translation status.",
+      "inputSchema": {
+        "properties": {
+          "source_id": {
+            "title": "Source Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "source_id"
+        ],
+        "title": "get_sourceArguments",
+        "type": "object"
+      },
+      "name": "get_source",
+      "outputSchema": {
+        "properties": {
+          "eligibility": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Eligibility"
+          },
+          "grading": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Grading"
+          },
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "kind": {
+            "title": "Kind",
+            "type": "string"
+          },
+          "origin": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Origin"
+          },
+          "ref_ar": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Ref Ar"
+          },
+          "ref_en": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Ref En"
+          },
+          "review_status": {
+            "enum": [
+              "approved",
+              "unreviewed"
+            ],
+            "title": "Review Status",
+            "type": "string"
+          },
+          "text_ar": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Text Ar"
+          },
+          "text_en": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Text En"
+          },
+          "translation": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Translation"
+          },
+          "translation_status_en": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Translation Status En"
+          },
+          "url": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Url"
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "review_status"
+        ],
+        "title": "PublicSource",
+        "type": "object"
+      }
+    },
+    {
+      "annotations": {
+        "destructiveHint": false,
+        "idempotentHint": false,
+        "openWorldHint": true,
+        "readOnlyHint": true
+      },
+      "description": "Ask an educational question in English/Arabic. Costs guest model quota; preserve citations and refusal/referral outcomes.",
+      "inputSchema": {
+        "$defs": {
+          "PublicAskRequest": {
+            "additionalProperties": false,
+            "examples": [
+              {
+                "lang": "en",
+                "question": "What is wudu?"
+              }
+            ],
+            "properties": {
+              "card_id": {
+                "anyOf": [
+                  {
+                    "maxLength": 100,
+                    "minLength": 1,
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Card Id"
+              },
+              "course_id": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Course Id"
+              },
+              "history": {
+                "items": {
+                  "$ref": "#/$defs/Turn"
+                },
+                "maxItems": 20,
+                "title": "History",
+                "type": "array"
+              },
+              "lang": {
+                "default": "en",
+                "enum": [
+                  "en",
+                  "ar"
+                ],
+                "title": "Lang",
+                "type": "string"
+              },
+              "practice": {
+                "default": false,
+                "title": "Practice",
+                "type": "boolean"
+              },
+              "practice_avoid": {
+                "items": {
+                  "maxLength": 800,
+                  "type": "string"
+                },
+                "maxItems": 1000,
+                "title": "Practice Avoid",
+                "type": "array"
+              },
+              "question": {
+                "maxLength": 1500,
+                "minLength": 1,
+                "title": "Question",
+                "type": "string"
+              },
+              "track": {
+                "anyOf": [
+                  {
+                    "enum": [
+                      "explore",
+                      "first-steps",
+                      "deepen"
+                    ],
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Track"
+              }
+            },
+            "required": [
+              "question"
+            ],
+            "title": "PublicAskRequest",
+            "type": "object"
+          },
+          "Turn": {
+            "properties": {
+              "content": {
+                "maxLength": 4000,
+                "title": "Content",
+                "type": "string"
+              },
+              "role": {
+                "enum": [
+                  "user",
+                  "assistant"
+                ],
+                "title": "Role",
+                "type": "string"
+              }
+            },
+            "required": [
+              "role",
+              "content"
+            ],
+            "title": "Turn",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "request": {
+            "$ref": "#/$defs/PublicAskRequest"
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "title": "ask_tutorArguments",
+        "type": "object"
+      },
+      "name": "ask_tutor",
+      "outputSchema": {
+        "$defs": {
+          "Bi": {
+            "description": "Text in English, Arabic, or both. Learner pages fall back to the language that exists.",
+            "properties": {
+              "ar": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "Ar",
+                "type": "string"
+              },
+              "en": {
+                "default": "",
+                "maxLength": 12000,
+                "title": "En",
+                "type": "string"
+              }
+            },
+            "title": "Bi",
+            "type": "object"
+          },
+          "PracticeQuestion": {
+            "properties": {
+              "answer": {
+                "title": "Answer",
+                "type": "integer"
+              },
+              "explanation": {
+                "$ref": "#/$defs/Bi"
+              },
+              "hint": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Hint",
+                "type": "object"
+              },
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "options": {
+                "items": {
+                  "$ref": "#/$defs/Bi"
+                },
+                "title": "Options",
+                "type": "array"
+              },
+              "question": {
+                "$ref": "#/$defs/Bi"
+              },
+              "source": {
+                "title": "Source",
+                "type": "string"
+              }
+            },
+            "required": [
+              "id",
+              "question",
+              "options",
+              "answer",
+              "hint",
+              "explanation",
+              "source"
+            ],
+            "title": "PracticeQuestion",
+            "type": "object"
+          },
+          "PublicSource": {
+            "properties": {
+              "eligibility": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Eligibility"
+              },
+              "grading": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Grading"
+              },
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "kind": {
+                "title": "Kind",
+                "type": "string"
+              },
+              "origin": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Origin"
+              },
+              "ref_ar": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Ref Ar"
+              },
+              "ref_en": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Ref En"
+              },
+              "review_status": {
+                "enum": [
+                  "approved",
+                  "unreviewed"
+                ],
+                "title": "Review Status",
+                "type": "string"
+              },
+              "text_ar": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text Ar"
+              },
+              "text_en": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text En"
+              },
+              "translation": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Translation"
+              },
+              "translation_status_en": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Translation Status En"
+              },
+              "url": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Url"
+              }
+            },
+            "required": [
+              "id",
+              "kind",
+              "review_status"
+            ],
+            "title": "PublicSource",
+            "type": "object"
+          },
+          "SourceBlock": {
+            "properties": {
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "type": {
+                "const": "source",
+                "title": "Type",
+                "type": "string"
+              }
+            },
+            "required": [
+              "type",
+              "id"
+            ],
+            "title": "SourceBlock",
+            "type": "object"
+          },
+          "TextBlock": {
+            "properties": {
+              "text": {
+                "title": "Text",
+                "type": "string"
+              },
+              "type": {
+                "const": "text",
+                "title": "Type",
+                "type": "string"
+              }
+            },
+            "required": [
+              "type",
+              "text"
+            ],
+            "title": "TextBlock",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "ai_generated": {
+            "title": "Ai Generated",
+            "type": "boolean"
+          },
+          "answer": {
+            "items": {
+              "anyOf": [
+                {
+                  "$ref": "#/$defs/TextBlock"
+                },
+                {
+                  "$ref": "#/$defs/SourceBlock"
+                }
+              ]
+            },
+            "title": "Answer",
+            "type": "array"
+          },
+          "follow_ups": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Follow Ups",
+            "type": "array"
+          },
+          "practice": {
+            "anyOf": [
+              {
+                "items": {
+                  "$ref": "#/$defs/PracticeQuestion"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Practice"
+          },
+          "practice_fallback": {
+            "default": false,
+            "title": "Practice Fallback",
+            "type": "boolean"
+          },
+          "referral": {
+            "anyOf": [
+              {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Referral"
+          },
+          "safety_outcome": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Safety Outcome"
+          },
+          "sources": {
+            "additionalProperties": {
+              "$ref": "#/$defs/PublicSource"
+            },
+            "title": "Sources",
+            "type": "object"
+          },
+          "tier": {
+            "title": "Tier",
+            "type": "string"
+          }
+        },
+        "required": [
+          "tier",
+          "answer",
+          "sources",
+          "ai_generated"
+        ],
+        "title": "TutorAnswer",
+        "type": "object"
+      }
+    }
+  ],
+  "version": "1.0.0"
+}

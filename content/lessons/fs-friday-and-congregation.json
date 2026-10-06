@@ -1,0 +1,225 @@
+{
+  "id": "fs-friday-and-congregation",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 5,
+  "title": {
+    "en": "Friday and praying together",
+    "ar": "الجمعة وصلاة الجماعة"
+  },
+  "summary": {
+    "en": "Why Friday is special, what the call to Friday prayer asks, and the reward and unity of praying together.",
+    "ar": "لماذا تتميّز الجمعة، وما يطلبه نداؤها، وفضل صلاة الجماعة وما فيها من وحدة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The best day",
+        "ar": "خير الأيام"
+      },
+      "body": {
+        "en": "Friday has a special place in Islam. The Prophet ﷺ said it is the best day on which the sun rises, and he linked it to great events in the story of Adam. For a Muslim, Friday is a weekly high point: a day to prepare, to gather, and to turn to Allah with a little extra care. Its centre is the Friday prayer, held together in the middle of the day.",
+        "ar": "للجمعة مكانةٌ خاصة في الإسلام. أخبر النبي ﷺ أنها أفضلُ يومٍ أشرقت فيه الشمس، وربطها بأحداثٍ عظيمة في قصة آدم. والجمعة عند المسلم ذروةٌ أسبوعية: يومٌ للاستعداد والاجتماع والإقبال على الله بعنايةٍ زائدة. ومركزها صلاة الجمعة التي تُقام جماعةً في وسط النهار."
+      },
+      "takeaway": {
+        "en": "Friday is the best day the sun rises on.",
+        "ar": "الجمعة أفضلُ يومٍ أشرقت فيه الشمس."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3711"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Hasten to the prayer",
+        "ar": "اسعَوا إلى الصلاة"
+      },
+      "takeaway": {
+        "en": "When the call to Friday prayer is made, the believers are told to go to Allah's remembrance and leave their trade.",
+        "ar": "إذا نودي لصلاة الجمعة أُمر المؤمنون بالسعي إلى ذكر الله وترك البيع."
+      },
+      "visual": "book",
+      "sources": ["quran:62:9"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Pause, then return to life",
+        "ar": "توقّف ثم عُد إلى حياتك"
+      },
+      "body": {
+        "en": "The Quran describes a beautiful rhythm. When the call to Friday prayer sounds, believers set their business aside and come to the remembrance of Allah; it is better for them than anything they would have gained. Then, once the prayer is done, they spread out again across the land, seek Allah's provision in their work, and keep remembering Him. Worship and daily life are not enemies; they take turns.",
+        "ar": "يصف القرآن إيقاعًا جميلًا. فإذا نودي لصلاة الجمعة ترك المؤمنون أعمالهم وأقبلوا على ذكر الله، فذلك خيرٌ لهم مما كانوا سيكسبون. فإذا انتهت الصلاة انتشروا في الأرض من جديد، يبتغون رزق الله في أعمالهم، ويُكثرون ذكره. فالعبادة والحياة ليستا ضدّين، بل يتناوبان."
+      },
+      "takeaway": {
+        "en": "Leave trade for the prayer, then return to work and keep remembering Allah.",
+        "ar": "اترك البيع للصلاة، ثم عُد إلى عملك واذكر الله كثيرًا."
+      },
+      "visual": "none",
+      "sources": ["quran:62:9", "quran:62:10"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Praying together is greater",
+        "ar": "الجماعة أعظم أجرًا"
+      },
+      "body": {
+        "en": "Beyond Friday, Muslims are encouraged to pray the daily prayers together whenever they can. The Prophet ﷺ said that prayer in congregation is many times greater in reward than praying alone, twenty-seven degrees. Praying shoulder to shoulder with others lifts you, keeps you consistent, and reminds you that you are part of a community that stands before Allah together.",
+        "ar": "وإلى جانب الجمعة، يُستحبّ للمسلمين أن يصلّوا الصلوات اليومية جماعةً كلما أمكن. قال النبي ﷺ إن أجر الصلاة في جماعةٍ يزيد على أجر من صلّاها منفردًا بسبعٍ وعشرين درجة. والصلاة جنبًا إلى جنبٍ مع غيرك ترفعك، وتعينك على المداومة، وتذكّرك بأنك جزءٌ من جماعةٍ تقف بين يدي الله معًا."
+      },
+      "takeaway": {
+        "en": "Congregational prayer is twenty-seven times the reward of praying alone.",
+        "ar": "أجر صلاة الجماعة يفوق صلاة المنفرد بسبعٍ وعشرين درجة."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["hadith:bukhari:645"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Standing in rows",
+        "ar": "الوقوف في صفوف"
+      },
+      "body": {
+        "en": "The Quran invites the believers to bow along with those who bow, a picture of worshipping together, not alone. The Prophet ﷺ said this community was honoured by having its prayer lines resemble the way the angels line up before their Lord. When you join a row, you straighten it and stand close to those beside you. Rich and poor, stranger and neighbour, all stand level, facing the same direction.",
+        "ar": "يدعو القرآن المؤمنين إلى الركوع مع الراكعين، صورةٌ للعبادة جماعةً لا فرادى. وقال النبي ﷺ إن هذه الأمة أُكرمت فجُعلت صفوفها في الصلاة كصفوف الملائكة. فإذا دخلت الصف أقمتَه وتراصصتَ مع من بجانبك. الغنيّ والفقير، والغريب والجار، يقفون سواءً، متوجّهين إلى جهةٍ واحدة."
+      },
+      "takeaway": {
+        "en": "Join the row, straighten it, and face Allah together.",
+        "ar": "ادخل الصف وأقمه، وتوجّهوا إلى الله معًا."
+      },
+      "visual": "none",
+      "sources": ["quran:2:43", "hadith:henc:10026"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Who must attend",
+        "ar": "من يجب عليه الحضور"
+      },
+      "body": {
+        "en": "Who exactly is required to attend the Friday prayer, and the congregational prayers, and who is excused, is a matter where scholars hold different views. They weigh things like being a resident man who is able, and conditions such as travel, illness or caring for others. This course does not settle those details. A trusted teacher who knows your situation can explain what applies to you, so ask rather than guess.",
+        "ar": "أمّا من يجب عليه حضور صلاة الجمعة وصلاة الجماعة، ومن يُعذر، فهذه مسألةٌ للعلماء فيها آراء مختلفة. ويراعون أمورًا كالرجل المقيم القادر، وظروفًا كالسفر والمرض ورعاية الآخرين. ولا يحسم هذا الدرس تلك التفاصيل. فمعلّمٌ موثوقٌ يعرف حالك يبيّن لك ما ينطبق عليك، فاسأل ولا تخمّن."
+      },
+      "takeaway": {
+        "en": "Scholars differ on exactly who must attend; ask a trusted teacher.",
+        "ar": "اختلف العلماء فيمن يجب عليه الحضور؛ فاسأل معلّمًا موثوقًا."
+      },
+      "visual": "none",
+      "sources": ["quran:62:9"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Make a start",
+        "ar": "ابدأ خطوة"
+      },
+      "body": {
+        "en": "You do not have to do everything at once. Find your nearest mosque and the time of its Friday prayer. If you can, go a little early, sit quietly, and listen. If attending feels difficult at first, start with one congregational prayer this week and build from there. Walking into a mosque for the first time can feel big; most people there will be glad to welcome a new face.",
+        "ar": "لستَ مطالبًا بأن تفعل كل شيءٍ دفعة واحدة. اعرف أقرب مسجدٍ إليك ووقت صلاة الجمعة فيه. وإن استطعت فاذهب مبكّرًا قليلًا، واجلس بهدوء، وأنصت. وإن شقّ عليك الحضور في البداية فابدأ بصلاة جماعةٍ واحدة هذا الأسبوع ثم تدرّج. ودخول المسجد لأول مرة قد يبدو كبيرًا، لكن أكثر من فيه سيفرحون بالترحيب بوجهٍ جديد."
+      },
+      "takeaway": {
+        "en": "Start with one visit to the mosque this week.",
+        "ar": "ابدأ بزيارةٍ واحدة للمسجد هذا الأسبوع."
+      },
+      "visual": "none",
+      "label": "suggestion",
+      "sources": ["quran:62:9"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What did the Prophet ﷺ say about Friday?",
+        "ar": "ماذا قال النبي ﷺ عن الجمعة؟"
+      },
+      "options": [
+        {
+          "en": "It is the best day the sun rises on",
+          "ar": "هي خير يومٍ طلعت عليه الشمس"
+        },
+        {
+          "en": "It is a day with no special merit",
+          "ar": "يومٌ لا فضل له"
+        },
+        {
+          "en": "It is a day to avoid the mosque",
+          "ar": "يومٌ يُتجنّب فيه المسجد"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "He said Friday is the best day upon which the sun has risen.",
+        "ar": "قال إن الجمعة خير يومٍ طلعت عليه الشمس."
+      },
+      "source": "hadith:henc:3711"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "When the call to Friday prayer is made, the Quran says to…",
+        "ar": "إذا نودي لصلاة الجمعة، يقول القرآن أن…"
+      },
+      "options": [
+        {
+          "en": "Finish all your trade first",
+          "ar": "تُنهي تجارتك أولًا"
+        },
+        {
+          "en": "Go to the remembrance of Allah and leave trade",
+          "ar": "تسعى إلى ذكر الله وتترك البيع"
+        },
+        {
+          "en": "Pray at home instead",
+          "ar": "تصلّي في البيت بدلًا من ذلك"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse tells believers to proceed to the remembrance of Allah and leave trade.",
+        "ar": "تأمر الآية المؤمنين بالسعي إلى ذكر الله وترك البيع."
+      },
+      "source": "quran:62:9"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How much greater is prayer in congregation than praying alone?",
+        "ar": "كم تفضل صلاة الجماعة صلاة الفرد؟"
+      },
+      "options": [
+        {
+          "en": "They are equal",
+          "ar": "هما سواء"
+        },
+        {
+          "en": "Praying alone is better",
+          "ar": "صلاة الفرد أفضل"
+        },
+        {
+          "en": "Twenty-seven degrees greater",
+          "ar": "بسبعٍ وعشرين درجة"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ said congregational prayer is twenty-seven times superior to praying alone.",
+        "ar": "قال النبي ﷺ إن صلاة الجماعة تفضل صلاة الفرد بسبعٍ وعشرين درجة."
+      },
+      "source": "hadith:bukhari:645"
+    }
+  ]
+}

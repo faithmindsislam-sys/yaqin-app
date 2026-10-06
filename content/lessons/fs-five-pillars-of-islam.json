@@ -1,0 +1,205 @@
+{
+  "id": "fs-five-pillars-of-islam",
+  "subject": "islam",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 6,
+  "title": {
+    "en": "The five pillars in my life",
+    "ar": "أركان الإسلام الخمسة في حياتي"
+  },
+  "summary": {
+    "en": "The five pillars Islam is built on, and what each one asks of you as a new Muslim now.",
+    "ar": "الأركان الخمسة التي بُني عليها الإسلام، وما يطلبه كلٌّ منها منك الآن كمسلمٍ جديد."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Built on five",
+        "ar": "بُني على خمس"
+      },
+      "body": {
+        "en": "The Prophet ﷺ compared Islam to a building standing on five supports. The first is the testimony of faith: that none is worthy of worship except Allah, and that Muhammad ﷺ was sent as His Messenger. The others are establishing prayer, giving zakat, fasting Ramadan, and making the hajj to the Sacred House. The rest of the religion completes this structure, and knowing these five gives you a simple map of the whole of practice.",
+        "ar": "شبّه النبي ﷺ الإسلام ببناءٍ قائم على خمس دعائم. أولاها شهادة الإيمان: أن لا معبود بحقٍّ سوى الله، وأن محمدًا ﷺ أُرسل رسولًا من عنده. والبقية إقام الصلاة، وإيتاء الزكاة، وصوم رمضان، وحجّ البيت الحرام. وبقية الدين تُكمل هذا البناء، ومعرفة هذه الخمس تمنحك خريطةً بسيطة للعمل كله."
+      },
+      "takeaway": {
+        "en": "Islam rests on five supports, and the rest completes them.",
+        "ar": "يقوم الإسلام على خمس دعائم، وما سواها يُكملها."
+      },
+      "visual": "steps",
+      "sources": ["hadith:henc:65000"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "The five named",
+        "ar": "الخمسة بالتفصيل"
+      },
+      "body": {
+        "en": "Here is each in brief. The Shahada: you already said it, the testimony of faith. Prayer: the five daily prayers, each at its time. Zakat: a yearly due on wealth above a threshold, given to the poor. Fasting: abstaining from food, drink and intimacy from dawn to sunset through Ramadan. Hajj: the journey to Makkah for its rites, due once in a lifetime on those who are able.",
+        "ar": "إليك كلًّا منها بإيجاز: الشهادة، وقد قلتَها، وهي شهادة الإيمان. والصلاة، وهي الصلوات الخمس كلٌّ في وقتها. والزكاة، وهي حقٌّ سنويّ في المال إذا بلغ نصابًا، يُعطى للفقراء. والصوم، وهو الإمساك عن الطعام والشراب والجماع من الفجر إلى الغروب في رمضان. والحجّ، وهو قصد مكة لأداء مناسكه، ويجب مرةً في العمر على من استطاع."
+      },
+      "takeaway": {
+        "en": "Shahada, prayer, zakat, fasting Ramadan, and hajj for those able.",
+        "ar": "الشهادة، والصلاة، والزكاة، وصوم رمضان، والحجّ لمن استطاع."
+      },
+      "visual": "steps",
+      "sources": ["ref:icadb:36127"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Prayer and zakat",
+        "ar": "الصلاة والزكاة"
+      },
+      "takeaway": {
+        "en": "The Quran pairs establishing prayer with giving zakat.",
+        "ar": "يقرن القرآن إقام الصلاة بإيتاء الزكاة."
+      },
+      "visual": "book",
+      "sources": ["quran:2:43"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "The simple path to Paradise",
+        "ar": "الطريق البسيط إلى الجنة"
+      },
+      "body": {
+        "en": "A man once asked the Prophet ﷺ: if I keep the obligatory prayers, observe the fast of Ramadan, accept what is lawful as lawful and shun what is unlawful, and add nothing further, will I enter Paradise? The Prophet ﷺ answered yes. This is reassuring for a beginner: the obligations themselves, done faithfully, are a complete path. Extra voluntary acts are good, but the core alone can carry you.",
+        "ar": "سأل رجلٌ النبيَّ ﷺ: إن أدّيتُ الصلوات المفروضة، وصمتُ شهر رمضان، واعتقدتُ حِلّ الحلال وحرمة الحرام، واقتصرتُ على ذلك دون زيادة، أأدخل الجنة؟ فأجابه النبي ﷺ: نعم. وهذا مطمئنٌ للمبتدئ: فالواجبات نفسها إذا أُدّيت بصدق طريقٌ كامل. والنوافل خيرٌ، لكن الأساس وحده يبلغ بك."
+      },
+      "takeaway": {
+        "en": "Doing the obligations faithfully is itself a complete path.",
+        "ar": "أداء الواجبات بصدقٍ طريقٌ كاملٌ بذاته."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65003"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "A visitor's questions",
+        "ar": "أسئلة زائر"
+      },
+      "body": {
+        "en": "A man named Dimam ibn Tha'laba rode in to question the Prophet ﷺ directly. He asked whether Allah had commanded the five daily prayers, the fast of the month, and a charity taken from the rich to be given to the poor. To each the Prophet ﷺ affirmed yes. Dimam then believed and committed himself. His blunt questions map neatly onto prayer, fasting and zakat.",
+        "ar": "جاء رجلٌ اسمه ضمام بن ثعلبة راكبًا ليسأل النبيَّ ﷺ مباشرة، فسأله: هل أمر الله بالصلوات الخمس، وبصوم هذا الشهر، وبصدقةٍ تُؤخذ من الأغنياء وتُعطى للفقراء؟ فأجابه النبي ﷺ في كلٍّ: نعم. فآمن ضمام والتزم. وأسئلته الصريحة تنطبق تمامًا على الصلاة والصوم والزكاة."
+      },
+      "takeaway": {
+        "en": "Dimam asked, affirmed the duties, and committed to them.",
+        "ar": "سأل ضمام، فأُقرّت له الواجبات، فالتزم بها."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65044"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "What this asks of me now",
+        "ar": "ما يطلبه مني الآن"
+      },
+      "body": {
+        "en": "Not all five land on you at once. The Shahada you have. Prayer is the daily duty to begin now. Fasting arrives each Ramadan. Zakat applies only once your wealth reaches the threshold and a year passes; until then, give what charity you can. Hajj is due only when you are able in body and means, perhaps years ahead. So focus today on prayer, and let the others come in their time.",
+        "ar": "لا تقع الخمس عليك دفعةً واحدة. فالشهادة عندك، والصلاة هي الواجب اليومي الذي تبدأ به الآن، والصوم يأتي كل رمضان، والزكاة لا تلزم إلا إذا بلغ مالك النصاب وحال عليه الحول، وحتى ذلك الحين تصدّق بما تستطيع، والحجّ لا يجب إلا إذا استطعت بالبدن والمال، وربما بعد سنوات. فاجعل تركيزك اليوم على الصلاة، ودَع البقية تأتي في وقتها."
+      },
+      "takeaway": {
+        "en": "Focus on prayer now; zakat and hajj apply when their conditions are met.",
+        "ar": "ركّز على الصلاة الآن، والزكاة والحجّ عند توفّر شروطهما."
+      },
+      "visual": "none",
+      "sources": ["quran:2:43", "quran:3:97"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What image did the Prophet ﷺ use for Islam and its pillars?",
+        "ar": "بأي صورةٍ شبّه النبي ﷺ الإسلام وأركانه؟"
+      },
+      "options": [
+        {
+          "en": "A building standing on five supports",
+          "ar": "بناءٌ قائم على خمس دعائم"
+        },
+        {
+          "en": "A river with five streams",
+          "ar": "نهرٌ بخمسة جداول"
+        },
+        {
+          "en": "A book with five chapters",
+          "ar": "كتابٌ بخمسة فصول"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said Islam is built on five.",
+        "ar": "قال النبي ﷺ: بُني الإسلام على خمس."
+      },
+      "source": "hadith:henc:65000"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "The man who asked about doing only the obligations was told that he would…",
+        "ar": "الرجل الذي سأل عن الاكتفاء بالواجبات قيل له إنه…"
+      },
+      "options": [
+        {
+          "en": "Need to add many voluntary acts first",
+          "ar": "يحتاج إلى كثيرٍ من النوافل أولًا"
+        },
+        {
+          "en": "Enter Paradise",
+          "ar": "يدخل الجنة"
+        },
+        {
+          "en": "Wait until he learned everything",
+          "ar": "ينتظر حتى يتعلم كل شيء"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ answered yes to the man who kept to the obligations.",
+        "ar": "أجاب النبي ﷺ بنعم لمن اقتصر على الواجبات."
+      },
+      "source": "hadith:henc:65003"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "For a new Muslim, hajj becomes due…",
+        "ar": "بالنسبة للمسلم الجديد، يجب الحجّ…"
+      },
+      "options": [
+        {
+          "en": "Immediately, like prayer",
+          "ar": "فورًا، كالصلاة"
+        },
+        {
+          "en": "Never for most people",
+          "ar": "أبدًا بالنسبة لأكثر الناس"
+        },
+        {
+          "en": "Only when one is able in body and means",
+          "ar": "فقط عند الاستطاعة بالبدن والمال"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Quran makes hajj a duty upon those who are able to make the way to it.",
+        "ar": "يجعل القرآن الحجّ واجبًا على من استطاع إليه سبيلًا."
+      },
+      "source": "quran:3:97"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "fs-daily-remembrance",
+  "subject": "hadith",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 5,
+  "title": {
+    "en": "Daily remembrance and du'a",
+    "ar": "أذكار وأدعية يومية"
+  },
+  "summary": {
+    "en": "Simple ways to keep Allah on your tongue and heart through the day, and the promise that He is near.",
+    "ar": "طرقٌ يسيرة تُبقي ذكر الله على لسانك وقلبك طوال اليوم، ووعدُه بأنه قريب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "He remembers you back",
+        "ar": "يذكرك إذا ذكرته"
+      },
+      "body": {
+        "en": "Remembrance of Allah, dhikr, means keeping Him in mind with short words and a turned heart. Allah makes a stunning promise: remember Me, and I will remember you. This is not a hard discipline reserved for scholars. It is a few words you can say while walking, cooking or resting, that keep a living thread between you and your Lord all day long.",
+        "ar": "ذِكْرُ الله يعني أن تُبقيه في بالك بكلماتٍ قصيرة وقلبٍ مُقبِل. وقد وعد الله وعدًا عظيمًا: اذكروني أذكركم. وليس هذا رياضةً شاقّة خاصةً بالعلماء، بل كلماتٌ يسيرة تقولها وأنت تمشي أو تطبخ أو تستريح، تُبقي خيطًا حيًّا بينك وبين ربّك طوال اليوم."
+      },
+      "takeaway": {
+        "en": "Remember Allah, and He promises to remember you.",
+        "ar": "اذكر الله، فقد وعد أن يذكرك."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:152"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Where hearts find rest",
+        "ar": "حيث تطمئنّ القلوب"
+      },
+      "takeaway": {
+        "en": "The Quran says that hearts find their calm in the remembrance of Allah.",
+        "ar": "يقول القرآن إن القلوب تطمئنّ بذكر الله."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:13:28"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Often, and morning and evening",
+        "ar": "كثيرًا، وصباحًا ومساءً"
+      },
+      "body": {
+        "en": "The Quran tells the believers to remember Allah much, and to glorify Him at the start and end of the day. Morning and evening are natural anchors: a moment when you wake and a moment before you sleep. Even a short, steady habit at these two times keeps your heart turned toward Allah and sets the tone for everything in between.",
+        "ar": "يأمر القرآن المؤمنين أن يذكروا الله كثيرًا، وأن يسبّحوه في أول النهار وآخره. والصباح والمساء مرتكزان طبيعيّان: لحظةٌ حين تستيقظ ولحظةٌ قبل أن تنام. وحتى عادةٌ قصيرة ثابتة في هذين الوقتين تُبقي قلبك متوجّهًا إلى الله وتضبط إيقاع ما بينهما."
+      },
+      "takeaway": {
+        "en": "Remember Allah much, especially morning and evening.",
+        "ar": "اذكر الله كثيرًا، خاصة صباحًا ومساءً."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:33:41",
+        "quran:33:42"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Two easy phrases",
+        "ar": "عبارتان يسيرتان"
+      },
+      "body": {
+        "en": "You can start with two short phrases. Subhan Allah means glory be to Allah, declaring Him far above any fault. Al-hamdu lillah means praise be to Allah, thanking Him for everything. The Prophet ﷺ taught that one of them weighs down the scale of good deeds, while the two together fill the space of the heavens and the earth. Tiny words, enormous weight.",
+        "ar": "يمكنك أن تبدأ بعبارتين قصيرتين. سبحان الله تعني تنزيه الله عن كل نقص. والحمد لله تعني شكره على كل شيء. وعلّم النبي ﷺ أن إحداهما تُثقّل ميزان الحسنات، وأنهما معًا تملآن ما بين السماء والأرض من فضاء. كلماتٌ صغيرة بوزنٍ هائل."
+      },
+      "takeaway": {
+        "en": "Subhan Allah and al-hamdu lillah are small words of great weight.",
+        "ar": "سبحان الله والحمد لله كلماتٌ صغيرة عظيمة الأجر."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:65004"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Allah is near",
+        "ar": "الله قريب"
+      },
+      "body": {
+        "en": "Remembrance flows naturally into du'a, calling on Allah. The Quran reassures you that when His servants ask about Him, He is near and answers the one who calls. In another place, Allah invites you directly: call upon Me and I will respond. You do not need a special place, language or time. Speak to Him simply, in your own words, whenever your heart turns to Him.",
+        "ar": "ينساب الذكر طبيعيًّا إلى الدعاء، أي نداء الله. ويطمئنك القرآن أن عباده إذا سألوا عنه فهو قريبٌ يجيب من دعاه. وفي موضعٍ آخر يدعوك الله مباشرة: ادعوني أستجب لكم. ولا تحتاج إلى مكانٍ أو لغةٍ أو وقتٍ خاص. فكلّمه ببساطة، بكلماتك أنت، كلما توجّه قلبك إليه."
+      },
+      "takeaway": {
+        "en": "Allah is near and invites you to call on Him.",
+        "ar": "الله قريبٌ، ويدعوك أن تدعوه."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:186",
+        "quran:40:60"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "He is with the one who remembers",
+        "ar": "هو مع من يذكره"
+      },
+      "body": {
+        "en": "In a sacred saying, Allah tells us He is as His servant expects of Him, and He is with him whenever he remembers Him. Draw near to Allah even a little, and He draws much nearer to you. The Prophet ﷺ also described how, on waking, remembering Allah loosens the heaviness the devil ties on a sleeper, so starting your day with His name lifts your whole spirit.",
+        "ar": "في حديثٍ قدسي يخبرنا الله أنه عند ظنّ عبده به، وأنه معه حين يذكره. فإن تقرّبتَ إلى الله قليلًا تقرّب إليك كثيرًا. ووصف النبي ﷺ كيف أن ذكر الله عند الاستيقاظ يحلّ ما يعقده الشيطان من ثِقَلٍ على النائم، فبدء يومك باسمه يرفع نفسك كلها."
+      },
+      "takeaway": {
+        "en": "Draw near to Allah a little, and He draws much nearer.",
+        "ar": "تقرّب إلى الله قليلًا، يتقرّب إليك كثيرًا."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:7405",
+        "hadith:henc:3731"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Build a small habit",
+        "ar": "ابنِ عادةً صغيرة"
+      },
+      "body": {
+        "en": "Pick one easy anchor to begin. When you wake, before anything else, say al-hamdu lillah. Through the day, repeat subhan Allah and al-hamdu lillah a few times whenever you remember. And in a quiet moment, speak to Allah in your own words about whatever is on your heart. Keep it light and regular; a little, done every day, is better than a lot done once.",
+        "ar": "اختر مرتكزًا واحدًا يسيرًا للبداية. حين تستيقظ، وقبل كل شيء، قل الحمد لله. وخلال اليوم كرّر سبحان الله والحمد لله مراتٍ قليلة كلما تذكّرت. وفي لحظةٍ هادئة كلّم الله بكلماتك عمّا في قلبك. واجعلها خفيفةً منتظمة؛ فالقليل الدائم خيرٌ من الكثير المنقطع."
+      },
+      "takeaway": {
+        "en": "A little remembrance every day beats a lot done once.",
+        "ar": "قليلٌ من الذكر كل يوم خيرٌ من كثيرٍ منقطع."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:152"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does Allah promise in return for remembering Him?",
+        "ar": "بماذا وعد الله في مقابل ذكره؟"
+      },
+      "options": [
+        {
+          "en": "That He will remember you",
+          "ar": "أن يذكرك"
+        },
+        {
+          "en": "That you will become wealthy",
+          "ar": "أن تصير غنيًّا"
+        },
+        {
+          "en": "That you will never be tested",
+          "ar": "ألّا تُبتلى أبدًا"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The verse says: remember Me, I will remember you.",
+        "ar": "تقول الآية: اذكروني أذكركم."
+      },
+      "source": "quran:2:152"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "According to the Quran, where do hearts find rest?",
+        "ar": "بحسب القرآن، بأيّ شيءٍ تطمئنّ القلوب؟"
+      },
+      "options": [
+        {
+          "en": "In collecting wealth",
+          "ar": "بجمع المال"
+        },
+        {
+          "en": "In the remembrance of Allah",
+          "ar": "بذكر الله"
+        },
+        {
+          "en": "In constant travel",
+          "ar": "بكثرة السفر"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse says hearts are assured by the remembrance of Allah.",
+        "ar": "تقول الآية إن القلوب تطمئنّ بذكر الله."
+      },
+      "source": "quran:13:28"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What did the Prophet ﷺ say about the phrase al-hamdu lillah?",
+        "ar": "ماذا قال النبي ﷺ عن كلمة الحمد لله؟"
+      },
+      "options": [
+        {
+          "en": "It is only for special occasions",
+          "ar": "لا تُقال إلا في المناسبات"
+        },
+        {
+          "en": "It has no particular reward",
+          "ar": "لا أجر خاصّ لها"
+        },
+        {
+          "en": "It fills the scale of good deeds",
+          "ar": "تملأ ميزان الحسنات"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "He said praise be to Allah fills the Scale.",
+        "ar": "قال إن الحمد لله تملأ الميزان."
+      },
+      "source": "hadith:henc:65004"
+    }
+  ]
+}

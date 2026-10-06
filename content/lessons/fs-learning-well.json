@@ -1,0 +1,240 @@
+{
+  "id": "fs-learning-well",
+  "subject": "islam",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 5,
+  "title": {
+    "en": "Learning well, from trusted sources",
+    "ar": "أتعلّم ممن؟ مصادر موثوقة وتدرّج في الطلب"
+  },
+  "summary": {
+    "en": "Ask the people of knowledge, verify what you hear, and learn for Allah, step by step.",
+    "ar": "اسأل أهل العلم، وتثبّت مما تسمع، وتعلّم لله، خطوة خطوة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Ask those who know",
+        "ar": "اسأل أهل العلم"
+      },
+      "body": {
+        "en": "As a new Muslim, you will have many questions, and that is good. The Quran gives a clear instruction: if you do not know, ask the people of knowledge. You are not expected to work everything out alone. Finding someone who studied the religion properly and asking them is exactly what you are told to do. Questions are not a weakness in your faith; asking the right people is part of learning well.",
+        "ar": "ستكون لديك أسئلة كثيرة بوصفك مسلمًا جديدًا، وهذا أمر طيب. ويعطينا القرآن توجيهًا واضحًا: إن كنت لا تعلم فاسأل أهل العلم. فلست مطالبًا أن تستنبط كل شيء وحدك. والبحث عمّن درس الدين على أصوله وسؤاله هو تحديدًا ما أُمرت به. فالسؤال ليس ضعفًا في إيمانك، بل سؤال أهله جزء من حسن التعلّم."
+      },
+      "takeaway": {
+        "en": "When you don't know, ask the people of knowledge.",
+        "ar": "إذا لم تعلم فاسأل أهل العلم."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:16:43"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Ask for more knowledge",
+        "ar": "ادعُ بالمزيد من العلم"
+      },
+      "takeaway": {
+        "en": "A taught prayer in which one asks the Lord for more knowledge.",
+        "ar": "دعاء مأثور: ربِّ زدني علمًا."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:20:114"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Knowledge is a gift from Allah",
+        "ar": "العلم عطاء من الله"
+      },
+      "body": {
+        "en": "The Quran asks whether those who know and those who do not know are equal, and the answer is clear: they are not. The Prophet ﷺ added that when Allah wants good for someone, He gives him understanding of the religion. So seeking to learn is itself a sign that Allah wants good for you. Treat your learning as a blessing to be grateful for, and keep asking Him to deepen your understanding.",
+        "ar": "يسأل القرآن مستنكرًا: هل يتساوى أهل العلم وغيرهم ممن لا علم عندهم؟ والجواب واضح: لا يستويان. وأضاف النبي ﷺ أن الله إذا أراد بعبدٍ خيرًا فقّهه في الدين. فطلبك للعلم بذاته علامة أن الله يريد بك خيرًا. فاعتبر تعلّمك نعمةً تشكرها، وداوم على سؤاله أن يزيدك فهمًا."
+      },
+      "takeaway": {
+        "en": "Wanting to learn is a sign Allah wants good for you.",
+        "ar": "رغبتك في التعلّم علامة أن الله يريد بك خيرًا."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:39:9",
+        "hadith:bukhari:71"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Check before you share",
+        "ar": "تثبّت قبل أن تنقل"
+      },
+      "body": {
+        "en": "Not everything you read or hear about Islam online is reliable. The Quran teaches a careful habit: if someone brings you news, verify it, so you do not act on something false and later regret it. Before you believe a claim about the religion, or pass it on to others, check that it comes from a trustworthy source. Careful learners slow down and confirm rather than spreading whatever they come across.",
+        "ar": "ليس كل ما تقرؤه أو تسمعه عن الإسلام على الإنترنت موثوقًا. ويعلّمنا القرآن عادة متأنية: إن جاءك أحد بخبر فتبيّن، لئلا تبني على باطل ثم تندم. فقبل أن تصدّق دعوى عن الدين أو تنقلها إلى غيرك، تأكد أنها من مصدر موثوق. فطالب العلم المتأني يتمهّل ويتثبّت بدل أن ينشر كل ما يصادفه."
+      },
+      "takeaway": {
+        "en": "Verify religious information before believing or sharing it.",
+        "ar": "تثبّت من المعلومة الدينية قبل تصديقها أو نشرها."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:49:6"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Be careful with the Prophet's ﷺ words",
+        "ar": "احذر فيما يُنسب للنبي ﷺ"
+      },
+      "body": {
+        "en": "This care matters most with hadith. The Prophet ﷺ encouraged people to convey even a little of what they learned, but he warned sternly that whoever lies about him on purpose takes a place in the Fire. So when you see a quote attributed to the Prophet ﷺ, do not rush to repeat it. Rely on trusted collections and teachers. In this app, hadith text and its grading are shown exactly as recorded by the source.",
+        "ar": "وتزداد أهمية هذا التثبّت في الحديث. فقد حثّ النبي ﷺ على تبليغ ما يتعلّمه المرء ولو كان قليلًا، لكنه حذّر بشدّة من تعمّد الكذب عليه، وأن جزاء ذلك مقعدٌ في النار. فإذا رأيت كلامًا منسوبًا إلى النبي ﷺ فلا تتعجّل في نقله، واعتمد على المصادر والمعلّمين الموثوقين. وفي هذا التطبيق يُعرض نص الحديث ودرجته كما سجّلها المصدر تمامًا."
+      },
+      "takeaway": {
+        "en": "Only repeat sayings of the Prophet ﷺ from trusted sources.",
+        "ar": "لا تنقل حديث النبي ﷺ إلا من مصدر موثوق."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:3686"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Learn for Allah",
+        "ar": "تعلّم لله"
+      },
+      "body": {
+        "en": "Why you learn matters as much as what you learn. The Prophet ﷺ warned against seeking knowledge to show off before scholars, to argue with foolish people, or to gain status in gatherings. The goal is to know Allah and worship Him well, and to help others gently. Keep your intention simple and sincere, and your learning will stay a path to Allah rather than a way to compete with people.",
+        "ar": "لماذا تتعلّم لا يقلّ أهمية عمّا تتعلّم. وقد حذّر النبي ﷺ من طلب العلم لمباهاة العلماء، أو لمجادلة السفهاء، أو لنيل المكانة في المجالس. فالمقصود أن تعرف الله وتحسن عبادته، وأن تنفع غيرك برفق. فأبقِ نيّتك بسيطة صادقة، يبقَ علمك طريقًا إلى الله لا وسيلة لمنافسة الناس."
+      },
+      "takeaway": {
+        "en": "Seek knowledge to please Allah, not to show off or argue.",
+        "ar": "اطلب العلم لوجه الله، لا للمباهاة أو الجدال."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:65047"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "For your own case, ask a scholar",
+        "ar": "لحالتك الخاصة اسأل عالمًا"
+      },
+      "body": {
+        "en": "General lessons like these teach the shared basics. But a question about your own particular situation needs a fatwa: a religious answer given for a specific case. Giving such answers is a serious task that belongs to a qualified scholar, not to a general app or a well-meaning friend. When your question is personal and detailed, bring it to a trusted scholar who can consider your exact circumstances.",
+        "ar": "الدروس العامة كهذه تعلّمك الأصول المشتركة. أما السؤال عن حالتك الخاصة فيحتاج إلى فتوى، وهي الإخبار بالحكم الشرعي في مسألة معيّنة. وإصدار هذه الفتاوى أمر جسيم يخصّ العالِم المؤهّل، لا تطبيقًا عامًا ولا صديقًا حَسَن النية. فإذا كان سؤالك شخصيًا دقيقًا فارفعه إلى عالمٍ موثوق ينظر في ظروفك بعينها."
+      },
+      "takeaway": {
+        "en": "A personal question needs a fatwa from a qualified scholar.",
+        "ar": "السؤال الشخصي يحتاج فتوى من عالمٍ مؤهّل."
+      },
+      "visual": "none",
+      "sources": [
+        "ref:terminologyenc:114"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Quran say to do when you do not know something?",
+        "ar": "ماذا يأمر القرآن أن تفعل إذا كنت لا تعلم؟"
+      },
+      "options": [
+        {
+          "en": "Guess and move on",
+          "ar": "خمّن وامضِ"
+        },
+        {
+          "en": "Ask the people of knowledge",
+          "ar": "اسأل أهل العلم"
+        },
+        {
+          "en": "Stay silent and never ask",
+          "ar": "اصمت ولا تسأل أبدًا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran says to ask the people of knowledge if you do not know.",
+        "ar": "يقول القرآن: فاسألوا أهل الذكر إن كنتم لا تعلمون."
+      },
+      "source": "quran:16:43"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What should you do when someone brings you a report?",
+        "ar": "ماذا تفعل إذا جاءك أحدٌ بخبر؟"
+      },
+      "options": [
+        {
+          "en": "Verify it before acting on it",
+          "ar": "تتثبّت منه قبل أن تعمل به"
+        },
+        {
+          "en": "Share it immediately",
+          "ar": "تنشره فورًا"
+        },
+        {
+          "en": "Believe it because it is popular",
+          "ar": "تصدّقه لأنه منتشر"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran teaches to verify news so you do not harm others out of ignorance and then regret it.",
+        "ar": "يعلّمنا القرآن أن نتبيّن الخبر لئلا نصيب قومًا بجهالة فنندم."
+      },
+      "source": "quran:49:6"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "The Prophet ﷺ warned sternly against which act?",
+        "ar": "حذّر النبي ﷺ بشدّة من أي فعل؟"
+      },
+      "options": [
+        {
+          "en": "Teaching others a single verse",
+          "ar": "تعليم الناس آية واحدة"
+        },
+        {
+          "en": "Asking a scholar a question",
+          "ar": "سؤال العالم مسألة"
+        },
+        {
+          "en": "Lying about him on purpose",
+          "ar": "الكذب عليه متعمّدًا"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "He warned that whoever deliberately lies about him takes his seat in the Fire.",
+        "ar": "حذّر أن من كذب عليه متعمّدًا فليتبوّأ مقعده من النار."
+      },
+      "source": "hadith:henc:3686"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Build with Yaqeen's public API and MCP: authentication, endpoint parameters, JSON outputs, tools and limits.">
+  <title>Yaqeen Developers · API & MCP</title>
+  <style>
+    :root{--ink:#142c46;--muted:#566b80;--blue:#1264c0;--line:#e1e8f0;--paper:#fff;--tint:#f3f7fc;--code:#142639;--rail:240px}
+    *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:90px}body{margin:0;color:var(--ink);background:var(--paper);font:15px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}a{color:var(--blue);text-underline-offset:4px}a:hover{text-decoration:underline}a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #7bb6f5;outline-offset:4px}h1,h2,h3,h4,p{margin-top:0}h1{font-size:clamp(38px,5vw,58px);line-height:1.12;letter-spacing:-2px;margin-bottom:22px}h2{font-size:30px;line-height:1.25;letter-spacing:-.7px;margin-bottom:14px}h3{font-size:21px;line-height:1.35;margin:12px 0}h4{font-size:14px;letter-spacing:.02em;margin:25px 0 12px}code,pre{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}code{font-size:.88em;overflow-wrap:anywhere}p{margin-bottom:16px;color:var(--muted)}strong{color:var(--ink)}button{font:inherit;cursor:pointer}small{font-size:12px}.skip{position:absolute;left:14px;top:-60px;z-index:20;background:#fff;padding:8px 16px}.skip:focus{top:8px}
+    .topbar{position:sticky;top:0;z-index:10;height:68px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 32px;background:rgba(255,255,255,.96)}.brand{display:flex;gap:11px;align-items:center;color:var(--ink);text-decoration:none;font-size:18px;font-weight:750;letter-spacing:-.4px}.brand svg{color:var(--blue)}.brand span{border-left:1px solid var(--line);padding-left:14px;margin-left:5px;color:var(--muted);font-size:13px;font-weight:500;letter-spacing:0}.toplinks{display:flex;align-items:center;gap:22px;font-size:13px}.toplinks a{text-decoration:none}.toplinks .swagger{color:#fff;background:var(--blue);padding:8px 14px;border-radius:7px}.shell{max-width:1500px;margin:auto;display:grid;grid-template-columns:var(--rail) minmax(0,1fr)}.sidebar{position:sticky;top:68px;height:calc(100vh - 68px);overflow:auto;border-right:1px solid var(--line);padding:30px 24px}.nav-label{font-size:10px;text-transform:uppercase;letter-spacing:1.7px;font-weight:700;color:#566b80;margin:24px 0 9px}.nav-label:first-child{margin-top:0}.sidebar a{display:block;text-decoration:none;color:var(--muted);font-size:13px;padding:7px 11px;border-radius:6px}.sidebar a:hover{background:var(--tint);color:var(--blue)}.sidebar .active{background:#eaf3ff;color:var(--blue);font-weight:650}.version{border-top:1px solid var(--line);margin-top:30px;padding-top:20px;color:var(--muted);font-size:12px}.version .dot{display:inline-block;width:6px;height:6px;background:var(--blue);border-radius:50%;margin-right:7px}main{min-width:0;padding:48px 6% 60px;max-width:1200px}.eyebrow{font-size:11px;text-transform:uppercase;letter-spacing:1.7px;color:var(--blue);font-weight:750;margin-bottom:18px}.hero-copy{max-width:700px;font-size:18px;line-height:1.65}.tag{display:inline-block;border:1px solid var(--line);border-radius:20px;padding:4px 11px;font-size:11px;color:var(--muted);margin-right:5px}.status{margin:24px 0 28px;padding:12px 16px;border-left:3px solid #d8a151;border-radius:0 6px 6px 0;background:#fff9ed;color:#78531e;font-size:13px}.base{display:flex;flex-wrap:wrap;gap:9px 20px;padding:15px 18px;background:var(--tint);border:1px solid var(--line);border-radius:8px;font-size:13px}.base span{color:var(--muted)}.paths{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:28px 0 42px}.path-card{padding:24px;border:1px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink);position:relative}.path-card:hover{border-color:#83b4ec;text-decoration:none;background:#fafcff}.path-card .label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:var(--blue);font-weight:700}.path-card h3{margin:9px 0}.path-card p{font-size:14px;margin-bottom:12px}.path-card .arrow{font-size:13px;color:var(--blue);font-weight:600}.section{padding-top:36px;margin-top:32px;border-top:1px solid var(--line)}.section-intro{max-width:730px}.steps{padding-left:24px;color:var(--muted)}.steps li{padding:4px 0 9px 8px}.steps li::marker{color:var(--blue);font-weight:700}.steps strong{display:block}.note{border:1px solid #cfe2f8;background:#f2f8ff;padding:16px 20px;border-radius:8px;font-size:13px;margin:20px 0;color:var(--muted)}.note p:last-child{margin-bottom:0}.config{display:grid;grid-template-columns:140px minmax(0,1fr);gap:7px 18px;padding:19px;border:1px solid var(--line);border-radius:8px;font-size:13px}.config dt{color:var(--muted)}.config dd{margin:0;min-width:0}.config code{font-size:12px}pre{font-size:12px;line-height:1.85;background:var(--code);color:#dceafa;border-radius:9px;padding:21px;margin:15px 0;overflow:auto;tab-size:2}pre code{font-size:inherit;overflow-wrap:normal;white-space:pre}.code-wrap{position:relative}.code-wrap pre{padding-right:75px}.copy{position:absolute;top:11px;right:11px;border:1px solid #405268;border-radius:5px;background:#24384d;color:#dceafa;font-size:10px;padding:4px 8px}.copy:disabled{cursor:default}.auth-block{margin-top:27px}.auth-block h3{font-size:17px}.mini-label{color:var(--muted);font-size:12px;margin-bottom:0}.method{display:inline-block;font:700 10px/1.5 ui-monospace,monospace;letter-spacing:.4px;border-radius:4px;padding:4px 7px;background:#e7f4ef;color:#1d7150}.method.post{background:#edf0ff;color:#5451a1}.operation-list{display:grid;gap:9px;margin:24px 0}.operation-list a{display:flex;gap:14px;align-items:center;padding:13px 16px;border:1px solid var(--line);border-radius:7px;color:var(--ink);text-decoration:none}.operation-list a:hover{background:var(--tint)}.operation-list .purpose{margin-left:auto;color:var(--muted);font-size:12px}.endpoint{border:1px solid var(--line);border-radius:12px;padding:27px;margin-top:25px;scroll-margin-top:90px}.endpoint-title{display:flex;gap:12px;align-items:center}.endpoint-title code{font-size:16px;font-weight:650}.endpoint-meta{font-size:12px}.table-scroll{overflow-x:auto}table{width:100%;border-collapse:collapse;font-size:13px;text-align:left}th{font-size:11px;color:var(--muted);font-weight:650;background:var(--tint)}th,td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}td p{font-size:12px;line-height:1.65;margin:4px 0}td small{display:block;color:var(--muted);font-size:11px}.fields td:first-child{width:26%;min-width:130px}.fields code{font-size:12px;font-weight:600}.required,.optional{display:block;font-size:10px;margin-top:3px;color:#8b6671}.optional{color:#566b80}.field-type{font-family:ui-monospace,monospace;font-size:11px;color:var(--blue);overflow-wrap:anywhere}details{margin-top:18px;border-top:1px solid var(--line);padding-top:14px}summary{cursor:pointer;font-size:13px;font-weight:650}details[open] summary{margin-bottom:14px}.reference-link{display:inline-block;margin-top:20px;font-size:12px}.tool-name{color:var(--blue);font-size:12px;font-weight:650}.tools-table{min-width:530px}.pill{font-size:11px;border:1px solid var(--line);padding:3px 8px;border-radius:4px;white-space:nowrap}.downloads{display:flex;gap:12px;flex-wrap:wrap;margin:22px 0}.downloads a{font-size:13px;text-decoration:none;border:1px solid var(--line);padding:10px 15px;border-radius:6px}.downloads a:hover{background:var(--tint)}.footer{border-top:1px solid var(--line);margin-top:42px;padding-top:20px;display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:12px}.footer a{font-size:12px}.compact-list{color:var(--muted);padding-left:20px;font-size:14px}.compact-list li{padding-bottom:7px}
+    .status{display:flex;align-items:center;flex-wrap:wrap;gap:8px 12px;border:1px solid #d3e8dc;border-radius:8px;background:#f3faf6;color:#385e49}.status strong{color:#22573a}.live-dot{width:7px;height:7px;border-radius:50%;background:#2b8051}.client-setups{display:grid;gap:12px;margin:22px 0}.client-setups details{margin:0;padding:18px 20px;border:1px solid var(--line);border-radius:9px}.client-setups details[open]{background:#fafcff}.verification{margin:24px 0}.verification li{font-size:13px}.sidebar a[aria-current="location"]{background:#eaf3ff;color:var(--blue);font-weight:650}
+    @media(max-width:1000px){:root{--rail:200px}.sidebar{padding:25px 15px}main{padding:36px 5%}.operation-list .purpose{display:none}.topbar{padding:0 22px}.toplinks{gap:15px}}@media(max-width:720px){.shell{display:block}.sidebar{position:static;height:auto;display:flex;gap:8px;flex-wrap:wrap;border-right:0;border-bottom:1px solid var(--line);padding:14px 20px}.sidebar .nav-label,.sidebar .version,.sidebar .secondary{display:none}.sidebar a{font-size:12px;padding:4px 9px}.topbar{padding:0 18px;height:62px}.brand span{display:none}.toplinks{gap:12px}.toplinks .schema-link{display:none}main{padding:30px 20px}.paths{grid-template-columns:1fr;gap:12px}.path-card{padding:20px}.hero-copy{font-size:16px}h1{letter-spacing:-1px}.endpoint{padding:20px 15px}.endpoint-title code{font-size:13px}.config{grid-template-columns:1fr;gap:3px}.config dd{margin-bottom:9px}.base code{font-size:11px}pre{font-size:11px;padding:16px}.fields th,.fields td{padding:10px}.footer{flex-direction:column;gap:5px}.section{padding-top:28px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media print{.sidebar,.topbar,.copy,.downloads{display:none}.shell{display:block}main{max-width:none;padding:0}.section,.endpoint{break-inside:avoid}pre{white-space:pre-wrap;color:#142c46;background:#f2f4f7}.status{border:1px solid #ddd}}
+  </style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <a class="brand" href="#overview" aria-label="Yaqeen developer documentation"><svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-hidden="true"><path d="M14 7c-4-3-8-3-11-2v17c4-1 8-1 11 2 3-3 7-3 11-2V5c-3-1-7-1-11 2Zm0 0v17" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Yaqeen <span>Developers</span></a>
+  <nav class="toplinks" aria-label="Technical documentation"><a class="schema-link" href="__TECH_BASE__/reference">Schema reference</a><a class="swagger" href="__TECH_BASE__/swagger">Open Swagger ↗</a></nav>
+</header>
+<div class="shell">
+<nav class="sidebar" aria-label="On this page">
+  <div class="nav-label">Get started</div>
+  <a class="active" href="#overview">Overview</a><a href="#authentication">Authentication</a><a href="#first-request">Your first request</a>
+  <div class="nav-label">Public API</div>
+  <a href="#endpoints">Endpoints</a><a class="secondary" href="#courses_courses_get">List courses</a><a class="secondary" href="#course_courses__course_id__get">Get a course</a><a class="secondary" href="#source_sources__source_id__get">Get a source</a><a class="secondary" href="#ask_tutor_ask_post">Ask the tutor</a>
+  <div class="nav-label">MCP & operations</div>
+  <a href="#mcp">Connect with MCP</a><a href="#limits">Limits & errors</a><a href="#versioning">Versioning & downloads</a>
+  <div class="version"><span class="dot"></span>Contract __VERSION__<br>English & Arabic · JSON</div>
+</nav>
+<main id="main">
+  <section id="overview">
+    <div class="eyebrow">Public API & Model Context Protocol</div>
+    <h1>Build with Yaqeen.</h1>
+    <p class="hero-copy">Bring published learning content, trusted citations and the AI tutor into your application—or connect them directly to an MCP client.</p>
+    <div><span class="tag">4 API operations</span><span class="tag">4 MCP tools</span><span class="tag">Version __VERSION__</span></div>
+    <div class="status"><span class="live-dot" aria-hidden="true"></span><strong>Live · v1</strong><span>Public API tested. ChatGPT and Claude connected.</span></div>
+    <div class="base"><span>API base URL</span><code>__BASE__</code></div>
+    <div class="paths">
+      <a class="path-card" href="#authentication"><span class="label">For applications & scripts</span><h3>Use the public API</h3><p>Create an account, obtain an access token and call four versioned HTTP endpoints.</p><span class="arrow">Start with authentication →</span></a>
+      <a class="path-card" href="#mcp"><span class="label">For MCP clients</span><h3>Connect through MCP</h3><p>Connect anonymously to courses, sources and the tutor, with guest rate limits.</p><span class="arrow">Set up an MCP connection →</span></a>
+    </div>
+    <p class="section-intro">Read published courses and approved canonical sources, or ask educational questions in English and Arabic. There are no public corpus-search, publishing, administration, course-generation or progress-writing endpoints.</p>
+  </section>
+
+  <section class="section" id="authentication">
+    <div class="eyebrow">01 · Authentication</div><h2>An account, then an access token.</h2>
+    <p class="section-intro">You need a <strong>Yaqeen account</strong>, not a Supabase dashboard account. A personal script can create an account and sign in through Supabase Auth without using Yaqeen's login form. There is no separate Yaqeen <code>/login</code> endpoint.</p>
+    <dl class="config"><dt>Supabase Auth project</dt><dd><code>__AUTH_URL__</code></dd><dt>Publishable key</dt><dd><code>__PUBLIC_KEY__</code></dd></dl>
+    <p class="mini-label" style="margin-top:10px">These connection values are public. They identify the project; they do not grant account access. Keep passwords, access tokens and refresh tokens private.</p>
+    <div class="auth-block"><h3>1. Create your account once</h3><p>If you already have a Yaqeen account, skip to sign-in. Check your inbox and click the confirmation link before signing in. Email confirmation is required. You do not need to use the website’s signup form.</p>
+      <div class="code-wrap"><pre><code>curl "__AUTH_URL__/auth/v1/signup" \
+  -H "apikey: __PUBLIC_KEY__" \
+  -H "Content-Type: application/json" \
+  -d '{"email":"you@example.com","password":"YOUR_ACCOUNT_PASSWORD"}' </code></pre><button class="copy" type="button" aria-live="polite">Copy</button></div>
+    </div>
+    <div class="auth-block"><h3>2. Sign in to get your tokens</h3><p>The response contains <code>access_token</code>, <code>refresh_token</code> and <code>expires_in</code>. Use only <code>access_token</code> for API requests. The publishable key identifies the Auth project; it is not your API access token.</p>
+      <div class="code-wrap"><pre><code>curl "__AUTH_URL__/auth/v1/token?grant_type=password" \
+  -H "apikey: __PUBLIC_KEY__" \
+  -H "Content-Type: application/json" \
+  -d '{"email":"you@example.com","password":"YOUR_ACCOUNT_PASSWORD"}' </code></pre><button class="copy" type="button" aria-live="polite">Copy</button></div>
+    </div>
+    <div class="auth-block"><h3>3. Refresh when the access token expires</h3><p>Store both replacement tokens securely. If refresh fails, sign in again. The Supabase SDK can refresh automatically.</p>
+      <div class="code-wrap"><pre><code>curl "__AUTH_URL__/auth/v1/token?grant_type=refresh_token" \
+  -H "apikey: __PUBLIC_KEY__" \
+  -H "Content-Type: application/json" \
+  -d '{"refresh_token":"YOUR_CURRENT_REFRESH_TOKEN"}' </code></pre><button class="copy" type="button" aria-live="polite">Copy</button></div>
+    </div>
+    <div class="note"><p>Password login is for your own account or script. Partner apps should use a user-authorized sign-in flow instead of collecting users' passwords. Google sign-in also works through the interactive Supabase flow; use its Supabase access token, not a Google token. A Google-only account needs a configured password for password login.</p><p>API keys and machine credentials are not available in this release. Never use a Supabase secret/service-role key, refresh token or publishable key as the Yaqeen bearer token. Supabase Auth errors use Supabase's error format.</p></div>
+  </section>
+
+  <section class="section" id="first-request">
+    <div class="eyebrow">02 · Quick start</div><h2>Make your first request.</h2>
+    <p>Set <code>YAQIN_ACCESS_TOKEN</code> privately to the token returned by sign-in, then list published courses. Every API operation requires an active signed-in account.</p>
+    <div class="code-wrap"><pre><code>curl "__BASE__/courses?limit=25" \
+  -H "Authorization: Bearer $YAQIN_ACCESS_TOKEN"</code></pre><button class="copy" type="button" aria-live="polite">Copy</button></div>
+    <p>To test in <a href="__TECH_BASE__/swagger">Swagger</a>, select <strong>Authorize</strong>, paste only your <code>access_token</code> (without the <code>Bearer</code> prefix), then choose an operation → <strong>Try it out</strong> → <strong>Execute</strong>.</p>
+    <p>Expect HTTP 200 and JSON containing <code>items</code>, <code>total</code>, <code>offset</code> and <code>limit</code>. Use a returned course ID to fetch its detail. External browser integrations need their exact origin approved for CORS.</p>
+  </section>
+
+  <section class="section" id="endpoints">
+    <div class="eyebrow">03 · HTTP reference</div><h2>Four operations. One contract.</h2>
+    <p>Paths below are relative to the API base URL. Field types, defaults, required flags and constraints are generated from the actual OpenAPI contract.</p>
+    <div class="operation-list">
+      <a href="#courses_courses_get"><span class="method get">GET</span><code>/courses</code><span class="purpose">Discover published courses →</span></a>
+      <a href="#course_courses__course_id__get"><span class="method get">GET</span><code>/courses/{course_id}</code><span class="purpose">Read content & citations →</span></a>
+      <a href="#source_sources__source_id__get"><span class="method get">GET</span><code>/sources/{source_id}</code><span class="purpose">Read a canonical source →</span></a>
+      <a href="#ask_tutor_ask_post"><span class="method post">POST</span><code>/tutor/ask</code><span class="purpose">Receive a cited answer →</span></a>
+    </div>
+    __ENDPOINTS__
+    <div class="note"><p><strong>Preserve the evidence.</strong> Keep source attribution, grading, review/translation status and referrals visible. Do not invent missing translations. Drafts, archives and Coming soon courses are unavailable. Course detail may return 409 if its sources await approval; source reads return 404 without an approved canonical record.</p><p>Render tutor answer blocks in order, resolving source IDs through the response's <code>sources</code> map. Check <code>tier</code>, <code>ai_generated</code> and <code>safety_outcome</code>: HTTP 200 can contain a refusal or referral. Label AI answers and temporary practice exercises. HTTP tutoring may cite eligible unreviewed library passages that cannot be fetched through the canonical source endpoint; MCP tutoring uses approved sources only.</p></div>
+  </section>
+
+  <section class="section" id="mcp">
+    <div class="eyebrow">04 · MCP</div><h2>The same capabilities, as tools.</h2>
+    <p class="section-intro">Use a remote client that supports <strong>Streamable HTTP</strong>. All four tools are anonymous and rate-limited. No account, OAuth registration, callback, client secret or bearer token is needed.</p>
+    <div class="base"><span>MCP server URL</span><code>__BASE__/mcp/</code></div>
+    <ol class="steps"><li><strong>Add the server URL to your MCP client.</strong>Keep the final slash; hosted Claude's slashless form is also accepted.</li><li><strong>Select authentication: None.</strong>Recreate old OAuth connections without authentication.</li><li><strong>Select a tool.</strong>The client discovers all four tools. Start by listing published courses.</li></ol>
+    <div class="table-scroll"><table class="tools-table"><thead><tr><th>Tool</th><th>Arguments</th><th>Returns</th></tr></thead><tbody>
+      <tr><td><code class="tool-name">list_courses</code></td><td><code>offset</code>, <code>limit</code>, optional <code>track</code></td><td>The published course page</td></tr>
+      <tr><td><code class="tool-name">get_course</code></td><td><code>course_id</code></td><td>Course content and approved citations</td></tr>
+      <tr><td><code class="tool-name">get_source</code></td><td><code>source_id</code></td><td>An approved canonical source</td></tr>
+      <tr><td><code class="tool-name">ask_tutor</code></td><td><code>request</code>: the HTTP tutor input object</td><td>A cited tutor answer; spends model quota</td></tr>
+    </tbody></table></div>
+    <p class="mini-label" style="margin-top:18px">Example MCP tools/call parameters · a course read</p>
+    <div class="code-wrap"><pre><code>{"name":"list_courses","arguments":{"offset":0,"limit":3}}</code></pre><button class="copy" type="button" aria-live="polite">Copy</button></div>
+    <p>Tool schemas come from <code>tools/list</code>. Results use <code>structuredContent</code> and content blocks. Check <code>result.isError</code>, even with HTTP 200. Quota/content failures include JSON text with <code>error</code> and numeric <code>status</code>; transport throttling returns HTTP 429 with <code>Retry-After</code>. Invalid arguments may return plain MCP error text.</p>
+    <div class="note"><p><strong>No sign-in is required for MCP.</strong>Authorization headers are ignored. The tools expose published courses and approved sources; tutoring uses those sources in-process and has no account or private learner progress.</p><p>Guest limits use the viewer IP (IPv6 /64), with shared service caps. Users behind the same NAT or hosted connector share limits. Every MCP HTTP request counts, including initialization and tool listing. Check HTTP 429 and <code>Retry-After</code>, and <code>result.isError</code> for model quota failures. Quota-storage outages fail closed.</p></div>
+  </section>
+
+  <section class="section" id="limits">
+    <div class="eyebrow">05 · Operations</div><h2>Limits, errors and retries.</h2>
+    <p>These are configurable defaults, not a pricing plan. Limits are shared across an account's tokens, clients and IP addresses, using fixed UTC minute/day windows.</p>
+    <div class="table-scroll"><table><thead><tr><th>Allowance</th><th>Per account</th><th>Across service</th></tr></thead><tbody>
+      <tr><td>API requests / MCP HTTP requests per minute</td><td>60</td><td>500</td></tr><tr><td>Model operations / minute, shared with the app</td><td>12</td><td>500</td></tr><tr><td>Model token reservations / UTC day</td><td>10,000,000</td><td>100,000,000</td></tr>
+    </tbody></table></div>
+    <p style="margin-top:16px">Each tutor request reserves 200,000 model tokens as a conservative ceiling, not measured usage. Reads reserve no model tokens; failed operations are not refunded. Every MCP HTTP request counts. MCP per-account column values apply per guest IP (IPv6 /64); shared model limits also cover app/API activity. Default tutoring caps allow up to 50 guest calls/day and 500 shared calls/day. Maximum request body: <strong>64 KiB</strong>.</p>
+    <div class="table-scroll"><table><thead><tr><th>HTTP status</th><th>What to do</th></tr></thead><tbody>
+      <tr><td><code>400</code></td><td>Correct invalid input. Unknown top-level tutor fields are rejected.</td></tr><tr><td><code>401</code></td><td>Supply a valid token; refresh or sign in again.</td></tr><tr><td><code>403</code></td><td>Account unavailable or access denied. Resolve access before retrying.</td></tr><tr><td><code>404</code></td><td>Course/source unavailable.</td></tr><tr><td><code>409</code></td><td>Course citations awaiting approval.</td></tr><tr><td><code>413</code></td><td>Reduce the body below 64 KiB.</td></tr><tr><td><code>429</code></td><td>Wait for the allowance or model budget to reset.</td></tr><tr><td><code>500 / 503</code></td><td>Use bounded backoff for temporary server, auth, quota or model failures.</td></tr>
+    </tbody></table></div>
+    <pre><code>{"error":{"code":"rate_limited","message":"Public API request limit exceeded."}}</code></pre>
+    <p>Check <code>error.code</code> instead of matching message text. For <code>rate_limited</code>, wait the HTTP <code>Retry-After</code> seconds. A <code>quota_exceeded</code> daily budget can remain exhausted until the next UTC day. Tutor calls have no idempotency key: retries can spend quota again. Responses use <code>Cache-Control: no-store</code>.</p>
+    <p>MCP transport can additionally return <code>421</code> for an untrusted host. HTTP API authentication errors use 401/403; MCP needs no authentication. Outages use 503. Keep credentials out of URLs, logs, source code and prompts.</p>
+  </section>
+
+  <section class="section" id="versioning">
+    <div class="eyebrow">06 · Contract & downloads</div><h2>A guide to read. A schema to build with.</h2>
+    <p>This HTML guide explains the integration. The schema reference covers every nested type and response. Swagger lets you authorize and execute requests. OpenAPI JSON is the machine-readable export for client generation and tools.</p>
+    <div class="downloads"><a href="__TECH_BASE__/reference">Full schema reference ↗</a><a href="__TECH_BASE__/swagger">Try requests in Swagger ↗</a><a href="__TECH_BASE__/openapi.json" download="yaqeen-openapi-v1.json">Download OpenAPI JSON ↓</a><a href="__TECH_BASE__/docs?download=true">Download this HTML guide ↓</a></div>
+    <ul class="compact-list"><li><strong>Patch · 1.0.1:</strong> compatible fixes and documentation corrections.</li><li><strong>Minor · 1.1.0:</strong> optional additions. Tolerate new output fields and unknown free-form status/code strings.</li><li><strong>Major · 2.0.0:</strong> incompatible changes use <code>/api/v2</code> and <code>/api/v2/mcp/</code>, with a migration guide and announced retirement date.</li></ul>
+    <details class="verification"><summary>Verification · 6 October 2026</summary><ul class="compact-list"><li>All four Public API operations, normal password login and token refresh passed with a new learner account. Tutor output included resolvable citations.</li><li>Local anonymous MCP checks passed for initialization, all four tools, guest/shared request limits, model caps and forged-header rejection.</li><li>Anonymous production MCP needs a deployment smoke test. Historical OAuth checks no longer describe the current connection flow.</li></ul></details>
+    <p>Closed enums and documented input limits stay compatible within a major version. Quota/policy changes are announced separately. No v1 retirement date is set. The MCP protocol version is negotiated separately from product contract __VERSION__. Client compatibility requires a real production connection test.</p>
+  </section>
+  <footer class="footer"><span>Yaqeen Developers · Contract __VERSION__</span><a href="#overview">Back to top ↑</a></footer>
+</main>
+</div>
+<script>
+  document.querySelectorAll('.copy').forEach(button => button.addEventListener('click', async () => {
+    try { await navigator.clipboard.writeText(button.parentElement.querySelector('code').textContent); button.textContent = 'Copied'; }
+    catch { button.textContent = 'Select text'; }
+    setTimeout(() => { button.textContent = 'Copy'; }, 1800);
+  }));
+  const links = [...document.querySelectorAll('.sidebar a')];
+  const sections = [...document.querySelectorAll('main section[id], article[id]')];
+  function updateNavigation() {
+    const section = sections.filter(section => section.getBoundingClientRect().top <= 150).at(-1) || sections[0];
+    links.forEach(link => {
+      const current = link.hash === '#' + section.id;
+      link.classList.toggle('active', current);
+      if (current) link.setAttribute('aria-current', 'location'); else link.removeAttribute('aria-current');
+    });
+  }
+  window.addEventListener('scroll', updateNavigation, {passive: true});
+  updateNavigation();
+</script>
+</body>
+</html>

@@ -1,0 +1,225 @@
+{
+  "id": "fs-ghusl",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 5,
+  "title": {
+    "en": "Ghusl: when and how",
+    "ar": "الغُسل: متى يجب وكيف أغتسل"
+  },
+  "summary": {
+    "en": "What ghusl is, when it is due, and a gentle outline of how it is done.",
+    "ar": "ما الغُسل، ومتى يجب، ورسمٌ لطيف لكيفيته."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "What ghusl is",
+        "ar": "ما هو الغُسل"
+      },
+      "body": {
+        "en": "Ghusl is a full washing: water is poured over the whole body, from head to foot, with the intention of purifying yourself. Wudu, the smaller washing before prayer, removes a lighter state called minor impurity. Ghusl removes a heavier state called major impurity. Think of it as the complete reset that returns you to a state in which you may pray again.",
+        "ar": "الغُسل هو الاغتسال الكامل: يُفاض الماء على البدن كله من الرأس إلى القدم بنية التطهّر. والوضوء، وهو الطهارة الصغرى قبل الصلاة، يرفع حالةً أخفّ تُسمّى الحدث الأصغر، أما الغُسل فيرفع حالةً أثقل تُسمّى الحدث الأكبر. فاعتبره التطهّر الكامل الذي يعيدك إلى حالٍ تستطيع فيها الصلاة من جديد."
+      },
+      "takeaway": {
+        "en": "Ghusl is washing the whole body, with intention, to lift major impurity.",
+        "ar": "الغُسل غسلُ البدن كله بنيةٍ لرفع الحدث الأكبر."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:172", "ref:terminologyenc:11087"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Commanded in the Quran",
+        "ar": "مأمورٌ به في القرآن"
+      },
+      "body": {
+        "en": "The verse of purification tells the believers that when they are in a state of major impurity, janabah, they are to purify themselves fully before prayer. So ghusl is not an extra custom; it is part of being ready to stand before Allah. Purity of the body here goes hand in hand with the inner readiness that worship asks of you.",
+        "ar": "تذكر آية الطهارة للمؤمنين أنهم إذا كانوا في حال الحدث الأكبر، وهو الجنابة، فليتطهّروا تطهّرًا كاملًا قبل الصلاة. فالغُسل ليس عادةً زائدة، بل هو جزءٌ من الاستعداد للوقوف بين يدي الله. وطهارة البدن هنا تسير جنبًا إلى جنبٍ مع الاستعداد الباطن الذي تطلبه العبادة."
+      },
+      "takeaway": {
+        "en": "The Quran directs those in major impurity to purify fully before prayer.",
+        "ar": "يوجّه القرآن من كان جنبًا إلى التطهّر الكامل قبل الصلاة."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": ["quran:5:6", "quran:4:43"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "When it is due",
+        "ar": "متى يجب"
+      },
+      "body": {
+        "en": "Ghusl becomes due in a few clear situations. The main one is janabah: sexual discharge or intercourse. For women it is also due at the end of the monthly period and at the end of post-natal bleeding, after which, the Quran notes, they purify themselves and return to normal worship. These are the ordinary times a Muslim performs ghusl. If a particular case is unclear to you, a trusted teacher can help.",
+        "ar": "يجب الغُسل في حالاتٍ واضحة؛ أهمّها الجنابة: وهي خروج المنيّ أو الجماع. وهو واجبٌ على المرأة أيضًا عند انتهاء الحيض وعند انتهاء النفاس، وبعدها، كما تشير الآية، تتطهّر وتعود إلى عبادتها المعتادة. هذه هي الأوقات المعتادة لغُسل المسلم. وإن أشكلت عليك حالةٌ بعينها فمعلّمٌ موثوق يعينك."
+      },
+      "takeaway": {
+        "en": "Ghusl is due after janabah, and after menstruation and post-natal bleeding.",
+        "ar": "يجب الغُسل بعد الجنابة، وبعد الحيض والنفاس."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:11087", "quran:2:222"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Allah loves purity",
+        "ar": "الله يحب الطهارة"
+      },
+      "takeaway": {
+        "en": "Allah loves those who turn to Him and those who keep themselves pure.",
+        "ar": "يحب الله التوّابين ويحب المتطهّرين."
+      },
+      "visual": "book",
+      "sources": ["quran:2:222"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "How it is done",
+        "ar": "كيف يُؤدّى"
+      },
+      "body": {
+        "en": "The method is simple: with the intention to purify, pour water so that it reaches every part of the body, including the hair and skin. What matters is that water truly covers you all over. The Prophet ﷺ did this without waste; it is reported that he would bathe with only a modest amount of water. So be thorough but not extravagant. A full, careful wash is enough.",
+        "ar": "الطريقة بسيطة: بنية التطهّر، أفِض الماء حتى يصل إلى كل جزءٍ من البدن، شاملًا الشعر والبشرة. والمهمّ أن يعمّك الماء كله حقًّا. وقد كان النبي ﷺ يفعل ذلك بلا إسراف، فقد ورد أنه كان يغتسل بقدرٍ يسيرٍ من الماء. فكن مستوعِبًا لا مسرِفًا، ويكفيك غسلٌ كاملٌ متأنٍّ."
+      },
+      "takeaway": {
+        "en": "Intend to purify, then let water reach your whole body, without waste.",
+        "ar": "انوِ التطهّر، ثم أوصِل الماء إلى بدنك كله بلا إسراف."
+      },
+      "visual": "steps",
+      "sources": ["hadith:henc:65371", "hadith:henc:8387"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Ghusl on entering Islam",
+        "ar": "الغُسل عند الدخول في الإسلام"
+      },
+      "body": {
+        "en": "Some new Muslims ask whether a ghusl is needed when entering Islam. This is a point on which scholars have held different views: some have said it is obligatory, and others that it is recommended rather than required. Both agree that a fresh ghusl is a good and fitting way to begin. Rather than settle the question here, ask a trusted teacher about the view followed where you are.",
+        "ar": "يسأل بعض من دخل الإسلام حديثًا: هل يلزم الغُسل عند الدخول في الإسلام؟ وهذه مسألةٌ اختلف فيها العلماء: فمنهم من قال إنه واجب، ومنهم من رآه مستحبًّا لا واجبًا. ويتفق القولان على أن الاغتسال بدايةٌ حسنةٌ لائقة. وبدلًا من الحسم هنا، اسأل معلّمًا موثوقًا عن القول المعتمد في بلدك."
+      },
+      "takeaway": {
+        "en": "Scholars differ on whether this ghusl is obligatory; ask a trusted teacher.",
+        "ar": "اختلف العلماء في وجوب هذا الغُسل، فاسأل معلّمًا موثوقًا."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:172"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Keep it simple",
+        "ar": "اجعله بسيطًا"
+      },
+      "body": {
+        "en": "When ghusl is due, make the intention in your heart, then wash so that water reaches all of you, head to foot. You do not need a long ritual or a lot of water. Afterwards you are in a state of purity and may pray. If you are ever unsure whether ghusl is due in a specific situation, that is a question for a knowledgeable person, not something to worry over alone.",
+        "ar": "إذا وجب الغُسل فانوِ بقلبك، ثم اغتسل حتى يصل الماء إلى بدنك كله من الرأس إلى القدم. ولا تحتاج إلى طقسٍ طويل ولا ماءٍ كثير. وبعده تكون على طهارةٍ وتستطيع الصلاة. وإن التبس عليك يومًا وجوب الغُسل في حالةٍ بعينها، فتلك مسألةٌ تسأل عنها أهل العلم، لا أمرٌ تقلق منه وحدك."
+      },
+      "takeaway": {
+        "en": "Intend, wash fully, then pray; ask an expert about unclear cases.",
+        "ar": "انوِ، واغتسل كاملًا، ثم صلِّ، واسأل أهل العلم عمّا أشكل."
+      },
+      "visual": "steps",
+      "label": "suggestion",
+      "sources": ["ref:terminologyenc:4064"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is ghusl?",
+        "ar": "ما هو الغُسل؟"
+      },
+      "options": [
+        {
+          "en": "Washing only the hands and face",
+          "ar": "غسل اليدين والوجه فقط"
+        },
+        {
+          "en": "Pouring water over the whole body with intention",
+          "ar": "إفاضة الماء على البدن كله بنية"
+        },
+        {
+          "en": "A special prayer",
+          "ar": "صلاةٌ خاصة"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ghusl means washing the entire body, from head to foot, to lift major impurity.",
+        "ar": "الغُسل غسل البدن كله من الرأس إلى القدم لرفع الحدث الأكبر."
+      },
+      "source": "ref:terminologyenc:172"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Which of these makes ghusl due?",
+        "ar": "أيّ هذه يوجب الغُسل؟"
+      },
+      "options": [
+        {
+          "en": "The end of the monthly period",
+          "ar": "انتهاء الحيض"
+        },
+        {
+          "en": "Passing wind",
+          "ar": "خروج الريح"
+        },
+        {
+          "en": "Falling asleep briefly",
+          "ar": "النوم اليسير"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Major impurity, including the end of menstruation, calls for ghusl; lighter matters call for wudu.",
+        "ar": "الحدث الأكبر، ومنه انتهاء الحيض، يوجب الغُسل، والأخفّ يوجب الوضوء."
+      },
+      "source": "ref:terminologyenc:11087"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "Is a lot of water required for a valid ghusl?",
+        "ar": "هل يلزم ماءٌ كثير لصحة الغُسل؟"
+      },
+      "options": [
+        {
+          "en": "Yes, the more the better",
+          "ar": "نعم، وكلما زاد كان أفضل"
+        },
+        {
+          "en": "No; what matters is that water reaches the whole body, without waste",
+          "ar": "لا، المهمّ أن يعمّ الماءُ البدنَ كله بلا إسراف"
+        },
+        {
+          "en": "No water is needed at all",
+          "ar": "لا حاجة إلى الماء أصلًا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ bathed with a modest amount; thoroughness, not quantity, is the point.",
+        "ar": "كان النبي ﷺ يغتسل بقدرٍ يسير، فالاستيعاب لا الكثرة هو المقصود."
+      },
+      "source": "hadith:henc:65371"
+    }
+  ]
+}

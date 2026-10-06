@@ -1,0 +1,241 @@
+{
+  "id": "fs-meaning-of-shahada",
+  "subject": "aqidah",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 5,
+  "title": {
+    "en": "The Shahada: what I have said",
+    "ar": "معنى الشهادتين: ماذا قلتُ؟"
+  },
+  "summary": {
+    "en": "The meaning of the two testimonies you said, and why they are the door into the whole of your faith.",
+    "ar": "معنى الشهادتين اللتين نطقت بهما، ولماذا هما الباب إلى سائر الإيمان."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The two testimonies",
+        "ar": "الشهادتان"
+      },
+      "body": {
+        "en": "When you became a Muslim you said two short sentences. The first is that there is no god but Allah. The second is that Muhammad ﷺ is the Messenger of Allah. Together they are called the Shahada, your testimony. They are the first of the five pillars of Islam and the words everything else grows from. In this course we look gently at what each part means.",
+        "ar": "حين أسلمت نطقت بجملتين قصيرتين: الأولى أن لا إله إلا الله، والثانية أن محمدًا ﷺ رسول الله. وتُسمَّى الجملتان الشهادتين، أي شهادتك. وهما أول أركان الإسلام الخمسة، ومنهما ينبثق كل ما بعدهما. وفي هذا الدرس ننظر برفق في معنى كل جزء منهما."
+      },
+      "takeaway": {
+        "en": "The Shahada is two short sentences that open the whole religion.",
+        "ar": "الشهادتان جملتان قصيرتان تفتحان لك الدين كله."
+      },
+      "visual": "none",
+      "sources": [
+        "ref:terminologyenc:10482"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "No god but Allah",
+        "ar": "لا إله إلا الله"
+      },
+      "body": {
+        "en": "The first testimony has two movements. First you set aside every false object of worship: nothing deserves worship. Then you affirm the One who does: Allah alone. Scholars explain its meaning simply as, there is nothing truly worthy of worship except Allah. So your love, your fear, your hope and your prayer are turned to Him, and not shared with anything beside Him.",
+        "ar": "في الشهادة الأولى حركتان: أولًا تنفي كل معبود باطل، فلا شيء يستحق العبادة. ثم تُثبت المستحق لها وحده، وهو الله. ويُبيّن العلماء معناها ببساطة: لا معبود بحقٍّ إلا الله. فتوجّه محبتك وخوفك ورجاءك ودعاءك إليه وحده، ولا تشرك معه شيئًا."
+      },
+      "takeaway": {
+        "en": "You deny worship to all else and give it to Allah alone.",
+        "ar": "تنفي العبادة عمّا سواه وتُفردها لله وحده."
+      },
+      "visual": "none",
+      "sources": [
+        "ref:icadb:26014",
+        "ref:terminologyenc:10482"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Allah's own witness",
+        "ar": "شهادة الله"
+      },
+      "takeaway": {
+        "en": "Allah, His angels and the people of knowledge all testify to the same truth.",
+        "ar": "الله وملائكته وأهل العلم يشهدون جميعًا بالحق نفسه."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:3:18"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Muhammad ﷺ, His Messenger",
+        "ar": "محمد ﷺ رسوله"
+      },
+      "body": {
+        "en": "The second testimony is about the Prophet ﷺ. It asks four things of you: believe what he told us, follow what he commanded, keep away from what he forbade, and love him. The Quran calls him the Messenger of Allah and the last of the prophets, so no prophet comes after him. Testifying to this means taking his guidance as the way you learn and practise your faith.",
+        "ar": "الشهادة الثانية في شأن النبي ﷺ، وتطلب منك أربعة أمور: أن تصدّق بما أخبر، وتتبع ما أمر، وتجتنب ما نهى عنه، وتحبّه. وقد سمّاه القرآن رسول الله وخاتم النبيين، فلا نبيّ بعده. والشهادة بذلك تعني أن تجعل هديه هو السبيل الذي تتعلم به دينك وتعمل به."
+      },
+      "takeaway": {
+        "en": "Believe him, follow him, avoid what he forbade, and love him.",
+        "ar": "صدّقه، واتبعه، واجتنب ما نهى عنه، وأحبّه."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:33:40",
+        "quran:48:29"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Not too much, not too little",
+        "ar": "لا غلوّ ولا جفاء"
+      },
+      "body": {
+        "en": "Loving the Prophet ﷺ does not mean raising him above his rank. He himself warned his Companions not to over-praise him the way earlier nations exaggerated about their prophets, and he said to call him the servant of Allah and His Messenger. So we honour him deeply, follow him fully, and still worship Allah alone, not him. That balance keeps the two testimonies in harmony.",
+        "ar": "محبة النبي ﷺ لا تعني رفعه فوق منزلته. وقد حذّر أصحابه من الإفراط في مدحه كما غالت أممٌ سابقة في أنبيائها، وأمر أن يقولوا عنه: عبد الله ورسوله. فنحن نوقّره توقيرًا عظيمًا، ونتبعه اتباعًا تامًّا، ومع ذلك نعبد الله وحده لا نعبده هو. وهذا التوازن يحفظ انسجام الشهادتين."
+      },
+      "takeaway": {
+        "en": "Honour and follow the Prophet ﷺ, but worship Allah alone.",
+        "ar": "وقّر النبي ﷺ واتبعه، واعبد الله وحده."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:3406"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Said from the heart",
+        "ar": "قولٌ من القلب"
+      },
+      "body": {
+        "en": "The Shahada is not only words on the tongue. The Prophet ﷺ taught that whoever testifies to these two truths sincerely, from the heart, Allah keeps him from the Fire. Sincerity means you mean it and act on it, not merely repeat it. So let the meaning settle in your heart, and let it show quietly in how you live.",
+        "ar": "الشهادة ليست مجرد كلمات على اللسان. وقد علّم النبي ﷺ أن من شهد بهاتين الحقيقتين صِدقًا من قلبه حرّمه اللهُ عن دخول النار. والصدق أن تعنيَها وتعمل بها، لا أن تردّدها فقط. فدَع المعنى يستقرّ في قلبك، وليظهر أثره في حياتك بهدوء."
+      },
+      "takeaway": {
+        "en": "Mean it sincerely, and let it shape how you live.",
+        "ar": "اصدُق بها من قلبك، ودَع أثرها يظهر في حياتك."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:10098"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "The highest branch",
+        "ar": "أعلى الشُّعب"
+      },
+      "body": {
+        "en": "The Prophet ﷺ said that faith has many branches, and the most excellent of them is to testify that Allah alone is God. So the words you said are not a small beginning; they are the summit of faith and the root of everything after them: prayer, character, worship and more. You have already stepped through the most important door.",
+        "ar": "قال النبي ﷺ إن للإيمان شُعبًا كثيرة، وأعلاها أن تشهد بأن الله وحده هو المعبود بحقّ. فالكلمات التي قلتها ليست بدايةً صغيرة، بل هي قمة الإيمان وأصل كل ما بعدها: من صلاة وخُلُق وعبادة وغيرها. لقد عبرت بالفعل أهمَّ باب."
+      },
+      "takeaway": {
+        "en": "The Shahada is the highest branch of faith and the root of the rest.",
+        "ar": "الشهادة أعلى شُعب الإيمان وأصل ما سواها."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:6468"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "The first testimony, 'there is no god but Allah', is made of…",
+        "ar": "الشهادة الأولى «لا إله إلا الله» تتكوّن من…"
+      },
+      "options": [
+        {
+          "en": "A denial of all false worship and an affirmation of Allah alone",
+          "ar": "نفي كل عبادة باطلة وإثبات العبادة لله وحده"
+        },
+        {
+          "en": "A request for forgiveness only",
+          "ar": "طلب المغفرة فقط"
+        },
+        {
+          "en": "A description of the angels",
+          "ar": "وصف للملائكة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Scholars explain it as negation then affirmation: nothing is worthy of worship except Allah.",
+        "ar": "يبيّن العلماء أنها نفي ثم إثبات: لا معبود بحقٍّ إلا الله."
+      },
+      "source": "ref:terminologyenc:10482"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How did the Prophet ﷺ want to be described?",
+        "ar": "كيف أراد النبي ﷺ أن يُوصَف؟"
+      },
+      "options": [
+        {
+          "en": "Raised above his true rank",
+          "ar": "مرفوعًا فوق منزلته"
+        },
+        {
+          "en": "As the servant of Allah and His Messenger",
+          "ar": "عبدَ الله ورسولَه"
+        },
+        {
+          "en": "As someone to be worshipped",
+          "ar": "معبودًا يُعبَد"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He warned against exaggeration and asked to be called the servant and Messenger of Allah.",
+        "ar": "حذّر من الغلوّ وطلب أن يُقال عنه: عبد الله ورسوله."
+      },
+      "source": "hadith:henc:3406"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "Among the branches of faith, the Shahada is…",
+        "ar": "بين شُعب الإيمان، الشهادة هي…"
+      },
+      "options": [
+        {
+          "en": "A minor branch",
+          "ar": "شُعبة صغيرة"
+        },
+        {
+          "en": "Unrelated to faith",
+          "ar": "لا علاقة لها بالإيمان"
+        },
+        {
+          "en": "The most excellent branch",
+          "ar": "أعلى الشُّعب وأفضلها"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ said the most excellent branch of faith is the testimony that there is no god but Allah.",
+        "ar": "قال النبي ﷺ إن أفضل شُعب الإيمان شهادة أن لا إله إلا الله."
+      },
+      "source": "hadith:henc:6468"
+    }
+  ]
+}

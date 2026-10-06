@@ -1,0 +1,236 @@
+{
+  "id": "fs-mosque-and-community",
+  "subject": "islam",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 4,
+  "title": {
+    "en": "The mosque and my community",
+    "ar": "المسجد ومجتمعي"
+  },
+  "summary": {
+    "en": "The mosque is a house for remembering Allah, and the believers are one caring family you now belong to.",
+    "ar": "المسجد بيتٌ لذكر الله، والمؤمنون أسرة واحدة متراحمة صرتَ منها."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "A house for Allah's name",
+        "ar": "بيتٌ يُذكر فيه اسم الله"
+      },
+      "body": {
+        "en": "The mosque is more than a building. The Quran describes mosques as houses that Allah has ordered to be honoured, where His name is remembered morning and evening. When you step inside, you are entering a place set aside for worship, prayer and peace. You do not need to feel like a stranger. The mosque is open to you as a Muslim, and spending time there helps your heart settle.",
+        "ar": "المسجد أكثر من مجرد بناء. يصف القرآن المساجد بأنها بيوتٌ أمر الله برفع شأنها وتعظيمها، يُرفع فيها اسمه ويُسبّح له أول النهار وآخره. فإذا دخلتها فأنت تدخل مكانًا خُصّص للعبادة والصلاة والسكينة. ولا داعي أن تشعر أنك غريب، فالمسجد مفتوح لك بوصفك مسلمًا، وملازمته تعين قلبك على الطمأنينة."
+      },
+      "takeaway": {
+        "en": "The mosque is a house set aside to remember Allah.",
+        "ar": "المسجد بيتٌ خُصّص لذكر الله."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:24:36"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Who tends the mosques",
+        "ar": "من يعمر المساجد"
+      },
+      "takeaway": {
+        "en": "Those who truly maintain the mosques are the believers who establish prayer and fear Allah alone.",
+        "ar": "الذين يعمرون المساجد حقًّا هم المؤمنون المقيمون للصلاة الذين لا يخافون سوى ربهم."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:9:18"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Believers are brothers",
+        "ar": "المؤمنون إخوة"
+      },
+      "body": {
+        "en": "When you became Muslim, you joined a worldwide family. The Quran states plainly that the believers are brothers. This brotherhood crosses language, colour and country. It means you have people who should care for you, and whom you should care for, simply because you share this faith. If you feel alone, remember that this bond is real, and the mosque is one place to begin finding it.",
+        "ar": "حين أسلمت انضممت إلى أسرة تمتد في الأرض كلها. ويقرر القرآن بوضوح أن المؤمنين إخوة. وهذه الأخوة تتجاوز اللغة واللون والوطن. ومعناها أن لك أناسًا ينبغي أن يهتموا بك، وينبغي أن تهتم بهم، لمجرد أنكم تشتركون في هذا الدين. فإذا شعرت بالوحدة فتذكّر أن هذه الرابطة حقيقية، والمسجد مكانٌ تبدأ منه في إيجادها."
+      },
+      "takeaway": {
+        "en": "As a Muslim, you belong to a worldwide family of believers.",
+        "ar": "بإسلامك صرت فردًا من أسرة المؤمنين في العالم كله."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:49:10"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Like one body",
+        "ar": "كالجسد الواحد"
+      },
+      "body": {
+        "en": "The Prophet ﷺ gave two beautiful images of the community. He said the believers, in their mutual mercy and love, are like one body: when one part hurts, the whole body feels it. And he said a believer is to another believer like a wall, where each brick strengthens the next. These pictures tell you that your presence matters. You are a part the others need, and they are a support for you.",
+        "ar": "ضرب النبي ﷺ للمجتمع صورتين جميلتين، فبيّن أن المؤمنين في تعاطفهم ورحمة بعضهم ببعض كالجسد الواحد، إذا اشتكى منه عضو تداعى له سائره. وشبّه المؤمن مع أخيه بالبناء يشدّ بعضه بعضًا. وهاتان الصورتان تخبرانك أن وجودك مهم، فأنت جزء يحتاجه الآخرون، وهم سندٌ لك."
+      },
+      "takeaway": {
+        "en": "Believers support one another like parts of one body.",
+        "ar": "يشدّ المؤمنون بعضهم بعضًا كأعضاء الجسد الواحد."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:6011",
+        "hadith:bukhari:481"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "You belong",
+        "ar": "أنت تنتمي"
+      },
+      "body": {
+        "en": "You may wonder whether you are fully part of this community. The Prophet ﷺ settled it: whoever prays our prayer, faces our qiblah and eats from what we slaughter is a Muslim, under the protection of Allah and His Messenger. You do not have to earn your place by birth or background. By your faith and your prayer, you already belong. Walk into the mosque knowing you have a right to be there.",
+        "ar": "قد تتساءل هل أنت فعلًا جزء من هذا المجتمع. وقد حسم النبي ﷺ الأمر: فمن أدّى صلاتنا، وتوجّه إلى قبلتنا، وأكل من ذبيحتنا، فهو مسلم تشمله أمانة الله وأمانة رسوله. فلست مطالبًا أن تكتسب مكانك بنسبٍ أو أصل، بل بإيمانك وصلاتك أنت منتمٍ بالفعل. فادخل المسجد وأنت تعلم أن لك حق أن تكون فيه."
+      },
+      "takeaway": {
+        "en": "By your faith and prayer, you already belong among Muslims.",
+        "ar": "بإيمانك وصلاتك أنت منتمٍ إلى المسلمين بالفعل."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:henc:65426"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "Hold together",
+        "ar": "اعتصموا جميعًا"
+      },
+      "takeaway": {
+        "en": "Hold firmly together to Allah's rope and do not split apart.",
+        "ar": "تمسّكوا جميعًا بدين الله واتحدوا، وإياكم والفرقة."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:3:103"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Find your people",
+        "ar": "ابحث عن رفقتك"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that Allah helps a servant as long as the servant is helping his brother. So take a step toward the community. Visit a nearby mosque, say salam to those you meet, and look for a trusted teacher or a few sincere friends who can walk with you. Helping others and letting them help you is part of this faith. You are not meant to do this alone.",
+        "ar": "علّمنا النبي ﷺ أن الله في عون العبد ما دام العبد في عون أخيه. فاخطُ خطوة نحو المجتمع: زُر مسجدًا قريبًا، وألقِ السلام على من تلقاه، وابحث عن معلّم موثوق أو رفقة صالحة قليلة تسير معك. فإعانة الآخرين وقبول إعانتهم من هذا الدين. ولست مرادًا منك أن تسلك هذا الطريق وحدك."
+      },
+      "takeaway": {
+        "en": "Take one step toward the mosque and trusted company.",
+        "ar": "اخطُ خطوة نحو المسجد والرفقة الموثوقة."
+      },
+      "visual": "steps",
+      "sources": [
+        "hadith:bukhari:2442"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "How does the Quran describe mosques?",
+        "ar": "كيف يصف القرآن المساجد؟"
+      },
+      "options": [
+        {
+          "en": "Houses raised so Allah's name is remembered in them",
+          "ar": "بيوتٌ تُرفع ويُذكر فيها اسم الله"
+        },
+        {
+          "en": "Places only for celebrations",
+          "ar": "أماكن للاحتفالات فقط"
+        },
+        {
+          "en": "Buildings for storing wealth",
+          "ar": "مبانٍ لحفظ الأموال"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran describes mosques as houses Allah ordered to be honoured, where His name is remembered.",
+        "ar": "يصف القرآن المساجد بأنها بيوت أذن الله أن تُرفع ويُذكر فيها اسمه."
+      },
+      "source": "quran:24:36"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "The Prophet ﷺ compared the believers in their mercy to…",
+        "ar": "شبّه النبي ﷺ المؤمنين في تراحمهم بـ…"
+      },
+      "options": [
+        {
+          "en": "Separate travellers who never meet",
+          "ar": "مسافرين منفردين لا يلتقون"
+        },
+        {
+          "en": "One body that feels it when a part hurts",
+          "ar": "جسدٍ واحد يتألم كله لألم عضوٍ منه"
+        },
+        {
+          "en": "Competitors in a race",
+          "ar": "متسابقين في سباق"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He said the believers in their mutual mercy are like one body; when one part suffers, the whole body shares it.",
+        "ar": "قال إن المؤمنين في تراحمهم كالجسد الواحد، إذا اشتكى عضو تداعى له سائر الجسد."
+      },
+      "source": "hadith:bukhari:6011"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Quran tell believers to do together?",
+        "ar": "بماذا يأمر القرآن المؤمنين أن يفعلوه جميعًا؟"
+      },
+      "options": [
+        {
+          "en": "To compete for leadership",
+          "ar": "أن يتنافسوا على الزعامة"
+        },
+        {
+          "en": "To keep apart from one another",
+          "ar": "أن يبتعد بعضهم عن بعض"
+        },
+        {
+          "en": "To hold firmly together and not divide",
+          "ar": "أن يعتصموا جميعًا ولا يتفرقوا"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Quran commands believers to hold firmly to Allah's rope all together and not become divided.",
+        "ar": "يأمر القرآن المؤمنين أن يعتصموا بحبل الله جميعًا ولا يتفرقوا."
+      },
+      "source": "quran:3:103"
+    }
+  ]
+}

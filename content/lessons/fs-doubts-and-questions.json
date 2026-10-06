@@ -1,0 +1,240 @@
+{
+  "id": "fs-doubts-and-questions",
+  "subject": "aqidah",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 5,
+  "title": {
+    "en": "When doubts and questions come",
+    "ar": "حين تأتي الشكوك والأسئلة"
+  },
+  "summary": {
+    "en": "Troubling thoughts and honest questions are normal; here is how to handle whispers and where to seek calm.",
+    "ar": "الخواطر المقلقة والأسئلة الصادقة أمرٌ طبيعي، وهذا كيف تتعامل مع الوساوس وأين تجد الطمأنينة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Even Companions felt it",
+        "ar": "حتى الصحابة شعروا بذلك"
+      },
+      "body": {
+        "en": "If disturbing thoughts about faith pass through your mind, you are not alone and you are not sinful for them. Companions of the Prophet ﷺ came to him saying they felt thoughts too terrible to say aloud. Instead of scolding them, he told them that feeling the horror of such thoughts, rather than welcoming them, is a sign of clear faith. So an unwanted whisper that distresses you is actually evidence that your heart loves iman.",
+        "ar": "إن مرّت بذهنك خواطر مقلقة عن الإيمان فلست وحدك، ولست آثمًا عليها. فقد جاء صحابة النبي ﷺ يشكون أنهم يجدون في أنفسهم ما يعظُم عليهم أن ينطقوا به. فلم يعنّفهم، بل أخبرهم أن استعظام هذه الخواطر وكراهتها، لا الترحيب بها، علامة صريح الإيمان. فالوسواس غير المرغوب الذي يضايقك دليلٌ على أن قلبك يحب الإيمان."
+      },
+      "takeaway": {
+        "en": "Hating an intrusive doubt is a sign of real faith.",
+        "ar": "كراهتك للخاطر المقتحم علامة إيمان صادق."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:muslim:132a"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "The whisper 'who made Allah?'",
+        "ar": "وسوسة: من خلق الله؟"
+      },
+      "body": {
+        "en": "The Prophet ﷺ described a common whisper exactly: Shaytan keeps asking a person who made this and who made that, until he asks, who created your Lord? The Prophet ﷺ did not tell us to chase the question in endless argument. He gave a simple cure: when this comes, seek refuge in Allah and stop, turning your attention away from the whisper. Treat it as noise to walk away from, not a puzzle to solve.",
+        "ar": "وصف النبي ﷺ وسوسة شائعة بدقّة: يأتي الشيطان المرءَ فيلحّ عليه بالتساؤل عن خالق هذا وخالق ذاك، حتى يصل به إلى أن يسأل عمّن خلق ربه. ولم يأمرنا النبي ﷺ أن نلاحق السؤال في جدال لا ينتهي، بل أعطى علاجًا بسيطًا: إذا جاءك ذلك فاستعذ بالله وانتهِ، واصرف انتباهك عن الوسوسة. فعامِلها كضجيجٍ تبتعد عنه، لا كلغزٍ تحلّه."
+      },
+      "takeaway": {
+        "en": "When this whisper comes, seek refuge in Allah and stop.",
+        "ar": "إذا جاءت هذه الوسوسة فاستعذ بالله وانتهِ."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:3276"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The Creator is not created",
+        "ar": "الخالق ليس مخلوقًا"
+      },
+      "body": {
+        "en": "There is also a calm, reasoned answer. The Creator is not himself created; He is eternal, without beginning. Asking who made Him treats Him as if He were one more created thing, which He is not. If everything needed a maker before it, nothing would ever exist, because the chain would never start. So the One who begins the chain must exist by Himself, eternally. This settles the mind, but the first cure stays simple: seek refuge and move on.",
+        "ar": "وهناك أيضًا جواب هادئ معقول. فالخالق ليس مخلوقًا، بل هو أزليٌّ بلا بداية. والسؤال عمّن خلقه يعامله كأنه شيء مخلوق آخر، وليس كذلك. فلو احتاج كل شيء إلى صانع قبله لما وُجد شيء أصلًا، لأن السلسلة لن تبدأ. فالذي تبدأ به السلسلة لا بد أن يكون قائمًا بنفسه أزليًا. وهذا يُطمئن العقل، لكن يبقى العلاج الأول بسيطًا: استعذ بالله وامضِ."
+      },
+      "takeaway": {
+        "en": "The eternal Creator is not one of the created things.",
+        "ar": "الخالق الأزلي ليس من جملة المخلوقات."
+      },
+      "visual": "none",
+      "sources": [
+        "ref:book:god-existence:uncreated"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "A question in the Quran",
+        "ar": "سؤال في القرآن"
+      },
+      "takeaway": {
+        "en": "The Quran itself asks whether people were created by nothing, or created themselves.",
+        "ar": "يطرح القرآن نفسه هذا السؤال: هل وُجد الناس من غير موجِد، أم أنهم خلقوا أنفسهم؟"
+      },
+      "visual": "book",
+      "sources": [
+        "quran:52:35"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Asking to understand is fine",
+        "ar": "السؤال طلبًا للفهم جائز"
+      },
+      "body": {
+        "en": "There is a difference between a hostile doubt and an honest wish to understand. The Quran tells how the Prophet Ibrahim asked his Lord to show him how He gives life to the dead. Allah asked, do you not believe? Ibrahim answered yes, but he wanted his heart to be at rest. Allah then showed him. This teaches that seeking understanding, while you still believe, is a good and accepted thing, not a lack of faith.",
+        "ar": "ثمة فرق بين الشك المعادي والرغبة الصادقة في الفهم. يحكي القرآن أن النبي إبراهيم سأل ربه أن يريه كيف يحيي الموتى. فسأله الله: أولم تؤمن؟ فأجاب إبراهيم: بلى، ولكن ليطمئن قلبه. ثم أراه الله ذلك. وهذا يعلّمنا أن طلب الفهم مع بقاء الإيمان أمرٌ حسن مقبول، لا نقصًا في الإيمان."
+      },
+      "takeaway": {
+        "en": "Seeking understanding while believing is good, not doubt.",
+        "ar": "طلب الفهم مع الإيمان حسنٌ، وليس شكًّا."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:2:260"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Reflect, and find rest",
+        "ar": "تفكّر، وتجد الطمأنينة"
+      },
+      "body": {
+        "en": "The Quran points you toward peace in two ways. It praises those who reflect on how the heavens and the earth were made and conclude that Allah did not create them without purpose. And it promises that hearts find rest in the remembrance of Allah. So when thoughts unsettle you, look with wonder at the world around you, and keep your tongue busy with remembering Allah. Reflection and remembrance together calm the restless heart.",
+        "ar": "يوجّهك القرآن إلى السكينة من وجهين. فهو يثني على الذين يتفكّرون في خلق السماوات والأرض فيخلصون إلى أن الله لم يخلق ذلك باطلًا. ويَعِد بأن القلوب تطمئنّ بذكر الله. فإذا أقلقتك الخواطر فانظر بتأمّل إلى العالم من حولك، وأشغل لسانك بذكر الله. فالتفكّر والذكر معًا يُهدّئان القلب المضطرب."
+      },
+      "takeaway": {
+        "en": "Reflection on creation and remembrance of Allah bring the heart rest.",
+        "ar": "التفكّر في الخلق وذكر الله يُطمئنان القلب."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:3:191",
+        "quran:13:28"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Bring your question somewhere safe",
+        "ar": "اطرح سؤالك في مكان آمن"
+      },
+      "body": {
+        "en": "You do not have to carry questions alone or let them grow in silence. When a whisper comes, first seek refuge in Allah and turn away. If an honest question remains, write it down and bring it to the Ask and Check feature in this app or to a trusted teacher who can answer with knowledge and kindness. Dealing with questions calmly, in the right place, protects your faith and your peace of mind.",
+        "ar": "لست مضطرًا أن تحمل أسئلتك وحدك أو تدعها تكبر في صمت. فإذا جاءت الوسوسة فاستعذ بالله أولًا وأعرض عنها. وإن بقي سؤال صادق فدوّنه واطرحه في خاصية \"اسأل وتحقّق\" في هذا التطبيق أو على معلّم موثوق يجيبك بعلمٍ ورفق. فمعالجة الأسئلة بهدوء في مكانها الصحيح تحمي إيمانك وطمأنينتك."
+      },
+      "takeaway": {
+        "en": "Take honest questions to Ask & Check or a trusted teacher.",
+        "ar": "اطرح أسئلتك الصادقة في \"اسأل وتحقّق\" أو على معلّم موثوق."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:3276"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "How did the Prophet ﷺ describe feeling horrified by an intrusive doubt?",
+        "ar": "كيف وصف النبي ﷺ استعظام الخاطر المقتحم وكراهته؟"
+      },
+      "options": [
+        {
+          "en": "A sign of clear faith",
+          "ar": "علامة صريح الإيمان"
+        },
+        {
+          "en": "A reason to leave Islam",
+          "ar": "سبب لترك الإسلام"
+        },
+        {
+          "en": "A punishment from Allah",
+          "ar": "عقوبة من الله"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ told the Companions that finding such thoughts dreadful is clear faith.",
+        "ar": "أخبر النبي ﷺ الصحابة أن استعظام تلك الخواطر هو صريح الإيمان."
+      },
+      "source": "hadith:muslim:132a"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "When Shaytan whispers 'who created your Lord?', what did the Prophet ﷺ advise?",
+        "ar": "إذا وسوس الشيطان \"من خلق ربك؟\" فبماذا أرشد النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "Argue until you win",
+          "ar": "أن تجادل حتى تنتصر"
+        },
+        {
+          "en": "Seek refuge in Allah and stop",
+          "ar": "أن تستعيذ بالله وتنتهي"
+        },
+        {
+          "en": "Keep repeating the question",
+          "ar": "أن تكرّر السؤال"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Prophet ﷺ said that when this whisper reaches someone, he should seek refuge in Allah and stop.",
+        "ar": "قال النبي ﷺ إذا بلغ أحدَكم ذلك فليستعذ بالله ولينتهِ."
+      },
+      "source": "hadith:bukhari:3276"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "Why did the Prophet Ibrahim ask to be shown how Allah gives life?",
+        "ar": "لماذا سأل النبي إبراهيم أن يُرى كيف يحيي الله الموتى؟"
+      },
+      "options": [
+        {
+          "en": "Because he had stopped believing",
+          "ar": "لأنه ترك الإيمان"
+        },
+        {
+          "en": "To challenge Allah",
+          "ar": "ليتحدّى الله"
+        },
+        {
+          "en": "So that his heart would be at rest",
+          "ar": "ليطمئنّ قلبه"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ibrahim already believed and asked so that his heart would be reassured.",
+        "ar": "كان إبراهيم مؤمنًا وسأل ليطمئنّ قلبه."
+      },
+      "source": "quran:2:260"
+    }
+  ]
+}

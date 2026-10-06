@@ -1,0 +1,227 @@
+{
+  "id": "fs-how-to-pray",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 6,
+  "title": {
+    "en": "How to pray, step by step",
+    "ar": "كيف أصلي خطوة بخطوة"
+  },
+  "summary": {
+    "en": "The core movements of the prayer as the Prophet ﷺ taught them, done calmly and in order.",
+    "ar": "أركان الصلاة كما علّمها النبي ﷺ، تُؤدّى بسكينة وترتيب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Learn by following",
+        "ar": "التعلّم بالاقتداء"
+      },
+      "body": {
+        "en": "The prayer is a set of words and movements that opens with saying Allah is greater and closes with a greeting of peace. The Prophet ﷺ did not leave us to guess its shape. He told his Companions to pray the way they had seen him pray. So the surest way to learn is to copy his example, which has been passed down to us in careful detail.",
+        "ar": "الصلاة قولٌ وفعل تُفتَتح بتكبيرٍ وتُختَتم بتسليم. ولم يترك النبي ﷺ صفتها للتخمين، بل أمر أصحابه أن يصلّوا كما رأوه يصلّي. فأضمن طريقٍ للتعلّم أن تقتدي بفعله، وقد نُقل إلينا بدقةٍ وعناية."
+      },
+      "takeaway": {
+        "en": "Learn the prayer by copying the Prophet's ﷺ example.",
+        "ar": "تعلّم الصلاة باتباع فعل النبي ﷺ."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:631", "ref:terminologyenc:5720"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Bow and prostrate",
+        "ar": "اركعوا واسجدوا"
+      },
+      "takeaway": {
+        "en": "The Quran calls the believers to bow, prostrate and worship their Lord.",
+        "ar": "يدعو القرآن المؤمنين إلى الركوع والسجود وعبادة ربهم."
+      },
+      "visual": "book",
+      "sources": ["quran:22:77"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The man who prayed quickly",
+        "ar": "الرجل الذي أسرع في صلاته"
+      },
+      "body": {
+        "en": "A man once prayed in a rush in front of the Prophet ﷺ, who told him kindly to go back and pray, for he had not really prayed. When the man asked to be taught, the Prophet ﷺ laid out the backbone of every prayer: stand and say the opening takbir, recite from the Quran, bow, rise upright, prostrate, then sit, then prostrate again. That whole sequence is one unit, a rak'ah, repeated for the number of units in each prayer.",
+        "ar": "صلّى رجلٌ مرةً مسرعًا أمام النبي ﷺ، فقال له برفقٍ أن يرجع فيصلّي، فإنه لم يصلِّ حقًّا. فلمّا طلب أن يتعلّم بيّن له النبي ﷺ عمود كل صلاة: تقوم فتكبّر تكبيرة الإحرام، ثم تقرأ من القرآن، ثم تركع، ثم ترفع معتدلًا، ثم تسجد، ثم تجلس، ثم تسجد ثانية. وهذه السلسلة كلها وحدة واحدة تُسمّى ركعة، تكرّرها بعدد ركعات كل صلاة."
+      },
+      "takeaway": {
+        "en": "Takbir, recite, bow, rise, prostrate, sit, prostrate: one rak'ah.",
+        "ar": "تكبير، قراءة، ركوع، رفع، سجود، جلوس، سجود: ركعة واحدة."
+      },
+      "visual": "steps",
+      "label": "obligatory",
+      "sources": ["hadith:bukhari:757"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Raising the hands",
+        "ar": "رفع اليدين"
+      },
+      "body": {
+        "en": "A small, beautiful detail: the Prophet ﷺ used to raise his hands to about the level of his shoulders when he opened the prayer, when he bowed, and when he rose from bowing. He did not raise them when going down into prostration. You raise your hands as you say Allah is greater at the start, a gesture that sets the world behind you and turns you fully to Allah.",
+        "ar": "تفصيلٌ لطيفٌ وجميل: كان النبي ﷺ يرفع يديه إلى نحو منكبيه حين يفتتح الصلاة، وحين يركع، وحين يرفع من الركوع، ولا يرفعهما عند النزول للسجود. فارفع يديك وأنت تكبّر في البداية، وهي إشارةٌ تضع بها الدنيا خلفك وتُقبل بكلّك على الله."
+      },
+      "takeaway": {
+        "en": "Raise the hands at the opening takbir, and at bowing and rising.",
+        "ar": "ارفع يديك عند تكبيرة الإحرام، وعند الركوع والرفع منه."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["hadith:henc:3095"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "The prostration",
+        "ar": "السجود"
+      },
+      "body": {
+        "en": "Prostration is the heart of the prayer, where you are lowest before Allah. The Prophet ﷺ said he was ordered to place seven parts of the body on the ground: the forehead together with the nose, the two hands, the two knees, and the toes of both feet. He also taught that you place your palms down and keep your elbows raised, not spread flat like an animal resting.",
+        "ar": "السجود قلب الصلاة، حيث تكون أخفض ما تكون بين يدي الله. وأخبر النبي ﷺ أنه أُمر بالسجود على سبعةٍ من الأعضاء: الجبهةُ ومعها الأنف، والكفّان، والركبتان، وأطرافُ القدمين. وعلّم أن تضع كفّيك على الأرض وترفع مرفقيك، فلا تبسطهما كما يفترش الحيوان."
+      },
+      "takeaway": {
+        "en": "Prostrate on seven points; palms down, elbows up.",
+        "ar": "اسجد على سبعةٍ من الأعضاء؛ الكفّان على الأرض والمرفقان مرفوعان."
+      },
+      "visual": "steps",
+      "label": "obligatory",
+      "sources": ["hadith:henc:10925", "hadith:henc:10927"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Sitting and the words",
+        "ar": "الجلوس والأذكار"
+      },
+      "body": {
+        "en": "Between the two prostrations you sit, and the Prophet ﷺ would ask Allah for forgiveness, mercy, wellbeing, guidance and provision. At the end of the prayer, sitting, you say the tashahhud, which the Prophet ﷺ taught his Companions as carefully as he taught a chapter of the Quran. In it you greet Allah, send peace upon the Prophet ﷺ and the righteous, and declare the two testimonies of faith.",
+        "ar": "بين السجدتين تجلس، وكان النبي ﷺ يسأل الله المغفرة والرحمة والعافية والهداية والرزق. وفي آخر الصلاة تجلس فتقرأ التشهد، الذي علّمه النبي ﷺ أصحابه كما يعلّمهم السورة من القرآن. وفيه تحيةٌ لله، وسلامٌ على النبي ﷺ وعلى الصالحين، ونطقٌ بالشهادتين."
+      },
+      "takeaway": {
+        "en": "Ask Allah's forgiveness when sitting; end with the tashahhud.",
+        "ar": "اسأل الله المغفرة في الجلوس، واختم بالتشهد."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:10930", "hadith:henc:3096"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Pray with calm",
+        "ar": "صلِّ بطمأنينة"
+      },
+      "body": {
+        "en": "The one thing the Prophet ﷺ insisted on with the hurried man was calm: settle fully in each position before you move on. Do not rush your bowing or your prostration. The Quran itself calls the believers to bow and prostrate and worship their Lord. For your next prayer, slow down, let your body rest in each posture, and learn the rest gradually with a trusted teacher.",
+        "ar": "الذي شدّد عليه النبي ﷺ مع الرجل المستعجل هو الطمأنينة: استقرّ تمامًا في كل هيئة قبل أن تنتقل. فلا تعجل في ركوعك ولا سجودك. والقرآن نفسه يدعو المؤمنين إلى الركوع والسجود وعبادة ربهم. ففي صلاتك القادمة تمهّل، ودع جسدك يسكن في كل وضع، وتعلّم الباقي تدريجيًّا مع معلّمٍ موثوق."
+      },
+      "takeaway": {
+        "en": "Settle calmly in each position; do not rush.",
+        "ar": "استقرّ بسكينةٍ في كل هيئة، ولا تعجل."
+      },
+      "visual": "steps",
+      "label": "obligatory",
+      "sources": ["hadith:bukhari:757", "quran:22:77"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "How did the Prophet ﷺ say we should learn the prayer?",
+        "ar": "كيف أرشدنا النبي ﷺ أن نتعلّم الصلاة؟"
+      },
+      "options": [
+        {
+          "en": "Each person decides their own way",
+          "ar": "كلٌّ يختار طريقته"
+        },
+        {
+          "en": "By praying as we have seen him pray",
+          "ar": "بأن نصلي كما رأيناه يصلّي"
+        },
+        {
+          "en": "Only by reading books",
+          "ar": "بقراءة الكتب فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He told his Companions to pray the way they had seen him pray.",
+        "ar": "أمر أصحابه أن يصلّوا كما رأوه يصلّي."
+      },
+      "source": "hadith:bukhari:631"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "On how many points does the Prophet ﷺ say we prostrate?",
+        "ar": "على كم عضوٍ ذكر النبي ﷺ أننا نسجد؟"
+      },
+      "options": [
+        {
+          "en": "Three",
+          "ar": "ثلاثة"
+        },
+        {
+          "en": "Five",
+          "ar": "خمسة"
+        },
+        {
+          "en": "Seven",
+          "ar": "سبعة"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "He said he was commanded to prostrate on seven bones, including the forehead with the nose.",
+        "ar": "قال إنه أُمر أن يسجد على سبعة أعظم، منها الجبهة مع الأنف."
+      },
+      "source": "hadith:henc:10925"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What did the Prophet ﷺ most insist on with the hurrying man?",
+        "ar": "ما الذي شدّد عليه النبي ﷺ مع الرجل المستعجل؟"
+      },
+      "options": [
+        {
+          "en": "Calmness: settle in each position",
+          "ar": "الطمأنينة: الاستقرار في كل هيئة"
+        },
+        {
+          "en": "Praying faster",
+          "ar": "الإسراع في الصلاة"
+        },
+        {
+          "en": "Praying only at night",
+          "ar": "الصلاة ليلًا فقط"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "He told him to bow, rise, prostrate and sit until he felt at ease in each.",
+        "ar": "أمره أن يركع ويرفع ويسجد ويجلس حتى يطمئنّ في كلٍّ منها."
+      },
+      "source": "hadith:bukhari:757"
+    }
+  ]
+}

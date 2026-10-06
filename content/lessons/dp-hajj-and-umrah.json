@@ -1,0 +1,223 @@
+{
+  "id": "dp-hajj-and-umrah",
+  "subject": "fiqh",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "Hajj and umrah: rites and meanings",
+    "ar": "الحج والعمرة: المناسك والمعاني"
+  },
+  "summary": {
+    "en": "The first House, Ibrahim's call, the main rites of hajj and umrah, their conduct and reward, and where to learn the details.",
+    "ar": "أول بيت، ودعوة إبراهيم، ومناسك الحج والعمرة الكبرى، وآدابها وثوابها، وأين تُتعلَّم التفاصيل."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The first House",
+        "ar": "أول بيت"
+      },
+      "body": {
+        "en": "Allah tells us that the first House set up for people to worship Him was the one at Makkah, blessed and a guidance for all the worlds. Near it stands the place of Ibrahim, and whoever enters its sanctuary is safe. In the same passage Allah makes hajj to the House a duty owed to Him by every person who is able to find a way to it. So hajj is both an ancient act of worship and one of the five pillars, required once in a lifetime for those who can.",
+        "ar": "يخبرنا الله أن البيت الحرام بمكة هو أقدم بيتٍ أقيم للناس ليعبدوه، جعله مباركًا وهدًى للعالمين. وعنده مقام إبراهيم، ومن دخل حرمه كان آمنًا. وفي السياق نفسه يجعل الله حجّ البيت حقًّا عليه على كل قادرٍ يجد إليه سبيلًا. فالحج عبادةٌ قديمة وركنٌ من أركان الإسلام الخمسة، يجب مرةً في العمر على المستطيع."
+      },
+      "takeaway": {
+        "en": "Hajj to the first House is a duty on everyone who is able.",
+        "ar": "حجّ البيت الأول واجبٌ على كل مستطيع."
+      },
+      "visual": "none",
+      "sources": ["quran:3:96", "quran:3:97"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Ibrahim's call",
+        "ar": "نداء إبراهيم"
+      },
+      "body": {
+        "en": "The Quran shows Ibrahim and his son Isma'il as they rebuilt the base of the House, praying that Allah accept it from them. Allah then commanded Ibrahim to call people to the pilgrimage, promising that they would come from every distant place. That call still echoes: every year people travel from all over the world to the House Ibrahim built. When a pilgrim answers, saying 'here I am', they join a response to Ibrahim's call that has not stopped for thousands of years.",
+        "ar": "يُظهر القرآن إبراهيم وابنه إسماعيل عليهما السلام يرفعان قواعد البيت ويدعوان الله أن يتقبّل منهما. ثم أمر الله إبراهيم أن يؤذّن في الناس بالحج، ووعده أن يأتوه من كل مكانٍ بعيد. وما زال ذلك النداء يتردّد: ففي كل عام يرحل الناس من أنحاء الأرض إلى البيت الذي بناه إبراهيم. وحين يلبّي الحاج قائلًا لبيك، فإنه ينضمّ إلى إجابةٍ لنداء إبراهيم لم تتوقف منذ آلاف السنين."
+      },
+      "takeaway": {
+        "en": "Hajj answers the call Ibrahim raised to the House he built.",
+        "ar": "الحج إجابةٌ لنداء إبراهيم إلى البيت الذي بناه."
+      },
+      "visual": "none",
+      "sources": ["quran:2:127", "quran:22:27"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Proclaim the hajj",
+        "ar": "وأذّن في الناس بالحج"
+      },
+      "takeaway": {
+        "en": "Allah commanded Ibrahim to call people, who would come from every far place.",
+        "ar": "أمر الله إبراهيم أن ينادي الناس، فيأتون من كل مكانٍ بعيد."
+      },
+      "visual": "book",
+      "sources": ["quran:22:27"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "The main rites of hajj",
+        "ar": "أركان الحج ومناسكه الكبرى"
+      },
+      "body": {
+        "en": "In plain order, hajj begins with ihram, a state of worship entered with specific clothing and intention. The pilgrim performs tawaf, circling the Ka'bah, and sa'y, walking between the hills of Safa and Marwah, which the Quran calls symbols of Allah. The heart of hajj is standing at Arafat, then spending the night at Muzdalifah, and the days at Mina with the stoning and the sacrifice. The pilgrim ends by returning to the House for a farewell tawaf before leaving Makkah.",
+        "ar": "في ترتيبٍ مبسَّط يبدأ الحج بالإحرام، وهو حالة عبادةٍ تُدخل بلباسٍ ونيّةٍ مخصوصة. ثم يطوف الحاج بالكعبة، ويسعى بين الصفا والمروة اللذين سمّاهما القرآن من شعائر الله. وقلب الحج الوقوف بعرفة، ثم المبيت بمزدلفة، وأيامٌ بمنى فيها الرمي والهدي. ويختم الحاج بالرجوع إلى البيت لطواف الوداع قبل مغادرة مكة."
+      },
+      "takeaway": {
+        "en": "Ihram, tawaf, sa'y, Arafat, Muzdalifah, Mina, then a farewell tawaf.",
+        "ar": "إحرامٌ، فطوافٌ، فسعيٌ، فعرفة، فمزدلفة، فمنى، ثم طواف وداع."
+      },
+      "visual": "steps",
+      "sources": ["quran:2:158", "quran:22:28", "hadith:henc:3229"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Umrah in short",
+        "ar": "العمرة باختصار"
+      },
+      "body": {
+        "en": "Umrah is a lesser pilgrimage that can be done at most times of the year. It is simpler than hajj: the pilgrim enters ihram, performs tawaf around the Ka'bah, makes sa'y between Safa and Marwah, and then shaves or shortens the hair to leave ihram. The Quran mentions Safa and Marwah for both the one who makes hajj and the one who performs umrah. Many visitors to Makkah perform umrah before or outside the hajj season.",
+        "ar": "العمرة حجٌّ أصغر يمكن أداؤه في أكثر أوقات السنة، وهي أيسر من الحج: يُحرم المعتمر، ثم يطوف بالكعبة، ويسعى بين الصفا والمروة، ثم يحلق أو يقصّر ليتحلّل من الإحرام. وقد ذكر القرآن الصفا والمروة لمن حجّ البيت ولمن اعتمر. وكثير من زوّار مكة يعتمرون قبل موسم الحج أو خارجه."
+      },
+      "takeaway": {
+        "en": "Umrah: ihram, tawaf, sa'y, then shaving or shortening the hair.",
+        "ar": "العمرة: إحرامٌ، فطوافٌ، فسعيٌ، ثم حلقٌ أو تقصير."
+      },
+      "visual": "steps",
+      "sources": ["quran:2:158"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "The best provision",
+        "ar": "خير الزاد"
+      },
+      "body": {
+        "en": "The Quran teaches that during the known months of hajj there must be no intimacy, no sinful conduct and no quarrelling. It then adds a beautiful line: take provisions, but the best provision is taqwa, mindfulness of Allah. Hajj is a journey of patience with crowds and hardship, so good character is part of the worship itself. The Prophet ﷺ said that whoever performs hajj for Allah without obscenity or sin returns as pure as the day his mother bore him.",
+        "ar": "يعلّمنا القرآن أنه في أشهر الحج المعلومة يمتنع الحاج عن الرفث وعن المعصية وعن المخاصمة. ثم يضيف توجيهًا جميلًا: أن يتزوّد الحاج، وأن أعظم زادٍ يحمله هو تقواه. والحج رحلة صبرٍ مع الزحام والمشقّة، فحسن الخلق جزءٌ من العبادة نفسها. وأخبر النبي ﷺ أن من قصد البيت لله واجتنب الرفث والمعصية رجع نقيًّا كيوم ولدته أمه."
+      },
+      "takeaway": {
+        "en": "Hajj calls for calm, clean conduct; the best provision is taqwa.",
+        "ar": "الحج يتطلّب خُلقًا هادئًا نقيًّا؛ وخير الزاد التقوى."
+      },
+      "visual": "none",
+      "sources": ["quran:2:197", "hadith:bukhari:1521"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Types and details: ask a guide",
+        "ar": "الأنواع والتفاصيل: اسأل مرشدًا"
+      },
+      "body": {
+        "en": "There is more than one way to combine umrah and hajj, and the detailed rulings fill whole books. Scholars describe different types of hajj and differ on many of their particulars, and the verse about combining umrah with hajj mentions a sacrifice or fasting for some pilgrims. This course gives only the shape of the journey and does not settle these points. Before you travel, learn with a qualified guide or a trusted hajj group who can teach you the rites step by step for your situation.",
+        "ar": "ثمّة أكثر من طريقةٍ للجمع بين العمرة والحج، والأحكام التفصيلية تملأ المجلّدات. ويصف العلماء أنواعًا للحج ويختلفون في كثيرٍ من تفاصيلها، وتذكر آية الجمع بين العمرة والحج هديًا أو صيامًا لبعض الحجّاج. ويقتصر هذا الدرس على شكل الرحلة ولا يحسم هذه المسائل. فقبل سفرك تعلّم مع مرشدٍ مؤهّل أو حملة حجٍّ موثوقة تعلّمك المناسك خطوةً خطوة بما يناسب حالك."
+      },
+      "takeaway": {
+        "en": "Hajj has types and detailed rulings; learn them with a qualified guide.",
+        "ar": "للحج أنواعٌ وأحكامٌ تفصيلية؛ فتعلّمها مع مرشدٍ مؤهّل."
+      },
+      "visual": "none",
+      "sources": ["quran:2:196", "quran:3:97"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "According to the Quran, who owes hajj to the House?",
+        "ar": "بحسب القرآن، على من يجب حجّ البيت؟"
+      },
+      "options": [
+        {
+          "en": "Everyone who is able to find a way to it",
+          "ar": "كل من استطاع إليه سبيلًا"
+        },
+        {
+          "en": "Only scholars",
+          "ar": "العلماء فقط"
+        },
+        {
+          "en": "Only the people of Makkah",
+          "ar": "أهل مكة فقط"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The verse makes hajj a duty owed to Allah by whoever is able to reach the House.",
+        "ar": "تجعل الآية الحج حقًّا لله على من استطاع الوصول إلى البيت."
+      },
+      "source": "quran:3:97"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What are Safa and Marwah called in the Quran?",
+        "ar": "بماذا وُصف الصفا والمروة في القرآن؟"
+      },
+      "options": [
+        {
+          "en": "Two markets",
+          "ar": "سوقان"
+        },
+        {
+          "en": "Symbols of Allah",
+          "ar": "من شعائر الله"
+        },
+        {
+          "en": "Two gardens",
+          "ar": "جنّتان"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse calls Safa and Marwah among the symbols of Allah, walked between in hajj and umrah.",
+        "ar": "تسمّي الآية الصفا والمروة من شعائر الله، يُسعى بينهما في الحج والعمرة."
+      },
+      "source": "quran:2:158"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What does the Quran call the best provision for hajj?",
+        "ar": "ما خير الزاد للحج كما يذكر القرآن؟"
+      },
+      "options": [
+        {
+          "en": "Plenty of money",
+          "ar": "كثرة المال"
+        },
+        {
+          "en": "A strong camel",
+          "ar": "ناقة قوية"
+        },
+        {
+          "en": "Taqwa, mindfulness of Allah",
+          "ar": "التقوى، أي مراقبة الله"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The verse says take provisions, but the best provision is taqwa.",
+        "ar": "تقول الآية تزوّدوا فإن خير الزاد التقوى."
+      },
+      "source": "quran:2:197"
+    }
+  ]
+}

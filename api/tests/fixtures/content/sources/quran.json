@@ -1,0 +1,80 @@
+[
+  {
+    "id": "quran:2:256",
+    "kind": "quran",
+    "ref_en": "Al-Baqarah 2:256",
+    "ref_ar": "البقرة: 256",
+    "text_ar": "لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+    "text_en": "There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.",
+    "translation": "Saheeh International",
+    "origin": "quran.com API v4 (text_uthmani)",
+    "url": "https://quran.com/2/256",
+    "grading": null,
+    "review_status": "approved"
+  },
+  {
+    "id": "quran:5:6",
+    "kind": "quran",
+    "ref_en": "Al-Ma'idah 5:6",
+    "ref_ar": "المائدة: 6",
+    "text_ar": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+    "text_en": "O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.",
+    "translation": "Saheeh International",
+    "origin": "quran.com API v4 (text_uthmani)",
+    "url": "https://quran.com/5/6",
+    "grading": null,
+    "review_status": "approved"
+  },
+  {
+    "id": "quran:112:1",
+    "kind": "quran",
+    "ref_en": "Al-Ikhlas 112:1",
+    "ref_ar": "الإخلاص: 1",
+    "text_ar": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "text_en": "Say, \"He is Allāh, [who is] One,",
+    "translation": "Saheeh International",
+    "origin": "quran.com API v4 (text_uthmani)",
+    "url": "https://quran.com/112/1",
+    "grading": null,
+    "review_status": "approved"
+  },
+  {
+    "id": "quran:112:2",
+    "kind": "quran",
+    "ref_en": "Al-Ikhlas 112:2",
+    "ref_ar": "الإخلاص: 2",
+    "text_ar": "ٱللَّهُ ٱلصَّمَدُ",
+    "text_en": "Allāh, the Eternal Refuge.",
+    "translation": "Saheeh International",
+    "origin": "quran.com API v4 (text_uthmani)",
+    "url": "https://quran.com/112/2",
+    "grading": null,
+    "review_status": "approved"
+  },
+  {
+    "id": "quran:112:3",
+    "kind": "quran",
+    "ref_en": "Al-Ikhlas 112:3",
+    "ref_ar": "الإخلاص: 3",
+    "text_ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "text_en": "He neither begets nor is born,",
+    "translation": "Saheeh International",
+    "origin": "quran.com API v4 (text_uthmani)",
+    "url": "https://quran.com/112/3",
+    "grading": null,
+    "review_status": "approved"
+  },
+  {
+    "id": "quran:112:4",
+    "kind": "quran",
+    "ref_en": "Al-Ikhlas 112:4",
+    "ref_ar": "الإخلاص: 4",
+    "text_ar": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "text_en": "Nor is there to Him any equivalent.\"",
+    "translation": "Saheeh International",
+    "origin": "quran.com API v4 (text_uthmani)",
+    "url": "https://quran.com/112/4",
+    "grading": null,
+    "review_status": "approved"
+  }
+]

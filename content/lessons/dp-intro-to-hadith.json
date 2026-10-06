@@ -1,0 +1,237 @@
+{
+  "id": "dp-intro-to-hadith",
+  "subject": "hadith",
+  "level": 3,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "An introduction to hadith",
+    "ar": "مدخل إلى علم الحديث"
+  },
+  "summary": {
+    "en": "What hadith and Sunnah are, why they bind, and how scholars check and grade them.",
+    "ar": "ما الحديث والسنّة، ولِمَ يُعمَل بهما، وكيف يتثبّت العلماء من الأحاديث ويحكمون عليها."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Hadith and Sunnah",
+        "ar": "الحديث والسنّة"
+      },
+      "body": {
+        "en": "A hadith is anything reported from the Prophet ﷺ: his words, his actions, what he approved of, and his described qualities. The Sunnah is the broader record of his way of life, before and after his mission, that his Companions carried and the scholars of hadith wrote down and preserved. So hadith is how we come to know the Sunnah, and the Sunnah is the Prophet's ﷺ guidance that stands alongside the Quran.",
+        "ar": "الحديث هو كل ما أُضيف إلى النبي ﷺ من قول أو فعل أو تقرير أو صفة. والسنّة هي السجلّ الأوسع لهديه قبل البعثة وبعدها، الذي حمله أصحابه ودوّنه علماء الحديث وحفظوه. فالحديث هو الطريق الذي نعرف به السنّة، والسنّة هدي النبي ﷺ القائم إلى جانب القرآن."
+      },
+      "takeaway": {
+        "en": "Hadith reports the Prophet ﷺ; the Sunnah is the guidance it preserves.",
+        "ar": "الحديث يروي عن النبي ﷺ، والسنّة هي الهدي الذي يحفظه."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:71790", "ref:terminologyenc:71807"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Why the Sunnah binds",
+        "ar": "لماذا تُتَّبع السنّة"
+      },
+      "body": {
+        "en": "The authority of the Sunnah comes from the Quran itself. Allah instructs the believers to take what the Messenger gives them and to leave what he forbids them. Obeying the Prophet ﷺ is therefore part of obeying Allah, not an addition to it. This is why Muslims do not treat the Quran and the Sunnah as rivals: the Prophet ﷺ was sent to deliver and explain the revelation, so following his guidance is following the Book.",
+        "ar": "حجّية السنّة مستمدّة من القرآن نفسه. فقد أمر الله المؤمنين أن يأخذوا ما أعطاهم الرسول وأن يتركوا ما نهاهم عنه. فطاعة النبي ﷺ جزء من طاعة الله لا إضافةً إليها. ولهذا لا يجعل المسلمون القرآن والسنّة متعارضَين: فالنبي ﷺ أُرسل ليبلّغ الوحي ويبيّنه، فاتّباع هديه اتّباعٌ للكتاب."
+      },
+      "takeaway": {
+        "en": "The Quran itself tells us to take what the Prophet ﷺ brought.",
+        "ar": "القرآن نفسه يأمرنا بالأخذ بما جاء به النبي ﷺ."
+      },
+      "visual": "none",
+      "sources": ["quran:59:7"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "He does not speak from desire",
+        "ar": "ما ينطق عن الهوى"
+      },
+      "takeaway": {
+        "en": "What the Prophet ﷺ conveyed was revelation, not personal whim.",
+        "ar": "ما بلّغه النبي ﷺ وحيٌ لا هوى."
+      },
+      "visual": "book",
+      "sources": ["quran:53:3"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Verify what reaches you",
+        "ar": "التثبّت من الأخبار"
+      },
+      "takeaway": {
+        "en": "Believers are commanded to check news before acting on it.",
+        "ar": "أُمر المؤمنون بالتثبّت من الخبر قبل العمل به."
+      },
+      "visual": "book",
+      "sources": ["quran:49:6"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Chain and text",
+        "ar": "الإسناد والمتن"
+      },
+      "body": {
+        "en": "The command to verify a report became the root of a whole science. Every hadith has two parts: the chain of narrators who passed it on, called the isnad, and the actual wording, called the matn. Scholars examined each narrator's honesty and memory, and whether the chain connects without a break, before they trusted a text. Weighing these, they graded reports: sound (sahih), good (hasan), or weak (da'if), among finer categories.",
+        "ar": "صار الأمر بالتثبّت أصلًا لعلم كامل. فلكل حديث جزآن: سلسلة الرواة الذين نقلوه وتسمّى الإسناد، واللفظ المرويّ ويسمّى المتن. وقد بحث العلماء في عدالة كل راوٍ وضبطه، وفي اتصال السند من غير انقطاع، قبل أن يطمئنّوا إلى المتن. وبموازنة ذلك حكموا على الأحاديث: صحيح، وحسن، وضعيف، ضمن أقسام أدقّ."
+      },
+      "takeaway": {
+        "en": "A hadith has a chain (isnad) and a text (matn), and scholars grade both.",
+        "ar": "للحديث إسنادٌ ومتنٌ، ويحكم العلماء عليهما بالتصحيح والتضعيف."
+      },
+      "visual": "none",
+      "sources": ["quran:49:6"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "A grave warning",
+        "ar": "تحذيرٌ شديد"
+      },
+      "body": {
+        "en": "Guarding the hadith is a serious duty because the Prophet ﷺ warned that whoever deliberately lies about him has prepared his place in the Fire. This stern warning is why narrators were so careful, and why we must confirm a report is authentic before we spread it. The Prophet ﷺ also encouraged conveying his teaching, even a single verse, so the care is not meant to silence us, but to keep what we pass on true.",
+        "ar": "حفظ الحديث واجبٌ خطير، فقد حذّر النبي ﷺ أن مَن تعمّد الكذب عليه فقد هيّأ مقعده في النار. وهذا الوعيد الشديد هو ما جعل الرواة بالغي الحذر، وما يوجب علينا أن نتأكّد من صحّة الخبر قبل نشره. وقد حثّ النبي ﷺ كذلك على تبليغ تعليمه ولو آية، فليس الحذر لإسكاتنا، بل ليبقى ما ننقله صدقًا."
+      },
+      "takeaway": {
+        "en": "Lying about the Prophet ﷺ is gravely forbidden, so confirm before you share.",
+        "ar": "الكذب على النبي ﷺ محرّم غاية التحريم، فتثبّت قبل النشر."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:110", "hadith:henc:3686"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Written from the start",
+        "ar": "كُتب منذ البداية"
+      },
+      "body": {
+        "en": "The Sunnah was not left to memory alone. 'Abdullah ibn 'Amr used to write down what he heard from the Prophet ﷺ. When some of Quraysh told him to stop, since the Prophet ﷺ was a man who spoke in anger and pleasure, the Prophet ﷺ pointed to his mouth and told him to keep writing, for only truth came from it. So writing accompanied memorisation among the Companions, and this is one of the main ways the Sunnah was preserved.",
+        "ar": "لم تُترك السنّة للحفظ وحده. فقد كان الصحابيّ عبدُ الله، وهو ابنُ عمرِو بن العاص رضي الله عنهما، يكتب ما يسمعه من النبي ﷺ. فلمّا طلب منه بعض قريش أن يكفّ، محتجّين بأنه ﷺ بشرٌ قد ينطق حال رضاه وغضبه، أشار النبي ﷺ إلى فمه وأمره أن يستمرّ في الكتابة، مؤكّدًا أن ما ينطق به هو الحقّ لا سواه. فاقترنت الكتابة بالحفظ عند الصحابة، وهذا من أهمّ ما حُفظت به السنّة."
+      },
+      "takeaway": {
+        "en": "Some Companions wrote the Sunnah down, alongside memorising it.",
+        "ar": "كتب بعض الصحابة السنّة إلى جانب حفظها."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:65077"]
+    },
+    {
+      "id": "c8",
+      "kind": "concept",
+      "title": {
+        "en": "How Yaqin shows grades",
+        "ar": "كيف يعرض يقين الدرجات"
+      },
+      "body": {
+        "en": "In this app, the actual wording of a hadith is shown only from the stored source, never generated. Its grade, such as authentic, is displayed exactly as the hadith platform HadeethEnc published it. Collection numbers and the grades given by the platform are preserved as they are and never upgraded or guessed. So when you read a hadith here, you can trust that both its text and its grading come straight from the approved source.",
+        "ar": "في هذا التطبيق لا يُعرض لفظ الحديث إلا من المصدر المحفوظ، ولا يُولَّد أبدًا. وتُعرض درجته، كالصحّة، كما نشرتها منصّة الأحاديث HadeethEnc تمامًا. وتُحفظ أرقام الكتب والدرجات التي أعطتها المنصّة كما هي، ولا تُرفَع ولا تُخمَّن. فإذا قرأت حديثًا هنا فاطمئنّ إلى أن نصّه ودرجته جاءا من المصدر المعتمد مباشرة."
+      },
+      "takeaway": {
+        "en": "Yaqin shows hadith text and grades verbatim from HadeethEnc.",
+        "ar": "يعرض يقين نصّ الحديث ودرجته حرفيًّا من HadeethEnc."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:71790"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What are the two parts of a hadith that scholars examine?",
+        "ar": "ما الجزآن اللذان يفحصهما العلماء في الحديث؟"
+      },
+      "options": [
+        {
+          "en": "The chain of narrators and the text",
+          "ar": "سلسلة الرواة والمتن"
+        },
+        {
+          "en": "The title and the page number",
+          "ar": "العنوان ورقم الصفحة"
+        },
+        {
+          "en": "The reciter and the melody",
+          "ar": "القارئ واللحن"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A hadith has an isnad (chain of narrators) and a matn (text); both are studied before it is trusted.",
+        "ar": "للحديث إسنادٌ (سلسلة الرواة) ومتنٌ (اللفظ)، ويُدرَسان قبل قبوله."
+      },
+      "source": "quran:49:6"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Where does the authority of the Sunnah come from?",
+        "ar": "من أين تُستمدّ حجّية السنّة؟"
+      },
+      "options": [
+        {
+          "en": "From later custom alone",
+          "ar": "من العادة المتأخّرة وحدها"
+        },
+        {
+          "en": "From the Quran's command to follow the Messenger",
+          "ar": "من أمر القرآن باتّباع الرسول"
+        },
+        {
+          "en": "From the choice of each individual",
+          "ar": "من اختيار كل فرد"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran commands taking what the Messenger gives and leaving what he forbids.",
+        "ar": "أمر القرآن بالأخذ بما أعطى الرسول وترك ما نهى عنه."
+      },
+      "source": "quran:59:7"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does Yaqin display a hadith's grade?",
+        "ar": "كيف يعرض يقين درجة الحديث؟"
+      },
+      "options": [
+        {
+          "en": "It estimates a grade on its own",
+          "ar": "يقدّر الدرجة من عنده"
+        },
+        {
+          "en": "It upgrades weak reports to sound",
+          "ar": "يرفع الضعيف إلى الصحيح"
+        },
+        {
+          "en": "Exactly as HadeethEnc published it",
+          "ar": "كما نشرتها منصّة HadeethEnc تمامًا"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Grades and collection numbers are preserved verbatim from the platform, never changed or guessed.",
+        "ar": "تُحفظ الدرجات وأرقام الكتب حرفيًّا من المنصّة، ولا تُغيَّر ولا تُخمَّن."
+      },
+      "source": "ref:terminologyenc:71790"
+    }
+  ]
+}

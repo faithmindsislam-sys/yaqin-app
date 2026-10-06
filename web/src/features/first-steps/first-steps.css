@@ -1,0 +1,42 @@
+.first-path ol { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.first-path a { display: flex; align-items: center; gap: 10px; min-height: 54px; padding: 12px; border: 1px solid var(--color-line); border-radius: 14px; background: white; color: var(--color-ink-soft); font-size: 13px; }
+.first-path a:hover { border-color: var(--color-brand-300); }
+.first-path a[aria-current="step"] { background: var(--color-brand-700); border-color: var(--color-brand-700); color: white; }
+.first-number { display: grid; place-items: center; flex-shrink: 0; width: 27px; height: 27px; border-radius: 50%; background: var(--color-brand-50); color: var(--color-brand-700); font-size: 12px; }
+.first-path a[aria-current="step"] .first-number { background: rgb(255 255 255 / 16%); color: white; }
+.first-stage { padding: 24px; border: 1px solid var(--color-line); border-radius: 22px; background: white; }
+.first-workspace { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 20px; align-items: start; }
+.first-activity-list { display: flex; flex-direction: column; gap: 9px; }
+.first-activity { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 76px; padding: 14px; border: 1px solid var(--color-line); border-radius: 14px; text-align: start; background: white; color: var(--color-ink-soft); font-size: 14px; }
+.first-activity:hover { border-color: var(--color-brand-300); }
+.first-activity[aria-pressed="true"] { border-color: var(--color-brand-300); background: var(--color-brand-50); color: var(--color-brand-700); }
+.first-practice { min-width: 0; padding: 24px; border: 1px solid var(--color-brand-100); border-radius: 18px; background: linear-gradient(145deg, var(--color-brand-50), white 75%); }
+.first-kind { display: inline-flex; align-items: center; gap: 7px; font-size: 12px; color: var(--color-brand-700); }
+.first-ask { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; }
+.first-ask p { flex: 1 1 170px; color: var(--color-ink-soft); font-size: 12px; line-height: 1.6; }
+.first-ask a { display: inline-flex; align-items: center; gap: 7px; min-height: 36px; padding: 6px 12px; border: 1px solid var(--color-brand-100); border-radius: 999px; background: white; color: var(--color-brand-700); font-size: 12px; font-weight: 500; }
+.first-ask a:hover { border-color: var(--color-brand-300); background: var(--color-brand-50); }
+.first-ai-badge { padding: 2px 4px; border-radius: 5px; background: var(--color-brand-50); color: var(--color-brand-700); font-size: 9px; line-height: 1.2; }
+.first-walkthrough { display: flex; flex-wrap: wrap; gap: 7px; }
+.first-walkthrough button { display: grid; place-items: center; width: 44px; height: 44px; flex-shrink: 0; border: 1px solid var(--color-line); border-radius: 50%; background: white; color: var(--color-brand-700); font-size: 12px; }
+.first-walkthrough button[aria-current="step"] { color: white; border-color: var(--color-brand-700); background: var(--color-brand-700); }
+.first-instruction, .first-meaning, .first-verse { padding: 20px; border: 1px solid var(--color-line); border-radius: 14px; background: white; }
+.first-choice { display: block; width: 100%; min-height: 48px; padding: 14px; border: 1px solid var(--color-line); border-radius: 12px; text-align: start; background: white; color: var(--color-ink-soft); font-size: 14px; }
+.first-choice[aria-pressed="true"] { border-color: var(--color-brand-300); background: var(--color-brand-50); color: var(--color-brand-700); }
+.first-prayer-phases { display: flex; flex-wrap: wrap; gap: 7px; }
+.first-prayer-phases button { min-height: 44px; padding: 8px 12px; border: 1px solid var(--color-line); border-radius: 12px; background: white; color: var(--color-brand-700); font-size: 12px; }
+.first-prayer-phases button[aria-current="step"] { background: var(--color-brand-700); border-color: var(--color-brand-700); color: white; }
+.first-steps :is(button, a, input, summary):focus-visible { outline: 2px solid var(--color-brand-600); outline-offset: 3px; }
+@media (min-width: 1280px) { .first-path ol { grid-template-columns: repeat(6, minmax(0, 1fr)); } }
+@media (max-width: 767px) {
+  .first-workspace { grid-template-columns: minmax(0, 1fr); }
+  .first-stage, .first-practice { padding: 20px 16px; }
+  .first-activity-list { flex-direction: row; flex-wrap: wrap; }
+  .first-activity { flex: 1 1 120px; min-height: 56px; padding: 10px; font-size: 12px; }
+  .first-activity .text-xs { display: none; }
+  .first-path ol { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .first-path a { padding: 10px; font-size: 12px; }
+  .first-instruction, .first-meaning, .first-verse { padding: 16px; }
+  .first-steps .btn { white-space: normal; }
+  .first-ask a { min-height: 44px; }
+}

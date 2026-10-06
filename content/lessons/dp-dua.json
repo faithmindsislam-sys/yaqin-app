@@ -1,0 +1,219 @@
+{
+  "id": "dp-dua",
+  "subject": "hadith",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 5,
+  "title": {
+    "en": "Du'a: its etiquette and times",
+    "ar": "الدعاء: آدابه وأوقاته"
+  },
+  "summary": {
+    "en": "How Allah invites us to call on Him, the manners of du'a, its best times, and a du'a that gathers all good.",
+    "ar": "كيف يدعونا الله لندعوه، وآداب الدعاء، وأفضل أوقاته، ودعاءٌ يجمع الخير كله."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "An open invitation",
+        "ar": "دعوةٌ مفتوحة"
+      },
+      "body": {
+        "en": "Allah does not merely allow du'a; He invites it. He says to call upon Him and He will respond, and warns that those too proud to worship Him are the real losers. So asking of Allah is not a bother to Him. It is itself an act of worship and a sign of humility. When you raise your hands and speak to your Lord, you are doing exactly what He asked of you, and turning to the One who is never too busy and never runs out.",
+        "ar": "لا يأذن الله بالدعاء فحسب، بل يدعو إليه. يقول ادعوني أستجب لكم، ويحذّر من أن المستكبرين عن عبادته هم الخاسرون حقًّا. فسؤال الله ليس إثقالًا عليه، بل هو عبادةٌ في ذاته وعلامةُ تواضع. وحين ترفع يديك وتخاطب ربك فأنت تفعل ما طلبه منك تمامًا، وتتوجّه إلى من لا يشغله شيء ولا ينفد عطاؤه."
+      },
+      "takeaway": {
+        "en": "Allah invites you to call on Him, and calling on Him is worship.",
+        "ar": "يدعوك الله أن تدعوه، ودعاؤه عبادة."
+      },
+      "visual": "none",
+      "sources": ["quran:40:60"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "He is near",
+        "ar": "إنه قريب"
+      },
+      "body": {
+        "en": "When people wonder whether Allah hears them, the Quran answers that He is near, and that He responds to the one who calls on Him. There is no distance to cross and no appointment to wait for. The same verse asks the servant, in return, to respond to Allah by obeying Him and to believe in Him. Nearness and answered du'a come alongside a heart that trusts and follows. Call on Him knowing He is closer than you imagine.",
+        "ar": "حين يتساءل الناس هل يسمعهم الله، يجيب القرآن بأنه قريبٌ يجيب دعوة الداعي إذا دعاه. فلا مسافة تُقطع ولا موعد يُنتظر. وتطلب الآية نفسها من العبد في المقابل أن يستجيب لله بطاعته وأن يؤمن به. فالقرب وإجابة الدعاء يصحبهما قلبٌ يثق ويتّبع. فادعُه وأنت موقنٌ أنه أقرب مما تظن."
+      },
+      "takeaway": {
+        "en": "Allah is near and answers the one who calls, who in turn obeys and believes.",
+        "ar": "الله قريبٌ يجيب الداعي، والداعي يستجيب له ويؤمن به."
+      },
+      "visual": "none",
+      "sources": ["quran:2:186"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "Call humbly and privately",
+        "ar": "ادعوا ربكم تضرعًا وخفية"
+      },
+      "takeaway": {
+        "en": "The verse teaches us to call on Allah with humility and in private.",
+        "ar": "تعلّمنا الآية أن ندعو الله بتضرّعٍ وفي خفاء."
+      },
+      "visual": "book",
+      "sources": ["quran:7:55"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Who answers the desperate",
+        "ar": "من يجيب المضطر"
+      },
+      "body": {
+        "en": "The Quran asks a piercing question: who is it that answers the one in distress when he calls, and removes the harm? The answer every heart knows is Allah alone. In times of hardship, people feel this truth clearly; the trouble is remembering it in times of ease. True du'a flows from a sense of need, so let both your hard days and your good days turn you to Allah. He is the one who hears the desperate and lifts what weighs on them.",
+        "ar": "يطرح القرآن سؤالًا نافذًا: من ذا الذي يستجيب لصاحب الكرب حين يناديه، ويرفع عنه ما نزل به من ضرّ؟ والجواب الذي يعرفه كل قلب أنه الله وحده. وفي الشدائد يستشعر الناس هذه الحقيقة بوضوح، والمشكلة في تذكّرها وقت الرخاء. والدعاء الصادق ينبع من شعور الحاجة، فدع أيامك الصعبة وأيامك الهنيّة تردّك إلى الله. فهو وحده يسمع المكروب ويفرّج همّه."
+      },
+      "takeaway": {
+        "en": "It is Allah alone who answers the distressed and removes harm.",
+        "ar": "الله وحده هو الذي يستجيب للمكروب ويفرّج عنه."
+      },
+      "visual": "none",
+      "sources": ["quran:27:62"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "The best times to ask",
+        "ar": "أفضل أوقات السؤال"
+      },
+      "body": {
+        "en": "Some moments are especially open for du'a. The Prophet ﷺ taught that a servant is closest to his Lord in the state of prostration, and urged much supplication there. He also told us that when only a third of the night is left, Allah invites His servants to ask Him, promising to respond, to give and to forgive. So reach for these windows: pour out your heart while prostrating, and if you can, call on Allah quietly before dawn, when the invitation is wide open.",
+        "ar": "ثمة لحظاتٌ مفتوحةٌ للدعاء على نحوٍ خاص. علّم النبي ﷺ أن العبد في سجوده يكون في أعظم حالات قربه من ربه، وحثّ على كثرة الدعاء فيه. وأخبرنا أن الله في آخر ثلثٍ يبقى من الليل يدعو عباده أن يسألوه، واعدًا أن يستجيب ويعطي ويغفر. فاغتنم هذه الأوقات: اسكب قلبك في سجودك، وإن استطعت فادعُ الله بهدوءٍ قبل الفجر، حين تُفتح الدعوة على مصراعيها."
+      },
+      "takeaway": {
+        "en": "Du'a is especially open in prostration and in the night's final hours.",
+        "ar": "الدعاء مفتوحٌ خاصةً في السجود وفي آخر الليل."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:482", "hadith:bukhari:1145"]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "A du'a for both worlds",
+        "ar": "دعاءٌ للدارين"
+      },
+      "takeaway": {
+        "en": "This verse asks Allah for good in this life, good in the next, and safety from the Fire.",
+        "ar": "تسأل هذه الآية الله حسنةً في الدنيا وحسنةً في الآخرة ووقايةً من النار."
+      },
+      "visual": "book",
+      "sources": ["quran:2:201"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Think well of Allah",
+        "ar": "أحسن الظن بالله"
+      },
+      "body": {
+        "en": "The Prophet ﷺ reported that Allah says He is as His servant expects Him to be, and that He is with the one who remembers Him. He describes Allah drawing near to the servant who draws near, more and faster than the servant moves. So when you make du'a, do not call with a doubting heart. Expect good from Allah, trust that He hears and is able, and keep asking. The reward often lies in the asking itself, even before the answer arrives.",
+        "ar": "أخبر النبي ﷺ أن الله يقول إنه عند ظن عبده به، وإنه مع من ذكره. ويصف اقترابَ الله من العبد الذي يقترب إليه، أكثر وأسرع مما يتحرك العبد. فإذا دعوت فلا تدعُ بقلبٍ متردّد. أحسِن الظن بالله، وثِق أنه يسمع وأنه قادر، وألحِح في السؤال. وكثيرًا ما يكون الأجر في السؤال نفسه، حتى قبل أن تأتي الإجابة."
+      },
+      "takeaway": {
+        "en": "Call on Allah expecting good; He is as His servant thinks of Him.",
+        "ar": "ادعُ الله محسنًا الظن به؛ فهو عند ظن عبده به."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:7405"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does Allah say about those who call upon Him?",
+        "ar": "ماذا يقول الله عمّن يدعونه؟"
+      },
+      "options": [
+        {
+          "en": "Call upon Me; I will respond to you",
+          "ar": "ادعوني أستجب لكم"
+        },
+        {
+          "en": "Do not trouble Me with requests",
+          "ar": "لا تثقلوا عليّ بالطلب"
+        },
+        {
+          "en": "Ask only once a year",
+          "ar": "اسألوا مرة في السنة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Allah invites His servants to call upon Him and promises to respond.",
+        "ar": "يدعو الله عباده أن يدعوه ويعدهم بالإجابة."
+      },
+      "source": "quran:40:60"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How does the Quran say we should call on our Lord?",
+        "ar": "كيف يأمرنا القرآن أن ندعو ربنا؟"
+      },
+      "options": [
+        {
+          "en": "Loudly in front of crowds",
+          "ar": "بصوتٍ عالٍ أمام الناس"
+        },
+        {
+          "en": "With humility and in private",
+          "ar": "بتضرّعٍ وفي خفاء"
+        },
+        {
+          "en": "Only in Arabic poetry",
+          "ar": "بالشعر العربي فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse tells us to call on Allah in humility and privately.",
+        "ar": "تأمرنا الآية أن ندعو الله تضرّعًا وخفية."
+      },
+      "source": "quran:7:55"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "When did the Prophet ﷺ say Allah invites His servants to ask Him each night?",
+        "ar": "متى قال النبي ﷺ إن الله يدعو عباده أن يسألوه كل ليلة؟"
+      },
+      "options": [
+        {
+          "en": "Right after sunset",
+          "ar": "عقب الغروب مباشرة"
+        },
+        {
+          "en": "At exactly midnight",
+          "ar": "في منتصف الليل تمامًا"
+        },
+        {
+          "en": "In the last third of the night",
+          "ar": "في الثلث الأخير من الليل"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The hadith describes Allah inviting servants to ask, give and forgive in the last third of the night.",
+        "ar": "يصف الحديث دعوة الله عباده أن يسألوه ويعطيهم ويغفر لهم في الثلث الأخير من الليل."
+      },
+      "source": "hadith:bukhari:1145"
+    }
+  ]
+}

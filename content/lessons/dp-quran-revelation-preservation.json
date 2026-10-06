@@ -1,0 +1,238 @@
+{
+  "id": "dp-quran-revelation-preservation",
+  "subject": "quran",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "How the Quran was revealed and preserved",
+    "ar": "نزول القرآن وحفظه"
+  },
+  "summary": {
+    "en": "The first revelation, how it came, why it was sent in stages, and how Allah preserved it.",
+    "ar": "بدء الوحي، وكيف كان ينزل، ولماذا نزل مُنَجَّمًا، وكيف حفظه الله."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "In the cave of Hira",
+        "ar": "في غار حراء"
+      },
+      "body": {
+        "en": "The Prophet ﷺ was about forty when revelation began. He used to withdraw to a cave on Mount Hira to worship Allah alone for many nights. There the angel Jibril came to him and commanded him to read. The Prophet ﷺ answered that he was not a reader, and the angel pressed him firmly three times, then conveyed the opening words of Surah Al-'Alaq. He returned home shaken, and his wife Khadija reassured and supported him.",
+        "ar": "كان النبي ﷺ في نحو الأربعين حين بدأ الوحي. وكان يأوي إلى غار في جبل حراء يتعبّد لله وحده الليالي ذوات العدد. فجاءه الملَك جبريل وأمره أن يقرأ، فأجاب أنه ليس بقارئ، فضمّه الملَك ثلاث مرات بشدة، ثم بلّغه أوائل سورة العلق. فرجع إلى بيته فزِعًا، فطمأنته زوجه خديجة وآزرته."
+      },
+      "takeaway": {
+        "en": "Revelation began in the cave of Hira when the Prophet ﷺ was about forty.",
+        "ar": "بدأ الوحي في غار حراء والنبي ﷺ في نحو الأربعين."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:3", "hadith:henc:65050"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The first words",
+        "ar": "أول ما نزل"
+      },
+      "takeaway": {
+        "en": "The very first command was to read in the name of the Lord who created.",
+        "ar": "أول أمر نزل هو القراءة باسم الربّ الذي خلق."
+      },
+      "visual": "book",
+      "sources": ["quran:96:1"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A teaching Lord",
+        "ar": "ربٌّ يُعلّم"
+      },
+      "body": {
+        "en": "The opening passage of the revelation ties reading to the name of Allah, and reminds the human being that his very knowledge is a gift: Allah taught him what he did not know before. From its first words, the Quran presents learning itself as part of worship, not something apart from it. Knowledge in Islam begins with recognising the One who grants it.",
+        "ar": "يربط مطلع الوحي القراءةَ باسم الله، ويذكّر الإنسان بأن علمه كله عطاء: فقد علّمه ربُّه ما لم يكن يعلمه من قبل. فمن أول كلماته يجعل القرآن العلمَ جزءًا من العبادة لا شيئًا منفصلًا عنها، ويبدأ العلم في الإسلام بمعرفة مَن وهبه."
+      },
+      "takeaway": {
+        "en": "The first revelation links knowledge to the One who gives it.",
+        "ar": "يربط أول الوحي العلمَ بمن وهبه سبحانه."
+      },
+      "visual": "none",
+      "sources": ["quran:96:5"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "How revelation came",
+        "ar": "كيف كان يأتي الوحي"
+      },
+      "body": {
+        "en": "Someone asked the Prophet ﷺ how revelation reached him. He described two forms. Sometimes it resembled a ringing bell, the hardest form upon him, and once it left him he had already retained what was conveyed. At other times the angel appeared to him in the shape of a man and spoke, and he grasped the words. Aisha even saw his forehead run with sweat on a cold day as revelation descended.",
+        "ar": "سُئل النبي ﷺ كيف يأتيه الوحي، فذكر صورتين: فأحيانًا يأتيه مثل صوت الجرس، وهو أشدّه عليه، فإذا انقطع عنه وعى ما قيل له؛ وأحيانًا يتمثّل له الملَك رجلًا فيكلّمه فيعي ما يقول. وقد رأت عائشة جبينه يتصبّب عرقًا في اليوم شديد البرد حين ينزل عليه الوحي."
+      },
+      "takeaway": {
+        "en": "Revelation reached the Prophet ﷺ in more than one way, and it was heavy upon him.",
+        "ar": "كان الوحي يأتي النبي ﷺ على أكثر من صورة، وكان ثقيلًا عليه."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:2"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Sent down in stages",
+        "ar": "نزولٌ على مُكث"
+      },
+      "body": {
+        "en": "The Quran was not sent down all at once. Over roughly twenty-three years it came in portions, so the Prophet ﷺ could recite it to people gradually. The Quran answers those who objected that it was not revealed in a single whole: spacing it out was meant to steady and strengthen his heart, and to meet events as they arose. Living with the revelation piece by piece let the first community absorb and act on it.",
+        "ar": "لم ينزل القرآن جملة واحدة، بل نزل منجّمًا في نحو ثلاث وعشرين سنة ليتلوه النبي ﷺ على الناس متمهّلًا على مدى الزمن. وقد ردّ القرآن على من استنكروا ألّا ينزل مرة واحدة: فتفريقه كان لتثبيت فؤاده وتقويته، ولمواكبة الأحداث عند وقوعها. وبهذا التدرّج استوعب الجيل الأول الوحيَ وعمل به."
+      },
+      "takeaway": {
+        "en": "The Quran came in stages to strengthen the Prophet's ﷺ heart and guide events.",
+        "ar": "نزل القرآن منجّمًا لتثبيت قلب النبي ﷺ ومواكبة الأحداث."
+      },
+      "visual": "none",
+      "sources": ["quran:17:106", "quran:25:32"]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "A guarded message",
+        "ar": "ذكرٌ محفوظ"
+      },
+      "takeaway": {
+        "en": "Allah Himself promised to guard the revelation.",
+        "ar": "تكفّل الله بحفظ الذكر بنفسه."
+      },
+      "visual": "book",
+      "sources": ["quran:15:9"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Written and remembered",
+        "ar": "كُتب وحُفظ في الصدور"
+      },
+      "body": {
+        "en": "Allah guaranteed the Quran's preservation, and declared that falsehood can reach it neither from before nor behind. Preservation happened through hearts and through writing together. After many memorisers were killed at the battle of Yamamah, Abu Bakr, urged by 'Umar, asked Zayd ibn Thabit, who had written revelation for the Prophet ﷺ, to gather the Quran. Zayd collected it from what was written and from the memories of the reciters.",
+        "ar": "تكفّل الله بحفظ القرآن، وأخبر أن الباطل لا سبيل له إليه لا من أمامه ولا من ورائه. وكان الحفظ في الصدور وفي السطور معًا. فلمّا استُشهد كثير من الحفّاظ في وقعة اليمامة، أشار عمر على أبي بكر، فكلّف زيدَ بن ثابت الذي كان يكتب الوحي للنبي ﷺ بجمع القرآن، فجمعه زيد مما كُتب ومن صدور القُرّاء."
+      },
+      "takeaway": {
+        "en": "The Quran was preserved both in memory and in writing, and gathered under Abu Bakr.",
+        "ar": "حُفظ القرآن في الصدور والسطور، وجُمع في عهد أبي بكر."
+      },
+      "visual": "none",
+      "sources": ["quran:41:42", "hadith:bukhari:4986"]
+    },
+    {
+      "id": "c8",
+      "kind": "concept",
+      "title": {
+        "en": "Learn it and teach it",
+        "ar": "تعلّمه وعلّمه"
+      },
+      "body": {
+        "en": "The chain of preservation continues through every generation that studies the Quran and passes it on. The Prophet ﷺ taught that the finest believers are the ones who both learn this Book and pass its teaching to others. So the revelation is not only guarded in manuscripts; it lives in the hearts of those who recite it and hand it on. Taking even a little, grasping its meaning, and sharing it keeps you part of that unbroken chain.",
+        "ar": "تستمرّ سلسلة الحفظ في كل جيل يدرس القرآن ويبلّغه. فقد علّم النبي ﷺ أن أفضل المؤمنين هو من جمع بين تعلّم هذا الكتاب وتعليمه غيرَه. فالوحي ليس محفوظًا في المصاحف فحسب، بل يحيا في صدور من يتلونه ويبلّغونه. وأخذُك ولو القليل، وفهمُ معناه، ونشرُه يجعلك حلقةً في هذه السلسلة المتصلة."
+      },
+      "takeaway": {
+        "en": "Every learner and teacher of the Quran carries its preservation forward.",
+        "ar": "كل متعلّم للقرآن ومعلّم له يحمل حفظه إلى من بعده."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["hadith:bukhari:5027", "ref:terminologyenc:53650"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What was the very first command revealed to the Prophet ﷺ?",
+        "ar": "ما أول أمرٍ نزل على النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "To read in the name of his Lord",
+          "ar": "أن يقرأ باسم ربّه"
+        },
+        {
+          "en": "To establish the five prayers",
+          "ar": "أن يقيم الصلوات الخمس"
+        },
+        {
+          "en": "To migrate to Madinah",
+          "ar": "أن يهاجر إلى المدينة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The first words were the opening of Surah Al-'Alaq, commanding him to read in the name of his Lord.",
+        "ar": "كانت أول الكلمات مطلع سورة العلق، وفيها الأمر بالقراءة باسم الربّ."
+      },
+      "source": "quran:96:1"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Why was the Quran sent down in stages rather than all at once?",
+        "ar": "لماذا نزل القرآن منجّمًا لا جملة واحدة؟"
+      },
+      "options": [
+        {
+          "en": "Because the Prophet ﷺ asked for it to be shortened",
+          "ar": "لأن النبي ﷺ طلب تخفيفه"
+        },
+        {
+          "en": "To strengthen the Prophet's ﷺ heart over time",
+          "ar": "لتثبيت قلب النبي ﷺ على مدى الزمن"
+        },
+        {
+          "en": "Because the text was still being decided",
+          "ar": "لأن النصّ كان لا يزال يُقرَّر"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran says spacing the revelation was to steady and strengthen his heart.",
+        "ar": "ذكر القرآن أن تفريق الوحي كان لتثبيت فؤاده وتقويته."
+      },
+      "source": "quran:25:32"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How was the Quran preserved?",
+        "ar": "كيف حُفظ القرآن؟"
+      },
+      "options": [
+        {
+          "en": "Only in a single manuscript locked away",
+          "ar": "في مصحف واحد فقط محفوظ بعيدًا"
+        },
+        {
+          "en": "Only by memory, never written",
+          "ar": "بالحفظ في الصدور فقط دون كتابة"
+        },
+        {
+          "en": "Both in memory and in writing",
+          "ar": "في الصدور والسطور معًا"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Zayd ibn Thabit gathered it from what was written and from the memories of the reciters.",
+        "ar": "جمعه زيد بن ثابت مما كُتب ومن صدور القُرّاء."
+      },
+      "source": "hadith:bukhari:4986"
+    }
+  ]
+}

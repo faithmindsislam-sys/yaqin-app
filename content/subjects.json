@@ -1,0 +1,10 @@
+[
+  {"id":"islam","title":{"en":"Islam essentials","ar":"أساسيات الإسلام"}},
+  {"id":"aqidah","title":{"en":"Aqidah","ar":"العقيدة"}},
+  {"id":"fiqh","title":{"en":"Fiqh","ar":"الفقه"}},
+  {"id":"quran","title":{"en":"Quran","ar":"القرآن"}},
+  {"id":"seerah","title":{"en":"Seerah","ar":"السيرة"}},
+  {"id":"hadith","title":{"en":"Hadith","ar":"الحديث"}},
+  {"id":"history","title":{"en":"History","ar":"التاريخ"}},
+  {"id":"ethics","title":{"en":"Ethics","ar":"الأخلاق"}}
+]

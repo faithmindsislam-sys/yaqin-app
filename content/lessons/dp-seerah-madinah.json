@@ -1,0 +1,219 @@
+{
+  "id": "dp-seerah-madinah",
+  "subject": "seerah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "The Prophet ﷺ in Madinah",
+    "ar": "النبي ﷺ في المدينة: بناء المجتمع"
+  },
+  "summary": {
+    "en": "Arrival in Madinah, the brotherhood of its people, gentle leadership, and the completion of the message.",
+    "ar": "القدوم إلى المدينة، وأخوّة أهلها، والقيادة الرحيمة، وتمام الرسالة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Arrival and a new qibla",
+        "ar": "القدوم وتحويل القبلة"
+      },
+      "body": {
+        "en": "When the Prophet ﷺ reached Madinah, he first stayed among his relatives from the Ansar, the local believers who welcomed him. For about sixteen or seventeen months the Muslims prayed facing Jerusalem, then Allah turned them to face the Ka'ba. Some had died while praying toward the earlier direction, and the believers wondered about them, so Allah assured them their faith would not be lost. The move to Madinah opened a new, settled chapter of building.",
+        "ar": "لمّا بلغ النبي ﷺ المدينة نزل أولًا بين أقاربه من الأنصار، وهم أهلها المؤمنون الذين استقبلوه. وظلّ المسلمون نحو سنة وأربعة أشهر إلى نحو سنة وخمسة أشهر يصلّون باتجاه بيت المقدس، ثم وجّههم الله إلى الكعبة. وكان بعضهم قد مات وهو يصلّي إلى الجهة الأولى، فتساءل المؤمنون عنهم، فطمأنهم الله أن إيمانهم لن يضيع. وفتح الانتقال إلى المدينة فصلًا جديدًا مستقرًّا للبناء."
+      },
+      "takeaway": {
+        "en": "In Madinah the Prophet ﷺ settled among the Ansar, and the qibla turned to the Ka'ba.",
+        "ar": "في المدينة استقرّ النبي ﷺ بين الأنصار، وتحوّلت القبلة إلى الكعبة."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:40"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Ansar and Muhajirun",
+        "ar": "الأنصار والمهاجرون"
+      },
+      "body": {
+        "en": "The Prophet ﷺ joined the emigrants from Makkah, the Muhajirun, with the helpers of Madinah, the Ansar, in a bond of brotherhood. Allah praised the Ansar: they loved those who came to them, held no envy for what the emigrants were given, and preferred others over themselves even while in need. The Prophet ﷺ taught that loving the Ansar is a sign of faith. Their generosity turned two groups into one community.",
+        "ar": "آخى النبي ﷺ بين المهاجرين من مكة والأنصار من أهل المدينة أخوّةً جامعة. وقد أثنى الله على الأنصار: أحبّوا من قدِم إليهم، ولم تجد قلوبهم غضاضةً فيما أُعطيه المهاجرون، وآثروهم على أنفسهم ولو كانوا محتاجين. وعلّم النبي ﷺ أن حبّ الأنصار علامة الإيمان. فحوّل كرمهم جماعتين إلى مجتمع واحد."
+      },
+      "takeaway": {
+        "en": "The Ansar preferred others over themselves, binding the community together.",
+        "ar": "آثر الأنصار غيرهم على أنفسهم، فتوحّد المجتمع."
+      },
+      "visual": "none",
+      "sources": ["quran:59:9", "hadith:henc:3438"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "They give preference",
+        "ar": "ويؤثرون على أنفسهم"
+      },
+      "takeaway": {
+        "en": "The Ansar gave others preference even in their own need.",
+        "ar": "آثر الأنصار غيرهم حتى مع حاجتهم."
+      },
+      "visual": "book",
+      "sources": ["quran:59:9"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Gentle, consulting leadership",
+        "ar": "قيادةٌ رحيمة تشاور"
+      },
+      "body": {
+        "en": "Allah describes the Prophet's ﷺ leadership as a mercy. Because he was gentle, people gathered around him; had he been harsh and hard-hearted, they would have scattered. Allah told him to pardon them, to seek Allah's forgiveness on their behalf, and to take their counsel in affairs, then to put his trust in Allah once he had resolved. So the community in Madinah was led with softness, forgiveness and shared counsel, not force. This is a model for anyone who guides others.",
+        "ar": "وصف الله قيادة النبي ﷺ بأنها رحمة. فلأنه كان ليّنًا التفّ الناس حوله؛ ولو كان فظًّا غليظ القلب لتفرّقوا عنه. وأمره الله أن يعفو عنهم ويستغفر لهم ويشاورهم في الأمر، ثم يتوكّل على الله إذا عزم. فقِيد مجتمع المدينة باللين والعفو والمشورة لا بالقوة. وهذا نموذج لكل من يقود غيره."
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ led with mercy, forgiveness and consultation.",
+        "ar": "قاد النبي ﷺ بالرحمة والعفو والمشورة."
+      },
+      "visual": "none",
+      "sources": ["quran:3:159"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "A community like one body",
+        "ar": "مجتمعٌ كالجسد الواحد"
+      },
+      "body": {
+        "en": "The Prophet ﷺ described the believers in their mutual mercy, love and compassion as resembling a single body: when one limb suffers, the rest of the body responds with wakefulness and fever. In Madinah this was not a slogan but daily life, as the people shared homes, food and hardship. The lesson for us is that a believer feels the pain of other believers and does not stand apart from them.",
+        "ar": "شبّه النبي ﷺ جماعة المؤمنين، فيما بينهم من رحمة ومودّة وتعاطف، بالجسد الواحد: إذا اشتكى منه عضو تجاوب سائره بالسهر والحمّى. ولم يكن هذا في المدينة شعارًا بل حياةً يوميّة، إذ تقاسم الناس البيوت والطعام والشدّة. والعبرة لنا أن المؤمن يتألّم لألم إخوانه ولا ينفصل عنهم."
+      },
+      "takeaway": {
+        "en": "Believers feel one another's pain, like limbs of one body.",
+        "ar": "يتألّم المؤمنون بعضهم لبعض كأعضاء جسد واحد."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:6011"]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "People enter in crowds",
+        "ar": "يدخلون أفواجًا"
+      },
+      "takeaway": {
+        "en": "In the end, people entered the religion of Allah in great numbers.",
+        "ar": "في النهاية دخل الناس في الإسلام جماعاتٍ كثيرة."
+      },
+      "visual": "book",
+      "sources": ["quran:110:2"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Victory and completion",
+        "ar": "النصر وتمام الدين"
+      },
+      "body": {
+        "en": "Toward the end, Allah granted victory, and people embraced Islam in large numbers. In Surah An-Nasr, Allah tells His Prophet ﷺ that when this help and opening came, he should respond not with pride but with praising his Lord and seeking forgiveness. Near the end of his life Allah also declared that He had perfected the religion for the believers and completed His favour upon them. The message he carried from Makkah was now complete.",
+        "ar": "في الأواخر منّ الله بالنصر، ودخل الناس في الإسلام بأعداد كبيرة. وفي سورة النصر يخبر الله نبيَّه ﷺ أنه إذا جاء هذا العون والفتح فليقابله لا بالزهو بل بتسبيح ربّه والاستغفار. وقرب نهاية حياته أخبر الله أيضًا أنه أكمل للمؤمنين دينهم وأتمّ عليهم نعمته. فتمّت الرسالة التي حملها من مكة."
+      },
+      "takeaway": {
+        "en": "With victory came humility and the completion of the religion.",
+        "ar": "جاء مع النصر التواضع وتمام الدين."
+      },
+      "visual": "none",
+      "sources": ["quran:110:1", "quran:110:3", "quran:5:3"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Who were the Ansar?",
+        "ar": "من هم الأنصار؟"
+      },
+      "options": [
+        {
+          "en": "The believers of Madinah who welcomed the Prophet ﷺ",
+          "ar": "مؤمنو المدينة الذين استقبلوا النبي ﷺ"
+        },
+        {
+          "en": "The emigrants from Makkah",
+          "ar": "المهاجرون من مكة"
+        },
+        {
+          "en": "Traders passing through",
+          "ar": "تجّار عابرون"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Ansar were the helpers of Madinah; Allah praised how they preferred the emigrants over themselves.",
+        "ar": "الأنصار هم أهل المدينة الناصرون، وقد أثنى الله على إيثارهم المهاجرين على أنفسهم."
+      },
+      "source": "quran:59:9"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How does the Quran describe the Prophet's ﷺ leadership?",
+        "ar": "كيف يصف القرآن قيادة النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "Harsh so people would obey",
+          "ar": "شديدة ليُطاع"
+        },
+        {
+          "en": "Gentle, forgiving and consulting",
+          "ar": "ليّنة عفوّة تشاور"
+        },
+        {
+          "en": "Distant from the people",
+          "ar": "بعيدة عن الناس"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Allah says that by His mercy the Prophet ﷺ was gentle, and told him to pardon, seek forgiveness, and consult.",
+        "ar": "يقول الله إنه برحمته لان النبي ﷺ، وأمره أن يعفو ويستغفر ويشاور."
+      },
+      "source": "quran:3:159"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "When victory came, how was the Prophet ﷺ told to respond?",
+        "ar": "حين جاء النصر، بماذا أُمر النبي ﷺ أن يقابله؟"
+      },
+      "options": [
+        {
+          "en": "With pride in the achievement",
+          "ar": "بالزهو بالإنجاز"
+        },
+        {
+          "en": "By demanding tribute",
+          "ar": "بطلب الجزية"
+        },
+        {
+          "en": "With praise of his Lord and seeking forgiveness",
+          "ar": "بتسبيح ربّه والاستغفار"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Surah An-Nasr tells him to glorify and praise his Lord and seek His forgiveness.",
+        "ar": "تأمره سورة النصر بأن يسبّح بحمد ربّه ويستغفره."
+      },
+      "source": "quran:110:3"
+    }
+  ]
+}

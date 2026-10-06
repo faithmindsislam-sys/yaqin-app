@@ -1,0 +1,309 @@
+{
+  "id": "wudu-order",
+  "subject": "fiqh",
+  "tracks": ["explore", "first-steps", "deepen"],
+  "level": 1,
+  "minutes": 5,
+  "title": {
+    "en": "The order of wudu",
+    "ar": "ترتيب أعضاء الوضوء"
+  },
+  "summary": {
+    "en": "The four parts of wudu named in the Quran, the order to keep, and how the Prophet ﷺ performed it.",
+    "ar": "الأعضاء الأربعة التي ذكرها القرآن في الوضوء، والترتيب المطلوب، وكيف كان النبي ﷺ يتوضأ."
+  },
+  "cover": "/img/lessons/wudu-order.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Why purity comes first",
+        "ar": "لماذا تأتي الطهارة أولًا"
+      },
+      "body": {
+        "en": "Before each prayer, a Muslim performs wudu: a short washing of specific parts of the body. It is cleanliness, and it is also worship in itself. It prepares the body and the heart to stand before God. The Prophet ﷺ described purity as half of faith.",
+        "ar": "قبل الصلاة يتوضأ المسلم، فيغسل أعضاء محددة من جسده. والوضوء نظافة، وهو في الوقت نفسه عبادة، يهيّئ الجسد والقلب للوقوف بين يدي الله. وقد وصف النبي ﷺ الطهارة بأنها شطر الإيمان."
+      },
+      "takeaway": {
+        "en": "Wudu prepares you, body and heart, for prayer.",
+        "ar": "الوضوء يهيّئك جسدًا وقلبًا للصلاة."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:muslim:223"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c1.en.mp3",
+        "ar": "/audio/wudu-order/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "The verse of wudu",
+        "ar": "آية الوضوء"
+      },
+      "takeaway": {
+        "en": "The verse names four parts, and ends by saying God wants to purify you, not to make things hard for you.",
+        "ar": "تذكر الآية أربعة أعضاء، وتُختم بأن الله يريد أن يطهّركم، لا أن يجعل عليكم حرجًا."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:5:6"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c2.en.mp3",
+        "ar": "/audio/wudu-order/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The four obligatory parts",
+        "ar": "الأعضاء الأربعة الواجبة"
+      },
+      "body": {
+        "en": "The verse names four parts. Wash the whole face. Wash the arms up to the elbows; scholars generally include the elbows themselves. Wipe over the head with wet hands. Wash the feet up to the ankles, again including the ankles. Wudu is not valid if one of these is left out.",
+        "ar": "تذكر الآية أربعة أعضاء: غسل الوجه كله، وغسل اليدين إلى المرفقين، ويرى جمهور العلماء دخول المرفقين في الغسل، ومسح الرأس باليد المبلولة، وغسل الرجلين إلى الكعبين مع دخول الكعبين. ولا يصح الوضوء إذا تُرك واحد منها."
+      },
+      "takeaway": {
+        "en": "Face, arms to the elbows, wipe the head, feet to the ankles.",
+        "ar": "الوجه، ثم اليدان إلى المرفقين، ثم مسح الرأس، ثم الرجلان إلى الكعبين."
+      },
+      "visual": "steps",
+      "label": "obligatory",
+      "sources": [
+        "quran:5:6"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c3.en.mp3",
+        "ar": "/audio/wudu-order/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Keep the order",
+        "ar": "حافظ على الترتيب"
+      },
+      "body": {
+        "en": "Wash the parts in the order the verse gives: face, then arms, then head, then feet. The Shafi'i and Hanbali schools hold that this order is obligatory. The Hanafi and Maliki schools treat it as a Sunnah, a practice of the Prophet ﷺ, rather than a condition. Both sides agree that it is how the Prophet ﷺ performed wudu, so keeping the order is the safe and complete way.",
+        "ar": "اغسل الأعضاء بالترتيب الذي جاء في الآية: الوجه، ثم اليدين، ثم الرأس، ثم الرجلين. ويرى الشافعية والحنابلة أن الترتيب واجب، ويراه الحنفية والمالكية سنّة لا شرطًا. والجميع متفقون على أن النبي ﷺ كان يتوضأ مرتّبًا، فالمحافظة على الترتيب هي الطريقة الكاملة والأحوط."
+      },
+      "takeaway": {
+        "en": "Scholars differ on whether the order is required, but all follow it.",
+        "ar": "اختلف العلماء في وجوب الترتيب، لكن الجميع يلتزمون به."
+      },
+      "visual": "order",
+      "sources": [
+        "quran:5:6",
+        "hadith:muslim:226"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c4.en.mp3",
+        "ar": "/audio/wudu-order/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Start with an intention",
+        "ar": "ابدأ بالنية"
+      },
+      "body": {
+        "en": "Wudu begins in the heart: you intend to purify yourself for prayer. The intention does not need to be said aloud. Most scholars hold that the intention is required for wudu, while the Hanafi school treats it as a Sunnah. Scholars base this on the Prophet's ﷺ teaching that deeds are judged by their intentions.",
+        "ar": "يبدأ الوضوء من القلب: أن تنوي التطهّر للصلاة، ولا يلزم التلفظ بالنية. ويرى جمهور العلماء أن النية شرط في الوضوء، ويراها الحنفية سنّة. ويستدل العلماء على ذلك بقول النبي ﷺ إن الأعمال بالنيات."
+      },
+      "takeaway": {
+        "en": "Intend it in your heart; there is no need to say it aloud.",
+        "ar": "انوِ بقلبك، ولا حاجة إلى التلفظ بالنية."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:1"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c5.en.mp3",
+        "ar": "/audio/wudu-order/c5.ar.mp3"
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "How the Prophet ﷺ did it",
+        "ar": "كيف كان النبي ﷺ يتوضأ"
+      },
+      "body": {
+        "en": "The Companion 'Uthman ibn 'Affan showed people the Prophet's ﷺ wudu. First he washed his hands, three times. Then he rinsed his mouth and nose. Next came the face, three times, then each arm including the elbow, right before left, three times each. After wiping his head, he washed each foot three times, right before left. Washing each part once is valid; three times is the fuller Sunnah. The Hanbali school considers rinsing the mouth and nose obligatory, as part of washing the face.",
+        "ar": "علّم الصحابي عثمان بن عفان رضي الله عنه الناسَ وضوء النبي ﷺ: بدأ بغسل كفّيه ثلاثًا، ثم المضمضة والاستنشاق، ثم الوجه ثلاثًا، ثم كل يد مع المرفق ثلاثًا مبتدئًا باليمنى، ثم مسح الرأس، ثم كل رِجل ثلاثًا مبتدئًا باليمنى. والغسل مرة واحدة يجزئ، والتثليث هو السنّة الكاملة. ويرى الحنابلة أن المضمضة والاستنشاق واجبان لأنهما من الوجه."
+      },
+      "takeaway": {
+        "en": "Hands, mouth and nose, then the four parts, each three times, right side first.",
+        "ar": "الكفّان، ثم المضمضة والاستنشاق، ثم الأعضاء الأربعة ثلاثًا، مع البدء باليمين."
+      },
+      "visual": "steps",
+      "label": "recommended",
+      "sources": [
+        "hadith:muslim:226",
+        "hadith:bukhari:164"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c6.en.mp3",
+        "ar": "/audio/wudu-order/c6.ar.mp3"
+      }
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Try it before your next prayer",
+        "ar": "طبّقه قبل صلاتك القادمة"
+      },
+      "body": {
+        "en": "Before your next prayer, make wudu slowly, in order. First the intention, then wash your hands, rinse your mouth and nose, wash your face, then your arms including the elbows, wipe your head, and finish with your feet including the ankles. If it helps, keep this card open on your phone. It's fine to go slowly at first.",
+        "ar": "قبل صلاتك القادمة توضأ على مهل وبالترتيب: النية، ثم غسل الكفين، ثم المضمضة والاستنشاق، ثم غسل الوجه، ثم اليدين إلى المرفقين، ثم مسح الرأس، ثم غسل الرجلين إلى الكعبين. ويمكنك أن تُبقي هذه البطاقة مفتوحة على هاتفك، ولا بأس بالتمهّل في البداية."
+      },
+      "takeaway": {
+        "en": "Slow and in order is perfect for a beginner.",
+        "ar": "التمهّل مع الترتيب هو الأفضل للمبتدئ."
+      },
+      "visual": "steps",
+      "label": "suggestion",
+      "sources": [
+        "quran:5:6"
+      ],
+      "audio": {
+        "en": "/audio/wudu-order/c7.en.mp3",
+        "ar": "/audio/wudu-order/c7.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "Explain the order of wudu in your own words.",
+      "ar": "اشرح ترتيب الوضوء بكلماتك."
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Wash the face first",
+        "ar": "غسل الوجه أولًا",
+        "source": "quran:5:6"
+      },
+      {
+        "id": "k2",
+        "en": "Wash the arms up to the elbows",
+        "ar": "غسل اليدين إلى المرفقين",
+        "source": "quran:5:6"
+      },
+      {
+        "id": "k3",
+        "en": "Wipe over the head",
+        "ar": "مسح الرأس",
+        "source": "quran:5:6"
+      },
+      {
+        "id": "k4",
+        "en": "Wash the feet up to the ankles",
+        "ar": "غسل الرجلين إلى الكعبين",
+        "source": "quran:5:6"
+      },
+      {
+        "id": "k5",
+        "en": "Keep this order: face, arms, head, feet",
+        "ar": "الالتزام بالترتيب: الوجه، فاليدان، فالرأس، فالرجلان",
+        "source": "quran:5:6"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which part of wudu is wiped rather than washed?",
+        "ar": "أي عضو من أعضاء الوضوء يُمسح ولا يُغسل؟"
+      },
+      "options": [
+        {
+          "en": "The feet",
+          "ar": "الرجلان"
+        },
+        {
+          "en": "The head",
+          "ar": "الرأس"
+        },
+        {
+          "en": "The face",
+          "ar": "الوجه"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The verse says to wipe over the head, and to wash the face, arms and feet.",
+        "ar": "تذكر الآية مسح الرأس، وغسل الوجه واليدين والرجلين."
+      },
+      "source": "quran:5:6"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What comes just before washing the feet?",
+        "ar": "ماذا يأتي مباشرة قبل غسل الرجلين؟"
+      },
+      "options": [
+        {
+          "en": "Washing the arms",
+          "ar": "غسل اليدين"
+        },
+        {
+          "en": "Washing the face",
+          "ar": "غسل الوجه"
+        },
+        {
+          "en": "Wiping the head",
+          "ar": "مسح الرأس"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The order is face, arms, head, then feet.",
+        "ar": "الترتيب: الوجه، ثم اليدان، ثم الرأس، ثم الرجلان."
+      },
+      "source": "quran:5:6"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "Washing each part three times is…",
+        "ar": "غسل كل عضو ثلاث مرات…"
+      },
+      "options": [
+        {
+          "en": "Required: wudu is invalid with one wash",
+          "ar": "واجب، ولا يصح الوضوء بغسلة واحدة"
+        },
+        {
+          "en": "The fuller Sunnah: once is already valid",
+          "ar": "هو السنّة الكاملة، والغسل مرة واحدة يجزئ"
+        },
+        {
+          "en": "Discouraged",
+          "ar": "مكروه"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "'Uthman showed the Prophet's ﷺ wudu with three washes. Washing once is valid.",
+        "ar": "علّم عثمان رضي الله عنه وضوء النبي ﷺ بالغسل ثلاثًا، والمرة الواحدة تجزئ."
+      },
+      "source": "hadith:muslim:226"
+    }
+  ]
+}

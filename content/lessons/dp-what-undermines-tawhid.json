@@ -1,0 +1,206 @@
+{
+  "id": "dp-what-undermines-tawhid",
+  "subject": "aqidah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "What undermines Tawhid",
+    "ar": "ما يناقض التوحيد: الشرك الأكبر والأصغر"
+  },
+  "summary": {
+    "en": "What shirk means, the difference between its major and minor forms, and how sincerity guards the heart.",
+    "ar": "معنى الشرك، والفرق بين أكبره وأصغره، وكيف يحفظ الإخلاص القلب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "What shirk means",
+        "ar": "ما معنى الشرك"
+      },
+      "body": {
+        "en": "Shirk means setting up a rival to Allah: giving to someone or something a right that belongs to Allah alone. It is the opposite of Tawhid. It may touch what is unique to Allah in His lordship, His worship, or His names and attributes. Understanding shirk is not about judging other people; it is about guarding your own heart so that your worship stays purely for Allah.",
+        "ar": "الشرك هو جعل ندٍّ لله: أن يُصرف لمخلوق حقٌّ هو لله وحده. وهو ضد التوحيد. وقد يقع فيما اختص الله به في ربوبيته أو عبادته أو أسمائه وصفاته. وفهم الشرك ليس حكمًا على الناس، بل حفظٌ لقلبك حتى تبقى عبادتك خالصة لله."
+      },
+      "takeaway": {
+        "en": "Shirk gives to another a right that is Allah's alone.",
+        "ar": "الشرك صرف حقٍّ لله وحده إلى غيره."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:4062"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Major shirk",
+        "ar": "الشرك الأكبر"
+      },
+      "body": {
+        "en": "Major shirk is directing worship itself to other than Allah, such as calling upon the dead or sacrificing to something besides Him. The Quran calls it the gravest wrong, and warns that whoever dies upon it, having set up a partner with Allah, is not forgiven, while lesser sins remain under Allah's will to forgive. This is why Tawhid matters so much: it is the one thing Allah has made a condition for everything else.",
+        "ar": "الشرك الأكبر هو صرف العبادة نفسها لغير الله، كدعاء الأموات أو الذبح لغيره. وقد سمّاه القرآن أعظم الظلم، وحذّر أن من مات عليه مشركًا بالله لا يُغفر له، وما دون ذلك تحت مشيئة الله. ولهذا كان التوحيد بهذه المنزلة، فهو الشرط الذي علّق الله عليه ما سواه."
+      },
+      "takeaway": {
+        "en": "Major shirk is the gravest sin and undoes Tawhid.",
+        "ar": "الشرك الأكبر أعظم الذنوب وينقض التوحيد."
+      },
+      "visual": "none",
+      "sources": ["quran:4:48", "quran:31:13"]
+    },
+    {
+      "id": "c3",
+      "kind": "quote",
+      "title": {
+        "en": "A father's advice",
+        "ar": "وصية والد"
+      },
+      "takeaway": {
+        "en": "Luqman warned his son that shirk is a tremendous wrong.",
+        "ar": "حذّر لقمان ابنه أن الشرك ظلم عظيم."
+      },
+      "visual": "book",
+      "sources": ["quran:31:13"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Minor shirk: showing off",
+        "ar": "الشرك الأصغر: الرياء"
+      },
+      "body": {
+        "en": "The Prophet ﷺ warned that the thing he feared most for his community was minor shirk, and when asked, he explained that it is riya', doing good deeds to be seen by people. In a sacred report Allah tells us He has no need of any partner, and that a deed done partly for someone else is left to that other. Minor shirk does not take a person out of Islam, but it eats away at the sincerity of a deed. The cure is to keep returning the intention to Allah.",
+        "ar": "حذّر النبي ﷺ من أخوف ما يخافه على أمته، وهو الشرك الأصغر، ولما سُئل بيّن أنه الرياء: أن يعمل المرء العمل الصالح ليراه الناس. وفي الحديث القدسي يخبرنا الله أنه غنيٌّ عن كل شريك، وأن العمل الذي يُشرَك فيه غيره يُترَك لذلك الغير. والشرك الأصغر لا يُخرج من الإسلام، لكنه ينخر إخلاص العمل. وعلاجه أن تعيد النية إلى الله دائمًا."
+      },
+      "takeaway": {
+        "en": "Riya' is doing worship to be seen; it harms sincerity.",
+        "ar": "الرياء عمل العبادة ليراها الناس، وهو يضر الإخلاص."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3381", "hadith:henc:3342"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Hearts attached to objects",
+        "ar": "قلوب تتعلق بالأشياء"
+      },
+      "body": {
+        "en": "A related danger is leaning on charms or objects for protection, as if they could bring benefit or keep away harm. The Prophet ﷺ once ordered that cords tied on animals for such protection be cut, because benefit and harm are in Allah's hand alone. He also taught that whoever attaches his heart to something is left to it. So a believer attaches his heart to Allah, who suffices the one who relies on Him, rather than to things that have no power of their own.",
+        "ar": "ومن الأخطار المتصلة بذلك التعلّق بالتمائم أو الأشياء طلبًا للحماية، كأنها تجلب نفعًا أو تدفع ضرًّا. وقد أمر النبي ﷺ أن تُقطع القلائد التي تُعلَّق على الدواب لذلك، لأن النفع والضر بيد الله وحده. وعلّم أن من ربط قلبه بشيء أُسلم إليه وتُرك له. فالمؤمن يعلّق قلبه بالله الذي يكفي من توكل عليه، لا بأشياء لا تملك لنفسها شيئًا."
+      },
+      "takeaway": {
+        "en": "Trust Allah for protection, not charms or objects.",
+        "ar": "اطلب الحماية من الله لا من التمائم والأشياء."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:6761", "hadith:henc:6763"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Sincerity is the safeguard",
+        "ar": "الإخلاص هو الوقاية"
+      },
+      "body": {
+        "en": "The practical protection against shirk, in all its forms, is ikhlas, sincerity: wanting Allah's face alone in what you say and do. The Quran closes a great passage by teaching that whoever hopes to meet his Lord should do righteous work and let no one share the devotion he owes to Him. Keep checking your intention, do your deeds for Allah, and ask Him to keep your heart firm. This is about your own heart, not about labelling anyone else.",
+        "ar": "الوقاية العملية من الشرك بكل صوره هي الإخلاص: أن تريد وجه الله وحده بما تقول وتفعل. ويختم القرآن مقطعًا عظيمًا بأن من يرجو لقاء ربه فليخلص له العمل الصالح ولا يُشرك معه أحدًا فيما يعبده به. فراقب نيتك، واجعل عملك لله، واسأله أن يثبّت قلبك. وهذا شأن قلبك أنت، لا وصفٌ لأحد سواك."
+      },
+      "takeaway": {
+        "en": "Guard your intention and do every deed for Allah alone.",
+        "ar": "احفظ نيتك واجعل كل عمل لله وحده."
+      },
+      "visual": "none",
+      "label": "recommended",
+      "sources": ["ref:terminologyenc:11107", "quran:18:110"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which statement about major shirk is correct?",
+        "ar": "أي العبارات عن الشرك الأكبر صحيح؟"
+      },
+      "options": [
+        {
+          "en": "It is the gravest wrong and is not forgiven for the one who dies upon it",
+          "ar": "هو أعظم الظلم ولا يُغفر لمن مات عليه"
+        },
+        {
+          "en": "It is a minor matter",
+          "ar": "هو أمر هيّن"
+        },
+        {
+          "en": "It only concerns wealth",
+          "ar": "يتعلق بالمال فقط"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Quran teaches that Allah does not forgive that a partner be set up with Him for the one who dies upon it, while lesser sins remain under His will.",
+        "ar": "يعلّمنا القرآن أن الله لا يغفر أن يُشرك به لمن مات عليه، وما دونه تحت مشيئته."
+      },
+      "source": "quran:4:48"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What did the Prophet ﷺ call riya'?",
+        "ar": "بماذا وصف النبي ﷺ الرياء؟"
+      },
+      "options": [
+        {
+          "en": "A kind of charity",
+          "ar": "نوعًا من الصدقة"
+        },
+        {
+          "en": "Minor shirk he feared for his community",
+          "ar": "شركًا أصغر خافه على أمته"
+        },
+        {
+          "en": "A recommended act",
+          "ar": "عملًا مستحبًّا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "He said the thing he feared most for them was minor shirk, and explained it as showing off in good deeds.",
+        "ar": "قال إن أخوف ما يخافه عليهم الشرك الأصغر، وفسّره بالرياء في العمل الصالح."
+      },
+      "source": "hadith:henc:3381"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What is the practical safeguard against shirk?",
+        "ar": "ما الوقاية العملية من الشرك؟"
+      },
+      "options": [
+        {
+          "en": "Wearing a protective charm",
+          "ar": "تعليق تميمة واقية"
+        },
+        {
+          "en": "Judging other people",
+          "ar": "الحكم على الناس"
+        },
+        {
+          "en": "Sincerity: doing deeds for Allah alone",
+          "ar": "الإخلاص: العمل لله وحده"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ikhlas, wanting Allah's face alone in word and deed, is the protection the sources point to.",
+        "ar": "الإخلاص، وإرادة وجه الله وحده بالقول والعمل، هو الوقاية التي تدل عليها المصادر."
+      },
+      "source": "ref:terminologyenc:11107"
+    }
+  ]
+}

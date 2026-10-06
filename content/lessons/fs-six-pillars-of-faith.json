@@ -1,0 +1,223 @@
+{
+  "id": "fs-six-pillars-of-faith",
+  "subject": "aqidah",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 6,
+  "title": {
+    "en": "What I believe: the six pillars of faith",
+    "ar": "بماذا أؤمن؟ أركان الإيمان الستة"
+  },
+  "summary": {
+    "en": "The six things a believer holds in the heart, each in one plain sentence.",
+    "ar": "الأمور الستة التي يحملها المؤمن في قلبه، كلٌّ في جملةٍ واضحة."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "A lesson from Jibril",
+        "ar": "درسٌ من جبريل"
+      },
+      "body": {
+        "en": "One day a stranger came and sat with the Prophet ﷺ and asked him about faith. The man was in fact the angel Jibril, and the Prophet ﷺ later said he had come so that people would learn their religion. In his answer the Prophet ﷺ listed what a believer holds in the heart. Scholars call these the six pillars of faith, and we will meet them one by one.",
+        "ar": "جاء ذات يومٍ رجلٌ غريب فجلس إلى النبي ﷺ وسأله عن الإيمان، وكان الرجل في الحقيقة الملَك جبريل، وقال النبي ﷺ بعدها إنه أتى ليعلّم الناس دينهم. وفي جوابه عدّد النبي ﷺ ما يحمله المؤمن في قلبه، ويسمّيها العلماء أركان الإيمان الستة، وسنلقاها واحدًا واحدًا."
+      },
+      "takeaway": {
+        "en": "The Prophet ﷺ listed six things a believer holds in the heart.",
+        "ar": "عدّد النبي ﷺ ستة أمورٍ يحملها المؤمن في قلبه."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:8a", "hadith:bukhari:50"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "The six, in short",
+        "ar": "الستة باختصار"
+      },
+      "body": {
+        "en": "Here are the six, plainly. One: believe in Allah, the One true God. Two: in His angels, honoured servants we do not see. Three: in His books, the revelations He sent. Four: in His messengers, sent to guide people. Five: in the Last Day, when we are raised and answerable. Six: in the decree, that nothing happens outside His knowledge and will, its good and its hardship alike.",
+        "ar": "هذه الستة بوضوح: الأول، الإيمان بالله الإله الحق الواحد. الثاني، بملائكته، وهم عبادٌ مكرَّمون لا نراهم. الثالث، بكتبه، وهي ما أنزله من الوحي. الرابع، برسله الذين أرسلهم لهداية الناس. الخامس، باليوم الآخر حين نُبعث ونُحاسَب. السادس، بالقدر، أنه لا يقع شيءٌ خارج علمه ومشيئته، خيرُه وما يصعب منه سواء."
+      },
+      "takeaway": {
+        "en": "Allah, His angels, His books, His messengers, the Last Day, and the decree.",
+        "ar": "الإيمان بالله، وملائكته، ثم بكتبه ورسله، ثم باليوم الآخر وبالقدر."
+      },
+      "visual": "steps",
+      "sources": ["hadith:muslim:8a"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "What the believers believe",
+        "ar": "بماذا يؤمن المؤمنون"
+      },
+      "body": {
+        "en": "The Quran describes the believers as holding exactly this. It says the Messenger and those with him believed in Allah, His angels, His books and His messengers, making no distinction between one messenger and another. So a Muslim honours all the prophets Allah sent, from the first to the last, and does not accept some while rejecting others. The pillars are not a checklist on paper; they are what the heart rests upon.",
+        "ar": "يصف القرآن المؤمنين بأنهم يحملون هذا بعينه، فيذكر أن الرسول ومن معه آمنوا بالله، وبملائكته، وبما أنزل من كتب، وبمن أرسل من رسل، لا يفرّقون بين رسولٍ وآخر منهم. فالمسلم يوقّر جميع الأنبياء الذين أرسلهم الله، من أولهم إلى آخرهم، ولا يقبل بعضهم ويردّ بعضهم. والأركان ليست قائمةً على ورق، بل هي ما يطمئنّ إليه القلب."
+      },
+      "takeaway": {
+        "en": "Believers accept all the messengers, without picking and choosing.",
+        "ar": "يؤمن المؤمنون بجميع الرسل دون تفريق."
+      },
+      "visual": "none",
+      "sources": ["quran:2:285", "quran:4:136"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "The decree",
+        "ar": "القدر"
+      },
+      "body": {
+        "en": "The sixth pillar, belief in the decree, can feel the hardest. It simply means that Allah knows all things and that everything happens by His measure and will. This does not cancel your choices or your effort; you still act and are responsible. It brings calm, because nothing reaches you by accident, and the believer meets ease with gratitude and hardship with patience.",
+        "ar": "الركن السادس، الإيمان بالقدر، قد يبدو أصعبها. وهو ببساطة أن الله يعلم كل شيء، وأن كل شيءٍ يقع بتقديره ومشيئته. وهذا لا يُلغي اختيارك ولا سعيك، فأنت تعمل وأنت مسؤول. وفيه طمأنينة، لأنه ما من شيءٍ يصيبك مصادفةً، فيلقى المؤمن اليسر بالشكر والشدة بالصبر."
+      },
+      "takeaway": {
+        "en": "Everything happens by Allah's knowledge and measure.",
+        "ar": "كل شيءٍ يقع بعلم الله وتقديره."
+      },
+      "visual": "none",
+      "sources": ["quran:54:49"]
+    },
+    {
+      "id": "c5",
+      "kind": "quote",
+      "title": {
+        "en": "By a measure",
+        "ar": "بقدر"
+      },
+      "takeaway": {
+        "en": "All things were created with a measure.",
+        "ar": "كل شيءٍ خُلق بقدر."
+      },
+      "visual": "book",
+      "sources": ["quran:54:49"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Belief and action",
+        "ar": "إيمانٌ وعمل"
+      },
+      "body": {
+        "en": "Faith is more than a feeling; it shows in life. In one long verse the Quran describes true righteousness as believing in Allah and the Last Day, in angels, in revealed scripture and in the prophets, and then giving wealth to those in need, keeping up prayer and giving charity. So the pillars in the heart naturally flow out into good deeds. Belief and action grow together.",
+        "ar": "الإيمان أكثر من شعور، فهو يظهر في الحياة. وفي آيةٍ طويلة يصف القرآن البرّ الحق بأنه الإيمان بالله واليوم الآخر والملائكة والكتاب والنبيين، ثم إيتاء المال لمن يحتاج، وإقام الصلاة، وإيتاء الزكاة. فالأركان في القلب تفيض طبيعيًّا إلى العمل الصالح. ينمو الإيمان والعمل معًا."
+      },
+      "takeaway": {
+        "en": "The pillars in the heart show in prayer, charity and good deeds.",
+        "ar": "تظهر أركان القلب في الصلاة والزكاة والعمل الصالح."
+      },
+      "visual": "none",
+      "sources": ["quran:2:177"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "One sentence each, for now",
+        "ar": "جملةٌ لكلٍّ، الآن"
+      },
+      "body": {
+        "en": "You do not need to master all six today. For now, hold each one in a single clear sentence, as you have just learned them. Each pillar opens into a wider world of meaning, and there are later courses in Deepen that study belief in Allah's names, the decree and the rest more fully. Start with a steady, simple grasp, and let understanding grow.",
+        "ar": "لا يلزمك أن تتقن الستة اليوم. اكتفِ الآن بأن تحمل كلًّا منها في جملةٍ واحدة واضحة كما تعلّمتها للتو. فكل ركنٍ ينفتح على عالمٍ أوسع من المعنى، وثمّة دروسٌ لاحقة في مسار التعمّق تدرس الإيمان بأسماء الله والقدر وغيرها بتوسّع. ابدأ بفهمٍ بسيطٍ ثابت، ودَع الفهم ينمو."
+      },
+      "takeaway": {
+        "en": "Hold each pillar simply now; deeper study comes later.",
+        "ar": "احمل كل ركنٍ ببساطةٍ الآن، والتعمّق يأتي لاحقًا."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:46045"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Who was the stranger who asked the Prophet ﷺ about faith?",
+        "ar": "من كان الرجل الغريب الذي سأل النبي ﷺ عن الإيمان؟"
+      },
+      "options": [
+        {
+          "en": "The angel Jibril",
+          "ar": "الملَك جبريل"
+        },
+        {
+          "en": "A traveller from far away",
+          "ar": "مسافرٌ من بعيد"
+        },
+        {
+          "en": "One of the children of Madinah",
+          "ar": "أحد صبيان المدينة"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said it was Jibril, who came to teach the people their religion.",
+        "ar": "قال النبي ﷺ إنه جبريل أتى ليعلّم الناس دينهم."
+      },
+      "source": "hadith:muslim:8a"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "How many pillars of faith did the Prophet ﷺ mention?",
+        "ar": "كم ركنًا من أركان الإيمان ذكر النبي ﷺ؟"
+      },
+      "options": [
+        {
+          "en": "Three",
+          "ar": "ثلاثة"
+        },
+        {
+          "en": "Six",
+          "ar": "ستة"
+        },
+        {
+          "en": "Ten",
+          "ar": "عشرة"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "They are: Allah, His angels, His books, His messengers, the Last Day, and the decree.",
+        "ar": "وهي: الله، وملائكته، وكتبه، ورسله، واليوم الآخر، والقدر."
+      },
+      "source": "hadith:muslim:8a"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does a believer treat the different messengers of Allah?",
+        "ar": "كيف يتعامل المؤمن مع رسل الله المختلفين؟"
+      },
+      "options": [
+        {
+          "en": "Accepts some and rejects others",
+          "ar": "يقبل بعضهم ويردّ بعضهم"
+        },
+        {
+          "en": "Believes in all of them without distinction",
+          "ar": "يؤمن بهم جميعًا دون تفريق"
+        },
+        {
+          "en": "Believes only in the last one",
+          "ar": "يؤمن بالأخير وحده"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran says the believers make no distinction between His messengers.",
+        "ar": "يقول القرآن إن المؤمنين لا يفرّقون بين رسله."
+      },
+      "source": "quran:2:285"
+    }
+  ]
+}

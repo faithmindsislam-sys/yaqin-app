@@ -1,0 +1,205 @@
+{
+  "id": "dp-names-of-allah",
+  "subject": "aqidah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 6,
+  "title": {
+    "en": "The beautiful names of Allah",
+    "ar": "أسماء الله الحسنى وأثرها في القلب"
+  },
+  "summary": {
+    "en": "Allah's most beautiful names, what some of them mean, and how knowing them changes the heart.",
+    "ar": "أسماء الله الحسنى، ومعاني بعضها، وكيف تغيّر معرفتها القلب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Call on Him by them",
+        "ar": "ادعُه بها"
+      },
+      "body": {
+        "en": "The Quran tells us that the most beautiful names belong to Allah, and invites us to call upon Him by them. These names are not just words to list; each one opens a window onto who Allah is. When you ask for mercy you can call on the Merciful, and when you seek provision you can call on the Provider. Learning the names is a way of coming to know Allah, and knowing Him is the root of a living faith.",
+        "ar": "يخبرنا القرآن أن لله الأسماء الحسنى، ويدعونا أن ندعوه بها. وليست هذه الأسماء مجرد كلمات تُسرد، بل كل اسم نافذةٌ على معرفة الله. فإذا سألت الرحمة دعوت الرحيم، وإذا طلبت الرزق دعوت الرزاق. وتعلّم الأسماء بابٌ إلى معرفة الله، ومعرفته أصل الإيمان الحيّ."
+      },
+      "takeaway": {
+        "en": "Allah's beautiful names are a doorway to knowing Him.",
+        "ar": "أسماء الله الحسنى باب إلى معرفته."
+      },
+      "visual": "none",
+      "sources": ["quran:7:180"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "To Allah belong the best names",
+        "ar": "لله الأسماء الحسنى"
+      },
+      "takeaway": {
+        "en": "The verse invites us to call on Allah by His beautiful names.",
+        "ar": "تدعونا الآية أن ندعو الله بأسمائه الحسنى."
+      },
+      "visual": "book",
+      "sources": ["quran:7:180"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Ninety-nine names",
+        "ar": "تسعة وتسعون اسمًا"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that Allah has ninety-nine names, and that whoever ihsa' them enters Paradise. Scholars explain ihsa' as more than counting: it means learning the names, understanding their meanings, and letting them shape how you live. So the goal is not simply to memorise a list, but to let each name leave a trace on the heart and on your worship.",
+        "ar": "علّم النبي ﷺ أن أسماء الله تبلغ تسعةً وتسعين، وأن من حفظها وأحسن إحصاءها كان جزاؤه الجنة. ويبيّن العلماء أن الإحصاء أكثر من العدّ: فهو تعلّم الأسماء وفهم معانيها وأن تصوغ بها حياتك. فليست الغاية حفظ قائمة، بل أن يترك كل اسم أثرًا في القلب وفي العبادة."
+      },
+      "takeaway": {
+        "en": "Knowing the names means understanding and living by them.",
+        "ar": "إحصاء الأسماء فهمها والعمل بها."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:2736"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Names at the end of Al-Hashr",
+        "ar": "أسماء في ختام الحشر"
+      },
+      "body": {
+        "en": "At the close of Surah Al-Hashr several names appear together. Allah is the Entirely Merciful and the Especially Merciful; the Sovereign, who owns and rules all; the Pure, free of every flaw; the Grantor of Security; the Creator who brings things into being and gives them their form. Reading these names slowly, you begin to see power and gentleness side by side, and the heart settles when it recognises who it belongs to.",
+        "ar": "في ختام سورة الحشر تجتمع أسماءٌ عدة. فالله الرحمن الرحيم؛ والملك الذي يملك كل شيء ويدبّره؛ والقدّوس المنزّه عن كل نقص؛ والسلام الذي يُؤمِّن عباده؛ والخالق الذي يوجد الأشياء ويصوّرها. وحين تقرأ هذه الأسماء على مهل ترى القدرة والرحمة جنبًا إلى جنب، ويطمئن القلب إذ يعرف لمن ينتمي."
+      },
+      "takeaway": {
+        "en": "The end of Al-Hashr gathers names of mercy and majesty.",
+        "ar": "ختام الحشر يجمع أسماء الرحمة والعظمة."
+      },
+      "visual": "none",
+      "sources": ["quran:59:22", "quran:59:23", "quran:59:24"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "The Ever-Living, the Sustainer",
+        "ar": "الحيّ القيّوم"
+      },
+      "body": {
+        "en": "Ayat al-Kursi, the greatest verse, names Allah as the Ever-Living and the Self-Sustaining: He has perfect, unending life, and all that exists stands by His care. Neither drowsiness nor sleep touches Him, and His knowledge and power have no limit. When life feels fragile, resting in these two names reminds you that the One holding everything together never tires and never sleeps.",
+        "ar": "في آية الكرسي، أعظم آية، يُسمّى الله الحيّ القيّوم: له الحياة الكاملة التي لا تنتهي، وكل موجود قائمٌ برعايته. فلا يعتريه نعاسٌ ولا ينام، ولا حدّ لعلمه وقدرته. وحين تشعر بهشاشة الحياة، يذكّرك التأمل في هذين الاسمين أن الذي يمسك كل شيء لا يتعب ولا ينام."
+      },
+      "takeaway": {
+        "en": "Allah's life is perfect and He sustains all that exists.",
+        "ar": "حياة الله كاملة، وهو القائم على كل موجود."
+      },
+      "visual": "none",
+      "sources": ["quran:2:255"]
+    },
+    {
+      "id": "c6",
+      "kind": "check",
+      "title": {
+        "en": "Let a name reach your heart",
+        "ar": "دع اسمًا يبلغ قلبك"
+      },
+      "body": {
+        "en": "Pick one name and sit with it. Knowing Allah as the Especially Merciful can lift you toward hope when you feel you have fallen short. Knowing Him as the All-Knowing can make you more careful and more honest, since nothing is hidden from Him. The Quran also tells us we may call Him by Allah or by the Most Merciful; whichever we use, the beautiful names are His. Which name does your heart need most today, and how will it change one choice you make?",
+        "ar": "اختر اسمًا واحدًا وتأمّله. فمعرفتك الله رحيمًا ترفعك إلى الرجاء حين تشعر بالتقصير، ومعرفتك إياه عليمًا تجعلك أكثر مراقبة وصدقًا إذ لا يخفى عليه شيء. ويخبرنا القرآن أننا ندعوه باسم الله أو بالرحمن، وأيًّا ما دعونا فله الأسماء الحسنى. فأي اسم يحتاجه قلبك اليوم، وكيف يغيّر قرارًا واحدًا تتخذه؟"
+      },
+      "takeaway": {
+        "en": "Choose one name and let it shape today.",
+        "ar": "اختر اسمًا واحدًا ودعه يصوغ يومك."
+      },
+      "visual": "none",
+      "sources": ["quran:17:110", "quran:42:11"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does the Prophet's ﷺ teaching ask us to do with Allah's names?",
+        "ar": "ماذا يطلب منا تعليم النبي ﷺ تجاه أسماء الله؟"
+      },
+      "options": [
+        {
+          "en": "Only count them quickly",
+          "ar": "عدّها بسرعة فقط"
+        },
+        {
+          "en": "Learn, understand and live by them",
+          "ar": "تعلّمها وفهمها والعمل بها"
+        },
+        {
+          "en": "Keep them secret",
+          "ar": "كتمانها"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Scholars explain ihsa' of the ninety-nine names as learning, understanding and acting by them, not mere counting.",
+        "ar": "يفسّر العلماء إحصاء الأسماء التسعة والتسعين بتعلّمها وفهمها والعمل بها، لا مجرد العدّ."
+      },
+      "source": "hadith:bukhari:2736"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Which two names are affirmed in Ayat al-Kursi?",
+        "ar": "أي اسمين وردا في آية الكرسي؟"
+      },
+      "options": [
+        {
+          "en": "The Ever-Living and the Self-Sustaining",
+          "ar": "الحيّ والقيّوم"
+        },
+        {
+          "en": "The Creator and the Fashioner",
+          "ar": "الخالق والمصوّر"
+        },
+        {
+          "en": "The Sovereign and the Pure",
+          "ar": "الملك والقدّوس"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ayat al-Kursi names Allah as the Ever-Living and the Self-Sustaining, whom neither drowsiness nor sleep touches.",
+        "ar": "تذكر آية الكرسي أن الله الحيّ القيّوم الذي لا تأخذه سِنة ولا نوم."
+      },
+      "source": "quran:2:255"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "According to the Quran, by which of these may we call on Allah?",
+        "ar": "بحسب القرآن، بأي هذه ندعو الله؟"
+      },
+      "options": [
+        {
+          "en": "Only one fixed word",
+          "ar": "كلمة واحدة فقط"
+        },
+        {
+          "en": "By Allah or by the Most Merciful; the best names are His",
+          "ar": "باسم الله أو الرحمن، فله الأسماء الحسنى"
+        },
+        {
+          "en": "By no name at all",
+          "ar": "بلا اسم مطلقًا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran says to call on Allah or on the Most Merciful; whichever we use, to Him belong the best names.",
+        "ar": "يقول القرآن ادعوا الله أو ادعوا الرحمن، وأيًّا دعونا فله الأسماء الحسنى."
+      },
+      "source": "quran:17:110"
+    }
+  ]
+}

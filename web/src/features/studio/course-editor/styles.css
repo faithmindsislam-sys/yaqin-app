@@ -1,0 +1,62 @@
+/* Studio lesson editor. */
+.lesson-editor { display: grid; gap: 20px; }
+.editor-grid { display: grid; gap: 20px; align-items: start; }
+@media (min-width: 1280px) { .editor-grid { grid-template-columns: minmax(0, 1fr) 19rem; } }
+.editor-choice { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 28px; text-align: start; cursor: pointer; transition: border-color 150ms, transform 150ms, box-shadow 150ms; }
+.editor-choice:hover { border-color: var(--color-brand-400); transform: translateY(-2px); box-shadow: var(--shadow-lift); }
+.editor-choice-icon { display: inline-flex; flex-shrink: 0; padding: 12px; border-radius: 14px; background: var(--color-brand-50); color: var(--color-brand-700); }
+.editor-choice-icon.is-ai { background: #f2edfc; color: #6b4ea0; }
+.editor-langs { display: inline-flex; align-items: center; gap: 4px; padding: 4px; border: 1px solid var(--color-line); border-radius: 9999px; background: white; font-size: 13px; }
+.editor-langs > span { padding-inline: 10px 6px; font-size: 12px; color: var(--color-muted); }
+.editor-langs button { display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: 9999px; color: var(--color-ink-soft); cursor: pointer; }
+.editor-langs button[aria-pressed="true"] { background: var(--color-brand-700); color: white; font-weight: 500; }
+.editor-ai-note { display: flex; align-items: flex-start; gap: 12px; padding: 14px 16px; border: 1px solid #e3d9f4; border-radius: 16px; background: #f7f3fd; color: #5a4387; font-size: 14px; line-height: 1.6; }
+.editor-title { width: 100%; border-radius: 8px; background: transparent; font-family: var(--font-serif); font-size: clamp(20px, 3.2vw, 32px); line-height: 1.3; color: var(--color-ink); }
+.editor-title[dir="rtl"], .editor-section-title[dir="rtl"] { font-family: var(--font-readex), serif; font-weight: 600; }
+.editor-title::placeholder, .editor-summary::placeholder, .editor-section-title::placeholder { color: #a3adbf; }
+.editor-summary { display: block; width: 100%; resize: none; field-sizing: content; border-radius: 8px; background: transparent; font-size: 15px; line-height: 1.7; color: var(--color-ink-soft); }
+/* Text you can edit looks like a field: a border at rest, a stronger one on hover. */
+.editor-title, .editor-summary, .editor-section-title { padding: 10px 14px; border: 1px solid var(--color-line); border-radius: 12px; background: white; }
+:is(.editor-title, .editor-summary, .editor-section-title):hover { border-color: var(--color-brand-300); }
+/* A pencil at the end of the field says "you can edit this". */
+.editor-field { position: relative; display: block; }
+.editor-field > :is(input, textarea) { padding-inline-end: 42px; }
+.editor-field > svg { position: absolute; top: 50%; inset-inline-end: 14px; transform: translateY(-50%); color: var(--color-muted); pointer-events: none; }
+.editor-field:focus-within > svg { color: var(--color-brand-600); }
+.editor-section { display: grid; gap: 12px; padding: 16px 20px 20px; }
+.editor-pages { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.editor-page { min-width: 34px; height: 34px; padding-inline: 8px; border: 1px solid var(--color-line); border-radius: 10px; background: white; font-size: 13px; font-weight: 500; color: var(--color-ink-soft); cursor: pointer; }
+.editor-page:hover { border-color: var(--color-brand-300); }
+.editor-page[aria-current="page"], .editor-page[aria-pressed="true"] { border-color: var(--color-brand-700); background: var(--color-brand-700); color: white; }
+.editor-page.is-missing { border-color: #e9b4ad; background: #fff2f1; color: #a13f36; }
+.editor-page.is-missing[aria-current="page"] { border-color: #a13f36; background: #a13f36; color: white; }
+.editor-state { display: inline-flex; align-items: baseline; gap: 8px; min-width: 0; font-size: 12px; color: var(--color-muted); }
+.editor-state::before { content: ""; flex-shrink: 0; width: 8px; height: 8px; border-radius: 50%; background: #3aa977; }
+.editor-state.is-dirty::before { background: #d99a1c; }
+.editor-section-tag { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-muted); }
+[dir="rtl"] .editor-section-tag { letter-spacing: 0; }
+.editor-section-title { width: 100%; border-radius: 8px; background: transparent; font-family: var(--font-serif); font-size: 22px; line-height: 1.4; color: var(--color-ink); }
+.editor-quote-empty { display: flex; flex-direction: column; align-items: center; gap: 10px; padding: 24px; border: 1.5px dashed var(--color-brand-200); border-radius: 16px; background: var(--color-brand-50); font-size: 14px; line-height: 1.6; color: var(--color-ink-soft); text-align: center; cursor: pointer; }
+.editor-chips { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.editor-sources { padding-top: 12px; border-top: 1px solid var(--color-line); }
+.editor-facts { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 4px 12px; font-size: 12px; color: var(--color-muted); }
+.editor-facts dd { text-align: end; color: var(--color-ink-soft); }
+.editor-chips .chip button { display: grid; place-items: center; width: 18px; height: 18px; margin-inline-end: -4px; border-radius: 50%; color: var(--color-muted); cursor: pointer; }
+.editor-chips .chip button:hover { background: #fff2f1; color: #a13f36; }
+.chip-add { border-style: dashed; color: var(--color-brand-700); cursor: pointer; }
+.chip-add:hover { border-color: var(--color-brand-400); background: var(--color-brand-50); }
+.editor-avatar { display: grid; place-items: center; width: 20px; height: 20px; margin-inline-start: -4px; border-radius: 50%; background: var(--color-brand-100); font-size: 11px; font-weight: 600; color: var(--color-brand-800); }
+/* Save actions stay at the top of the side column; they do not follow the scroll. */
+.editor-bar { display: grid; gap: 10px; padding: 16px; }
+/* One column: the actions come first, the other side cards go after the lesson. */
+@media (max-width: 1279px) { .editor-grid > aside { display: contents; } .editor-bar { order: -1; } }
+.editor-bar .btn { min-height: 40px; padding: 8px 18px; font-size: 14px; }
+.editor-notice { padding: 10px 12px; border-radius: 12px; font-size: 13px; line-height: 1.6; }
+.editor-notice.is-success { background: #ecf8f2; color: #23714f; }
+.editor-notice.is-error { background: #fff2f1; color: #a13f36; }
+.editor-notice ul { max-height: 132px; margin-top: 4px; padding-inline-start: 18px; overflow-y: auto; list-style: disc; }
+.source-picker { width: min(100% - 32px, 720px); }
+.source-picker-list { display: grid; gap: 8px; max-height: min(52dvh, 460px); overflow-y: auto; }
+.source-picker-item { display: flex; flex-direction: column; width: 100%; padding: 12px 14px; border: 1px solid var(--color-line); border-radius: 14px; text-align: start; cursor: pointer; transition: border-color 120ms, background-color 120ms; }
+.source-picker-item:hover, .source-picker-item:focus-visible { border-color: var(--color-brand-400); background: var(--color-brand-50); }
+

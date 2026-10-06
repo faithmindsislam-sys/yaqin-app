@@ -1,0 +1,224 @@
+{
+  "id": "dp-pillars-of-prayer",
+  "subject": "fiqh",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 7,
+  "title": {
+    "en": "Pillars, obligations and sunnahs of prayer",
+    "ar": "أركان الصلاة وواجباتها وسننها"
+  },
+  "summary": {
+    "en": "Why scholars sort the acts of prayer into pillars, obligations and sunnahs, with the main ones and where the schools differ.",
+    "ar": "لماذا يصنّف العلماء أفعال الصلاة إلى أركان وواجبات وسنن، مع أبرزها وموضع اختلاف المذاهب."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "Why scholars classify the acts",
+        "ar": "لماذا يصنّف العلماء الأفعال"
+      },
+      "body": {
+        "en": "Prayer is made of many acts, and scholars sort them to help us understand their weight. A pillar, rukn, is a part the prayer cannot be valid without; it is woven into its very reality, like standing, bowing and prostrating. Below the pillars come obligations, and below those are the sunnahs, the recommended practices of the Prophet ﷺ. Learning this is not hair-splitting; it helps you know what the prayer truly stands on and what adds to its beauty.",
+        "ar": "الصلاة أفعال كثيرة، والعلماء يصنّفونها ليعرّفونا منزلة كل فعل. فالركن ما لا تصح الصلاة إلا به، وهو داخل في حقيقتها، كالقيام والركوع والسجود. وتحت الأركان الواجبات، وتحتها السنن، وهي ما يُستحب من هدي النبي ﷺ. وتعلّم هذا ليس تكلّفًا، بل يعينك على معرفة ما تقوم عليه الصلاة حقًّا وما يزيدها حُسنًا."
+      },
+      "takeaway": {
+        "en": "A pillar is essential; obligations and sunnahs come below it.",
+        "ar": "الركن أساس، والواجبات والسنن دونه."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:6533"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "The man who prayed badly",
+        "ar": "حديث المسيء صلاته"
+      },
+      "body": {
+        "en": "A man once prayed quickly in the mosque, and the Prophet ﷺ sent him back to pray again three times, saying he had not really prayed. Then he taught him the core: say the opening takbir, recite from the Quran, then bow until you are at ease, rise and stand upright, prostrate until you are at ease, and sit calmly, and do this throughout the prayer. From this hadith scholars draw many of the pillars: standing, the opening takbir, bowing, prostrating, sitting, and calmness in each.",
+        "ar": "صلّى رجل مسرعًا في المسجد، فردّه النبي ﷺ ليعيد صلاته ثلاث مرات، وقال إنه لم يصلِّ حقًّا. ثم علّمه الأساس: أن يكبّر تكبيرة الإحرام، ويقرأ من القرآن، ثم يركع حتى يطمئن، ثم يرفع حتى يعتدل قائمًا، ثم يسجد حتى يطمئن، ثم يجلس مطمئنًّا، ويفعل ذلك في صلاته كلها. ومن هذا الحديث يستخرج العلماء كثيرًا من الأركان: القيام وتكبيرة الإحرام والركوع والسجود والجلوس والطمأنينة في كل ذلك."
+      },
+      "takeaway": {
+        "en": "The hadith teaches standing, takbir, bowing, prostrating and calmness.",
+        "ar": "الحديث يعلّم القيام والتكبير والركوع والسجود والطمأنينة."
+      },
+      "visual": "steps",
+      "sources": ["hadith:bukhari:757", "hadith:bukhari:631"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Al-Fatiha in every prayer",
+        "ar": "الفاتحة في كل صلاة"
+      },
+      "body": {
+        "en": "A central pillar is the recitation of Al-Fatiha. The Prophet ﷺ said there is no valid prayer for the one who does not recite the Opening of the Book. The Quran also gathers the acts of worship when it calls the believers to bow, prostrate, worship their Lord and do good. Al-Fatiha is recited in each unit of the prayer, and keeping it present in the heart is part of praying well, not only moving the lips.",
+        "ar": "ومن الأركان المهمة قراءة الفاتحة. فقد أخبر النبي ﷺ أن من ترك قراءة فاتحة الكتاب في صلاته فلا صلاة له. ويجمع القرآن أفعال العبادة حين يدعو المؤمنين إلى الركوع والسجود وعبادة ربهم وفعل الخير. وتُقرأ الفاتحة في كل ركعة، وإحضارها في القلب جزء من حُسن الصلاة، لا مجرد تحريك الشفتين."
+      },
+      "takeaway": {
+        "en": "Reciting Al-Fatiha is required in each unit of prayer.",
+        "ar": "قراءة الفاتحة مطلوبة في كل ركعة."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:756", "quran:22:77"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Bow and prostrate",
+        "ar": "اركعوا واسجدوا"
+      },
+      "takeaway": {
+        "en": "The Quran calls the believers to bow, prostrate and worship their Lord.",
+        "ar": "يدعو القرآن المؤمنين إلى الركوع والسجود وعبادة ربهم."
+      },
+      "visual": "book",
+      "sources": ["quran:22:77"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Sunnah acts",
+        "ar": "من السنن"
+      },
+      "body": {
+        "en": "Beyond the pillars, the Prophet ﷺ added practices that beautify the prayer. He would lift his hands up to shoulder level when opening the prayer, when going to bow, and when rising from it. And he taught that prostration rests on seven parts: the forehead together with the nose, both palms, both knees, and the toes of the feet. These are part of praying as he prayed, and learning them gradually makes the prayer fuller.",
+        "ar": "وراء الأركان أضاف النبي ﷺ أعمالًا تزيّن الصلاة. فكان يرفع كفّيه إلى محاذاة كتفيه عند افتتاح الصلاة، وعند الركوع، وعند الرفع منه. وعلّم أن السجود يكون على سبعة أعضاء: الجبهة ومعها الأنف، ثم الكفّان، ثم الرُّكبتان، ثم أطراف أصابع القدمين. وهذه من الصلاة كما كان يصلّي، وتعلّمها بالتدرّج يزيد الصلاة كمالًا."
+      },
+      "takeaway": {
+        "en": "Raising the hands and prostrating on seven parts are from the Sunnah.",
+        "ar": "رفع اليدين والسجود على سبعة أعضاء من السنة."
+      },
+      "visual": "steps",
+      "label": "recommended",
+      "sources": ["hadith:henc:3095", "hadith:henc:10925"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "The tashahhud",
+        "ar": "التشهد"
+      },
+      "body": {
+        "en": "Toward the end of the prayer the worshipper sits and recites the tashahhud, which the Prophet ﷺ taught to his Companions with great care, as he would teach a surah of the Quran. In it we greet Allah with words of glorification, send peace upon the Prophet ﷺ and upon the righteous servants of Allah, and testify to Allah's oneness and to Muhammad being His servant and Messenger. He also taught a short supplication between the two prostrations, asking Allah for forgiveness, mercy, well-being, guidance and provision.",
+        "ar": "في آخر الصلاة يجلس المصلي ويقرأ التشهد، الذي علّمه النبي ﷺ أصحابه بعناية كبيرة كما يعلّمهم السورة من القرآن. وفيه نحيّي الله بكلمات التعظيم، ونصلّي ونسلّم على النبي ﷺ وعلى الصالحين من عباد الله، ونقرّ بوحدانية الله وبأن محمدًا عبده ورسوله. وعلّم كذلك دعاءً قصيرًا بين السجدتين، نسأل فيه الله المغفرة والرحمة والعافية والهداية والرزق."
+      },
+      "takeaway": {
+        "en": "The tashahhud and the supplication between prostrations are taught by the Prophet ﷺ.",
+        "ar": "التشهد ودعاء ما بين السجدتين مما علّمه النبي ﷺ."
+      },
+      "visual": "none",
+      "sources": ["hadith:henc:3096", "hadith:henc:10930"]
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "Where the schools differ",
+        "ar": "موضع اختلاف المذاهب"
+      },
+      "body": {
+        "en": "Scholars broadly agree on these acts, but they differ on how to classify some of them: which count as pillars, which as obligations, and which as sunnahs. They also differ on what a worshipper should do if one of them is left out, for example whether a prostration of forgetfulness is enough or the prayer must be repeated. This is a recognised, respectful difference. The sound way is not to pick a side here, but to learn the view followed where you are and to ask a qualified teacher about the details.",
+        "ar": "يتفق العلماء في الجملة على هذه الأفعال، لكنهم يختلفون في تصنيف بعضها: ما يُعدّ ركنًا، وما يُعدّ واجبًا، وما يُعدّ سنّة. ويختلفون أيضًا فيما يفعله المصلي إذا تُرك أحدها، كأن يُجزئ سجود السهو أو تُعاد الصلاة. وهذا اختلاف معتبر محترم. والأحسن ألّا نرجّح هنا، بل أن تتعلّم القول المعمول به في بلدك وتسأل معلّمًا مؤهّلًا عن التفصيل."
+      },
+      "takeaway": {
+        "en": "The schools differ on classifying and repairing these acts; ask a teacher.",
+        "ar": "تختلف المذاهب في تصنيف هذه الأفعال وجبرها، فاسأل معلّمًا."
+      },
+      "visual": "none",
+      "sources": ["ref:terminologyenc:11096"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is a rukn (pillar) of the prayer?",
+        "ar": "ما ركن الصلاة؟"
+      },
+      "options": [
+        {
+          "en": "A recommended extra that can be left out",
+          "ar": "مستحب زائد يمكن تركه"
+        },
+        {
+          "en": "A part the prayer cannot be valid without",
+          "ar": "جزء لا تصح الصلاة إلا به"
+        },
+        {
+          "en": "Something done only on Fridays",
+          "ar": "شيء يُفعل يوم الجمعة فقط"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A pillar is defined as a part the prayer cannot be valid without, woven into its reality.",
+        "ar": "الركن ما لا تصح الصلاة إلا به، وهو داخل في حقيقتها."
+      },
+      "source": "ref:terminologyenc:6533"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What did the Prophet ﷺ say about reciting Al-Fatiha?",
+        "ar": "ماذا قال النبي ﷺ عن قراءة الفاتحة؟"
+      },
+      "options": [
+        {
+          "en": "There is no valid prayer for the one who does not recite it",
+          "ar": "لا صلاة لمن لم يقرأها"
+        },
+        {
+          "en": "It is recited only in Fajr",
+          "ar": "تُقرأ في الفجر فقط"
+        },
+        {
+          "en": "It is optional",
+          "ar": "قراءتها اختيارية"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "He said there is no prayer for the one who does not recite the Opening of the Book.",
+        "ar": "قال لا صلاة لمن لم يقرأ بفاتحة الكتاب."
+      },
+      "source": "hadith:bukhari:756"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "On how the acts are classified and repaired if missed, the schools…",
+        "ar": "في تصنيف الأفعال وجبرها إن تُركت، فإن المذاهب…"
+      },
+      "options": [
+        {
+          "en": "All agree on every detail",
+          "ar": "تتفق في كل تفصيل"
+        },
+        {
+          "en": "Differ, so one learns the local view and asks a teacher",
+          "ar": "تختلف، فيتعلّم المرء القول المعمول به ويسأل معلّمًا"
+        },
+        {
+          "en": "Forbid asking anyone",
+          "ar": "تمنع سؤال أحد"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "This is a recognised difference among the schools; the sound way is to learn the followed view and ask a qualified teacher.",
+        "ar": "هذا اختلاف معتبر بين المذاهب، والأحسن تعلّم القول المعمول به وسؤال معلّم مؤهّل."
+      },
+      "source": "ref:terminologyenc:11096"
+    }
+  ]
+}

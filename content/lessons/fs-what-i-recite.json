@@ -1,0 +1,239 @@
+{
+  "id": "fs-what-i-recite",
+  "subject": "quran",
+  "level": 1,
+  "tracks": [
+    "first-steps"
+  ],
+  "minutes": 5,
+  "title": {
+    "en": "What I recite in prayer",
+    "ar": "ماذا أقرأ في صلاتي؟"
+  },
+  "summary": {
+    "en": "Al-Fatiha, recited in every unit of prayer, and a few short chapters a new Muslim can learn first.",
+    "ar": "الفاتحة التي تُقرأ في كل ركعة، وسورٌ قصيرة يسهل على المسلم الجديد أن يبدأ بها."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The chapter you cannot skip",
+        "ar": "السورة التي لا غنى عنها"
+      },
+      "body": {
+        "en": "In every unit of prayer, a Muslim recites the opening chapter of the Quran, Al-Fatiha. The Prophet ﷺ taught that there is no prayer for someone who does not recite it. It is only seven short verses, so it is the very first thing to learn. Do not worry if it feels hard at first; everyone begins here, and it quickly becomes familiar.",
+        "ar": "في كل ركعة من الصلاة يقرأ المسلم سورة الفاتحة، فاتحة الكتاب. وقد بيّن النبي ﷺ أن صلاة من لم يقرأها لا تصحّ. وهي سبع آيات قصيرة فقط، فهي أول ما تتعلّمه. ولا تقلق إن بدت صعبة في البداية؛ فالجميع يبدأ من هنا، وسرعان ما تألفها."
+      },
+      "takeaway": {
+        "en": "Al-Fatiha is recited in every unit of the prayer.",
+        "ar": "الفاتحة تُقرأ في كل ركعة من الصلاة."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:bukhari:756"
+      ]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "How Al-Fatiha opens",
+        "ar": "كيف تبدأ الفاتحة"
+      },
+      "takeaway": {
+        "en": "It begins by praising Allah, the Lord of all the worlds.",
+        "ar": "تبدأ بحمد الله ربّ العالمين."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:2"
+      ]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "What Al-Fatiha says",
+        "ar": "معاني الفاتحة"
+      },
+      "body": {
+        "en": "Al-Fatiha is a small conversation with Allah. It opens with His name and praise, and describes Him as full of mercy and as the Owner of the Day of Judgement. Then it turns to Him directly: we worship You alone and ask You alone for help. It ends with the one request we need most, that Allah guide us along the straight path. Knowing the meaning makes the words come alive.",
+        "ar": "الفاتحة محادثةٌ صغيرة مع الله. تبدأ باسمه وحمده، وتصفه بالرحمة الواسعة وبملكه ليوم الدين. ثم تتوجّه إليه مباشرة بأن نخصّه وحده بالعبادة ونطلب العون منه وحده. وتُختم بأعظم ما نحتاجه، أن يهدينا الله الطريق المستقيم. ومعرفة المعنى تجعل الكلمات تنبض بالحياة."
+      },
+      "takeaway": {
+        "en": "Praise, mercy, judgement, worship and help, then guidance.",
+        "ar": "حمدٌ، ورحمة، ويوم الدين، وعبادة واستعانة، ثم هداية."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:1",
+        "quran:1:5",
+        "quran:1:6"
+      ]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Then what is easy",
+        "ar": "ثم ما تيسّر"
+      },
+      "body": {
+        "en": "After Al-Fatiha, in the first units of the prayer, you add some more of the Quran. The Quran itself says to recite what is easy of it, so you are not asked for more than you can manage. A short chapter you have memorised is enough. Over time you can learn more, but the religion never pushes you beyond your capacity.",
+        "ar": "بعد الفاتحة، في الركعتين الأوليين، تضيف شيئًا من القرآن. والقرآن نفسه يقول أن تقرأ ما تيسّر منه، فلا يُطلب منك فوق طاقتك. وتكفيك سورةٌ قصيرة حفظتها. ومع الوقت تتعلّم المزيد، لكن الدين لا يكلّفك ما لا تطيق."
+      },
+      "takeaway": {
+        "en": "After Al-Fatiha, add whatever Quran is easy for you.",
+        "ar": "بعد الفاتحة، أضف ما تيسّر لك من القرآن."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:73:20"
+      ]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Three short chapters",
+        "ar": "ثلاث سور قصيرة"
+      },
+      "body": {
+        "en": "Three short chapters are a gentle place to start. Al-Ikhlas sums up who Allah is: One, utterly self-sufficient, needing nothing. Al-Kawthar, the shortest chapter, reminds the Prophet ﷺ of the abundant good Allah gave him. Al-'Asr is a tiny chapter with a huge lesson: people are at a loss, except those who believe, do good, and encourage one another to truth and patience.",
+        "ar": "ثلاث سور قصيرة بدايةٌ لطيفة. الإخلاص تلخّص من هو الله: أحدٌ صمدٌ لا يحتاج إلى شيء. والكوثر، أقصر سورة، تذكّر النبي ﷺ بالخير الكثير الذي أعطاه الله. والعصر سورةٌ صغيرة بدرسٍ عظيم: الناس في خسران إلا من آمن وعمل الصالحات وتواصى بالحق وبالصبر."
+      },
+      "takeaway": {
+        "en": "Al-Ikhlas, Al-Kawthar and Al-'Asr are good first chapters.",
+        "ar": "الإخلاص والكوثر والعصر سورٌ أُولى مناسبة."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:112:1",
+        "quran:108:1",
+        "quran:103:1"
+      ]
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "A chapter in three lines",
+        "ar": "سورةٌ في ثلاثة أسطر"
+      },
+      "takeaway": {
+        "en": "Surah Al-'Asr opens by swearing by time that people are in loss.",
+        "ar": "تبدأ سورة العصر بالقسم بالعصر أن الإنسان في خسر."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:103:2"
+      ]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "Learn one line at a time",
+        "ar": "احفظ سطرًا سطرًا"
+      },
+      "body": {
+        "en": "Start with Al-Fatiha, a line at a time, repeating each until it settles. Then pick one short chapter and do the same. Listen to a trusted reciter and copy the sounds. Until you have memorised what you need, a teacher can advise you on what to do in prayer. The Prophet ﷺ said the best of you are those who learn the Quran and teach it, so every step you take is loved by Allah.",
+        "ar": "ابدأ بالفاتحة سطرًا سطرًا، تكرّر كل سطر حتى يثبت. ثم اختر سورة قصيرة وافعل مثل ذلك. واستمع إلى قارئٍ موثوق وقلّد النطق. وإلى أن تحفظ ما تحتاجه، يمكن لمعلّمٍ أن يرشدك إلى ما تفعله في الصلاة. وقد أخبر النبي ﷺ أن أفضلكم من تعلّم كتاب الله ثم علّمه غيره، فكل خطوة تخطوها محبوبةٌ عند الله."
+      },
+      "takeaway": {
+        "en": "Memorise slowly; a teacher can guide you meanwhile.",
+        "ar": "احفظ على مهل، ويرشدك المعلّم في الأثناء."
+      },
+      "visual": "steps",
+      "sources": [
+        "hadith:bukhari:5027"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Which chapter is recited in every unit of the prayer?",
+        "ar": "أيّ سورةٍ تُقرأ في كل ركعة من الصلاة؟"
+      },
+      "options": [
+        {
+          "en": "Al-Fatiha",
+          "ar": "الفاتحة"
+        },
+        {
+          "en": "Al-Kawthar",
+          "ar": "الكوثر"
+        },
+        {
+          "en": "Al-Ikhlas",
+          "ar": "الإخلاص"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ said there is no prayer for one who does not recite Al-Fatiha.",
+        "ar": "قال النبي ﷺ لا صلاة لمن لم يقرأ بفاتحة الكتاب."
+      },
+      "source": "hadith:bukhari:756"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "After Al-Fatiha, how much more Quran must you add?",
+        "ar": "بعد الفاتحة، كم يلزمك أن تضيف من القرآن؟"
+      },
+      "options": [
+        {
+          "en": "A whole long chapter every time",
+          "ar": "سورةً طويلة كاملة في كل مرة"
+        },
+        {
+          "en": "Whatever is easy for you",
+          "ar": "ما تيسّر لك"
+        },
+        {
+          "en": "Nothing is ever added",
+          "ar": "لا يُضاف شيء أبدًا"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran says to recite what is easy of it, so you are not burdened.",
+        "ar": "يقول القرآن أن تقرأ ما تيسّر منه، فلا تُكلَّف فوق طاقتك."
+      },
+      "source": "quran:73:20"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "What is the central message of Surah Al-'Asr?",
+        "ar": "ما الرسالة المحورية في سورة العصر؟"
+      },
+      "options": [
+        {
+          "en": "Only the wealthy succeed",
+          "ar": "لا ينجح إلا الأغنياء"
+        },
+        {
+          "en": "Time has no value",
+          "ar": "لا قيمة للوقت"
+        },
+        {
+          "en": "People are at a loss except the believers who do good and advise one another",
+          "ar": "الناس في خسر إلا المؤمنين العاملين المتواصين بالحق والصبر"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The chapter says all are in loss except those who believe, do good, and advise each other to truth and patience.",
+        "ar": "تذكر السورة أن الجميع في خسر إلا من آمن وعمل الصالحات وتواصى بالحق والصبر."
+      },
+      "source": "quran:103:3"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "dp-qadar-and-choice",
+  "subject": "aqidah",
+  "level": 2,
+  "tracks": ["deepen"],
+  "minutes": 7,
+  "title": {
+    "en": "Divine decree and human choice",
+    "ar": "القدر واختيار الإنسان"
+  },
+  "summary": {
+    "en": "Belief in Allah's decree alongside real human choice, and how the two fit together in a believer's life.",
+    "ar": "الإيمان بقدر الله مع اختيار الإنسان الحقيقي، وكيف يجتمعان في حياة المؤمن."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "A pillar of faith",
+        "ar": "ركن من الإيمان"
+      },
+      "body": {
+        "en": "When the angel Jibril came to question the Prophet ﷺ about the religion, the answer about faith included believing in Allah's decree, its good and its hard parts. So qadar, divine decree, is one of the pillars of faith. This course stays close to what the texts actually say. It does not enter the deep debates that have divided people; its aim is a calm, practical belief that steadies the heart rather than unsettles it.",
+        "ar": "لما جاء جبريل عليه السلام يسأل النبي ﷺ عن الدين، كان من جواب الإيمان: الإيمان بالقدر خيره وشرّه. فالقدر ركن من أركان الإيمان. وهذا الدرس يلزم ما تدل عليه النصوص، ولا يخوض في الجدل العميق الذي فرّق الناس، بل غايته إيمان هادئ عملي يثبّت القلب لا يقلقه."
+      },
+      "takeaway": {
+        "en": "Belief in Allah's decree is a pillar of faith.",
+        "ar": "الإيمان بالقدر ركن من أركان الإيمان."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:8a"]
+    },
+    {
+      "id": "c2",
+      "kind": "concept",
+      "title": {
+        "en": "Everything by a measure",
+        "ar": "كل شيء بمقدار"
+      },
+      "body": {
+        "en": "The Quran teaches that Allah created everything with a measure, and that no misfortune strikes the earth or ourselves except that it was already written before He brought it about. Nothing falls outside His knowledge and His decree. This is not meant to crush us; the same passage says it is so that we do not grieve too much over what escapes us, nor become arrogant over what we are given. The decree is a reason for calm, not despair.",
+        "ar": "يعلّمنا القرآن أن الله خلق كل شيء بمقدار، وأنه ما من مصيبة تنزل بنا أو بما حولنا إلا وقد سبق تدوينها قبل أن يُوجدها. فلا شيء يخرج عن علمه وقدره. وليس هذا ليحطّمنا؛ فالسياق نفسه يبيّن أن ذلك لئلا نحزن كثيرًا على ما فاتنا ولا نفرح فرح البطر بما أُوتينا. فالقدر داعٍ إلى الطمأنينة لا إلى اليأس."
+      },
+      "takeaway": {
+        "en": "Nothing happens outside Allah's knowledge and decree.",
+        "ar": "لا يقع شيء خارج علم الله وقدره."
+      },
+      "visual": "none",
+      "sources": ["quran:54:49", "quran:57:22", "quran:57:23"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "A path and a choice",
+        "ar": "طريق واختيار"
+      },
+      "body": {
+        "en": "Alongside the decree, the Quran affirms that we really do choose. It says Allah guided the human being to the road, to walk it in gratitude or ingratitude, and that the truth has come from the Lord, so let whoever wishes believe. It even describes how the soul was shaped and shown its wickedness and its mindfulness. Decree does not turn us into puppets; we are shown the road and we walk it by our own will, and we will answer for the direction we take.",
+        "ar": "إلى جانب القدر، يثبت القرآن أننا نختار حقيقةً. فيذكر أن الله دلّ الإنسان على الطريق ليسلكه شاكرًا أو كافرًا، وأن الحق جاء من عند الرب فليؤمن من أراد. بل يصف كيف سُوّيت النفس وأُلهمت فجورها وتقواها. فالقدر لا يجعلنا دُمى؛ بل يُبيَّن لنا الطريق فنسلكه بإرادتنا، ونُسأل عن الوجهة التي نختارها."
+      },
+      "takeaway": {
+        "en": "Allah shows us the way; we choose and are accountable.",
+        "ar": "يبيّن الله لنا الطريق، ونحن نختار ونُحاسَب."
+      },
+      "visual": "none",
+      "sources": ["quran:76:3", "quran:18:29", "quran:91:7", "quran:91:8"]
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Belief or disbelief",
+        "ar": "الإيمان أو الكفر"
+      },
+      "takeaway": {
+        "en": "The verse makes belief a real choice placed before each person.",
+        "ar": "تجعل الآية الإيمان خيارًا حقيقيًّا موضوعًا أمام كل إنسان."
+      },
+      "visual": "book",
+      "sources": ["quran:18:29"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "So act, do not give up",
+        "ar": "فاعمل ولا تعجز"
+      },
+      "body": {
+        "en": "When the Companions heard that each person's place is already written, they asked whether they should simply rely on that and stop striving. The Prophet ﷺ told them to act, for each is made ready for what he was created for. The decree is never an excuse for passivity. He also taught us not to say 'if only', since that opens the door to regret and to the whispering of Shaytan; instead we say that this is Allah's decree, and we keep moving forward.",
+        "ar": "لما سمع الصحابة أن مقعد كل أحد قد كُتب، سألوا: أفلا نتّكل على ذلك وندع العمل؟ فأمرهم النبي ﷺ أن يعملوا، فكل أحد مُهيّأٌ ومُيسّر لغاية خلقه. فالقدر ليس عذرًا للكسل أبدًا. وعلّمنا ألّا نقول «لو»، فإنها تفتح باب الندم ووسوسة الشيطان؛ بل نردّ الأمر إلى تقدير الله ومشيئته، ونمضي قُدُمًا."
+      },
+      "takeaway": {
+        "en": "Decree is never an excuse to stop striving.",
+        "ar": "القدر ليس عذرًا لترك العمل."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:4949", "hadith:muslim:2664"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "The believer always gains",
+        "ar": "المؤمن رابح دائمًا"
+      },
+      "body": {
+        "en": "The Prophet ﷺ marvelled that the believer's whole affair is good: if ease comes he thanks Allah and that is good for him, and if hardship comes he is patient and that too is good for him. No one else has this. Faith in the decree does not remove our feelings, but it reframes them: no disaster strikes except by Allah's permission, and whoever believes in Allah, his heart is guided. Gratitude in good times and patience in hard times keep us profiting either way.",
+        "ar": "عجب النبي ﷺ من أمر المؤمن، فإن أمره كله خير: إن نالته نعمةٌ وسرور شكر فعاد ذلك عليه بالخير، وإن نزل به ضُرٌّ صبر فعاد عليه بالخير أيضًا، وليس ذلك لأحد سواه. والإيمان بالقدر لا يلغي مشاعرنا، لكنه يعيد تأطيرها: فما من مصيبة تنزل إلا وقد أذن الله بها، ومن آمن بالله هدى قلبه. فالشكر في السرّاء والصبر في الضرّاء يُبقياننا رابحين في الحالين."
+      },
+      "takeaway": {
+        "en": "Thank Allah in ease, be patient in hardship; both are good.",
+        "ar": "اشكر في السرّاء واصبر في الضرّاء، وكلاهما خير."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:2999", "quran:64:11"]
+    },
+    {
+      "id": "c7",
+      "kind": "check",
+      "title": {
+        "en": "Hold both together",
+        "ar": "اجمع بينهما"
+      },
+      "body": {
+        "en": "A believer holds two truths at once: Allah's decree encompasses all things, and our own choices and effort are real and matter. Faced with a difficulty, you plan, you take the means, you ask Allah for help, and then you rest your heart in His decree about the outcome. Think of one situation you are facing now. What is the action within your power to take, and can you entrust the result to Allah without saying 'if only'?",
+        "ar": "يجمع المؤمن بين حقيقتين معًا: قدر الله محيط بكل شيء، واختيارنا وسعينا حقيقيان لهما أثر. فأمام الصعوبة تخطّط وتأخذ بالأسباب وتستعين بالله، ثم تُسكن قلبك إلى قدره في النتيجة. تأمّل موقفًا تواجهه الآن. ما العمل الذي في وُسعك أن تفعله، وهل تستطيع أن تكل النتيجة إلى الله دون أن تقول «لو»؟"
+      },
+      "takeaway": {
+        "en": "Take the means, then trust Allah with the result.",
+        "ar": "خذ بالأسباب، ثم كِل النتيجة إلى الله."
+      },
+      "visual": "none",
+      "sources": ["hadith:muslim:2664"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "Belief in qadar is…",
+        "ar": "الإيمان بالقدر…"
+      },
+      "options": [
+        {
+          "en": "An optional extra",
+          "ar": "أمر اختياري زائد"
+        },
+        {
+          "en": "A pillar of faith named in the hadith of Jibril",
+          "ar": "ركن من الإيمان ورد في حديث جبريل"
+        },
+        {
+          "en": "Something only scholars believe",
+          "ar": "شيء يؤمن به العلماء وحدهم"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "In the hadith of Jibril, belief in the decree, its good and bad, is part of iman.",
+        "ar": "في حديث جبريل، الإيمان بالقدر خيره وشرّه من الإيمان."
+      },
+      "source": "hadith:muslim:8a"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "When told their places were written, what did the Prophet ﷺ tell the Companions?",
+        "ar": "لما قيل إن المقاعد كُتبت، بم أمر النبي ﷺ الصحابة؟"
+      },
+      "options": [
+        {
+          "en": "To act, for each is made ready for what he was created for",
+          "ar": "أن يعملوا، فكلٌّ ميسَّر لما خُلق له"
+        },
+        {
+          "en": "To stop striving and rely on what is written",
+          "ar": "أن يدعوا العمل ويتّكلوا على ما كُتب"
+        },
+        {
+          "en": "To keep it secret",
+          "ar": "أن يكتموا ذلك"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "He told them to carry on acting, since each is facilitated toward what he was created for.",
+        "ar": "أمرهم أن يعملوا، فكل ميسَّر لما خُلق له."
+      },
+      "source": "hadith:bukhari:4949"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "How does the believer gain in both ease and hardship?",
+        "ar": "كيف يربح المؤمن في السرّاء والضرّاء؟"
+      },
+      "options": [
+        {
+          "en": "By complaining in both",
+          "ar": "بالشكوى في الحالين"
+        },
+        {
+          "en": "Only when things are easy",
+          "ar": "في اليسر فقط"
+        },
+        {
+          "en": "By thanking Allah in ease and being patient in hardship",
+          "ar": "بالشكر في اليسر والصبر في الشدة"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Prophet ﷺ taught that the believer's affair is all good: gratitude in ease and patience in hardship.",
+        "ar": "علّم النبي ﷺ أن أمر المؤمن كله خير: شكر في السرّاء وصبر في الضرّاء."
+      },
+      "source": "hadith:muslim:2999"
+    }
+  ]
+}

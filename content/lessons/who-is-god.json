@@ -1,0 +1,266 @@
+{
+  "id": "who-is-god",
+  "subject": "aqidah",
+  "tracks": ["explore", "deepen"],
+  "level": 1,
+  "minutes": 4,
+  "title": {
+    "en": "Who do Muslims worship?",
+    "ar": "من يعبد المسلمون؟"
+  },
+  "summary": {
+    "en": "The one God in plain words, and the name Muslims give to this belief: Tawhid.",
+    "ar": "الإله الواحد بكلمات بسيطة، والاسم الذي يُطلقه المسلمون على هذا الاعتقاد: التوحيد."
+  },
+  "cover": "/img/lessons/who-is-god.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "One God",
+        "ar": "إله واحد"
+      },
+      "body": {
+        "en": "Muslims believe in one God: the Creator of everything that exists, with no partner, no child and no equal. \"Allah\" is simply the Arabic word for God. Arabic-speaking Christians use the same word in their prayers.",
+        "ar": "يؤمن المسلمون بإله واحد هو خالق كل شيء، لا شريك له ولا ولد ولا نظير. و«الله» هو اسم الإله في اللغة العربية، ويستعمله المسيحيون العرب أيضًا في صلواتهم."
+      },
+      "takeaway": {
+        "en": "\"Allah\" means God: the one Creator of all.",
+        "ar": "«الله» هو الإله الواحد خالق كل شيء."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:112:1"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c1.en.mp3",
+        "ar": "/audio/who-is-god/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "In the Quran's own words",
+        "ar": "بكلمات القرآن"
+      },
+      "takeaway": {
+        "en": "A short chapter, Al-Ikhlas, opens by declaring that God is One.",
+        "ar": "تبدأ سورة الإخلاص القصيرة بإعلان أن الله أحد."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:112:1"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c2.en.mp3",
+        "ar": "/audio/who-is-god/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The rest of that chapter",
+        "ar": "بقية السورة"
+      },
+      "body": {
+        "en": "The same chapter continues: God is the one everyone turns to in need. He does not have children and was not born. Nothing is equal to Him. In four short verses it sets out who God is, and who He is not.",
+        "ar": "وتكمل السورة نفسها: الله هو الذي يقصده الخلق في حاجاتهم، ليس له ولد ولا والد، ولا أحد يساويه. فتبيّن في أربع آيات قصيرة من هو الله، وما ليس من صفته."
+      },
+      "takeaway": {
+        "en": "Not born, has no child, has no equal.",
+        "ar": "لا ولد له ولا والد، ولا مثيل له."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:112:2",
+        "quran:112:3",
+        "quran:112:4"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c3.en.mp3",
+        "ar": "/audio/who-is-god/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "This belief has a name: Tawhid",
+        "ar": "لهذا الاعتقاد اسم: التوحيد"
+      },
+      "body": {
+        "en": "Muslims call this belief Tawhid, which means affirming God's oneness. It has three sides. God alone creates and sustains everything. God alone deserves worship. And His names and attributes are unlike anything in creation. Tawhid is more than saying there is \"one\" God: it shapes who a Muslim prays to, relies on and loves above all.",
+        "ar": "يسمّي المسلمون هذا الاعتقاد «التوحيد»، أي إفراد الله بما يختص به. وله ثلاثة جوانب: أن الله وحده الخالق المدبّر لكل شيء، وأنه وحده المستحق للعبادة، وأن أسماءه وصفاته لا يشبهها شيء من خلقه. والتوحيد ليس مجرد عدد، بل يحدّد لمن يصلّي المسلم، وعلى من يتوكّل، ومن يحبّ فوق كل شيء."
+      },
+      "takeaway": {
+        "en": "Tawhid: God alone creates, God alone is worshipped, nothing is like Him.",
+        "ar": "التوحيد: الله وحده الخالق، ووحده المعبود، وليس كمثله شيء."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:42:11",
+        "quran:1:5"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c4.en.mp3",
+        "ar": "/audio/who-is-god/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "quote",
+      "title": {
+        "en": "Nothing is like Him",
+        "ar": "ليس كمثله شيء"
+      },
+      "takeaway": {
+        "en": "God is not imagined in the image of anything we know.",
+        "ar": "لا يُتصوَّر الله على صورة شيء نعرفه."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:42:11"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c5.en.mp3",
+        "ar": "/audio/who-is-god/c5.ar.mp3"
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "The Verse of the Throne",
+        "ar": "آية الكرسي"
+      },
+      "takeaway": {
+        "en": "Ever-living, never tired, never sleeping, knowing all things. Many Muslims recite this verse daily.",
+        "ar": "حيّ لا يموت، لا ينعس ولا ينام، يعلم كل شيء. ويقرأ كثير من المسلمين هذه الآية كل يوم."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:2:255"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c6.en.mp3",
+        "ar": "/audio/who-is-god/c6.ar.mp3"
+      }
+    },
+    {
+      "id": "c7",
+      "kind": "concept",
+      "title": {
+        "en": "What it means day to day",
+        "ar": "أثره في الحياة اليومية"
+      },
+      "body": {
+        "en": "Because God alone deserves worship, Muslims pray to Him directly. There are no intermediaries, and no priest is needed to reach Him. In every prayer a Muslim recites Al-Fatiha, which declares that worship and help are sought from God alone.",
+        "ar": "لأن الله وحده المستحق للعبادة، يدعوه المسلم مباشرة بلا وسطاء، ولا يحتاج إلى كاهن ليصل إليه. وفي كل صلاة يقرأ المسلم سورة الفاتحة التي تقرّر أن العبادة والاستعانة لا تكونان إلا لله."
+      },
+      "takeaway": {
+        "en": "Every Muslim speaks to God directly.",
+        "ar": "كل مسلم يناجي ربه مباشرة."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:5"
+      ],
+      "audio": {
+        "en": "/audio/who-is-god/c7.en.mp3",
+        "ar": "/audio/who-is-god/c7.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "Explain to someone who has never heard of Islam who Muslims worship.",
+      "ar": "اشرح لشخص لم يسمع بالإسلام من قبل: من يعبد المسلمون؟"
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Muslims worship one God, with no partner, child or equal",
+        "ar": "يعبد المسلمون إلهًا واحدًا لا شريك له ولا ولد ولا نظير",
+        "source": "quran:112:1"
+      },
+      {
+        "id": "k2",
+        "en": "\"Allah\" is the Arabic word for God",
+        "ar": "«الله» هو اسم الإله في العربية",
+        "source": null
+      },
+      {
+        "id": "k3",
+        "en": "This belief is called Tawhid: affirming God's oneness",
+        "ar": "يسمّى هذا الاعتقاد التوحيد",
+        "source": "quran:42:11"
+      },
+      {
+        "id": "k4",
+        "en": "Muslims pray to God directly, without intermediaries",
+        "ar": "يدعو المسلمون الله مباشرة بلا وسطاء",
+        "source": "quran:1:5"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What does \"Allah\" mean?",
+        "ar": "ما معنى كلمة «الله»؟"
+      },
+      "options": [
+        {
+          "en": "It is the Arabic word for God",
+          "ar": "هو اسم الإله في العربية"
+        },
+        {
+          "en": "It is the name of a prophet",
+          "ar": "هو اسم نبي"
+        },
+        {
+          "en": "It is a god only for Arabs",
+          "ar": "هو إله للعرب وحدهم"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Allah is the Arabic name for the one God; Arabic-speaking Christians use it too.",
+        "ar": "الله هو اسم الإله الواحد بالعربية، ويستعمله المسيحيون العرب أيضًا."
+      },
+      "source": null
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "What is Tawhid?",
+        "ar": "ما التوحيد؟"
+      },
+      "options": [
+        {
+          "en": "Affirming that God is One, alone deserving worship",
+          "ar": "إفراد الله بالربوبية والعبادة والأسماء والصفات"
+        },
+        {
+          "en": "A type of prayer",
+          "ar": "نوع من الصلاة"
+        },
+        {
+          "en": "A holiday",
+          "ar": "عيد من الأعياد"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tawhid means affirming God's oneness: in creation, in worship, and in His names and attributes.",
+        "ar": "التوحيد إفراد الله في الخلق والعبادة والأسماء والصفات."
+      },
+      "source": "quran:42:11"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "id": "al-fatiha-meaning",
+  "subject": "quran",
+  "tracks": ["explore", "deepen"],
+  "level": 1,
+  "minutes": 8,
+  "title": {
+    "en": "Understand Al-Fatiha",
+    "ar": "افهم سورة الفاتحة"
+  },
+  "summary": {
+    "en": "You recite it in every unit of every prayer. Here is what each verse means, as classical scholars explain it.",
+    "ar": "تقرؤها في كل ركعة من كل صلاة. هذا معنى كل آية منها كما يشرحه العلماء."
+  },
+  "cover": "/img/lessons/al-fatiha-meaning.webp",
+  "status": "published",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "A conversation, not a recitation",
+        "ar": "مناجاة لا مجرد تلاوة"
+      },
+      "body": {
+        "en": "In an authentic hadith, the Prophet ﷺ relates that God says He has divided the prayer between Himself and His servant. With each verse of Al-Fatiha that you recite, God responds. Understanding the words turns a recitation you know by heart into a conversation.",
+        "ar": "في حديث صحيح يخبر النبي ﷺ أن الله تعالى قسم الصلاة بينه وبين عبده نصفين، فكلما قرأ العبد آية من الفاتحة أجابه الله. وفهم الكلمات يحوّل ما تحفظه وتردّده إلى مناجاة حقيقية."
+      },
+      "takeaway": {
+        "en": "Every verse you recite is answered.",
+        "ar": "كل آية تقرؤها لها جواب."
+      },
+      "visual": "none",
+      "sources": [
+        "hadith:muslim:395"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c1.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c1.ar.mp3"
+      }
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 1",
+        "ar": "الآية الأولى"
+      },
+      "takeaway": {
+        "en": "You begin in God's name, calling on His mercy.",
+        "ar": "تبدأ باسم الله مستعينًا برحمته."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:1"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c2.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c2.ar.mp3"
+      }
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "Two names of mercy",
+        "ar": "اسمان من الرحمة"
+      },
+      "body": {
+        "en": "Both names come from the root for mercy. Classical scholars explain al-Rahman as mercy so vast it reaches all of creation, and al-Rahim as mercy that reaches the believers in particular. Scholars differ on whether this opening verse is counted as a verse of Al-Fatiha itself or as a separator between chapters. Either way, it is recited.",
+        "ar": "الاسمان مشتقّان من الرحمة. ويشرح العلماء «الرحمن» بأنه ذو الرحمة الواسعة التي تعمّ الخلق كلهم، و«الرحيم» بأنه ذو الرحمة الخاصة بالمؤمنين. واختلف العلماء: هل البسملة آية من الفاتحة أم فاصلة بين السور؟ وهي تُقرأ على كل حال."
+      },
+      "takeaway": {
+        "en": "Mercy for everyone, and special mercy for believers.",
+        "ar": "رحمة تعمّ الجميع، ورحمة خاصة بالمؤمنين."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:1"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c3.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c3.ar.mp3"
+      }
+    },
+    {
+      "id": "c4",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 2",
+        "ar": "الآية الثانية"
+      },
+      "takeaway": {
+        "en": "All praise belongs to God, the Lord of all the worlds.",
+        "ar": "الحمد كله لله، ربّ العوالم كلها."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:2"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c4.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c4.ar.mp3"
+      }
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Praise, and what \"Lord\" means",
+        "ar": "الحمد، ومعنى «الربّ»"
+      },
+      "body": {
+        "en": "Scholars explain that praise (hamd) is thanking God and also praising Him for who He is, beyond what He gives. \"Lord\" (Rabb) means the One who creates, owns, provides for and raises up His creation step by step. \"The worlds\" covers everything other than God: people, jinn, animals, and all that exists.",
+        "ar": "يبيّن العلماء أن الحمد ثناء على الله بصفاته وأفعاله، وهو أعمّ من الشكر على النعمة. و«الربّ» هو الخالق المالك الرازق الذي يربّي خلقه شيئًا فشيئًا. و«العالمين» تشمل كل ما سوى الله من إنس وجن وحيوان وسائر المخلوقات."
+      },
+      "takeaway": {
+        "en": "You praise Him for who He is, not only for what He gives.",
+        "ar": "تحمده لذاته وصفاته، لا لعطائه فقط."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:2"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c5.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c5.ar.mp3"
+      }
+    },
+    {
+      "id": "c6",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 3",
+        "ar": "الآية الثالثة"
+      },
+      "takeaway": {
+        "en": "Mercy is mentioned again, straight after His lordship.",
+        "ar": "تتكرّر الرحمة بعد ذكر الربوبية مباشرة."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:3"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c6.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c6.ar.mp3"
+      }
+    },
+    {
+      "id": "c7",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 4",
+        "ar": "الآية الرابعة"
+      },
+      "takeaway": {
+        "en": "He alone is Master of the Day of Judgement.",
+        "ar": "هو وحده المالك ليوم الجزاء."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:4"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c7.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c7.ar.mp3"
+      }
+    },
+    {
+      "id": "c8",
+      "kind": "concept",
+      "title": {
+        "en": "Hope and awe together",
+        "ar": "الرجاء والخوف معًا"
+      },
+      "body": {
+        "en": "Verse 3 returns to mercy. Verse 4 then speaks of the Day of Recompense, when every deed is accounted for. Scholars note that the pairing keeps a believer balanced: hoping in God's mercy without forgetting that every deed will be accounted for, and taking that accountability seriously without despairing of His mercy.",
+        "ar": "تعود الآية الثالثة إلى ذكر الرحمة، ثم تذكر الآية الرابعة يوم الدين حين يُجازى كل عمل. ويلاحظ العلماء أن هذا الاقتران يحفظ توازن المؤمن: يرجو رحمة الله ولا ينسى الحساب، ويخشى الحساب ولا ييأس من الرحمة."
+      },
+      "takeaway": {
+        "en": "Mercy and accountability, side by side.",
+        "ar": "الرحمة والحساب جنبًا إلى جنب."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:3",
+        "quran:1:4"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c8.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c8.ar.mp3"
+      }
+    },
+    {
+      "id": "c9",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 5: the heart of the chapter",
+        "ar": "الآية الخامسة: قلب السورة"
+      },
+      "takeaway": {
+        "en": "Worship and asking for help are directed to God alone.",
+        "ar": "العبادة والاستعانة موجّهتان إلى الله وحده."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:5"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c9.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c9.ar.mp3"
+      }
+    },
+    {
+      "id": "c10",
+      "kind": "concept",
+      "title": {
+        "en": "Why \"You\" comes first",
+        "ar": "لماذا قُدِّم «إياك»"
+      },
+      "body": {
+        "en": "In Arabic the verse puts \"You\" before the verbs. Classical scholars explain that this word order expresses exclusivity: You, and no one else. Here the chapter turns from speaking about God to speaking to Him directly. This verse is Tawhid in practice: worship belongs to Him alone, and real reliance is on Him alone.",
+        "ar": "قُدِّم الضمير «إياك» على الفعلين، ويبيّن العلماء أن تقديم المعمول يفيد الحصر: إياك لا غيرك. وفي هذه الآية تنتقل السورة من الحديث عن الله إلى مخاطبته مباشرة. وهي التوحيد عمليًا: العبادة له وحده، والتوكّل عليه وحده."
+      },
+      "takeaway": {
+        "en": "From speaking about God to speaking to Him.",
+        "ar": "من الحديث عن الله إلى مخاطبته."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:5"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c10.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c10.ar.mp3"
+      }
+    },
+    {
+      "id": "c11",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 6",
+        "ar": "الآية السادسة"
+      },
+      "takeaway": {
+        "en": "The one request in the chapter: guidance.",
+        "ar": "الطلب الوحيد في السورة: الهداية."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:6"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c11.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c11.ar.mp3"
+      }
+    },
+    {
+      "id": "c12",
+      "kind": "quote",
+      "title": {
+        "en": "Verse 7",
+        "ar": "الآية السابعة"
+      },
+      "takeaway": {
+        "en": "The straight path is the path of those God has blessed.",
+        "ar": "الصراط المستقيم طريق الذين أنعم الله عليهم."
+      },
+      "visual": "book",
+      "sources": [
+        "quran:1:7"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c12.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c12.ar.mp3"
+      }
+    },
+    {
+      "id": "c13",
+      "kind": "concept",
+      "title": {
+        "en": "The only request",
+        "ar": "الطلب الوحيد"
+      },
+      "body": {
+        "en": "After praising God, you ask for one thing: guidance to the straight path. Scholars explain that a believer needs this guidance constantly, which is why it is asked for in every unit of prayer. The verse then describes two ways to stray. Classical commentators explain them as knowing the truth and abandoning it, and losing the way through not knowing it. The request covers both knowledge and action.",
+        "ar": "بعد الثناء على الله تسأله شيئًا واحدًا: الهداية إلى الصراط المستقيم. ويبيّن العلماء أن المؤمن يحتاج إلى هذه الهداية في كل حين، ولذلك يسألها في كل ركعة. ثم تذكر الآية طريقين للانحراف، يشرحهما المفسّرون بأنهما: ترك الحق بعد معرفته، والضلال عنه بسبب الجهل به. فالدعاء يجمع بين العلم والعمل."
+      },
+      "takeaway": {
+        "en": "Guidance to know the truth, and to live by it.",
+        "ar": "هداية لمعرفة الحق، وللعمل به."
+      },
+      "visual": "none",
+      "sources": [
+        "quran:1:6",
+        "quran:1:7"
+      ],
+      "audio": {
+        "en": "/audio/al-fatiha-meaning/c13.en.mp3",
+        "ar": "/audio/al-fatiha-meaning/c13.ar.mp3"
+      }
+    }
+  ],
+  "explain_back": {
+    "prompt": {
+      "en": "Explain what you are saying when you recite Al-Fatiha.",
+      "ar": "اشرح ما الذي تقوله حين تقرأ سورة الفاتحة."
+    },
+    "key_ideas": [
+      {
+        "id": "k1",
+        "en": "Praising God as Lord of all the worlds",
+        "ar": "الثناء على الله ربّ العالمين",
+        "source": "quran:1:2"
+      },
+      {
+        "id": "k2",
+        "en": "His mercy, which is mentioned twice",
+        "ar": "ذكر رحمته، وقد تكرّرت",
+        "source": "quran:1:3"
+      },
+      {
+        "id": "k3",
+        "en": "He is Master of the Day of Judgement",
+        "ar": "هو مالك يوم الدين",
+        "source": "quran:1:4"
+      },
+      {
+        "id": "k4",
+        "en": "Worshipping Him alone and asking Him alone for help",
+        "ar": "عبادته وحده والاستعانة به وحده",
+        "source": "quran:1:5"
+      },
+      {
+        "id": "k5",
+        "en": "Asking for guidance to the straight path",
+        "ar": "سؤال الهداية إلى الصراط المستقيم",
+        "source": "quran:1:6"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the one request made in Al-Fatiha?",
+        "ar": "ما الطلب الوحيد في سورة الفاتحة؟"
+      },
+      "options": [
+        {
+          "en": "Wealth",
+          "ar": "المال"
+        },
+        {
+          "en": "Guidance to the straight path",
+          "ar": "الهداية إلى الصراط المستقيم"
+        },
+        {
+          "en": "Forgiveness of sins",
+          "ar": "مغفرة الذنوب"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Verse 6 asks God for guidance to the straight path.",
+        "ar": "الآية السادسة سؤال الهداية إلى الصراط المستقيم."
+      },
+      "source": "quran:1:6"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Placing \"You\" first in verse 5 expresses…",
+        "ar": "تقديم «إياك» في الآية الخامسة يفيد…"
+      },
+      "options": [
+        {
+          "en": "Exclusivity: You alone",
+          "ar": "الحصر: إياك وحدك"
+        },
+        {
+          "en": "A question",
+          "ar": "الاستفهام"
+        },
+        {
+          "en": "Nothing in particular",
+          "ar": "لا شيء محدد"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Classical scholars explain the word order as exclusivity: worship and help are sought from God alone.",
+        "ar": "يبيّن العلماء أن التقديم يفيد الحصر: العبادة والاستعانة لله وحده."
+      },
+      "source": "quran:1:5"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "According to the hadith, what happens when you recite Al-Fatiha in prayer?",
+        "ar": "بحسب الحديث، ماذا يحدث حين تقرأ الفاتحة في الصلاة؟"
+      },
+      "options": [
+        {
+          "en": "God responds to each verse",
+          "ar": "يجيب الله على كل آية"
+        },
+        {
+          "en": "Nothing is said in reply",
+          "ar": "لا يكون هناك جواب"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Prophet ﷺ relates that God says He has divided the prayer between Himself and His servant, and answers each verse.",
+        "ar": "أخبر النبي ﷺ أن الله قسم الصلاة بينه وبين عبده، ويجيب على كل آية."
+      },
+      "source": "hadith:muslim:395"
+    }
+  ]
+}

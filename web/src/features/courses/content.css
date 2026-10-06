@@ -1,0 +1,9 @@
+/* Quoted Quran, hadith and reference text: one calm card wherever it appears. */
+.source-quote { position: relative; overflow: hidden; padding: 18px 20px; border: 1px solid var(--color-brand-100); border-inline-start: 4px solid var(--color-brand-400); border-radius: 18px; background: linear-gradient(135deg, var(--color-brand-50), #fbfdff 75%); }
+.source-quote::after { content: "\201D"; position: absolute; inset-inline-end: 14px; top: 2px; font-family: Georgia, serif; font-size: 84px; line-height: 1; color: var(--color-brand-100); opacity: 0.7; pointer-events: none; }
+.source-quote > * { position: relative; z-index: 1; }
+.is-compact:where(.source-quote) { padding: 14px 16px; border-radius: 16px; }
+.source-quote-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 10px; font-size: 12px; }
+.source-quote-icon { display: grid; place-items: center; width: 28px; height: 28px; border: 1px solid var(--color-brand-100); border-radius: 9px; background: white; color: var(--color-brand-700); }
+.source-quote-ref { font-weight: 600; color: var(--color-brand-800); }
+

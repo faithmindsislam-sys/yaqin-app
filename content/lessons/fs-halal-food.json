@@ -1,0 +1,226 @@
+{
+  "id": "fs-halal-food",
+  "subject": "fiqh",
+  "level": 1,
+  "tracks": ["first-steps"],
+  "minutes": 6,
+  "title": {
+    "en": "Halal and wholesome food and drink",
+    "ar": "الحلال والطيب في الطعام والشراب"
+  },
+  "summary": {
+    "en": "The simple rule of lawful, good food, the few clear prohibitions, and the manners of eating.",
+    "ar": "القاعدة البسيطة في الطعام الحلال الطيّب، والمحرّمات القليلة الواضحة، وآداب الأكل."
+  },
+  "status": "draft",
+  "cards": [
+    {
+      "id": "c1",
+      "kind": "concept",
+      "title": {
+        "en": "The default is yes",
+        "ar": "الأصل الإباحة"
+      },
+      "body": {
+        "en": "Start with good news: most food and drink is allowed. The Quran invites all people to eat from what is lawful and good on the earth, and tells the believers to eat from the good things provided and to thank Allah. So you do not need a special permission for ordinary food. The lawful is wide, and only a few clearly named things are set aside.",
+        "ar": "ابدأ بالبشرى: أكثر الطعام والشراب مباح. فالقرآن يدعو الناس جميعًا إلى الأكل مما في الأرض حلالًا طيّبًا، ويأمر المؤمنين أن يأكلوا من الطيّبات التي رُزقوها وأن يشكروا الله. فلست بحاجةٍ إلى إذنٍ خاص للطعام المعتاد. فدائرة الحلال واسعة، ولا يُستثنى إلا أمورٌ قليلةٌ مسمّاة بوضوح."
+      },
+      "takeaway": {
+        "en": "Most food and drink is lawful; the default is permission.",
+        "ar": "أكثر الطعام والشراب حلال، والأصل الإباحة."
+      },
+      "visual": "none",
+      "sources": ["quran:2:168", "quran:2:172"]
+    },
+    {
+      "id": "c2",
+      "kind": "quote",
+      "title": {
+        "en": "Eat of the good things",
+        "ar": "كلوا من الطيّبات"
+      },
+      "takeaway": {
+        "en": "The believers are told to eat of the good things and give thanks.",
+        "ar": "يُؤمَر المؤمنون أن يأكلوا من الطيّبات ويشكروا."
+      },
+      "visual": "book",
+      "sources": ["quran:2:172"]
+    },
+    {
+      "id": "c3",
+      "kind": "concept",
+      "title": {
+        "en": "The few that are forbidden",
+        "ar": "المحرّمات القليلة"
+      },
+      "body": {
+        "en": "The Quran names a short list that is not allowed: animals that died without proper slaughter, flowing blood, the meat of swine, and anything dedicated in sacrifice to other than Allah. There is a mercy built in: if someone is truly forced by necessity, with no desire to transgress, there is no sin on them. So the prohibitions are clear and limited, and even they bend in genuine emergency.",
+        "ar": "يذكر القرآن قائمةً قصيرة ليست مباحة: ما مات من الحيوان دون ذكاةٍ صحيحة، والدم المسفوح، ولحمَ الخنزير، وكذلك ما ذُبح على اسم غير الله. وفيها رحمةٌ مبنيّة: فمن اضطُرّ حقًّا من غير بغيٍ ولا تجاوز فلا إثم عليه. فالمحرّمات واضحةٌ ومحدودة، بل تتراخى عند الضرورة الحقيقية."
+      },
+      "takeaway": {
+        "en": "Forbidden: carrion, blood, pork, and what is offered to other than Allah.",
+        "ar": "المحرّم: ما مات بلا ذكاة، والدمُ المسفوح، ولحمُ الخنزير، وما ذُبح لغير الله."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": ["quran:2:173", "quran:5:3"]
+    },
+    {
+      "id": "c4",
+      "kind": "concept",
+      "title": {
+        "en": "Intoxicants",
+        "ar": "المسكرات"
+      },
+      "body": {
+        "en": "Among drinks, intoxicants are set apart. The Quran describes wine and the like as an impure thing arising from Satan's handiwork, and tells the believers to avoid it so that they may succeed. The ruling covers anything that intoxicates, not one named drink only. Leaving it is part of keeping the heart clear for worship and the mind safe. As with everything, a teacher can help with specific questions.",
+        "ar": "ومن المشروبات تُفرَد المسكرات. فالقرآن يصف الخمر ونحوها بأنها رجسٌ من عمل الشيطان، ويأمر المؤمنين باجتنابها لعلّهم يفلحون. والحكم يشمل كل مسكرٍ لا شرابًا واحدًا بعينه. وتركها جزءٌ من صفاء القلب للعبادة وسلامة العقل. وكالعادة، يعينك المعلّم فيما يخصّ من مسائل."
+      },
+      "takeaway": {
+        "en": "Intoxicants are forbidden; avoid whatever clouds the mind.",
+        "ar": "المسكرات محرّمة، فاجتنب كل ما يُذهب العقل."
+      },
+      "visual": "none",
+      "label": "obligatory",
+      "sources": ["quran:5:90"]
+    },
+    {
+      "id": "c5",
+      "kind": "concept",
+      "title": {
+        "en": "Food of the People of the Book",
+        "ar": "طعام أهل الكتاب"
+      },
+      "body": {
+        "en": "The Quran tells Muslims that the food of people who received the earlier Scripture is lawful for them, and that Muslim food is likewise lawful for the People of the Book. This is a general permission, and its details, such as how it applies to meat today, are discussed by scholars. If you face a practical question about a specific product, bring it to a knowledgeable teacher rather than deciding a fine point alone.",
+        "ar": "يخبر القرآن المسلمين أن طعام الذين أُوتوا الكتاب من قبل حلٌّ لهم، وطعامهم حلٌّ لأهل الكتاب. وهذا إذنٌ عام، وتفاصيله، كتطبيقه على اللحوم اليوم، موضع بحثٍ عند العلماء. فإن واجهتك مسألةٌ عملية في منتَجٍ بعينه، فاعرضها على معلّمٍ عالم بدلًا من البتّ في دقيقةٍ وحدك."
+      },
+      "takeaway": {
+        "en": "Their food is permitted in general; leave the fine details to a teacher.",
+        "ar": "طعامهم مباحٌ في الجملة، ودع التفاصيل الدقيقة لأهل العلم."
+      },
+      "visual": "none",
+      "sources": ["quran:5:5"]
+    },
+    {
+      "id": "c6",
+      "kind": "concept",
+      "title": {
+        "en": "Clear, clear, and in between",
+        "ar": "بيّنٌ وبيّنٌ وبينهما"
+      },
+      "body": {
+        "en": "The Prophet ﷺ taught that the lawful is clear and the unlawful is clear, and between them are doubtful matters that many people do not know well. Whoever stays clear of the doubtful protects his faith and honour. So when something is plainly fine, enjoy it with gratitude; when it is plainly forbidden, leave it; and when it is genuinely unclear, it is safer and calmer to step back or to ask.",
+        "ar": "علّم النبي ﷺ أن الحلال واضحٌ وأن الحرام واضح، وأن بينهما أمورًا مشتبهة يخفى علمها على كثيرٍ من الناس، ومن اتّقى تلك المشتبهات استبرأ لدينه وعرضه. فإذا كان الشيء واضح الحلّ فتناوله شاكرًا، وإذا كان واضح الحرمة فاتركه، وإذا كان مشتبهًا حقًّا فالأحوط والأهدأ أن تتوقّف أو تسأل."
+      },
+      "takeaway": {
+        "en": "Enjoy the clearly lawful, leave the clearly forbidden, be careful with the doubtful.",
+        "ar": "تناول البيّن حلّه، واترك البيّن حرمته، وتحرّز في المشتبه."
+      },
+      "visual": "none",
+      "sources": ["hadith:bukhari:52"]
+    },
+    {
+      "id": "c7",
+      "kind": "practice",
+      "title": {
+        "en": "The manners of eating",
+        "ar": "آداب الأكل"
+      },
+      "body": {
+        "en": "Eating well is also worship. The Prophet ﷺ taught a young boy to mention Allah's name before eating, to eat with the right hand, and to eat from what is nearest. And he reminded us that Allah is good and accepts only what is good, so lawful earnings and lawful food matter. Begin with bismillah, use your right hand, and be grateful. Small habits, done for Allah, carry weight.",
+        "ar": "حُسن الأكل عبادةٌ أيضًا. فقد علّم النبي ﷺ غلامًا أن يَذكر اسمَ الله قبل أن يأكل، وأن تكون يده اليمنى هي التي يأكل بها، وأن يتناول ممّا يقرب منه. وذكّرنا أن ربّنا طيّبٌ لا يرضى من العمل والرزق إلّا طيّبه، فالكسب الحلال والطعام الحلال لهما شأن. فابدأ بالبسملة، وكُل بيمينك، واشكر. فالعادات الصغيرة إذا كانت لله لها وزن."
+      },
+      "takeaway": {
+        "en": "Say bismillah, eat with the right hand, from what is near, and be grateful.",
+        "ar": "ابدأ بذكر الله، وتناوَل بيمينك، ممّا يليك، واشكر."
+      },
+      "visual": "steps",
+      "label": "recommended",
+      "sources": ["hadith:bukhari:5376", "hadith:muslim:1015"]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": {
+        "en": "What is the general rule about food and drink?",
+        "ar": "ما القاعدة العامة في الطعام والشراب؟"
+      },
+      "options": [
+        {
+          "en": "Most of it is forbidden",
+          "ar": "أكثره محرّم"
+        },
+        {
+          "en": "Most of it is lawful and good",
+          "ar": "أكثره حلالٌ طيّب"
+        },
+        {
+          "en": "Only meat is allowed",
+          "ar": "اللحم فقط مباح"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Quran invites eating from what is lawful and good; the default is permission.",
+        "ar": "يدعو القرآن إلى الأكل مما هو حلالٌ طيّب، والأصل الإباحة."
+      },
+      "source": "quran:2:168"
+    },
+    {
+      "id": "q2",
+      "question": {
+        "en": "Which is named among the forbidden foods?",
+        "ar": "أيّ هذه مذكورٌ ضمن المحرّمات؟"
+      },
+      "options": [
+        {
+          "en": "Bread",
+          "ar": "الخبز"
+        },
+        {
+          "en": "Dates",
+          "ar": "التمر"
+        },
+        {
+          "en": "The meat of swine",
+          "ar": "لحم الخنزير"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Quran names carrion, blood, pork and what is dedicated to other than Allah.",
+        "ar": "يذكر القرآن الميتة والدم ولحم الخنزير وما أُهلّ لغير الله."
+      },
+      "source": "quran:2:173"
+    },
+    {
+      "id": "q3",
+      "question": {
+        "en": "The Prophet ﷺ taught that between the clearly lawful and clearly unlawful there are…",
+        "ar": "علّم النبي ﷺ أن بين البيّن حلّه والبيّن حرمته…"
+      },
+      "options": [
+        {
+          "en": "Doubtful matters it is safer to avoid",
+          "ar": "أمورًا مشتبهة الأحوط تركها"
+        },
+        {
+          "en": "Nothing at all",
+          "ar": "لا شيء البتة"
+        },
+        {
+          "en": "Foods that are always forbidden",
+          "ar": "أطعمةً محرّمة دائمًا"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "He said whoever avoids the doubtful protects his religion and honour.",
+        "ar": "قال إن من اتّقى المشتبهات استبرأ لدينه وعرضه."
+      },
+      "source": "hadith:bukhari:52"
+    }
+  ]
+}
